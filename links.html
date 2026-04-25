@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Team Obsidian AI — Links</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0a0a0a;
+      color: #f0f0f0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 48px 24px 64px;
+    }
+
+    /* Profile section */
+    .profile {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 40px;
+    }
+    .avatar {
+      width: 88px;
+      height: 88px;
+      border-radius: 50%;
+      background: #111;
+      border: 2px solid #6ee7b7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+    .avatar-text {
+      font-size: 28px;
+      font-weight: 800;
+      color: #6ee7b7;
+      letter-spacing: -1px;
+    }
+    .name {
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: -0.5px;
+      margin-bottom: 6px;
+    }
+    .name span { color: #6ee7b7; }
+    .tagline {
+      font-size: 14px;
+      color: #666;
+      text-align: center;
+      max-width: 280px;
+      line-height: 1.5;
+    }
+
+    /* Links */
+    .links {
+      width: 100%;
+      max-width: 420px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 40px;
+    }
+    .link-btn {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: #111;
+      border: 1px solid #1e1e1e;
+      border-radius: 14px;
+      padding: 16px 20px;
+      text-decoration: none;
+      color: #f0f0f0;
+      font-size: 15px;
+      font-weight: 600;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .link-btn:hover {
+      border-color: #6ee7b7;
+      background: #0f1a15;
+    }
+    .link-btn .icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 18px;
+    }
+    .link-btn .label { flex: 1; }
+    .link-btn .label span {
+      display: block;
+      font-size: 12px;
+      font-weight: 400;
+      color: #555;
+      margin-top: 2px;
+    }
+    .link-btn .arrow {
+      color: #333;
+      font-size: 16px;
+    }
+    .link-btn:hover .arrow { color: #6ee7b7; }
+
+    /* Platform colours */
+    .tiktok .icon { background: #1a1a1a; }
+    .youtube .icon { background: #1a0a0a; }
+    .instagram .icon { background: #1a0a14; }
+    .webdesign .icon { background: #0a0f1a; }
+    .product .icon { background: #0a1a12; }
+
+    /* Coming soon badge */
+    .badge {
+      display: inline-block;
+      background: #0a1a12;
+      border: 1px solid #2e5a40;
+      color: #6ee7b7;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 100px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    /* Divider */
+    .divider {
+      width: 100%;
+      max-width: 420px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .divider-line { flex: 1; height: 1px; background: #1e1e1e; }
+    .divider-label { font-size: 11px; color: #444; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; }
+
+    /* Footer */
+    footer {
+      margin-top: auto;
+      padding-top: 48px;
+      font-size: 12px;
+      color: #333;
+      text-align: center;
+    }
+    footer a { color: #444; text-decoration: none; }
+    footer a:hover { color: #6ee7b7; }
+  </style>
+</head>
+<body>
+
+  <div class="profile">
+    <div class="avatar">
+      <span class="avatar-text">TO</span>
+    </div>
+    <div class="name">Team <span>Obsidian</span> AI</div>
+    <div class="tagline">AI-powered content automation. Top 3 trends, every day.</div>
+  </div>
+
+  <div class="links">
+
+    <!-- Social platforms -->
+    <a href="https://www.tiktok.com/@teamobsidianai" target="_blank" class="link-btn tiktok">
+      <div class="icon">🎵</div>
+      <div class="label">TikTok
+        <span>@teamobsidianai</span>
+      </div>
+      <div class="arrow">→</div>
+    </a>
+
+    <a href="https://www.youtube.com/@teamobsidianai" target="_blank" class="link-btn youtube">
+      <div class="icon">▶️</div>
+      <div class="label">YouTube
+        <span>@teamobsidianai</span>
+      </div>
+      <div class="arrow">→</div>
+    </a>
+
+    <a href="https://www.instagram.com/teamobsidianai" target="_blank" class="link-btn instagram">
+      <div class="icon">📸</div>
+      <div class="label">Instagram
+        <span>@teamobsidianai</span>
+      </div>
+      <div class="arrow">→</div>
+    </a>
+
+    <!-- Divider -->
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-label">Services</div>
+      <div class="divider-line"></div>
+    </div>
+
+    <!-- Web design service -->
+    <a href="https://teamobsidianai.github.io/web-design" target="_blank" class="link-btn webdesign">
+      <div class="icon">🖥️</div>
+      <div class="label">Web Design
+        <span>Professional websites from $300 — delivered in a week</span>
+      </div>
+      <div class="arrow">→</div>
+    </a>
+
+    <!-- Divider -->
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-label">Coming Soon</div>
+      <div class="divider-line"></div>
+    </div>
+
+    <!-- Digital product (coming soon) -->
+    <a href="#" class="link-btn product" style="opacity: 0.6; pointer-events: none; cursor: default;">
+      <div class="icon">⚡</div>
+      <div class="label">
+        AI Video Pipeline Guide
+        <span>Build your own automated content machine</span>
+      </div>
+      <span class="badge">Soon</span>
+    </a>
+
+  </div>
+
+  <footer>
+    <p>© 2026 Team Obsidian AI · <a href="mailto:teamobsidianai2026@gmail.com">teamobsidianai2026@gmail.com</a></p>
+  </footer>
+
+</body>
+</html>
