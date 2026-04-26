@@ -167,22 +167,29 @@
   <!-- Form -->
   <div class="form-wrap">
     <div class="form-card fade d2">
-      <form id="mockup-form" action="https://formspree.io/f/teamobsidianai" method="POST" novalidate>
+      <div data-fs-success class="success-msg" id="success">
+        <div class="check">✓</div>
+        <h2>You're all set!</h2>
+        <p>We got your request and will send your free mockup within 3 days.<br/>Keep an eye on your inbox.</p>
+      </div>
+      <div data-fs-error style="display:none;color:#ff8a80;font-size:13px;margin-bottom:16px;text-align:center;"></div>
+
+      <form id="mockup-form" novalidate>
 
         <div class="grid-2-form">
           <div class="field">
             <label>Your Name <span class="req">*</span></label>
-            <input type="text" name="name" placeholder="Jane Smith" required />
+            <input type="text" name="name" placeholder="Jane Smith" required data-fs-field />
           </div>
           <div class="field">
             <label>Business Name <span class="req">*</span></label>
-            <input type="text" name="business_name" placeholder="Ember & Oak Kitchen" required />
+            <input type="text" name="business_name" placeholder="Ember & Oak Kitchen" required data-fs-field />
           </div>
         </div>
 
         <div class="field">
           <label>Business Type <span class="req">*</span></label>
-          <select name="business_type" required>
+          <select name="business_type" required data-fs-field>
             <option value="" disabled selected>Select your industry…</option>
             <option>Restaurant / Café / Bar</option>
             <option>Fitness / Gym / Studio</option>
@@ -200,7 +207,7 @@
         <div class="grid-2-form">
           <div class="field">
             <label>Email Address <span class="req">*</span></label>
-            <input type="email" name="email" placeholder="jane@yourbusiness.com" required />
+            <input type="email" name="email" placeholder="jane@yourbusiness.com" required data-fs-field />
           </div>
           <div class="field">
             <label>Phone Number</label>
@@ -215,21 +222,15 @@
 
         <div class="field">
           <label>What do you need? <span class="req">*</span></label>
-          <textarea name="details" placeholder="Describe your business, what pages you'd want, anything you love or hate about your current site, goals…" required></textarea>
+          <textarea name="details" placeholder="Describe your business, what pages you'd want, anything you love or hate about your current site, goals…" required data-fs-field></textarea>
         </div>
 
         <div class="submit-row">
-          <button type="submit">Request My Free Mockup →</button>
+          <button type="submit" data-fs-submit-btn>Request My Free Mockup →</button>
         </div>
         <p class="submit-note">We'll respond within 24 hours. No spam, ever.</p>
 
       </form>
-
-      <div class="success-msg" id="success">
-        <div class="check">✓</div>
-        <h2>You're all set!</h2>
-        <p>We got your request and will send your free mockup within 3 days.<br/>Keep an eye on your inbox.</p>
-      </div>
     </div>
   </div>
 
@@ -246,32 +247,10 @@
   </footer>
 
   <script>
-    document.getElementById('mockup-form').addEventListener('submit', async function(e) {
-      e.preventDefault();
-      const form = this;
-      const btn = form.querySelector('button[type="submit"]');
-      btn.textContent = 'Sending…';
-      btn.disabled = true;
-
-      try {
-        const res = await fetch(form.action, {
-          method: 'POST',
-          body: new FormData(form),
-          headers: { 'Accept': 'application/json' }
-        });
-        if (res.ok) {
-          form.style.display = 'none';
-          document.getElementById('success').style.display = 'block';
-        } else {
-          btn.textContent = 'Something went wrong — try again';
-          btn.disabled = false;
-        }
-      } catch {
-        btn.textContent = 'Something went wrong — try again';
-        btn.disabled = false;
-      }
-    });
+    window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+    formspree('initForm', { formElement: '#mockup-form', formId: 'mqewjlvg' });
   </script>
+  <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
 
 </body>
 </html>
