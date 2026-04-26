@@ -6,11 +6,97 @@
   <title>Get Your Free Mockup — Team Obsidian AI</title>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Inter:wght@400;500;600&display=swap"/>
-  <link rel="stylesheet" href="_shared.css"/>
   <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --accent: #6ee7b7;
+      --accent-dim: rgba(110,231,183,0.10);
+      --accent-border: rgba(110,231,183,0.22);
+      --accent-glow: rgba(110,231,183,0.30);
+      --bg: #040404;
+      --bg-2: #0a0a0a;
+      --bg-3: #101010;
+      --surface: rgba(255,255,255,0.04);
+      --border: rgba(255,255,255,0.08);
+      --border-2: rgba(255,255,255,0.13);
+      --text: #f0f0f0;
+      --text-muted: rgba(240,240,240,0.48);
+      --text-dim: rgba(240,240,240,0.28);
+      --font-display: 'Space Grotesk', sans-serif;
+      --font-body: 'Inter', sans-serif;
+      --radius: 16px;
+      --radius-sm: 10px;
+      --radius-pill: 100px;
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-body);
+      -webkit-font-smoothing: antialiased;
+      line-height: 1.6;
+    }
+    a { color: inherit; text-decoration: none; }
+
+    /* ── Nav ── */
+    .site-nav {
+      position: sticky; top: 0; z-index: 100;
+      border-bottom: 1px solid var(--border);
+      background: rgba(4,4,4,0.88);
+      backdrop-filter: blur(20px);
+    }
+    .nav-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px; max-width: 1200px; margin: 0 auto;
+    }
+    .logo { display: flex; align-items: center; gap: 10px; }
+    .logo-mark {
+      width: 32px; height: 32px; border-radius: 50%;
+      border: 2px solid rgba(255,255,255,0.75);
+      display: flex; align-items: center; justify-content: center;
+    }
+    .logo-mark-inner { width: 10px; height: 10px; border-radius: 50%; background: #fff; }
+    .logo-text { font-family: var(--font-display); font-size: 16px; font-weight: 700; letter-spacing: -0.5px; }
+    .logo-text em { color: var(--accent); font-style: normal; }
+    .nav-pill {
+      display: flex; align-items: center; gap: 2px;
+      background: rgba(0,0,0,0.5); border: 1px solid var(--border);
+      border-radius: var(--radius-pill); padding: 4px;
+    }
+    .nav-link {
+      font-size: 13px; font-weight: 500; color: var(--text-muted);
+      padding: 7px 15px; border-radius: var(--radius-pill);
+      transition: color 0.2s, background 0.2s;
+    }
+    .nav-link:hover { color: #fff; background: rgba(255,255,255,0.07); }
+    .nav-cta {
+      font-size: 13px; font-weight: 600; color: #000;
+      background: var(--accent); padding: 7px 16px;
+      border-radius: var(--radius-pill); transition: background 0.2s;
+    }
+    .nav-cta:hover { background: #8ff0cb; }
+    @media (max-width: 860px) { .nav-pill { display: none; } }
+
+    /* ── Badge ── */
+    .badge {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--accent-dim); border: 1px solid var(--accent-border);
+      border-radius: var(--radius-pill); padding: 5px 14px 5px 9px;
+      font-size: 12px; font-weight: 500; color: var(--accent);
+    }
+    .badge .dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent); box-shadow: 0 0 7px var(--accent);
+    }
+
+    /* ── Hero ── */
     .hero {
-      padding: 80px 0 48px;
+      padding: 80px 32px 48px;
       text-align: center;
+      max-width: 780px;
+      margin: 0 auto;
     }
     .hero h1 {
       font-family: var(--font-display);
@@ -26,15 +112,14 @@
       color: var(--text-muted);
       max-width: 480px;
       margin: 0 auto;
-      line-height: 1.6;
     }
 
+    /* ── Form ── */
     .form-wrap {
       max-width: 600px;
       margin: 0 auto 100px;
       padding: 0 32px;
     }
-
     .form-card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -45,11 +130,9 @@
     .field { margin-bottom: 22px; }
     .field label {
       display: block;
-      font-size: 13px;
-      font-weight: 600;
+      font-size: 13px; font-weight: 600;
       color: var(--text-muted);
       margin-bottom: 8px;
-      letter-spacing: 0.2px;
     }
     .field label .req { color: var(--accent); margin-left: 3px; }
 
@@ -86,56 +169,74 @@
     }
     .field select option { background: #101010; }
 
-    .grid-2-form { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-    @media (max-width: 540px) { .grid-2-form { grid-template-columns: 1fr; } .form-card { padding: 28px 22px; } }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    @media (max-width: 540px) {
+      .grid-2 { grid-template-columns: 1fr; }
+      .form-card { padding: 28px 22px; }
+    }
 
-    .divider { border: none; border-top: 1px solid var(--border); margin: 28px 0; }
+    hr.rule { border: none; border-top: 1px solid var(--border); margin: 28px 0; }
 
     .submit-row { margin-top: 8px; }
     .submit-row button {
-      width: 100%;
-      padding: 16px;
-      font-size: 16px;
-      font-weight: 600;
-      font-family: var(--font-body);
-      background: var(--accent);
-      color: #000;
-      border: none;
-      border-radius: var(--radius-pill);
+      width: 100%; padding: 16px;
+      font-size: 16px; font-weight: 600; font-family: var(--font-body);
+      background: var(--accent); color: #000;
+      border: none; border-radius: var(--radius-pill);
       cursor: pointer;
       transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
-      letter-spacing: -0.2px;
     }
     .submit-row button:hover {
       background: #8ff0cb;
       transform: translateY(-2px);
       box-shadow: 0 0 36px var(--accent-glow);
     }
+    .submit-row button:disabled { opacity: 0.6; cursor: not-allowed; transform: none; }
     .submit-note {
-      text-align: center;
-      font-size: 12px;
-      color: var(--text-dim);
-      margin-top: 14px;
+      text-align: center; font-size: 12px;
+      color: var(--text-dim); margin-top: 14px;
     }
 
-    /* Success state */
-    .success-msg {
-      display: none;
-      text-align: center;
-      padding: 48px 32px;
-    }
-    .success-msg .check {
+    /* Formspree states */
+    [data-fs-success] { display: none; text-align: center; padding: 48px 24px; }
+    [data-fs-success] .check {
       width: 56px; height: 56px; border-radius: 50%;
       background: var(--accent-dim); border: 1px solid var(--accent-border);
       display: flex; align-items: center; justify-content: center;
-      margin: 0 auto 20px; font-size: 22px;
+      margin: 0 auto 20px; font-size: 22px; color: var(--accent);
     }
-    .success-msg h2 {
-      font-family: var(--font-display);
-      font-size: 26px; font-weight: 700;
-      letter-spacing: -0.5px; margin-bottom: 10px;
+    [data-fs-success] h2 {
+      font-family: var(--font-display); font-size: 26px;
+      font-weight: 700; letter-spacing: -0.5px; margin-bottom: 10px;
     }
-    .success-msg p { color: var(--text-muted); font-size: 15px; line-height: 1.6; }
+    [data-fs-success] p { color: var(--text-muted); font-size: 15px; }
+    [data-fs-error]:not(:empty) {
+      color: #ff8a80; font-size: 13px;
+      margin-bottom: 16px; text-align: center;
+    }
+
+    /* ── Fade ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(22px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .fade { animation: fadeUp 0.75s ease both; }
+    .d2 { animation-delay: 0.18s; }
+
+    /* ── Footer ── */
+    .site-footer {
+      border-top: 1px solid var(--border);
+      padding: 48px 0;
+    }
+    .footer-inner {
+      max-width: 1200px; margin: 0 auto; padding: 0 32px;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 20px;
+    }
+    .footer-links { display: flex; gap: 28px; }
+    .footer-link { font-size: 13px; color: var(--text-dim); transition: color 0.2s; }
+    .footer-link:hover { color: var(--accent); }
+    .footer-copy { font-size: 13px; color: var(--text-dim); }
   </style>
 </head>
 <body>
@@ -153,12 +254,12 @@
         <a href="davlog.html" class="nav-link">Build Log</a>
         <a href="links.html" class="nav-link">Links</a>
       </div>
-      <a href="start.html" class="nav-cta active" style="background:#8ff0cb;">Get Started</a>
+      <a href="start.html" class="nav-cta">Get Started</a>
     </div>
   </nav>
 
   <!-- Hero -->
-  <section class="hero container-sm fade">
+  <section class="hero fade">
     <div class="badge"><span class="dot"></span> Free · No commitment needed</div>
     <h1>Get Your Free<br/><span>Website Mockup</span></h1>
     <p>Tell us about your business and we'll build a custom homepage concept — completely free, delivered within 3 days.</p>
@@ -167,16 +268,18 @@
   <!-- Form -->
   <div class="form-wrap">
     <div class="form-card fade d2">
-      <div data-fs-success class="success-msg" id="success">
+
+      <div data-fs-success>
         <div class="check">✓</div>
         <h2>You're all set!</h2>
         <p>We got your request and will send your free mockup within 3 days.<br/>Keep an eye on your inbox.</p>
       </div>
-      <div data-fs-error style="display:none;color:#ff8a80;font-size:13px;margin-bottom:16px;text-align:center;"></div>
+
+      <div data-fs-error></div>
 
       <form id="mockup-form" novalidate>
 
-        <div class="grid-2-form">
+        <div class="grid-2">
           <div class="field">
             <label>Your Name <span class="req">*</span></label>
             <input type="text" name="name" placeholder="Jane Smith" required data-fs-field />
@@ -202,22 +305,22 @@
           </select>
         </div>
 
-        <hr class="divider"/>
+        <hr class="rule"/>
 
-        <div class="grid-2-form">
+        <div class="grid-2">
           <div class="field">
             <label>Email Address <span class="req">*</span></label>
             <input type="email" name="email" placeholder="jane@yourbusiness.com" required data-fs-field />
           </div>
           <div class="field">
             <label>Phone Number</label>
-            <input type="tel" name="phone" placeholder="(555) 000-0000" />
+            <input type="tel" name="phone" placeholder="(555) 000-0000" data-fs-field />
           </div>
         </div>
 
         <div class="field">
           <label>Current Website <span style="color:var(--text-dim);font-weight:400;">(if you have one)</span></label>
-          <input type="url" name="current_website" placeholder="https://yourbusiness.com" />
+          <input type="url" name="current_website" placeholder="https://yourbusiness.com" data-fs-field />
         </div>
 
         <div class="field">
