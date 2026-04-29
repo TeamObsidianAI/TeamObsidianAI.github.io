@@ -8,7 +8,6 @@ logger = logging.getLogger(__name__)
 _BESTSELLERS_URL = "https://www.amazon.com/gp/bestsellers/{slug}/"
 _MOVERS_URL = "https://www.amazon.com/gp/movers-and-shakers/{slug}/"
 
-# Amazon updates their CSS class names often; we try multiple selectors in order.
 _NAME_SELECTORS = [
     "._cDEzb_p13n-sc-css-line-clamp-3_g3dy1",
     ".p13n-sc-truncate-desktop-type2",
@@ -20,6 +19,14 @@ _RANK_SELECTORS = [".zg-bdg-text", "span[class*='badge']"]
 _PRICE_SELECTORS = ["span.p13n-sc-price", "span._cDEzb_p13n-sc-price_3mJ9Z", ".a-price .a-offscreen"]
 _RATING_SELECTORS = ["span.a-icon-alt"]
 _REVIEWS_SELECTORS = ["span.a-size-small.a-link-normal", "span[class*='review']"]
+_IMAGE_SELECTORS = [
+    "img.p13n-sc-dynamic-image",
+    "img[class*='p13n-sc']",
+    "div.p13n-sc-cover-tall img",
+    "img[data-a-image-name]",
+    "img.s-image",
+    "img",
+]
 
 
 def _first_text(element, selectors: list[str]) -> str | None:
@@ -30,11 +37,20 @@ def _first_text(element, selectors: list[str]) -> str | None:
     return None
 
 
+def _first_image(element, selectors: list[str]) -> str | None:
+    for sel in selectors:
+        el = element.select_one(sel)
+        if el:
+            src = el.get("src") or el.get("data-src") or ""
+            if src.startswith("http") and "transparent" not in src and "pixel" not in src:
+                return src
+    return None
+
+
 def _parse_page(html: str, category: str, list_type: str) -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     products = []
 
-    # Grid items on bestseller / movers pages
     items = (
         soup.select("li.zg-item-immersion")
         or soup.select("div.zg-item-immersion")
@@ -63,6 +79,7 @@ def _parse_page(html: str, category: str, list_type: str) -> list[dict]:
                 "rating": rating,
                 "price": _first_text(item, _PRICE_SELECTORS),
                 "review_count": _first_text(item, _REVIEWS_SELECTORS),
+                "image_url": _first_image(item, _IMAGE_SELECTORS),
                 "category": category,
                 "list_type": list_type,
                 "platform": "amazon",

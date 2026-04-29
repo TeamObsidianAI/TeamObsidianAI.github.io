@@ -49,7 +49,9 @@ Return a single JSON object with this exact structure:
 {{
   "buy_now": [
     {{
-      "product": "specific product name or type",
+      "rank": 1,
+      "score": 95,
+      "product": "specific product name",
       "category": "category name",
       "platforms": ["amazon", "tiktok"],
       "confidence": "high|medium",
@@ -57,18 +59,37 @@ Return a single JSON object with this exact structure:
       "price_range": "$X–$Y suggested retail",
       "margin_estimate": "low|medium|high",
       "urgency": "Act within X days/weeks",
-      "search_terms": ["term1", "term2"]
+      "search_terms": ["term1", "term2"],
+      "image_keywords": "keyword1,keyword2,keyword3"
+    }}
+  ],
+  "rising_fast": [
+    {{
+      "rank": 1,
+      "score": 78,
+      "product": "specific product name",
+      "category": "category name",
+      "platforms": ["platform"],
+      "confidence": "medium",
+      "reason": "why momentum is accelerating right now",
+      "signal": "the specific trend signal driving this (e.g. TikTok hashtag views up 300% this week)",
+      "price_range": "$X–$Y suggested retail",
+      "margin_estimate": "low|medium|high",
+      "image_keywords": "keyword1,keyword2,keyword3"
     }}
   ],
   "buy_soon": [
     {{
-      "product": "specific product name or type",
+      "rank": 1,
+      "score": 65,
+      "product": "specific product name",
       "category": "category name",
       "platforms": ["platform"],
       "confidence": "medium|low",
       "reason": "why this will trend soon",
       "predicted_peak": "timeframe e.g. 2-4 weeks",
-      "watch_signal": "what to monitor to confirm the trend"
+      "watch_signal": "what to monitor to confirm the trend",
+      "image_keywords": "keyword1,keyword2,keyword3"
     }}
   ],
   "categories_to_watch": [
@@ -80,6 +101,7 @@ Return a single JSON object with this exact structure:
   ],
   "avoid": [
     {{
+      "rank": 1,
       "product_type": "what to avoid",
       "reason": "why"
     }}
@@ -89,12 +111,15 @@ Return a single JSON object with this exact structure:
 }}
 
 Rules:
-- buy_now: 5 to 8 items, sorted by confidence then urgency
-- buy_soon: 3 to 5 items
-- categories_to_watch: 3 to 5 items
-- avoid: 2 to 4 items
-- Be SPECIFIC with product names, not generic ("LED strip lights" not "lighting products")
-- If data from a platform was sparse or missing, note it in data_quality_note and still provide recommendations from available data"""
+- buy_now: exactly 12 items, ranked #1 (best) to #12 (worst) by score descending
+- rising_fast: exactly 6 items, ranked #1 to #6 — these are accelerating NOW but not yet peak
+- buy_soon: exactly 8 items, ranked #1 to #8
+- categories_to_watch: 5 to 7 items
+- avoid: 4 to 6 items, ranked worst first
+- score: integer 0-100 reflecting overall opportunity strength
+- image_keywords: 3 comma-separated keywords for a stock photo search (describe the physical product visually)
+- Be VERY SPECIFIC with product names ("Cordless Electric Spin Scrubber with 4 Brush Heads" not "cleaning brush")
+- If data from a platform was sparse or missing, note it in data_quality_note and still provide full recommendations"""
 
 
 class ClaudeAnalyzer:

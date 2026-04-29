@@ -166,15 +166,63 @@
     /* ── Cards grid ── */
     .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 
-    /* ── Buy Now card ── */
+    /* ── Rising Fast color ── */
+    :root {
+      --rise: #a78bfa;
+      --rise-dim: rgba(167,139,250,0.10);
+      --rise-border: rgba(167,139,250,0.22);
+    }
+
+    /* ── Card image ── */
+    .card { padding: 0; overflow: hidden; }
+    .card-img-wrap {
+      position: relative; width: 100%; height: 200px; overflow: hidden;
+      background: var(--bg-3);
+    }
+    .card-img-wrap img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform .4s ease;
+    }
+    .card:hover .card-img-wrap img { transform: scale(1.04); }
+    .card-img-placeholder {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 40px; background: var(--surface-2);
+    }
+    .card-body { padding: 16px 18px 18px; }
+
+    /* ── Rank badge (overlaid on image) ── */
+    .rank-badge {
+      position: absolute; top: 10px; right: 10px;
+      font-family: var(--font-d); font-weight: 700; font-size: 13px;
+      padding: 4px 10px; border-radius: 8px; line-height: 1;
+      backdrop-filter: blur(4px);
+    }
+    .rank-1 { background: #f59e0b; color: #000; }
+    .rank-2 { background: #94a3b8; color: #000; }
+    .rank-3 { background: #b45309; color: #fff; }
+    .rank-other { background: rgba(0,0,0,0.55); color: var(--text-muted); border: 1px solid rgba(255,255,255,0.12); }
+
+    /* ── Score bar ── */
+    .score-bar-wrap { margin: 6px 0 12px; }
+    .score-bar-track {
+      height: 3px; background: var(--surface-2); border-radius: 2px; overflow: hidden;
+    }
+    .score-bar-fill { height: 100%; border-radius: 2px; transition: width .6s ease; }
+    .score-label { font-size: 10px; color: var(--text-dim); margin-top: 3px; }
+
+    /* ── Cards ── */
     .card {
       background: var(--surface); border: 1px solid var(--border);
-      border-radius: var(--r); padding: 20px; position: relative;
+      border-radius: var(--r); position: relative;
       transition: border-color .2s, background .2s;
+      display: flex; flex-direction: column;
     }
     .card:hover { border-color: var(--border-2); background: var(--surface-2); }
     .card--buy-now { border-color: var(--accent-border); background: rgba(110,231,183,0.04); }
     .card--buy-now:hover { background: rgba(110,231,183,0.07); }
+    .card--rising { border-color: var(--rise-border); background: var(--rise-dim); }
+    .card--rising:hover { background: rgba(167,139,250,0.14); }
     .card--buy-soon { border-color: var(--warn-border); background: var(--warn-dim); }
     .card--buy-soon:hover { background: rgba(251,191,36,0.14); }
     .card--avoid { border-color: var(--danger-border); background: var(--danger-dim); }
@@ -381,6 +429,10 @@
       <div class="stat-value" id="stat-buy-now">0</div>
     </div>
     <div class="stat-card">
+      <div class="stat-label">Rising Fast</div>
+      <div class="stat-value" id="stat-rising-fast" style="color:var(--rise);">0</div>
+    </div>
+    <div class="stat-card">
       <div class="stat-label">Buy Soon</div>
       <div class="stat-value" id="stat-buy-soon">0</div>
     </div>
@@ -402,6 +454,16 @@
     </div>
     <p class="section-desc">High-confidence products trending across platforms. Source these immediately — window is open now.</p>
     <div class="cards" id="buy-now-cards"></div>
+  </div>
+
+  <!-- Rising Fast -->
+  <div class="section" id="rising-fast-section">
+    <div class="section-header">
+      <h2 class="section-title" style="color:var(--rise);">⚡ Rising Fast</h2>
+      <span class="section-count" id="rising-fast-count">0</span>
+    </div>
+    <p class="section-desc">Accelerating right now — strong momentum but not yet peak. Move fast or watch closely.</p>
+    <div class="cards" id="rising-fast-cards"></div>
   </div>
 
   <!-- Buy Soon -->
@@ -481,44 +543,97 @@
   }
 
   function buildBuyNowCard(item) {
-    const platforms = (item.platforms || []).map(platformLabel).join(' · ');
     const searches = (item.search_terms || []).map(t =>
       `<span class="search-chip">${esc(t)}</span>`).join('');
     const margin = item.margin_estimate
       ? `<span class="tag">Margin: ${esc(item.margin_estimate)}</span>` : '';
+    const rank = item.rank || '';
+    const rankClass = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : 'rank-other';
+    const score = item.score != null ? item.score : null;
+    const imgKw = (item.image_keywords || '').split(',').map(k => k.trim()).filter(Boolean).join(',');
+    const imgSrc = item.image_url || (imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '');
 
     return `
     <div class="card card--buy-now">
-      ${confidenceBadge(item.confidence)}
-      <div class="card-name">${esc(item.product)}</div>
-      <div class="card-category">${esc(item.category || '')}</div>
-      <div class="card-reason">${esc(item.reason || '')}</div>
-      <div class="card-meta">
-        ${(item.platforms || []).map(p => `<span class="tag tag--accent">${platformLabel(p)}</span>`).join('')}
-        ${margin}
+      <div class="card-img-wrap">
+        ${imgSrc ? `<img src="${esc(imgSrc)}" alt="${esc(item.product)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-placeholder\\'>📦</div>'">` : '<div class="card-img-placeholder">📦</div>'}
+        ${rank ? `<span class="rank-badge ${rankClass}">#${rank}</span>` : ''}
       </div>
-      <div class="card-footer">
-        ${item.urgency ? `<span class="urgency-tag">⚡ ${esc(item.urgency)}</span>` : ''}
-        ${item.price_range ? `<span class="price-tag">${esc(item.price_range)}</span>` : ''}
+      <div class="card-body">
+        ${confidenceBadge(item.confidence)}
+        ${score != null ? `<div class="score-bar-wrap"><div class="score-bar-track"><div class="score-bar-fill" style="width:${score}%;background:var(--accent)"></div></div><div class="score-label">Score: ${score}/100</div></div>` : ''}
+        <div class="card-name">${esc(item.product)}</div>
+        <div class="card-category">${esc(item.category || '')}</div>
+        <div class="card-reason">${esc(item.reason || '')}</div>
+        <div class="card-meta">
+          ${(item.platforms || []).map(p => `<span class="tag tag--accent">${platformLabel(p)}</span>`).join('')}
+          ${margin}
+        </div>
+        <div class="card-footer">
+          ${item.urgency ? `<span class="urgency-tag">⚡ ${esc(item.urgency)}</span>` : ''}
+          ${item.price_range ? `<span class="price-tag">${esc(item.price_range)}</span>` : ''}
+        </div>
+        ${searches ? `<div class="search-terms">${searches}</div>` : ''}
       </div>
-      ${searches ? `<div class="search-terms">${searches}</div>` : ''}
+    </div>`;
+  }
+
+  function buildRisingFastCard(item) {
+    const rank = item.rank || '';
+    const rankClass = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : 'rank-other';
+    const score = item.score != null ? item.score : null;
+    const imgKw = (item.image_keywords || '').split(',').map(k => k.trim()).filter(Boolean).join(',');
+    const imgSrc = imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '';
+
+    return `
+    <div class="card card--rising">
+      <div class="card-img-wrap">
+        ${imgSrc ? `<img src="${esc(imgSrc)}" alt="${esc(item.product)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-placeholder\\'>⚡</div>'">` : '<div class="card-img-placeholder">⚡</div>'}
+        ${rank ? `<span class="rank-badge ${rankClass}">#${rank}</span>` : ''}
+      </div>
+      <div class="card-body">
+        <span class="card-badge" style="background:rgba(167,139,250,0.15);color:var(--rise);border:1px solid var(--rise-border);">⚡ Rising Fast</span>
+        ${score != null ? `<div class="score-bar-wrap"><div class="score-bar-track"><div class="score-bar-fill" style="width:${score}%;background:var(--rise)"></div></div><div class="score-label">Score: ${score}/100</div></div>` : ''}
+        <div class="card-name">${esc(item.product)}</div>
+        <div class="card-category">${esc(item.category || '')}</div>
+        <div class="card-reason">${esc(item.reason || '')}</div>
+        ${item.signal ? `<div class="card-reason" style="margin-top:8px;font-size:12px;"><strong style="color:var(--rise);">Signal:</strong> ${esc(item.signal)}</div>` : ''}
+        <div class="card-meta">
+          ${(item.platforms || []).map(p => `<span class="tag" style="border-color:var(--rise-border);color:var(--rise)">${platformLabel(p)}</span>`).join('')}
+          ${item.margin_estimate ? `<span class="tag">Margin: ${esc(item.margin_estimate)}</span>` : ''}
+        </div>
+        ${item.price_range ? `<div class="card-footer"><span class="price-tag">${esc(item.price_range)}</span></div>` : ''}
+      </div>
     </div>`;
   }
 
   function buildBuySoonCard(item) {
+    const rank = item.rank || '';
+    const rankClass = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : 'rank-other';
+    const score = item.score != null ? item.score : null;
+    const imgKw = (item.image_keywords || '').split(',').map(k => k.trim()).filter(Boolean).join(',');
+    const imgSrc = imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '';
+
     return `
     <div class="card card--buy-soon">
-      ${confidenceBadge(item.confidence)}
-      <div class="card-name">${esc(item.product)}</div>
-      <div class="card-category">${esc(item.category || '')}</div>
-      <div class="card-reason">${esc(item.reason || '')}</div>
-      <div class="card-meta">
-        ${(item.platforms || []).map(p => `<span class="tag tag--warn">${platformLabel(p)}</span>`).join('')}
+      <div class="card-img-wrap">
+        ${imgSrc ? `<img src="${esc(imgSrc)}" alt="${esc(item.product)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-placeholder\\'>🟡</div>'">` : '<div class="card-img-placeholder">🟡</div>'}
+        ${rank ? `<span class="rank-badge ${rankClass}">#${rank}</span>` : ''}
       </div>
-      <div class="card-footer">
-        ${item.predicted_peak ? `<span class="urgency-tag urgency-tag--soon">📅 Peak: ${esc(item.predicted_peak)}</span>` : ''}
+      <div class="card-body">
+        ${confidenceBadge(item.confidence)}
+        ${score != null ? `<div class="score-bar-wrap"><div class="score-bar-track"><div class="score-bar-fill" style="width:${score}%;background:var(--warn)"></div></div><div class="score-label">Score: ${score}/100</div></div>` : ''}
+        <div class="card-name">${esc(item.product)}</div>
+        <div class="card-category">${esc(item.category || '')}</div>
+        <div class="card-reason">${esc(item.reason || '')}</div>
+        <div class="card-meta">
+          ${(item.platforms || []).map(p => `<span class="tag tag--warn">${platformLabel(p)}</span>`).join('')}
+        </div>
+        <div class="card-footer">
+          ${item.predicted_peak ? `<span class="urgency-tag urgency-tag--soon">📅 Peak: ${esc(item.predicted_peak)}</span>` : ''}
+        </div>
+        ${item.watch_signal ? `<div class="card-reason" style="margin-top:10px;font-size:12px;"><strong style="color:var(--warn);">Watch:</strong> ${esc(item.watch_signal)}</div>` : ''}
       </div>
-      ${item.watch_signal ? `<div class="card-reason" style="margin-top:10px;font-size:12px;"><strong style="color:var(--warn);">Watch:</strong> ${esc(item.watch_signal)}</div>` : ''}
     </div>`;
   }
 
@@ -534,11 +649,15 @@
   }
 
   function buildAvoidCard(item) {
+    const rank = item.rank || '';
     return `
     <div class="card card--avoid">
-      <span class="card-badge badge-avoid">✕ Avoid</span>
-      <div class="card-name">${esc(item.product_type)}</div>
-      <div class="card-reason">${esc(item.reason || '')}</div>
+      <div class="card-body">
+        ${rank ? `<div style="font-size:11px;color:var(--danger);margin-bottom:8px;font-weight:700;letter-spacing:0.5px;">#${rank} TO AVOID</div>` : ''}
+        <span class="card-badge badge-avoid">✕ Avoid</span>
+        <div class="card-name">${esc(item.product_type)}</div>
+        <div class="card-reason">${esc(item.reason || '')}</div>
+      </div>
     </div>`;
   }
 
@@ -580,6 +699,7 @@
     const analysis = data.analysis || {};
     const stats = data.stats || {};
     const buyNow = analysis.buy_now || [];
+    const risingFast = analysis.rising_fast || [];
     const buySoon = analysis.buy_soon || [];
     const categories = analysis.categories_to_watch || [];
     const avoid = analysis.avoid || [];
@@ -600,6 +720,7 @@
     // Stats bar
     show('stats-bar');
     set('stat-buy-now', String(buyNow.length));
+    set('stat-rising-fast', String(risingFast.length));
     set('stat-buy-soon', String(buySoon.length));
     set('stat-scanned', String(stats.total_products_scraped || 0));
     set('stat-platforms', String(platforms.length));
@@ -610,6 +731,14 @@
       set('buy-now-cards', buyNow.map(buildBuyNowCard).join(''));
     } else {
       set('buy-now-cards', '<div class="empty-state"><h3>No data yet</h3><p>Run the pipeline to generate recommendations.</p></div>');
+    }
+
+    // Rising Fast
+    if (risingFast.length) {
+      set('rising-fast-count', String(risingFast.length));
+      set('rising-fast-cards', risingFast.map(buildRisingFastCard).join(''));
+    } else {
+      set('rising-fast-cards', '<div class="empty-state"><h3>No rising products yet</h3><p>Run the pipeline to generate recommendations.</p></div>');
     }
 
     // Buy Soon
