@@ -85,8 +85,11 @@ def main() -> None:
     logger.info("Total data points collected: %d", len(all_products))
 
     if not all_products:
-        logger.error("No data collected from any source. Check your network and logs above.")
-        sys.exit(1)
+        logger.warning(
+            "No data collected from scrapers (platforms are blocking this IP — "
+            "run via run.bat on your Windows machine for live data). "
+            "Falling back to Claude general-knowledge analysis."
+        )
 
     # ── 2. Analyze ───────────────────────────────────────────────────────────
 

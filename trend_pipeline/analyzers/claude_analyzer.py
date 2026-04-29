@@ -151,8 +151,8 @@ class ClaudeAnalyzer:
 
     def analyze(self, products: list[dict]) -> dict:
         if not products:
-            logger.warning("No product data available for analysis")
-            return _empty_analysis("No data was collected from any platform.")
+            logger.info("No scraped data — using Claude general-knowledge fallback")
+            return self._analyze_general_knowledge()
 
         summary = self._build_data_summary(products)
         logger.info("Sending %d chars of trend data to Claude", len(summary))
@@ -165,7 +165,7 @@ class ClaudeAnalyzer:
         try:
             message = self.client.messages.create(
                 model="claude-sonnet-4-6",
-                max_tokens=4096,
+                max_tokens=8192,
                 system=_SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": prompt}],
             )
@@ -187,6 +187,59 @@ class ClaudeAnalyzer:
         except anthropic.APIError as e:
             logger.error("Anthropic API error: %s", e)
             return _empty_analysis(f"API error: {e}")
+
+    def _analyze_general_knowledge(self) -> dict:
+        # Reuse the exact same output-structure block from _USER_PROMPT_TEMPLATE
+        structure_block = _USER_PROMPT_TEMPLATE.split("Return a single JSON object")[1]
+        prompt = _GENERAL_KNOWLEDGE_PROMPT.format(
+            today=date.today().isoformat(),
+            structure="Return a single JSON object" + structure_block,
+        )
+        try:
+            message = self.client.messages.create(
+                model="claude-sonnet-4-6",
+                max_tokens=8192,
+                system=_SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            raw = message.content[0].text.strip()
+            if raw.startswith("```"):
+                raw = raw.split("```", 2)[1]
+                if raw.startswith("json"):
+                    raw = raw[4:]
+                raw = raw.rsplit("```", 1)[0]
+            analysis = json.loads(raw)
+            logger.info("General-knowledge analysis complete. buy_now: %d, buy_soon: %d",
+                        len(analysis.get("buy_now", [])),
+                        len(analysis.get("buy_soon", [])))
+            return analysis
+        except json.JSONDecodeError as e:
+            logger.error("Claude returned invalid JSON: %s", e)
+            return _empty_analysis(f"JSON parse error: {e}")
+        except anthropic.APIError as e:
+            logger.error("Anthropic API error: %s", e)
+            return _empty_analysis(f"API error: {e}")
+
+
+_GENERAL_KNOWLEDGE_PROMPT = """Today's date: {today}
+
+No real-time platform data was available today (scrapers were blocked by cloud IP restrictions —
+the pipeline will get live data when run locally on a residential connection).
+
+Use your training knowledge of e-commerce trends, seasonal patterns, TikTok viral product
+history, and Amazon bestseller behavior to provide the best possible dropshipping recommendations
+for today's specific date and season.
+
+Consider:
+- Exact month/season and which products historically spike right now
+- Upcoming holidays or events within the next 4 weeks
+- Which product categories perform consistently on Amazon + TikTok for small dropshippers
+- Emerging niches from 2024-2025 that are still growing
+- Price points $20-$150 that work for dropshipping margins
+
+{structure}
+
+In data_quality_note, clearly state this analysis uses training knowledge (no live scrape today)."""
 
 
 def _empty_analysis(reason: str) -> dict:
