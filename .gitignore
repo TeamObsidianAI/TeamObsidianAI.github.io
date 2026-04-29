@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets
+trend_pipeline/.env
+
+# Local output cache (the pipeline writes to repo root, not here)
+trend_pipeline/output/*.json

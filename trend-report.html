@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Trend Report — Team Obsidian AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --accent: #6ee7b7;
+      --accent-dim: rgba(110,231,183,0.10);
+      --accent-border: rgba(110,231,183,0.22);
+      --accent-glow: rgba(110,231,183,0.25);
+      --warn: #fbbf24;
+      --warn-dim: rgba(251,191,36,0.10);
+      --warn-border: rgba(251,191,36,0.22);
+      --danger: #f87171;
+      --danger-dim: rgba(248,113,113,0.10);
+      --danger-border: rgba(248,113,113,0.22);
+      --bg: #040404;
+      --bg-2: #0a0a0a;
+      --bg-3: #111;
+      --surface: rgba(255,255,255,0.04);
+      --surface-2: rgba(255,255,255,0.07);
+      --border: rgba(255,255,255,0.08);
+      --border-2: rgba(255,255,255,0.14);
+      --text: #f0f0f0;
+      --text-muted: rgba(240,240,240,0.50);
+      --text-dim: rgba(240,240,240,0.28);
+      --font-d: 'Space Grotesk', sans-serif;
+      --font-b: 'Inter', sans-serif;
+      --r: 14px;
+      --r-sm: 8px;
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-b);
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(4,4,4,0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px;
+    }
+    .nav-inner {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: center; gap: 32px;
+      height: 56px;
+    }
+    .nav-logo {
+      font-family: var(--font-d); font-weight: 700; font-size: 15px;
+      color: var(--text); white-space: nowrap;
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-links { display: flex; gap: 24px; margin-left: auto; }
+    .nav-links a { font-size: 13px; color: var(--text-muted); transition: color .2s; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Layout ── */
+    .page { max-width: 1200px; margin: 0 auto; padding: 48px 32px 80px; }
+
+    /* ── Header ── */
+    .report-header { margin-bottom: 48px; }
+    .report-label {
+      font-size: 11px; font-weight: 600; letter-spacing: 1.5px;
+      text-transform: uppercase; color: var(--accent); margin-bottom: 12px;
+    }
+    .report-title {
+      font-family: var(--font-d); font-weight: 700;
+      font-size: clamp(28px, 4vw, 42px);
+      letter-spacing: -1.5px; line-height: 1.05;
+      margin-bottom: 16px;
+    }
+    .report-meta {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 16px;
+      font-size: 13px; color: var(--text-muted);
+    }
+    .meta-pill {
+      display: flex; align-items: center; gap: 6px;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 100px; padding: 4px 12px;
+    }
+    .dot { width: 6px; height: 6px; border-radius: 50%; }
+    .dot-green { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+    .dot-grey { background: var(--text-dim); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 12px; margin-bottom: 48px;
+    }
+    .stat-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 16px 20px;
+    }
+    .stat-label { font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+    .stat-value { font-family: var(--font-d); font-size: 24px; font-weight: 700; color: var(--accent); }
+
+    /* ── Section ── */
+    .section { margin-bottom: 56px; }
+    .section-header { display: flex; align-items: baseline; gap: 12px; margin-bottom: 20px; }
+    .section-title {
+      font-family: var(--font-d); font-weight: 700;
+      font-size: 20px; letter-spacing: -0.5px;
+    }
+    .section-count {
+      font-size: 12px; font-weight: 600;
+      background: var(--surface-2); border: 1px solid var(--border-2);
+      border-radius: 100px; padding: 2px 10px; color: var(--text-muted);
+    }
+    .section-desc { font-size: 13px; color: var(--text-muted); margin-bottom: 20px; }
+
+    /* ── Cards grid ── */
+    .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+
+    /* ── Buy Now card ── */
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 20px; position: relative;
+      transition: border-color .2s, background .2s;
+    }
+    .card:hover { border-color: var(--border-2); background: var(--surface-2); }
+    .card--buy-now { border-color: var(--accent-border); background: rgba(110,231,183,0.04); }
+    .card--buy-now:hover { background: rgba(110,231,183,0.07); }
+    .card--buy-soon { border-color: var(--warn-border); background: var(--warn-dim); }
+    .card--buy-soon:hover { background: rgba(251,191,36,0.14); }
+    .card--avoid { border-color: var(--danger-border); background: var(--danger-dim); }
+
+    .card-badge {
+      display: inline-flex; align-items: center; gap: 5px;
+      font-size: 10px; font-weight: 700; letter-spacing: 1px;
+      text-transform: uppercase; border-radius: 100px;
+      padding: 3px 10px; margin-bottom: 12px;
+    }
+    .badge-high { background: rgba(110,231,183,0.15); color: var(--accent); border: 1px solid var(--accent-border); }
+    .badge-medium { background: rgba(251,191,36,0.12); color: var(--warn); border: 1px solid var(--warn-border); }
+    .badge-low { background: rgba(255,255,255,0.06); color: var(--text-muted); border: 1px solid var(--border); }
+    .badge-avoid { background: var(--danger-dim); color: var(--danger); border: 1px solid var(--danger-border); }
+
+    .card-name {
+      font-family: var(--font-d); font-weight: 700;
+      font-size: 16px; margin-bottom: 6px; line-height: 1.3;
+    }
+    .card-category {
+      font-size: 11px; color: var(--text-dim); text-transform: uppercase;
+      letter-spacing: 1px; margin-bottom: 12px;
+    }
+    .card-reason {
+      font-size: 13px; color: var(--text-muted); line-height: 1.6;
+      margin-bottom: 14px;
+    }
+
+    .card-meta { display: flex; flex-wrap: wrap; gap: 8px; }
+    .tag {
+      font-size: 11px; padding: 3px 9px; border-radius: 6px;
+      background: var(--surface-2); border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+    .tag--accent { background: var(--accent-dim); border-color: var(--accent-border); color: var(--accent); }
+    .tag--warn { background: var(--warn-dim); border-color: var(--warn-border); color: var(--warn); }
+
+    .card-footer {
+      margin-top: 14px; padding-top: 14px;
+      border-top: 1px solid var(--border);
+      display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+    }
+    .urgency-tag {
+      font-size: 11px; font-weight: 600; color: var(--accent);
+      background: var(--accent-dim); border: 1px solid var(--accent-border);
+      border-radius: 6px; padding: 3px 9px;
+    }
+    .urgency-tag--soon { color: var(--warn); background: var(--warn-dim); border-color: var(--warn-border); }
+    .price-tag {
+      font-size: 11px; color: var(--text-muted);
+      background: var(--surface-2); border: 1px solid var(--border);
+      border-radius: 6px; padding: 3px 9px;
+    }
+
+    /* ── Search terms chips ── */
+    .search-terms { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+    .search-chip {
+      font-size: 10px; padding: 2px 8px; border-radius: 4px;
+      background: var(--surface); border: 1px solid var(--border);
+      color: var(--text-dim); font-family: monospace;
+    }
+
+    /* ── Category cards ── */
+    .cat-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+    .cat-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 16px 18px;
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .cat-name { font-family: var(--font-d); font-weight: 700; font-size: 15px; }
+    .momentum-pill {
+      display: inline-flex; align-items: center; gap: 5px;
+      font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px;
+      border-radius: 100px; padding: 3px 9px; width: fit-content;
+    }
+    .momentum-exploding { background: rgba(110,231,183,0.15); color: var(--accent); border: 1px solid var(--accent-border); }
+    .momentum-rising { background: var(--warn-dim); color: var(--warn); border: 1px solid var(--warn-border); }
+    .momentum-stable { background: var(--surface-2); color: var(--text-muted); border: 1px solid var(--border); }
+    .cat-reason { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+
+    /* ── Insights ── */
+    .insights-box {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 28px 32px;
+    }
+    .insights-text {
+      font-size: 14px; color: var(--text-muted); line-height: 1.8;
+      white-space: pre-wrap;
+    }
+    .insights-text p + p { margin-top: 14px; }
+
+    /* ── Empty state ── */
+    .empty-state {
+      text-align: center; padding: 56px 24px;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r);
+    }
+    .empty-state h3 { font-family: var(--font-d); font-size: 18px; margin-bottom: 8px; }
+    .empty-state p { font-size: 13px; color: var(--text-muted); }
+
+    /* ── Loading ── */
+    #loading-overlay {
+      position: fixed; inset: 0;
+      background: var(--bg);
+      display: flex; align-items: center; justify-content: center;
+      flex-direction: column; gap: 20px;
+      z-index: 999;
+    }
+    .spinner {
+      width: 36px; height: 36px; border-radius: 50%;
+      border: 2px solid var(--border-2);
+      border-top-color: var(--accent);
+      animation: spin .8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-text { font-size: 13px; color: var(--text-muted); }
+
+    /* ── Data quality note ── */
+    .quality-note {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r-sm); padding: 12px 16px;
+      font-size: 12px; color: var(--text-muted);
+      margin-top: 40px;
+    }
+    .quality-note strong { color: var(--text); }
+
+    /* ── No data state ── */
+    .no-data-banner {
+      background: var(--warn-dim); border: 1px solid var(--warn-border);
+      border-radius: var(--r); padding: 28px;
+      text-align: center; margin-bottom: 32px;
+    }
+    .no-data-banner h2 { font-family: var(--font-d); font-size: 18px; color: var(--warn); margin-bottom: 8px; }
+    .no-data-banner p { font-size: 13px; color: var(--text-muted); }
+    code { background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; font-size: 12px; }
+
+    /* ── Platform icons ── */
+    .platform-icon { font-size: 10px; }
+
+    @media (max-width: 600px) {
+      .page { padding: 32px 16px 60px; }
+      nav { padding: 0 16px; }
+      .cards { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Loading trend report...</div>
+</div>
+
+<nav>
+  <div class="nav-inner">
+    <a class="nav-logo" href="index.html">Team <span>Obsidian</span> AI</a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="trend-report.html">Trend Report</a>
+    </div>
+  </div>
+</nav>
+
+<div class="page" id="main-content" style="display:none;">
+
+  <div class="report-header">
+    <div class="report-label">AI-Powered Analysis</div>
+    <h1 class="report-title">Product Trend Report</h1>
+    <div class="report-meta" id="report-meta">
+      <div class="meta-pill">
+        <div class="dot dot-grey" id="status-dot"></div>
+        <span id="generated-at">Loading...</span>
+      </div>
+      <div class="meta-pill" id="sources-pill" style="display:none;">
+        <span id="sources-text"></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- No data banner (shown when pipeline hasn't run yet) -->
+  <div class="no-data-banner" id="no-data-banner" style="display:none;">
+    <h2>No Report Data Yet</h2>
+    <p>Run the pipeline to generate your first trend report:<br><br>
+      <code>cd trend_pipeline</code> &nbsp;→&nbsp;
+      <code>pip install -r requirements.txt</code> &nbsp;→&nbsp;
+      <code>python main.py</code>
+    </p>
+  </div>
+
+  <!-- Stats bar -->
+  <div class="stats-bar" id="stats-bar" style="display:none;">
+    <div class="stat-card">
+      <div class="stat-label">Buy Now</div>
+      <div class="stat-value" id="stat-buy-now">0</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Buy Soon</div>
+      <div class="stat-value" id="stat-buy-soon">0</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Products Scanned</div>
+      <div class="stat-value" id="stat-scanned">0</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Platforms</div>
+      <div class="stat-value" id="stat-platforms">0</div>
+    </div>
+  </div>
+
+  <!-- Buy Now -->
+  <div class="section" id="buy-now-section">
+    <div class="section-header">
+      <h2 class="section-title">🟢 Buy Now</h2>
+      <span class="section-count" id="buy-now-count">0</span>
+    </div>
+    <p class="section-desc">High-confidence products trending across platforms. Source these immediately — window is open now.</p>
+    <div class="cards" id="buy-now-cards"></div>
+  </div>
+
+  <!-- Buy Soon -->
+  <div class="section" id="buy-soon-section">
+    <div class="section-header">
+      <h2 class="section-title">🟡 Buy Soon</h2>
+      <span class="section-count" id="buy-soon-count">0</span>
+    </div>
+    <p class="section-desc">Predicted to peak in the coming weeks. Start watching vendors and price-checking now.</p>
+    <div class="cards" id="buy-soon-cards"></div>
+  </div>
+
+  <!-- Categories to Watch -->
+  <div class="section" id="categories-section">
+    <div class="section-header">
+      <h2 class="section-title">📊 Categories Gaining Momentum</h2>
+      <span class="section-count" id="categories-count">0</span>
+    </div>
+    <div class="cat-cards" id="cat-cards"></div>
+  </div>
+
+  <!-- Market Insights -->
+  <div class="section" id="insights-section">
+    <div class="section-header">
+      <h2 class="section-title">💡 Market Insights</h2>
+    </div>
+    <div class="insights-box">
+      <div class="insights-text" id="insights-text"></div>
+    </div>
+  </div>
+
+  <!-- Avoid -->
+  <div class="section" id="avoid-section">
+    <div class="section-header">
+      <h2 class="section-title">🔴 Avoid</h2>
+      <span class="section-count" id="avoid-count">0</span>
+    </div>
+    <p class="section-desc">Oversaturated, low-margin, or declining — don't source these right now.</p>
+    <div class="cards" id="avoid-cards"></div>
+  </div>
+
+  <div class="quality-note" id="quality-note" style="display:none;">
+    <strong>Data Quality Note:</strong> <span id="quality-note-text"></span>
+  </div>
+
+</div>
+
+<script>
+  const REPORT_URL = 'trend-data.json';
+
+  function fmtDate(iso) {
+    if (!iso) return 'Unknown';
+    const d = new Date(iso);
+    return d.toLocaleString('en-US', {
+      weekday: 'short', month: 'short', day: 'numeric',
+      hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+    });
+  }
+
+  function platformLabel(p) {
+    const map = { amazon: '📦 Amazon', tiktok: '🎵 TikTok', google_trends: '📈 Google' };
+    return map[p] || p;
+  }
+
+  function confidenceBadge(conf) {
+    const c = (conf || 'medium').toLowerCase();
+    if (c === 'high') return '<span class="card-badge badge-high">● High Confidence</span>';
+    if (c === 'low')  return '<span class="card-badge badge-low">○ Low Confidence</span>';
+    return '<span class="card-badge badge-medium">◐ Medium Confidence</span>';
+  }
+
+  function momentumClass(m) {
+    const v = (m || 'stable').toLowerCase();
+    if (v === 'exploding') return 'momentum-exploding';
+    if (v === 'rising')    return 'momentum-rising';
+    return 'momentum-stable';
+  }
+
+  function buildBuyNowCard(item) {
+    const platforms = (item.platforms || []).map(platformLabel).join(' · ');
+    const searches = (item.search_terms || []).map(t =>
+      `<span class="search-chip">${esc(t)}</span>`).join('');
+    const margin = item.margin_estimate
+      ? `<span class="tag">Margin: ${esc(item.margin_estimate)}</span>` : '';
+
+    return `
+    <div class="card card--buy-now">
+      ${confidenceBadge(item.confidence)}
+      <div class="card-name">${esc(item.product)}</div>
+      <div class="card-category">${esc(item.category || '')}</div>
+      <div class="card-reason">${esc(item.reason || '')}</div>
+      <div class="card-meta">
+        ${(item.platforms || []).map(p => `<span class="tag tag--accent">${platformLabel(p)}</span>`).join('')}
+        ${margin}
+      </div>
+      <div class="card-footer">
+        ${item.urgency ? `<span class="urgency-tag">⚡ ${esc(item.urgency)}</span>` : ''}
+        ${item.price_range ? `<span class="price-tag">${esc(item.price_range)}</span>` : ''}
+      </div>
+      ${searches ? `<div class="search-terms">${searches}</div>` : ''}
+    </div>`;
+  }
+
+  function buildBuySoonCard(item) {
+    return `
+    <div class="card card--buy-soon">
+      ${confidenceBadge(item.confidence)}
+      <div class="card-name">${esc(item.product)}</div>
+      <div class="card-category">${esc(item.category || '')}</div>
+      <div class="card-reason">${esc(item.reason || '')}</div>
+      <div class="card-meta">
+        ${(item.platforms || []).map(p => `<span class="tag tag--warn">${platformLabel(p)}</span>`).join('')}
+      </div>
+      <div class="card-footer">
+        ${item.predicted_peak ? `<span class="urgency-tag urgency-tag--soon">📅 Peak: ${esc(item.predicted_peak)}</span>` : ''}
+      </div>
+      ${item.watch_signal ? `<div class="card-reason" style="margin-top:10px;font-size:12px;"><strong style="color:var(--warn);">Watch:</strong> ${esc(item.watch_signal)}</div>` : ''}
+    </div>`;
+  }
+
+  function buildCatCard(item) {
+    const mc = momentumClass(item.momentum);
+    const emoji = item.momentum === 'exploding' ? '🚀' : item.momentum === 'rising' ? '📈' : '→';
+    return `
+    <div class="cat-card">
+      <div class="cat-name">${esc(item.category)}</div>
+      <div class="momentum-pill ${mc}">${emoji} ${esc(item.momentum || 'stable')}</div>
+      <div class="cat-reason">${esc(item.reason || '')}</div>
+    </div>`;
+  }
+
+  function buildAvoidCard(item) {
+    return `
+    <div class="card card--avoid">
+      <span class="card-badge badge-avoid">✕ Avoid</span>
+      <div class="card-name">${esc(item.product_type)}</div>
+      <div class="card-reason">${esc(item.reason || '')}</div>
+    </div>`;
+  }
+
+  function esc(str) {
+    return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function set(id, html, prop = 'innerHTML') {
+    const el = document.getElementById(id);
+    if (el) el[prop] = html;
+  }
+
+  function show(id) {
+    const el = document.getElementById(id);
+    if (el) el.style.display = '';
+  }
+
+  async function loadReport() {
+    let data = null;
+
+    try {
+      const resp = await fetch(REPORT_URL + '?t=' + Date.now());
+      if (resp.ok) {
+        data = await resp.json();
+      }
+    } catch (e) {
+      console.warn('Could not load trend-data.json:', e.message);
+    }
+
+    document.getElementById('loading-overlay').style.display = 'none';
+    document.getElementById('main-content').style.display = '';
+
+    if (!data) {
+      show('no-data-banner');
+      set('generated-at', 'No report generated yet');
+      return;
+    }
+
+    const analysis = data.analysis || {};
+    const stats = data.stats || {};
+    const buyNow = analysis.buy_now || [];
+    const buySoon = analysis.buy_soon || [];
+    const categories = analysis.categories_to_watch || [];
+    const avoid = analysis.avoid || [];
+    const insights = analysis.market_insights || '';
+
+    // Header
+    const dot = document.getElementById('status-dot');
+    if (dot) { dot.className = 'dot dot-green'; }
+    set('generated-at', 'Updated ' + fmtDate(data.generated_at));
+
+    const platforms = Object.keys(stats.by_platform || {});
+    if (platforms.length) {
+      const pill = document.getElementById('sources-pill');
+      if (pill) pill.style.display = '';
+      set('sources-text', platforms.map(p => platformLabel(p)).join(' · '));
+    }
+
+    // Stats bar
+    show('stats-bar');
+    set('stat-buy-now', String(buyNow.length));
+    set('stat-buy-soon', String(buySoon.length));
+    set('stat-scanned', String(stats.total_products_scraped || 0));
+    set('stat-platforms', String(platforms.length));
+
+    // Buy Now
+    if (buyNow.length) {
+      set('buy-now-count', String(buyNow.length));
+      set('buy-now-cards', buyNow.map(buildBuyNowCard).join(''));
+    } else {
+      set('buy-now-cards', '<div class="empty-state"><h3>No data yet</h3><p>Run the pipeline to generate recommendations.</p></div>');
+    }
+
+    // Buy Soon
+    if (buySoon.length) {
+      set('buy-soon-count', String(buySoon.length));
+      set('buy-soon-cards', buySoon.map(buildBuySoonCard).join(''));
+    } else {
+      set('buy-soon-cards', '<div class="empty-state"><h3>No predictions yet</h3><p>Run the pipeline to generate predictions.</p></div>');
+    }
+
+    // Categories
+    if (categories.length) {
+      set('categories-count', String(categories.length));
+      set('cat-cards', categories.map(buildCatCard).join(''));
+    }
+
+    // Insights
+    if (insights) {
+      const formatted = insights.split(/\n{2,}/).map(para =>
+        `<p>${esc(para.trim())}</p>`).join('');
+      set('insights-text', formatted);
+    }
+
+    // Avoid
+    if (avoid.length) {
+      set('avoid-count', String(avoid.length));
+      set('avoid-cards', avoid.map(buildAvoidCard).join(''));
+    }
+
+    // Quality note
+    const qn = analysis.data_quality_note;
+    if (qn) {
+      show('quality-note');
+      set('quality-note-text', qn);
+    }
+  }
+
+  loadReport();
+</script>
+</body>
+</html>

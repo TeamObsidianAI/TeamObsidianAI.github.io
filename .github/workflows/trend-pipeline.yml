@@ -1,0 +1,47 @@
+name: Product Trend Pipeline
+
+on:
+  schedule:
+    # Run every Monday and Thursday at 8 AM UTC (good cadence for dropshipping)
+    - cron: '0 8 * * 1,4'
+  workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write  # Needed to commit trend-data.json back to the repo
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: trend_pipeline/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r trend_pipeline/requirements.txt
+
+      - name: Run trend pipeline
+        working-directory: trend_pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py
+
+      - name: Commit and push trend-data.json
+        run: |
+          git config user.name  "Trend Pipeline Bot"
+          git config user.email "bot@teamobsidianai.com"
+          git add trend-data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update trend report [skip ci]"
+            git push
+          fi
