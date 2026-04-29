@@ -39,24 +39,10 @@ call .venv\Scripts\activate.bat
 echo  Checking dependencies...
 pip install -r requirements.txt -q
 
-:: Run the pipeline
+:: Start the dashboard server (opens browser automatically)
 echo.
-echo  Running pipeline... (this takes 3-5 minutes)
+echo  Starting dashboard server...
+echo  Your browser will open at http://localhost:8765
+echo  Press Ctrl+C to stop the server.
 echo.
-python main.py
-
-if errorlevel 1 (
-    echo.
-    echo  Pipeline encountered an error. Check the output above.
-    pause
-    exit /b 1
-)
-
-:: Open the dashboard in the default browser
-echo.
-echo  Opening dashboard...
-start "" "..\trend-report.html"
-
-echo.
-echo  Done! Your trend report is ready.
-pause
+python server.py
