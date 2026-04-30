@@ -16,6 +16,7 @@ import argparse
 import logging
 import sys
 import os
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeout
 
 # Allow sibling imports when running main.py directly
 sys.path.insert(0, os.path.dirname(__file__))
@@ -76,9 +77,14 @@ def main() -> None:
     if not args.skip_google:
         logger.info("=== Google Trends ===")
         try:
-            google_items = GoogleTrendsScraper().get_trending()
-            all_products.extend(google_items)
-            logger.info("Google Trends: collected %d items", len(google_items))
+            with ThreadPoolExecutor(max_workers=1) as ex:
+                future = ex.submit(GoogleTrendsScraper().get_trending)
+                try:
+                    google_items = future.result(timeout=30)
+                    all_products.extend(google_items)
+                    logger.info("Google Trends: collected %d items", len(google_items))
+                except FuturesTimeout:
+                    logger.warning("Google Trends timed out after 30s — skipping")
         except Exception as e:
             logger.error("Google Trends scraper crashed: %s", e)
 
