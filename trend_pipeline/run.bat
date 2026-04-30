@@ -27,8 +27,8 @@ if not exist ".env" (
 )
 
 :: Load .env into Windows environment so Python sees the variables
-for /f "usebackq tokens=1,* delims==" %%a in (".env") do (
-    if not "%%a"=="" if not "%%a:~0,1%"=="#" set "%%a=%%b"
+for /f "usebackq eol=# tokens=1,* delims==" %%a in (".env") do (
+    if not "%%a"=="" set "%%a=%%b"
 )
 
 :: Create virtual environment if it doesn't exist
