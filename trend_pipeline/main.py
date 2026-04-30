@@ -14,6 +14,7 @@ Output: ../trend-data.json (readable by the trend-report.html dashboard)
 
 import argparse
 import logging
+import re
 import sys
 import os
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeout
@@ -34,6 +35,33 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 logger = logging.getLogger("pipeline")
+
+
+def _inject_images(analysis: dict, scraped: list[dict]) -> None:
+    """Match Claude recommendations to scraped Amazon products and attach image_url."""
+    img_map = {
+        re.sub(r'[^\w\s]', ' ', p['name'].lower()): p['image_url']
+        for p in scraped
+        if p.get('image_url') and p.get('name')
+    }
+    if not img_map:
+        return
+
+    def best_url(product_name: str) -> str | None:
+        words = set(re.sub(r'[^\w]', ' ', product_name.lower()).split())
+        best, score = None, 1
+        for name, url in img_map.items():
+            s = len(words & set(name.split()))
+            if s > score:
+                score, best = s, url
+        return best
+
+    for section in ('buy_now', 'rising_fast', 'buy_soon'):
+        for item in analysis.get(section, []):
+            if not item.get('image_url'):
+                url = best_url(item.get('product', ''))
+                if url:
+                    item['image_url'] = url
 
 
 def parse_args() -> argparse.Namespace:
@@ -115,6 +143,7 @@ def main() -> None:
 
     # ── 3. Write report ──────────────────────────────────────────────────────
 
+    _inject_images(analysis, all_products)
     output_path = write_report(all_products, analysis)
     logger.info("Done! Report saved to: %s", output_path)
     logger.info("Open trend-report.html in your browser to view the dashboard.")
