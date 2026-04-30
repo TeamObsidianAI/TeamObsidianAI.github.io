@@ -583,7 +583,7 @@
     const rankClass = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : 'rank-other';
     const score = item.score != null ? item.score : null;
     const imgKw = (item.image_keywords || '').split(',').map(k => k.trim()).filter(Boolean).join(',');
-    const imgSrc = imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '';
+    const imgSrc = item.image_url || (imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '');
 
     return `
     <div class="card card--rising">
@@ -612,7 +612,7 @@
     const rankClass = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : 'rank-other';
     const score = item.score != null ? item.score : null;
     const imgKw = (item.image_keywords || '').split(',').map(k => k.trim()).filter(Boolean).join(',');
-    const imgSrc = imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '';
+    const imgSrc = item.image_url || (imgKw ? `https://loremflickr.com/480/260/${encodeURIComponent(imgKw)}/all` : '');
 
     return `
     <div class="card card--buy-soon">
