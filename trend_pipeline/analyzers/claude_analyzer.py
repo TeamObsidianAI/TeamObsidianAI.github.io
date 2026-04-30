@@ -55,7 +55,7 @@ Return a single JSON object with this exact structure:
       "category": "category name",
       "platforms": ["amazon", "tiktok"],
       "confidence": "high|medium",
-      "reason": "2-3 sentence explanation of why to buy NOW",
+      "reason": "1-2 sentence explanation of why to buy NOW",
       "price_range": "$X–$Y suggested retail",
       "margin_estimate": "low|medium|high",
       "urgency": "Act within X days/weeks",
@@ -71,8 +71,8 @@ Return a single JSON object with this exact structure:
       "category": "category name",
       "platforms": ["platform"],
       "confidence": "medium",
-      "reason": "why momentum is accelerating right now",
-      "signal": "the specific trend signal driving this (e.g. TikTok hashtag views up 300% this week)",
+      "reason": "1 sentence on why momentum is accelerating",
+      "signal": "specific trend signal driving this",
       "price_range": "$X–$Y suggested retail",
       "margin_estimate": "low|medium|high",
       "image_keywords": "keyword1,keyword2,keyword3"
@@ -86,9 +86,9 @@ Return a single JSON object with this exact structure:
       "category": "category name",
       "platforms": ["platform"],
       "confidence": "medium|low",
-      "reason": "why this will trend soon",
-      "predicted_peak": "timeframe e.g. 2-4 weeks",
-      "watch_signal": "what to monitor to confirm the trend",
+      "reason": "1 sentence on why this will trend soon",
+      "predicted_peak": "e.g. 2-4 weeks",
+      "watch_signal": "what to monitor",
       "image_keywords": "keyword1,keyword2,keyword3"
     }}
   ],
@@ -106,8 +106,8 @@ Return a single JSON object with this exact structure:
       "reason": "why"
     }}
   ],
-  "market_insights": "2-3 paragraph narrative about the current market moment and what it means for the dropshipper",
-  "data_quality_note": "brief note on which platforms provided strong data vs weak/blocked"
+  "market_insights": "2 short paragraphs about the current market moment for the dropshipper",
+  "data_quality_note": "one sentence on platform data quality"
 }}
 
 Rules:
@@ -190,7 +190,7 @@ class ClaudeAnalyzer:
         try:
             message = self.client.messages.create(
                 model="claude-sonnet-4-6",
-                max_tokens=8192,
+                max_tokens=16000,
                 system=_SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": prompt}],
             )
@@ -223,7 +223,7 @@ class ClaudeAnalyzer:
         try:
             message = self.client.messages.create(
                 model="claude-sonnet-4-6",
-                max_tokens=8192,
+                max_tokens=16000,
                 system=_SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": prompt}],
             )
