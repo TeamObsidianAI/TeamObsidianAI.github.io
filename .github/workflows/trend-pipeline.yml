@@ -36,13 +36,14 @@ jobs:
 
       - name: Commit and push trend-data.json
         run: |
+                 run: |
           git config user.name  "Trend Pipeline Bot"
           git config user.email "bot@teamobsidianai.com"
+          git pull origin main
           git add trend-data.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "chore: update trend report [skip ci]"
-            git pull --rebase origin main
             git push
           fi
