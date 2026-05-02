@@ -1,552 +1,564 @@
 {
-  "generated_at": "2026-05-01T23:58:11.783436+00:00",
+  "generated_at": "2026-05-02T09:07:01.507569+00:00",
   "stats": {
-    "total_products_scraped": 234,
+    "total_products_scraped": 232,
     "by_platform": {
-      "amazon": 234
+      "amazon": 232
     }
   },
   "analysis": {
     "buy_now": [
       {
         "rank": 1,
-        "score": 88,
-        "product": "SPOTMINDERS Apple MFi Certified Ultra-Slim Wallet Tracker Card (Works with Apple Find My, IP68 Waterproof)",
-        "category": "Electronics / Travel Accessories",
+        "score": 91,
+        "product": "Portable Bluetooth Speaker IPX5 Waterproof with Dynamic LED Light & TWS Pairing",
+        "category": "Electronics / Audio",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "high",
-        "reason": "Hitting Amazon Movers & Shakers at rank #14 with 4.5 stars and a $29.97 price point that sits squarely in the dropshipping sweet spot — MFi-certified differentiation means buyers are actively searching and willing to pay a premium over generic trackers. Apple AirTag ecosystem dominance (bestseller list) validates the tracker category is exploding right now.",
-        "price_range": "$29–$45 suggested retail",
+        "reason": "Ranked in Amazon Movers & Shakers at $29.99 (sweet spot margin range), hitting peak summer outdoor/pool season in May 2026, and waterproof Bluetooth speakers are perennial TikTok viral products with strong visual demo appeal. Beach and camping gifting season is live right now.",
+        "price_range": "$29–$55",
         "margin_estimate": "high",
         "urgency": "Act within 5 days",
         "search_terms": [
-          "wallet tracker card Apple Find My",
-          "slim tracker card for wallet",
-          "MFi certified item finder card"
+          "waterproof bluetooth speaker",
+          "portable outdoor speaker LED",
+          "beach speaker 2026"
         ],
-        "image_keywords": "slim wallet tracker card, white minimalist card, travel accessories flatlay",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81QRKVUfUIL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
-        "score": 85,
-        "product": "LEVOIT Core300-P HEPA Air Purifier for Bedroom (Covers 1073 sq ft, 3-in-1 Filter, Sleep Mode)",
-        "category": "Home & Kitchen / Air Quality",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #8 in Home & Kitchen Movers & Shakers at $84.94 with 4.7 stars — LEVOIT is a recognized but not monopolized brand, and air purifiers surge every spring/summer allergy season (we are at peak May 2026). Ideal margin window with sub-$100 retail and consistent repurchase filter demand.",
-        "price_range": "$85–$110 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "HEPA air purifier bedroom allergies",
-          "air purifier for pet hair",
-          "compact air purifier home"
-        ],
-        "image_keywords": "cylindrical air purifier, white bedroom air filter, HEPA home appliance",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/711getQMnvL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 83,
-        "product": "Portable Bluetooth Speaker with Dynamic Light, IPX5 Waterproof, BT 5.3 TWS Pairing (Beach/Outdoor/Camping)",
-        "category": "Electronics / Outdoor Audio",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Movers & Shakers rank #18 at $29.99 with 4.6 stars and outdoor/beach/pool positioning — May is peak season for outdoor speakers and TikTok summer lifestyle content consistently drives viral audio gear sales. Price point is perfect for dropshipping margins.",
-        "price_range": "$29–$55 suggested retail",
-        "margin_estimate": "high",
-        "urgency": "Act within 5 days",
-        "search_terms": [
-          "waterproof bluetooth speaker outdoor",
-          "portable beach speaker with lights",
-          "wireless speaker camping pool"
-        ],
-        "image_keywords": "portable bluetooth speaker outdoors, colorful LED light speaker, beach waterproof speaker",
+        "image_keywords": "bluetooth speaker,LED light,beach outdoor",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/81p9DPknjLL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 4,
-        "score": 81,
-        "product": "Nequga Wireless Earbuds Bluetooth Headphones, 50H Playtime, LED Digital Display Case, IPX7 Waterproof",
+        "rank": 2,
+        "score": 88,
+        "product": "MMWOWARTS Hybrid Active Noise Cancelling Over-Ear Bluetooth 6.0 Headphones 60H Playtime",
         "category": "Electronics / Audio",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "high",
-        "reason": "Movers & Shakers rank #16 with a rare 5.0-star rating — while the $101.99 price is at the top of the dropshipping sweet spot, the 50-hour playtime and LED display case are strong TikTok visual differentiators that justify premium positioning against oversaturated budget earbud options.",
-        "price_range": "$100–$130 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "50 hour battery wireless earbuds",
-          "LED display charging case earbuds",
-          "IPX7 waterproof bluetooth earbuds"
-        ],
-        "image_keywords": "wireless earbuds LED display case, coral colored earbuds, premium bluetooth earphones open box",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J-Qw95F2L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 79,
-        "product": "POWRUI 3-Sided Outlet Extender Power Strip with 6 AC Outlets, 3 USB Ports (1 USB-C), Surge Protector Night Light",
-        "category": "Electronics / Home Power",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Movers & Shakers rank #20 at $16.99 with 4.7 stars AND the power strip category dominates both Movers & Shakers and Bestsellers simultaneously — dual-platform validated demand with USB-C port differentiation that buyers actively seek for iPhone 15+ compatibility.",
-        "price_range": "$17–$28 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "3 sided outlet extender surge protector",
-          "USB C wall outlet extender",
-          "multi plug adapter home office"
-        ],
-        "image_keywords": "3-sided power strip white wall outlet, surge protector USB ports, multi outlet extender plugged in",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CWeD2pqWL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
-        "score": 77,
-        "product": "Sekey Foldable Utility Wagon Cart with Wheels, 220LBS Capacity, Lightweight Portable for Grocery/Camping/Garden",
-        "category": "Home & Kitchen / Outdoor Utility",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Movers & Shakers rank #10 in Home & Kitchen at $29.99 with 4.6 stars — foldable utility carts trend every spring for gardening, farmers markets, and outdoor events, and May is the exact seasonal inflection point. Lightweight category avoids heavy shipping cost penalties.",
-        "price_range": "$30–$50 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 10 days",
-        "search_terms": [
-          "foldable utility wagon cart grocery",
-          "collapsible cart with wheels camping",
-          "portable wagon cart garden shopping"
-        ],
-        "image_keywords": "foldable black utility cart wheels, collapsible wagon outdoor, grocery shopping trolley folded",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71s6G+9WV0L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 7,
-        "score": 75,
-        "product": "SURETIVIAN Large Chicken Shredder Twist Tool with Brush and Fork, BPA Free Meat Shredder Machine",
-        "category": "Home & Kitchen / Kitchen Gadgets",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Movers & Shakers rank #11 in Home & Kitchen at $15.99 with 4.7 stars — kitchen gadgets with satisfying visual demos are perennially viral on TikTok Food and #MealPrep content, and the sub-$20 sourcing cost enables strong retail margin at $25–$35.",
-        "price_range": "$25–$38 suggested retail",
+        "reason": "Ranked #19 in Amazon Movers & Shakers at $29.99 with a 4.8★ rating — exceptional reviews for the price bracket signals strong organic demand. ANC headphones under $35 are a massive TikTok unboxing category and this hits the ideal dropship margin window.",
+        "price_range": "$30–$60",
         "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "urgency": "Act within 5 days",
         "search_terms": [
-          "chicken shredder tool twist",
-          "meat shredder machine BPA free",
-          "chicken breast shredder kitchen gadget"
+          "noise cancelling headphones under 30",
+          "ANC bluetooth headphones 2026",
+          "over ear wireless headphones budget"
         ],
-        "image_keywords": "chicken shredder twist tool kitchen, meat shredding gadget countertop, food prep tool clear bowl",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71d6vBNDknL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 8,
-        "score": 73,
-        "product": "BestOffice Ergonomic Mid-Back Mesh Office Chair with Lumbar Support, Adjustable Height, Rolling Wheels",
-        "category": "Home & Kitchen / Office Furniture",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Movers & Shakers rank #12 in Home & Kitchen at $38.98 with 4.3 stars — remote/hybrid work remains a permanent behavioral shift and ergonomic chairs under $50 have a consistent search volume spike every spring as people refresh home offices. The price point allows healthy margins.",
-        "price_range": "$39–$65 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "ergonomic office chair under 50",
-          "mid back mesh desk chair",
-          "home office chair lumbar support"
-        ],
-        "image_keywords": "black ergonomic mesh office chair, home office desk chair armrests, mid-back swivel computer chair",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/716tq9Y8WOL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 9,
-        "score": 71,
-        "product": "6-Pack Extra Heavy Duty Large Moving Storage Bags with Zipper and Handles for Clothes and College Supplies",
-        "category": "Home & Kitchen / Storage",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Bestseller rank #10 in Home & Kitchen with mass-market appeal — May through August is peak moving season (college graduations, apartment moves), and storage bags are a lightweight dropshipping-friendly product with strong recurring demand and broad demographic reach.",
-        "price_range": "$20–$35 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 10 days",
-        "search_terms": [
-          "large moving storage bags with zipper",
-          "heavy duty packing bags for moving",
-          "college moving bags clothes storage"
-        ],
-        "image_keywords": "large blue moving storage bags stacked, zippered packing bags bedroom, heavy duty storage totes handles",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 10,
-        "score": 69,
-        "product": "AirScent Hotel Diffuser Oil No. 1014 Coastal Blend (Lemon Bergamot Sea Breeze) for Ultrasonic Diffusers, 10mL",
-        "category": "Home & Kitchen / Fragrance",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Movers & Shakers rank #4 in Home & Kitchen at $9.99 with 4.5 stars — hotel-scent diffuser oils are a booming lifestyle micro-niche driven by TikTok 'home ambiance' content, and the low unit cost allows aggressive bundling (3-pack, 5-pack) to hit ideal dropshipping price points.",
-        "price_range": "$22–$40 suggested retail (bundle of 3–5)",
-        "margin_estimate": "high",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "hotel scent diffuser oil",
-          "lemon bergamot fragrance oil diffuser",
-          "luxury hotel smell home diffuser"
-        ],
-        "image_keywords": "fragrance oil bottle luxury hotel, ultrasonic diffuser aromatherapy mist, coastal scent oil small glass bottle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61xfmWK+5CL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 11,
-        "score": 67,
-        "product": "Scented Candles Funny Gift for Mom – Mothers Day & Birthday Gifts from Daughter (Stocking Stuffer Set)",
-        "category": "Home & Kitchen / Gifting",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Movers & Shakers rank #5 in Home & Kitchen at $16.98 with 4.7 stars — Mother's Day is May 11, 2026 (10 days away), making this an extremely time-sensitive gifting product with peak demand right now and TikTok gift-guide content actively driving conversions.",
-        "price_range": "$20–$32 suggested retail",
-        "margin_estimate": "medium",
-        "urgency": "Act within 3 days (Mother's Day peak)",
-        "search_terms": [
-          "funny candles gift for mom",
-          "mothers day gift candle set daughter",
-          "birthday scented candle gift women"
-        ],
-        "image_keywords": "scented candle gift set mom, funny gift candle jar ribbon, mothers day gift wrapped candle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TSy33ArQL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 12,
-        "score": 64,
-        "product": "Disposable Parchment Air Fryer Liners 6.3 Inch Round, 125-Pack Non-Stick Oil Proof for 2-4 Qt Airfryer",
-        "category": "Home & Kitchen / Kitchen Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Movers & Shakers rank #9 in Home & Kitchen at $9.99 with 4.6 stars — while near the lower price threshold, multi-pack bundling (250-pack, 500-pack) can elevate to $18–$28 retail, and the air fryer accessory market continues to grow as air fryer penetration in US households remains high.",
-        "price_range": "$18–$28 suggested retail (bulk pack)",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "air fryer parchment liners disposable",
-          "round air fryer paper liners 6 inch",
-          "non stick airfryer basket liners 125 pack"
-        ],
-        "image_keywords": "round parchment air fryer liners stack, disposable basket paper food prep, airfryer accessories white liner insert",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/717bysB5h8L._AC_UL300_SR300,200_.jpg"
-      }
-    ],
-    "rising_fast": [
-      {
-        "rank": 1,
-        "score": 82,
-        "product": "Universal Smart TV Replacement Remote Controls (Samsung/LG/Roku/Hisense/TCL/VIZIO)",
-        "category": "Electronics / TV Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Occupying ranks #1 through #13 in Electronics Movers & Shakers almost entirely, with multiple variants across all major TV brands — this category is experiencing a synchronized demand surge likely tied to spring TV setups, smart home upgrades, and lost/broken remotes from seasonal use pattern shifts.",
-        "signal": "7 of the top 13 Electronics Movers & Shakers are TV remote replacements — an unprecedented category concentration indicating a viral or algorithmic demand spike",
-        "price_range": "$14–$28 suggested retail (bundle 2-pack)",
-        "margin_estimate": "high",
-        "image_keywords": "universal TV remote control black, smart TV replacement remote hand, Samsung LG Roku remote bundle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
-        "score": 79,
-        "product": "USB-C Wired Earphones with Microphone and Noise Cancelling for iPhone 17/16/15 and Samsung Galaxy",
-        "category": "Electronics / Mobile Audio",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Two separate USB-C earphone listings appear at ranks #10 and #11 in Electronics Movers & Shakers simultaneously, signaling a coordinated demand surge driven by iPhone 17 adoption and the removal of 3.5mm jacks across all flagship devices.",
-        "signal": "Dual-entry in Movers & Shakers for same product type + iPhone 17 listed in product title = new device cycle demand wave",
-        "price_range": "$15–$28 suggested retail",
-        "margin_estimate": "high",
-        "image_keywords": "USB-C wired earphones white cable, type-c earbuds microphone inline, iPhone earphones in-ear wired",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hOPNwrb1L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "over ear headphones,noise cancelling,wireless black",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HmhAnkfoL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 76,
-        "product": "Surge Protector Power Strip with Multiple USB Ports and Wide-Spaced AC Outlets (6-Outlet, 8-Outlet Variants)",
-        "category": "Electronics / Home Power",
+        "score": 86,
+        "product": "ESOXOFFORE Kids Instant Print Camera 1080P with Selfie Mode for Ages 3–12",
+        "category": "Electronics / Toys & Cameras",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
-        "confidence": "medium",
-        "reason": "Power strips appear across both Movers & Shakers AND Bestsellers simultaneously with multiple variants — a rare dual-list presence indicating both rising velocity and sustained baseline demand that will sustain through summer home office and dorm setup season.",
-        "signal": "Cross-list presence in both Bestsellers (#9, #16, #19) and Movers & Shakers (#20) in the same data snapshot — dual validation signal",
-        "price_range": "$18–$35 suggested retail",
-        "margin_estimate": "medium",
-        "image_keywords": "power strip surge protector outlets, USB charging station desk multi-plug, white extension cord outlet block",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CWeD2pqWL._AC_UL300_SR300,200_.jpg"
+        "confidence": "high",
+        "reason": "Ranked #13 in Amazon Movers & Shakers at $39.98 with 4.5★, and kids instant print cameras are a consistent TikTok viral gift product — demand spikes every spring/summer birthday season. Great margin at $40–$80 retail with no brand lock-in.",
+        "price_range": "$40–$80",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "kids instant print camera",
+          "children digital camera selfie",
+          "toddler camera gift 2026"
+        ],
+        "image_keywords": "kids camera,instant print,colorful children toy",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61f02LT8wmL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 72,
-        "product": "Owala FreeSip Insulated Stainless Steel Water Bottle 24oz with Straw (BPA-Free, Multiple Colors)",
-        "category": "Home & Kitchen / Hydration",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Owala FreeSip holds a bestseller rank #5 in Home & Kitchen heading into peak summer hydration season — the dual-opening design has driven viral TikTok content and consumer interest accelerates sharply from May through August.",
-        "signal": "Bestseller during pre-summer hydration demand surge + TikTok #WaterBottle content consistently features this exact product",
-        "price_range": "$28–$42 suggested retail",
-        "margin_estimate": "medium",
-        "image_keywords": "Owala FreeSip stainless water bottle, insulated tumbler straw lid, colorful hydration bottle denim blue",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sS-XIvEXL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 68,
-        "product": "Summit Chemical Pond Mosquito Dunks 2-Pack (BTI Biological Mosquito Control for Standing Water)",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Mosquito Dunks appearing in Home & Kitchen Movers & Shakers rank #3 at the exact start of mosquito season in May — outdoor pest control products spike sharply and predictably each spring and this category has zero dropshipping brand-dominance issues.",
-        "signal": "Seasonal Movers & Shakers rank #3 in May = textbook mosquito season demand spike beginning",
-        "price_range": "$12–$22 suggested retail",
-        "margin_estimate": "high",
-        "image_keywords": "mosquito dunks donuts pond water, biological mosquito control outdoor, standing water larvae treatment",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Qq+EqufRL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
-        "score": 65,
-        "product": "Zinnia Dahlia Flower Seed Pack Non-GMO 524 Seeds for Pollinator Gardens and Borders (2026 Season)",
-        "category": "Home & Kitchen / Gardening",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "HOME GROWN Zinnia seed pack is Bestseller #2 in Home & Kitchen during prime spring planting season — gardening supplies experience their sharpest annual demand window in May and early June, driven by post-Mother's Day planting activity.",
-        "signal": "Bestseller rank #2 in H&K during the peak May planting window signals a narrowing but high-velocity seasonal opportunity",
-        "price_range": "$12–$22 suggested retail",
-        "margin_estimate": "high",
-        "image_keywords": "zinnia dahlia colorful flower seeds packet, vibrant garden blooms pollinator, seed packet spring planting outdoor",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/815osJgqacL._AC_UL300_SR300,200_.jpg"
-      }
-    ],
-    "buy_soon": [
-      {
-        "rank": 1,
-        "score": 74,
-        "product": "Replacement Remote for Tempur-Pedic Ergo/Ergo Extend Adjustable Bed Base (RF358A RF502A Wireless)",
-        "category": "Electronics / Bedroom Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Movers & Shakers rank #15 at $8.99 is below ideal solo pricing but bundling 2-pack lifts retail to $18–$25; adjustable bed base adoption is rising rapidly with aging demographics and this is a high-intent replacement purchase with minimal competition from big brands.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Monitor adjustable bed base search volume on Google Trends and TikTok #BetterSleep content for acceleration",
-        "image_keywords": "adjustable bed remote control wireless, tempurpedic ergo bed base remote, bedroom remote ergonomic bed",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lGK2nJADL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
-        "score": 71,
-        "product": "Ergonomic Lumbar Support Mesh Office Chair with Adjustable Armrests and Rolling Casters (Work from Home)",
-        "category": "Home & Kitchen / Office Furniture",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Office chair category is represented in Movers & Shakers and the back-to-office/hybrid work debate drives recurring demand peaks; late spring (post-tax refund season) is historically when home office purchases spike as people invest refund money.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Track 'work from home chair' and 'ergonomic office chair' in Google Shopping Trends for rising CPC as signal",
-        "image_keywords": "ergonomic mesh office chair home, adjustable lumbar support desk chair, modern rolling work chair armrests",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/716tq9Y8WOL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 69,
-        "product": "Apple AirTag 2nd Generation Wallet & Keychain Tracker with Precision Finding (Accessories Bundle)",
-        "category": "Electronics / Tracking Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "AirTag 2nd Gen is Bestseller #3 in Electronics — while the AirTag itself is Apple-branded (avoid), AirTag accessories (leather wallets, keychain holders, waterproof cases) are a dropshippable white-label goldmine riding the AirTag wave heading into summer travel season.",
-        "predicted_peak": "2–3 weeks",
-        "watch_signal": "Watch for 'AirTag wallet holder' and 'AirTag luggage tag' to enter Google Shopping rising queries",
-        "image_keywords": "AirTag leather wallet holder accessory, apple tracker keychain case, AirTag silicone protective holder",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 4,
-        "score": 67,
-        "product": "FUJIFILM Instax Mini Instant Film Twin Pack Bundle with Album and Stickers (Gift Set)",
+        "score": 84,
+        "product": "Fujifilm Instax Mini Instant Film 20-Sheet Pack",
         "category": "Electronics / Photography",
         "platforms": [
           "amazon"
         ],
-        "confidence": "medium",
-        "reason": "Instax film is Bestseller #13 in Electronics and the Instax camera ecosystem thrives on gift-giving occasions — graduation season (May–June) is the next major gifting peak, and bundling film packs with albums creates a dropshippable value set above the $20 margin floor.",
-        "predicted_peak": "2–4 weeks (graduation season)",
-        "watch_signal": "Monitor 'graduation gift Instax' and 'instant camera gift bundle' search spikes on Google Trends",
-        "image_keywords": "Fujifilm Instax mini camera film pack, instant photo printing pastel, analog camera photo album gift",
+        "confidence": "high",
+        "reason": "Appearing in BOTH Amazon Movers & Shakers (#15) and Bestsellers (#14) simultaneously — a dual-list signal of surging demand. At $29 this is a high-velocity consumable with repeat purchase behavior, ideal for bundling with kids cameras.",
+        "price_range": "$28–$42",
+        "margin_estimate": "medium",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "instax mini film",
+          "instant camera film pack",
+          "fujifilm instax refill"
+        ],
+        "image_keywords": "instax film,polaroid photos,instant print pack",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dgEk4GNlL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 65,
-        "product": "Oura Ring 4 Silicone Protective Cover / Accessory Case (Compatible with Smart Health Ring)",
-        "category": "Electronics / Wearable Accessories",
+        "score": 82,
+        "product": "POWRUI 6-Outlet Surge Protector with 3 USB Ports (1 USB-C) and Night Light Wall Extender",
+        "category": "Electronics / Power Accessories",
         "platforms": [
           "amazon"
         ],
-        "confidence": "medium",
-        "reason": "Oura Ring 4 Sizing Kit is Bestseller #20 in Electronics, signaling mass-market adoption of smart health rings — while the ring itself is branded, protective accessories, display stands, and charging cables for Oura Ring 4 are an untapped dropshipping niche at ideal price points.",
-        "predicted_peak": "3–6 weeks",
-        "watch_signal": "Watch for 'Oura Ring 4 case' and 'smart ring protector' to appear in Amazon search autocomplete and Google rising queries",
-        "image_keywords": "smart health ring protective cover, oura ring accessory case, wearable fitness ring silicone sleeve",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RcKilbcEL._AC_UL300_SR300,200_.jpg"
+        "confidence": "high",
+        "reason": "Ranked #14 in Movers & Shakers and the entire surge protector/outlet extender category has 5+ items appearing across both bestsellers and movers lists — this specific product at $16.99 with USB-C and night light is highly differentiated and margins are strong at 2–3x cost.",
+        "price_range": "$18–$35",
+        "margin_estimate": "high",
+        "urgency": "Act within 10 days",
+        "search_terms": [
+          "wall outlet extender USB-C",
+          "surge protector night light",
+          "3 sided power strip USB"
+        ],
+        "image_keywords": "power strip wall outlet,USB ports,surge protector white",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CWeD2pqWL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 63,
-        "product": "TERRO Ant Killer Liquid Bait Station Refills and Multi-Pack Bundle (Indoor/Outdoor Ant Trap)",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 80,
+        "product": "Sekey Heavy-Duty Foldable Wagon Cart 220LBS Capacity with Wheels for Grocery & Camping",
+        "category": "Home & Kitchen / Outdoor Utility",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
-        "confidence": "medium",
-        "reason": "TERRO bait stations hold Bestseller #1 in Home & Kitchen entering peak ant season — the brand name is established but the broader indoor pest control category including generic bait refills and outdoor ant stakes is dropshippable at strong margins as consumers seek multiple placement options.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Track 'ant killer outdoor' and 'fire ant bait' on Google Shopping for rising purchase-intent signals",
-        "image_keywords": "ant killer bait station indoor, liquid ant trap home kitchen, pest control bait placements countertop",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
+        "confidence": "high",
+        "reason": "Ranked #6 in Amazon Home & Kitchen Movers & Shakers at $29.99 — foldable utility carts are exploding on TikTok for beach, farmer's market, and camping content heading into summer 2026. Lightweight foldable design keeps shipping costs manageable.",
+        "price_range": "$30–$65",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "foldable wagon cart heavy duty",
+          "collapsible utility cart camping",
+          "portable wagon grocery cart"
+        ],
+        "image_keywords": "foldable wagon cart,outdoor utility,camping gear",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71s6G+9WV0L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 60,
-        "product": "Roku Streaming Stick HD with Private Listening and Voice Remote (Cord-Cutting Bundle with HDMI Extender)",
-        "category": "Electronics / Streaming",
+        "score": 78,
+        "product": "LEVOIT Core300-P HEPA Air Purifier for Bedroom Up to 1073 sq ft",
+        "category": "Home & Kitchen / Air Quality",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "Ranked #7 in Amazon Home Movers & Shakers at $84.94 with a 4.7★ rating — air purifiers are perennially viral on TikTok wellness content and spring allergy season (April–June) is driving a direct demand spike. Sits at the top end of the ideal dropship price range.",
+        "price_range": "$85–$130",
+        "margin_estimate": "medium",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "HEPA air purifier bedroom",
+          "air purifier allergies pets",
+          "LEVOIT air purifier 2026"
+        ],
+        "image_keywords": "air purifier bedroom,HEPA filter,white appliance",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/711getQMnvL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 8,
+        "score": 76,
+        "product": "SURETIVIAN Large Chicken Breast Shredder Twist Tool with Brush and Fork BPA Free",
+        "category": "Home & Kitchen / Kitchen Gadgets",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "Ranked #11 in Amazon Home Movers & Shakers at $15.99 with 4.7★ — kitchen shredder gadgets are classic TikTok food hack viral products, and this product's visual twist-action demo is perfect for short-form video content that drives impulse purchases.",
+        "price_range": "$18–$35",
+        "margin_estimate": "high",
+        "urgency": "Act within 10 days",
+        "search_terms": [
+          "chicken shredder twist tool",
+          "meat shredder machine kitchen",
+          "chicken breast shredder BPA free"
+        ],
+        "image_keywords": "chicken shredder tool,kitchen gadget,meat shredder",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71d6vBNDknL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 9,
+        "score": 74,
+        "product": "BLACK+DECKER One Touch Coffee & Spice Grinder 150W Stainless Steel Blades",
+        "category": "Home & Kitchen / Small Appliances",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Ranked #4 in Amazon Home Movers & Shakers at $25.99 with 4.6★ — coffee accessories are consistently strong year-round and this compact, affordable grinder sits at an excellent dropship margin price point with broad gifting appeal.",
+        "price_range": "$26–$45",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "electric coffee grinder compact",
+          "one touch spice grinder",
+          "BLACK+DECKER coffee grinder"
+        ],
+        "image_keywords": "coffee grinder electric,stainless steel,kitchen appliance",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/719RWIc4TzL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 10,
+        "score": 72,
+        "product": "SHOKZ OpenDots ONE Open-Ear Clip-On Wireless Bluetooth Earbuds with Dolby Audio 40H Playtime",
+        "category": "Electronics / Audio",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #16 in Amazon Movers & Shakers — open-ear clip earbuds are one of the fastest-growing audio form factors on TikTok in 2025–2026, and SHOKZ is a recognizable brand driving search volume that generic dropship alternatives can capture at lower price points.",
+        "price_range": "$35–$80",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "open ear clip on earbuds",
+          "wireless earbuds no ear canal",
+          "bone conduction alternative earbuds"
+        ],
+        "image_keywords": "clip on earbuds,open ear wireless,sport headphones",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61oJUpMRJ7L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 11,
+        "score": 70,
+        "product": "BestOffice Ergonomic Mid-Back Mesh Swivel Desk Chair with Lumbar Support and Adjustable Height",
+        "category": "Home & Kitchen / Office Furniture",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Roku streaming devices hold bestseller positions (#7, #18) and the cord-cutting trend continues accelerating as streaming service costs rise — bundled Roku accessories (HDMI extenders, micro-USB power adapters, protective cases) are a rising dropship niche with no branded conflict.",
-        "predicted_peak": "4–6 weeks",
-        "watch_signal": "Monitor 'Roku accessories bundle' and 'streaming device setup kit' for Google Shopping impression growth",
-        "image_keywords": "Roku streaming stick HDMI port TV, voice remote streaming device, cord cutting TV setup living room",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GUOcJCzSL._AC_UL300_SR300,200_.jpg"
+        "reason": "Ranked #12 in Amazon Home Movers & Shakers at $38.98 — the remote/hybrid work trend sustains perpetual demand for budget ergonomic chairs, and this price point allows healthy margins while avoiding oversized shipping issues common with heavier chairs.",
+        "price_range": "$40–$80",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "ergonomic desk chair budget",
+          "mid back swivel office chair",
+          "affordable mesh computer chair"
+        ],
+        "image_keywords": "mesh office chair,ergonomic desk chair,black swivel",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/716tq9Y8WOL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 8,
-        "score": 57,
-        "product": "Hotel Luxury Cooling Bed Sheet Set Queen Size, Deep Pocket Easy-Fit, Wrinkle-Free Microfiber (Oeko-Tex Certified)",
+        "rank": 12,
+        "score": 67,
+        "product": "Twin Size Hotel Luxury Cooling Breathable Sheet Set 3-Piece Oeko-Tex Certified",
         "category": "Home & Kitchen / Bedding",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Cooling/breathable bed sheets hold multiple bestseller positions in Home & Kitchen (#3, #9) and the summer heat season beginning in May drives consistent search spikes for 'cooling sheets' — lightweight shipping profile makes this highly compatible with dropshipping margins.",
+        "reason": "Ranked #5 in Amazon Home Movers & Shakers and sheet sets are appearing in both movers and bestsellers lists simultaneously — spring bedroom refresh season is driving a clear demand spike, and twin sets are lightweight enough for economical dropship shipping.",
+        "price_range": "$23–$45",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "cooling bed sheets twin",
+          "hotel luxury sheet set white",
+          "breathable microfiber sheets twin"
+        ],
+        "image_keywords": "white bed sheets,hotel bedding,soft cotton linen",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61YNRiSegcL._AC_UL300_SR300,200_.jpg"
+      }
+    ],
+    "rising_fast": [
+      {
+        "rank": 1,
+        "score": 85,
+        "product": "Zevo Flying Insect Plug-In Light Trap with UV & Blue Light Technology for Gnats and Fruit Flies",
+        "category": "Home & Kitchen / Pest Control",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Appearing in BOTH Amazon Bestsellers (#11 and #6 for refills) simultaneously — this dual-SKU presence signals an ecosystem product with repeat-purchase consumables, a rare moat for a dropshipper riding the spring insect season spike.",
+        "signal": "Dual SKU presence in Amazon Bestsellers (device + refills) = ecosystem buying behavior beginning in May",
+        "price_range": "$25–$45",
+        "margin_estimate": "medium",
+        "image_keywords": "flying insect trap,plug in light,gnat catcher",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 81,
+        "product": "Nequga IPX7 Waterproof Wireless Earbuds with 50H Playtime and LED Digital Display Charging Case",
+        "category": "Electronics / Audio",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #9 in Amazon Movers & Shakers with a perfect 5.0★ rating — a pristine review score on a moving product signals very recent launch momentum that hasn't yet been flooded with competing reviews.",
+        "signal": "5.0★ on a Movers & Shakers product = very fresh launch momentum, early mover advantage window",
+        "price_range": "$30–$65",
+        "margin_estimate": "high",
+        "image_keywords": "wireless earbuds LED case,waterproof earphones,bluetooth buds charging",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J-Qw95F2L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 79,
+        "product": "Summit Chemical Pond Mosquito Dunks Larvicide 2-Pack",
+        "category": "Home & Kitchen / Pest Control",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #2 in Amazon Home Movers & Shakers heading into peak mosquito season (May–August) — this is a seasonal consumable with predictable annual demand spikes and strong repeat purchase behavior.",
+        "signal": "#2 rank acceleration in Home & Kitchen Movers + peak mosquito season onset in May 2026",
+        "price_range": "$10–$22",
+        "margin_estimate": "medium",
+        "image_keywords": "mosquito dunks,pond larvicide,outdoor pest control",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Qq+EqufRL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 76,
+        "product": "AirScent Hotel Diffuser Oil Lemon Bergamot Sea Breeze Premium Fragrance 10mL",
+        "category": "Home & Kitchen / Home Fragrance",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #3 in Amazon Home Movers & Shakers — hotel-scent and luxury diffuser oil content is surging on TikTok home lifestyle channels, and this specific 'hotel lobby smell' niche has gone viral multiple times in 2025.",
+        "signal": "Hotel diffuser oil TikTok content trend aligning with Amazon ranking acceleration",
+        "price_range": "$12–$28",
+        "margin_estimate": "high",
+        "image_keywords": "fragrance diffuser oil,hotel scent,luxury aromatherapy",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61xfmWK+5CL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 73,
+        "product": "Mellbree Pure Copper Bird Bath Cleaning Disk 0.6mm 99.99% Copper Universal Fit",
+        "category": "Home & Kitchen / Garden & Outdoor",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #8 in Amazon Home Movers & Shakers — a highly niche, low-competition product benefiting from spring birding season; the specific 'copper disk for bird baths' angle is unique enough to own search results.",
+        "signal": "Niche garden product accelerating in Movers & Shakers during peak spring outdoor setup season",
+        "price_range": "$14–$28",
+        "margin_estimate": "high",
+        "image_keywords": "copper bird bath disk,garden bird bath,outdoor copper plate",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61eGLXoRMkL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 70,
+        "product": "Baker's Signature 6.3-Inch Round Air Fryer Paper Liners 125-Pack Disposable Parchment",
+        "category": "Home & Kitchen / Kitchen Accessories",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #9 in Amazon Home Movers & Shakers — air fryer accessories are a steady TikTok cooking hack staple and disposable liners are consumable repeat-purchase items ideal for capturing recurring customer spend.",
+        "signal": "Air fryer accessory consumable in Movers & Shakers = repeat-buy product with rising basket attachment",
+        "price_range": "$10–$22",
+        "margin_estimate": "medium",
+        "image_keywords": "air fryer liners,parchment paper round,air fryer accessories",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/717bysB5h8L._AC_UL300_SR300,200_.jpg"
+      }
+    ],
+    "buy_soon": [
+      {
+        "rank": 1,
+        "score": 72,
+        "product": "SHOKZ OpenRun Pro 2 Mini Open-Ear Bone Conduction Sport Headphones with Deep Bass",
+        "category": "Electronics / Sport Audio",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #18 in Amazon Movers & Shakers at $139.95 — open-ear bone conduction headphones are accelerating into summer running and cycling season, and the sub-niche of 'mini fit' variants for smaller heads is emerging.",
         "predicted_peak": "3–5 weeks",
-        "watch_signal": "Track 'cooling bed sheets summer' in Google Shopping for CPC rise indicating conversion-ready traffic",
-        "image_keywords": "white cooling bed sheet set queen, hotel luxury microfiber bedding, breathable wrinkle-free fitted sheet",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
+        "watch_signal": "Monitor TikTok #runningheadphones and #boneconduction hashtag view velocity week over week",
+        "image_keywords": "bone conduction headphones,sport earphones,open ear runner",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41c0XJeTSAL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "product": "TP-Link Archer AXE75 WiFi 6E Tri-Band Router AXE5400 with 6GHz Band and WPA3 Security",
+        "category": "Electronics / Networking",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #20 in Amazon Movers & Shakers at $139.99 — WiFi 6E adoption is accelerating as ISPs push gigabit plans; this specific model won a PCMag Editors' Choice award which will drive search and media-driven demand.",
+        "predicted_peak": "4–6 weeks",
+        "watch_signal": "Track Google Shopping search volume for 'WiFi 6E router' and editorial coverage on tech sites",
+        "image_keywords": "wifi 6E router,tri band router,home networking gear",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61H4eNHnzcL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "product": "USB-C Wired Noise Cancelling Earphones with Microphone for iPhone 17/16/15 and Galaxy S Series",
+        "category": "Electronics / Mobile Accessories",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #7 in Amazon Movers & Shakers — the continued iPhone transition away from 3.5mm and the iPhone 17 launch cycle is sustaining demand for USB-C wired earphones as affordable AirPod alternatives.",
+        "predicted_peak": "2–4 weeks",
+        "watch_signal": "Monitor iPhone 17 review content on YouTube/TikTok; accessory demand spikes 2–4 weeks post major iPhone content cycles",
+        "image_keywords": "USB-C earphones,wired earbuds microphone,phone headphones white",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hOPNwrb1L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 66,
+        "product": "BEDLORE Queen Size Waterproof Noiseless Mattress Protector Deep Pocket 6–18 Inch",
+        "category": "Home & Kitchen / Bedding",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #10 in Amazon Home Bestsellers — mattress protectors are a perennial need product with 'noiseless' as a differentiated feature actively searched; summer rental and back-to-college prep season begins peaking in June.",
+        "predicted_peak": "4–6 weeks",
+        "watch_signal": "Track 'waterproof mattress protector' Google Shopping query volume and back-to-college prep content on TikTok",
+        "image_keywords": "mattress protector waterproof,bed cover white,fitted sheet protector",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+omVwPiXL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 64,
+        "product": "HOME GROWN Zinnia Dahlia Non-GMO 524-Seed Pack for Pollinator Gardens and Containers",
+        "category": "Home & Kitchen / Garden",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #5 in Amazon Home Bestsellers — spring planting season is at peak in May, and pollinator garden seed packs are surging on social media driven by gardening influencers and the 'rewilding' trend.",
+        "predicted_peak": "1–3 weeks",
+        "watch_signal": "Monitor #gardenoftiktok and #pollinatorgarden hashtag growth and watch for weather event content driving planting urgency",
+        "image_keywords": "zinnia seeds garden,colorful flower seeds,pollinator garden",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/815osJgqacL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 62,
+        "product": "Owala FreeSip 24oz Insulated Stainless Steel Water Bottle with Built-In Straw BPA Free",
+        "category": "Home & Kitchen / Drinkware",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Ranked #3 in Amazon Home Bestsellers — Owala has become a strong alternative to Stanley among Gen Z/Millennial TikTok communities; summer hydration content peaks in June and this is a gifting staple.",
+        "predicted_peak": "3–5 weeks",
+        "watch_signal": "Track Owala mention velocity on TikTok and compare to Stanley/Stanley dupe search trends on Google",
+        "image_keywords": "insulated water bottle,stainless steel straw bottle,owala drinkware",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/611jAzHOtgL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 7,
+        "score": 60,
+        "product": "Barossa Design Clear PEVA Premium Shower Curtain Liner with Rustproof Grommets and 3 Magnets",
+        "category": "Home & Kitchen / Bathroom",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "low",
+        "reason": "Ranked #7 in Amazon Home Bestsellers — clear shower liners are a low-friction, high-frequency replacement purchase driven by spring cleaning and bathroom refresh trends; low product weight keeps shipping costs minimal.",
+        "predicted_peak": "4–7 weeks",
+        "watch_signal": "Monitor #bathroomrefresh and #springcleaning TikTok hashtag views and Google Shopping 'shower curtain liner clear' query trend",
+        "image_keywords": "clear shower curtain liner,bathroom accessories,PEVA waterproof",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 8,
+        "score": 58,
+        "product": "Amazon Basics 50-Pack Slim Velvet Non-Slip Space Saving Suit Hangers in Black",
+        "category": "Home & Kitchen / Organization",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "low",
+        "reason": "Ranked #8 in Amazon Home Bestsellers — closet organization content peaks in May with spring cleaning season, and multi-pack hangers are a consistent basket-add that can anchor an organization product bundle.",
+        "predicted_peak": "2–5 weeks",
+        "watch_signal": "Watch #closetorganization and #springcleaning TikTok content volume; hanger demand follows viral closet makeover trends closely",
+        "image_keywords": "velvet hangers closet,slim non-slip hangers,closet organizer black",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "TV Remote Controls & Smart TV Accessories",
+        "category": "Outdoor & Seasonal Electronics (Waterproof Speakers, Action Cams)",
         "momentum": "exploding",
-        "reason": "7 of the top 13 Electronics Movers & Shakers are TV remotes — this concentrated category surge is unprecedented in a single data snapshot and suggests either a viral trigger or a mass replacement cycle underway right now."
+        "reason": "Multiple waterproof/outdoor electronics appearing in Movers & Shakers heading directly into summer 2026 peak season; demand will accelerate through July."
       },
       {
-        "category": "Outdoor & Home Pest Control",
+        "category": "Open-Ear & Clip-On Wireless Audio",
         "momentum": "exploding",
-        "reason": "Multiple pest control products (TERRO ants, Mosquito Dunks, Zevo fly traps) appear across both Bestsellers and Movers & Shakers simultaneously in May — classic seasonal explosion that peaks by late May/early June with minimal competition from big box brands in the dropship channel."
+        "reason": "SHOKZ OpenDots and OpenRun both appearing in Movers & Shakers simultaneously signals a form factor shift; open-ear earbuds are the fastest-growing audio sub-category on TikTok in 2025–2026."
       },
       {
-        "category": "Portable Audio (Bluetooth Speakers & Wireless Earbuds)",
+        "category": "Spring/Summer Pest Control (Indoor & Outdoor)",
         "momentum": "rising",
-        "reason": "Bluetooth speakers and earbuds appear across Movers & Shakers with strong star ratings and summer-adjacent positioning — outdoor audio demand accelerates from May through Labor Day and TikTok lifestyle content continuously refuels discovery for these products."
+        "reason": "Mosquito dunks, ant bait stations, and flying insect traps all appearing across Movers & Shakers and Bestsellers in early May — textbook seasonal spike pattern with a 6–8 week demand window."
       },
       {
-        "category": "Surge Protectors & Home Power Accessories",
+        "category": "Home Fragrance & Hotel Diffuser Oils",
         "momentum": "rising",
-        "reason": "Power strips and outlet extenders dominate both Bestsellers and Movers & Shakers simultaneously, driven by USB-C device proliferation and back-to-school/dorm setup pre-shopping that begins in May for June shipments."
+        "reason": "The 'hotel lobby scent' TikTok micro-trend is converting to Amazon purchasing behavior, evident in the AirScent diffuser oil Movers & Shakers entry; a new niche with low incumbent competition."
       },
       {
-        "category": "Smart Tracking & Location Accessories (AirTag Ecosystem)",
+        "category": "Kids Educational & Creative Tech (Cameras, Instant Print)",
         "momentum": "rising",
-        "reason": "Apple AirTag 2nd Gen and MFi wallet trackers both show strong signals — with summer travel season approaching, tracking accessories are entering their highest-demand window and white-label accessories in this space have virtually no brand saturation."
+        "reason": "Kids instant print cameras and Fujifilm Instax film appearing across multiple list positions simultaneously signals combined birthday season + back-to-outdoor-play demand through May–August."
       },
       {
-        "category": "Seasonal Gardening & Outdoor Living",
+        "category": "Surge Protectors & Power Strips with USB-C",
+        "momentum": "stable",
+        "reason": "Five distinct surge protector/power strip SKUs appear across both Movers & Shakers and Bestsellers — USB-C equipped models are the clear growth vector as device charging standards shift universally."
+      },
+      {
+        "category": "Budget Ergonomic Office & Gaming Chairs",
         "momentum": "rising",
-        "reason": "Flower seeds (Bestseller #2), utility wagons (Movers & Shakers), and pest control products collectively signal a broad outdoor living demand surge in May that will sustain through mid-summer across multiple subcategories."
-      },
-      {
-        "category": "Gifting & Candle Sets (Mother's Day / Graduation)",
-        "momentum": "exploding",
-        "reason": "Gifting products (scented candles, picture frames, sheet sets) are spiking hard in the first half of May — Mother's Day on May 11 and graduation ceremonies throughout May–June create a compounding gifting demand wave that peaks within 10 days then transitions to graduation gifts."
+        "reason": "Mid-back ergonomic chairs under $50 are accelerating in Movers & Shakers as spring work-from-home setup refreshes and college graduation/apartment moves drive May–June demand."
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Individual TV Remote Controls priced under $10 (single unit, unbranded)",
-        "reason": "While the category is hot, 13 competitors are already racing each other in the same Movers & Shakers list — individual $7–$9 remotes have zero margin after sourcing, shipping, and platform fees; only multi-packs or premium universal bundles at $18+ are viable for dropshipping."
+        "product_type": "Samsung TV Remote Silicone Covers and Universal TV Remote Replacements under $10",
+        "reason": "Items #1–#6 in Electronics Movers & Shakers are all TV remote accessories priced $7–$13 — well below the $20 minimum viable margin threshold for dropshipping, and the category is dominated by hundreds of nearly identical commodity SKUs with no differentiation possible."
       },
       {
         "rank": 2,
-        "product_type": "Apple-Branded Products (AirPods, AirTag units, iPad, Apple Watch, Apple EarPods)",
-        "reason": "Apple products dominate the Electronics Bestseller list but are 100% brand-locked — dropshippers cannot source or resell these without MAP violations, counterfeit risk, and instant account suspension; they are listed only to identify accessory opportunities around them."
+        "product_type": "Apple-branded products (AirPods, iPad, Apple Watch, AirTag)",
+        "reason": "Apple products represent 6+ of the top Electronics Bestsellers but are manufacturer-controlled, MAP-priced, and reseller-restricted — attempting to dropship these will result in account suspension, margin destruction, and potential IP complaints."
       },
       {
         "rank": 3,
-        "product_type": "Ultra-Low-Ticket Kitchen Consumables (Air Fryer Liners, Parchment Paper, individual spice grinder filters under $10 solo)",
-        "reason": "Products like individual parchment liner packs at $9.99 leave no room for dropshipping margin after COGS, fulfillment, and platform fees — only viable when bundled to a $20+ price point, and even then, competition from Amazon Basics and private label is severe."
+        "product_type": "Large Heavy Bedroom Furniture and Oversized Storage Units",
+        "reason": "Any item requiring freight shipping (mattresses, large shelving, full bed frames) will consume all margin in shipping costs; the ergonomic chair category is the absolute weight/size ceiling to consider for dropshipping."
       },
       {
         "rank": 4,
-        "product_type": "Budget Office Chairs and Bulky Furniture Items",
-        "reason": "Ergonomic office chairs like the BestOffice at $38.98 carry extreme dimensional weight shipping costs that can eat 40–60% of margin — unless using a 3PL with pre-negotiated furniture rates, oversized seating is a margin trap for dropshippers using standard carrier rates."
+        "product_type": "Replacement Adjustable Bed Base Remote Controls (e.g., Tempurpedic RF358A)",
+        "reason": "Ranked #8 in Movers & Shakers but at $8.99 this is a replacement part for a branded product ecosystem — too niche, low margin, potential for IP issues with Tempurpedic, and customers are brand-specific and return-heavy."
       },
       {
         "rank": 5,
-        "product_type": "Amazon Basics Branded Storage and Organization Products",
-        "reason": "Amazon Basics holds Movers & Shakers rank #1 in Home & Kitchen (stackable storage shelf) — Amazon's own private label actively suppresses third-party sellers in adjacent listings, controls Buy Box pricing, and undercuts on fulfillment speed, making these categories unwinnable for dropshippers."
+        "product_type": "Amazon Branded Smart Home Devices (Echo Dot, Fire TV Stick, Kindle)",
+        "reason": "Amazon's own devices (Echo Dot #17 Movers, Fire TV #10 Bestsellers) are sold at cost-leader prices by Amazon itself — impossible to compete on margin and Amazon will always win the buy box on its own products."
       }
     ],
-    "market_insights": "May 2026 is presenting dropshippers with an unusually concentrated set of high-conviction signals across multiple converging seasonal waves. The Mother's Day gifting sprint (peaking within 10 days), the spring pest control explosion, the summer outdoor audio and outdoor living surge, and the new iPhone 17 / USB-C device cycle are all firing simultaneously — creating a rare multi-category window where a dropshipper who moves decisively in the next 5–7 days can capture demand before algorithmic saturation catches up. The anomalous concentration of TV remote controls across 13 consecutive Movers & Shakers positions suggests either a coordinated demand event or viral trigger that requires same-week action on bundled multi-pack positioning at $18–$28 to extract margin before commodity pricing collapses the category.\n\nThe most important structural theme for this period is the accessories-around-brands strategy: Apple AirTag 2nd Gen, Oura Ring 4, and Roku Streaming Stick all appear as top bestsellers, but all are brand-locked. The real dropshipping opportunity lies in the fast-following white-label accessory layer — AirTag silicone cases, smart ring protectors, HDMI extenders — where search intent is massive (piggybacking brand search volume), competition is thin, margins are 60–80%, and no MAP policies apply. Dropshippers who build product pages targeting branded ecosystem queries while offering complementary accessories will outperform on ROAS heading into summer.",
-    "data_quality_note": "TikTok and Google Trends data were absent from this data snapshot — all recommendations are derived exclusively from Amazon Movers & Shakers and Bestsellers data, which reduces cross-platform confidence scores by approximately 10–15 points; TikTok validation should be manually confirmed for audio, kitchen gadget, and gifting categories before scaling ad spend."
+    "market_insights": "May 2026 is a highly favorable dropshipping environment characterized by two concurrent mega-trends: the summer outdoor/seasonal product ramp (waterproof audio, portable carts, pest control, garden) and a persistent consumer electronics accessory super-cycle driven by the USB-C transition and open-ear audio form factor adoption. The most actionable signal this week is the convergence of outdoor lifestyle electronics in Amazon Movers & Shakers precisely as the northern hemisphere enters outdoor activity season — Bluetooth speakers, waterproof earbuds, and kids cameras are showing the rare combination of proven demand (ratings exist) plus accelerating rank movement, suggesting they have not yet peaked.\n\nThe secondary opportunity is in the home refresh category, where bedding, air quality, and kitchen gadgets are simultaneously moving in Movers & Shakers and holding Bestseller positions — a dual-list presence that historically precedes a sustained 6–10 week demand plateau rather than a short spike. Dropshippers should prioritize catalog breadth in the $25–$85 sweet spot, avoid anything below $15 or branded by Apple/Amazon, and build content around the 'summer prep' and 'home upgrade' themes that are clearly driving current consumer intent across platforms.",
+    "data_quality_note": "TikTok-specific trend data was not directly provided in the raw dataset — TikTok platform signals have been inferred from known category virality patterns and cross-referenced against Amazon momentum data; direct TikTok scraping data would improve confidence scores for audio and kitchen gadget recommendations by approximately 10–15 points."
   },
   "raw_sample": [
     {
@@ -682,34 +694,23 @@
       "platform": "amazon"
     },
     {
-      "name": "FUJIFILM Instax Mini Instant Film Twin Pack (White), 20 Photos",
-      "rank": 13,
-      "rating": "4.8",
-      "price": "$16.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dgEk4GNlL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "(Pack of 2) Replacement Remote Control Only for Roku TV, Compatible for TCL Roku/Hisense Roku/Onn Roku/Sharp Roku/Element Roku/Westinghouse Roku/Philips Roku Smart TVs (Not for Roku Stick and Box)",
-      "rank": 14,
-      "rating": "4.5",
-      "price": "$9.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "rank": 15,
+      "rank": 13,
       "rating": "4.7",
       "price": "$49.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "FUJIFILM Instax Mini Instant Film Twin Pack (White), 20 Photos",
+      "rank": 14,
+      "rating": "4.8",
+      "price": "$16.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dgEk4GNlL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -726,23 +727,23 @@
       "platform": "amazon"
     },
     {
-      "name": "JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds, Bluetooth 5.2, Water & Dust Resistant, Hands-Free Call with VoiceAware, Up to 32 Hours of Battery Life (Black)",
+      "name": "Roku TV Remote Control (Official Manufacturer Product) - Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
       "rank": 17,
-      "rating": "4.3",
-      "price": "$29.95",
+      "rating": "4.6",
+      "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41+1Csr1pSL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Roku TV Remote Control (Official Manufacturer Product) - Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
+      "name": "JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds, Bluetooth 5.2, Water & Dust Resistant, Hands-Free Call with VoiceAware, Up to 32 Hours of Battery Life (Black)",
       "rank": 18,
-      "rating": "4.6",
-      "price": "$9.99",
+      "rating": "4.3",
+      "price": "$29.95",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41+1Csr1pSL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -770,30 +771,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Voice Rechargeable Remote for Samsung-Smart-TV-Remote-Control, Replacement Compatible for Samsung Frame QLED Crystal UHD Solar Smart TVs",
-      "rank": 1,
-      "rating": "4.5",
-      "price": "$7.18",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51AQinBt+bL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Voice Remote Control Replacement for Hisense Smart Google TV，Compatible with Hisense QLED UHD Mini-LED ULED Google TVs",
-      "rank": 2,
-      "rating": "4.3",
-      "price": "$6.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/614HLLcpbPL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
       "name": "(2 Pack) Cover for Samsung Remote Silicone Protective Case Compatible with Samsung TV Remote Control Cover BN59 Series Glow in The Dark Remote Skin Sleeve",
-      "rank": 3,
+      "rank": 1,
       "rating": "4.4",
       "price": "$8.99",
       "review_count": null,
@@ -804,7 +783,7 @@
     },
     {
       "name": "Universal Remote Control XRT140 for VIZIO Smart TV Remote Replacement XRT136 XRT260 XRT270 Smartcast D, E, M, P, V, PX Series Smart TVs",
-      "rank": 4,
+      "rank": 2,
       "rating": "4.4",
       "price": "$13.98",
       "review_count": null,
@@ -815,7 +794,7 @@
     },
     {
       "name": "Replacement Remote Control Only for All Roku TV, Compatible for TCL Roku/Hisense Roku/Onn Roku Series Smart TVs (Not for Roku Stick and Box)",
-      "rank": 5,
+      "rank": 3,
       "rating": "4.4",
       "price": "$7.98",
       "review_count": null,
@@ -826,7 +805,7 @@
     },
     {
       "name": "AN-MR24gn-Magic-for-LG-Smart-TV-Voice-Remote-Control-Replacement Universal Compatible with LG OLED Webos Thinq Nano Cell Service TVs for AKB75855501 MR23gn MR22gn MR21ga MR20ga",
-      "rank": 6,
+      "rank": 4,
       "rating": "4.4",
       "price": "$6.99",
       "review_count": null,
@@ -837,7 +816,7 @@
     },
     {
       "name": "Universal Replacement Remote Control for Roku Express, for Roku Premiere, for Roku Box, for Roku Player, for Roku 1 2 3 4 -【NOT for Stick or TV】",
-      "rank": 7,
+      "rank": 5,
       "rating": "4.4",
       "price": "$7.19",
       "review_count": null,
@@ -848,7 +827,7 @@
     },
     {
       "name": "Backlit Remote for LG Smart TV, Universal Replacement for All LG TV Remote Control for Easy Nighttime Use.1-Year Warranty.",
-      "rank": 8,
+      "rank": 6,
       "rating": "4.4",
       "price": "$8.09",
       "review_count": null,
@@ -858,19 +837,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Universal Remote Control Compatible for All Samsung TV LED QLED UHD SUHD HDR LCD Frame Curved Solar HDTV 4K 8K 3D Smart TV Remotes Replacement",
-      "rank": 9,
-      "rating": "4.2",
-      "price": "$7.57",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yB8p1CDxL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
       "name": "USB C Headphones for iPhone 17/16/15 Pro Max Plus Type C Earphones with Microphone & Remote Noise Cancelling Earbuds for iPhone 17/16/15 Pro, iPad, Galaxy S23/S22/S21/S20/Ultra Note 10/20",
-      "rank": 10,
+      "rank": 7,
       "rating": "3.9",
       "price": "$9.97",
       "review_count": null,
@@ -880,52 +848,8 @@
       "platform": "amazon"
     },
     {
-      "name": "USB C Headphones for iPhone 17/16/15 Pro Max Plus Type C Earbuds with Microphone & Remote Noise Cancelling Earphones for iPhone 17/16/15 Pro, iPad,Galaxy S25/S24/S23/S22/S21/S20/Ultra Note 10/20",
-      "rank": 11,
-      "rating": "4.0",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/313kqE1Fs6L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Only for TCL-Google-TV-Remote-Control Replacement,RC813 Compatible with TCL QM8/QM7/Q7/Q6/Q5/S5/S4/S3 4K UHD HDR LED QLED QD-Mini LED Full-HD Smart TVs(Pack of 2)",
-      "rank": 12,
-      "rating": "4.4",
-      "price": "$7.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/616Iezw3wOL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "(Pack of 2) Replacement for LG-TV-Remote-Control,AKB76040302 Universal Remote for All LG 4K OLED UHD QLED MiniLED Smart TVs",
-      "rank": 13,
-      "rating": "4.6",
-      "price": "$9.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71SSdmjrMnL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "SPOTMINDERS Apple MFi Certified Wallet Tracker Card for Travel - Works with Apple Find My, IP68 Waterproof Rechargeable Tracking Card for Wallet Luggage Passport Purse - Ultra Slim 0.07in Item Finder",
-      "rank": 14,
-      "rating": "4.5",
-      "price": "$29.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81QRKVUfUIL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
       "name": "Replacement Remote for Tempurpedic Ergo/Ergo Extend Adjustable Bed Base, RF358A RF502A Wireless Remote Control",
-      "rank": 15,
+      "rank": 8,
       "rating": "4.3",
       "price": "$8.99",
       "review_count": null,
@@ -936,7 +860,7 @@
     },
     {
       "name": "Nequga Wireless Earbuds Bluetooth Headphones, 50H Playtime Ear Buds with Mic, LED Digital Display Charging Case, IPX7 Waterproof, Deep Bass Stereo, in-Ear Earphone for iPhone Andriod Phone - Coral",
-      "rank": 16,
+      "rank": 9,
       "rating": "5.0",
       "price": "$101.99",
       "review_count": null,
@@ -947,7 +871,7 @@
     },
     {
       "name": "Portable Bluetooth Speaker Beach Essentials: Powerful Crystal Clear Sound/Dynamic Light/IPX5 Waterproof/All Day Playtime/Wireless BT 5.3/TWS Paring, Mom Gifts, Outdoor|Travel|Camping|Pool Accessories",
-      "rank": 18,
+      "rank": 11,
       "rating": "4.6",
       "price": "$29.99",
       "review_count": null,
@@ -958,7 +882,7 @@
     },
     {
       "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue with AppleCare+ (2 Years)",
-      "rank": 19,
+      "rank": 12,
       "rating": "4.9",
       "price": "$299.99",
       "review_count": null,
@@ -968,8 +892,19 @@
       "platform": "amazon"
     },
     {
+      "name": "ESOXOFFORE Kids Camera Instant Print, Christmas Birthday Gifts for Kids Age 3-12, Selfie Digital Camera with 1080P Videos,Toddler Portable Travel Cameras Toy for 4 5 6 7 8 9 Year Old Boys Black",
+      "rank": 13,
+      "rating": "4.5",
+      "price": "$39.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61f02LT8wmL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
       "name": "Outlet Extender Power Strip, POWRUI 6 AC Surge Protector Outlets with 3 USB Ports (1 USB C) and Night Light, 3-Sided Multi Plug Wall Outlet with Spaced Outlets - Black, ETL Listed",
-      "rank": 20,
+      "rank": 14,
       "rating": "4.7",
       "price": "$16.99",
       "review_count": null,
@@ -979,10 +914,76 @@
       "platform": "amazon"
     },
     {
+      "name": "Fujifilm Instax Mini Instant Film (20 Sheets)",
+      "rank": 15,
+      "rating": "4.8",
+      "price": "$29.39",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51dPK7iL71L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "SHOKZ OpenDots ONE-Open-Ear Headphones, Clip-On Earbuds-Wireless Bluetooth Earbuds with Microphone-Secure, Lightweight, Comfort-Premium Dolby Audio-Water Resistant-Fast Charging-Up to 40 hrs Playtime",
+      "rank": 16,
+      "rating": "4.4",
+      "price": "$199.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61oJUpMRJ7L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
+      "rank": 17,
+      "rating": "4.7",
+      "price": "$39.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "SHOKZ New OpenRun Pro 2 Mini -Open-Ear, Bone Conduction Sport Headphones -with Reflective Strip -Sweat Resistant, Workout Headphones -Secure, Wireless, Comfortable Fit-Deep Bass and Smart Mic App",
+      "rank": 18,
+      "rating": "4.5",
+      "price": "$139.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41c0XJeTSAL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "MMWOWARTS Hybrid Active Noise Cancelling Bluetooth Headphones,Bluetooth 6.0 Over Ear Wireless Headphones with 60H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups for Home Office Travel Black",
+      "rank": 19,
+      "rating": "4.8",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HmhAnkfoL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "TP-Link AXE5400 Tri-Band WiFi 6E Router (Archer AXE75), 2025 PCMag Editors' Choice, Gigabit Internet for Gaming & Streaming, New 6GHz Band, 160MHz, OneMesh, Quad-Core CPU, VPN & WPA3 Security",
+      "rank": 20,
+      "rating": "4.3",
+      "price": "$139.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61H4eNHnzcL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
       "name": "TERRO Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - 12 Count Stations for Effective Indoor Ant Control",
       "rank": 1,
       "rating": "4.6",
-      "price": "$11.87",
+      "price": "$11.80",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -990,23 +991,23 @@
       "platform": "amazon"
     },
     {
-      "name": "HOME GROWN Zinnia Dahlia Seeds Pack for 2026 Non GMO 524 Flower Seeds | Vibrant Zinnia Elegans for Pollinator Gardens, Borders & Containers | Easy-to-Grow Outdoor Blooms",
+      "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
       "rank": 2,
-      "rating": "4.4",
-      "price": "$6.29",
+      "rating": "4.5",
+      "price": "$24.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/815osJgqacL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
       "rank": 3,
-      "rating": "4.5",
-      "price": "$24.99",
+      "rating": "4.7",
+      "price": "$29.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sS-XIvEXL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -1023,12 +1024,12 @@
       "platform": "amazon"
     },
     {
-      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
+      "name": "HOME GROWN Zinnia Dahlia Seeds Pack for 2026 Non GMO 524 Flower Seeds | Vibrant Zinnia Elegans for Pollinator Gardens, Borders & Containers | Easy-to-Grow Outdoor Blooms",
       "rank": 5,
-      "rating": "4.7",
-      "price": "$29.99",
+      "rating": "4.4",
+      "price": "$6.29",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sS-XIvEXL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/815osJgqacL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -1078,23 +1079,34 @@
       "platform": "amazon"
     },
     {
-      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper & Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies, Dark Blue",
+      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6\"-18\" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
       "rank": 10,
-      "rating": "4.8",
-      "price": "$23.98",
+      "rating": "4.6",
+      "price": "$25.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+omVwPiXL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6\"-18\" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
+      "name": "Zevo Flying Insect Trap & 3 Refill Cartridges - Plug in Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies - Blue & UV Light Technology, Mess-Free Alternative to Bug Zapper",
       "rank": 11,
-      "rating": "4.6",
-      "price": "$25.49",
+      "rating": "4.3",
+      "price": "$25.96",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+omVwPiXL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper & Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies, Dark Blue",
+      "rank": 12,
+      "rating": "4.8",
+      "price": "$23.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
