@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Team Obsidian AI — Links</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Inter:wght@400;500;600&display=swap"/>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -15,7 +17,7 @@
       flex-direction: column;
       align-items: center;
       justify-content: flex-start;
-      padding: 48px 24px 64px;
+      padding: 0 24px 64px;
     }
 
     /* Profile section */
@@ -146,29 +148,44 @@
     .divider-label { font-size: 11px; color: #444; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; }
 
     /* Nav bar */
-    .top-nav {
-      position: fixed;
-      top: 0; left: 0; right: 0;
-      display: flex;
-      justify-content: center;
-      gap: 8px;
-      padding: 12px 16px;
-      background: rgba(10,10,10,0.92);
-      backdrop-filter: blur(8px);
-      border-bottom: 1px solid #1a1a1a;
-      z-index: 100;
+    .site-nav {
+      position: sticky; top: 0; z-index: 100;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      background: rgba(4,4,4,0.92);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
     }
-    .top-nav a {
-      font-size: 13px;
-      font-weight: 600;
-      color: #555;
-      text-decoration: none;
-      padding: 6px 14px;
-      border-radius: 8px;
-      transition: color 0.15s, background 0.15s;
+    .nav-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px; max-width: 1200px; margin: 0 auto;
     }
-    .top-nav a:hover { color: #fff; background: #1a1a1a; }
-    .top-nav a.active { color: #6ee7b7; }
+    .logo { display: flex; align-items: center; gap: 10px; }
+    .logo-mark {
+      width: 32px; height: 32px; border-radius: 50%;
+      border: 2px solid rgba(255,255,255,0.75);
+      display: flex; align-items: center; justify-content: center;
+    }
+    .logo-mark-inner { width: 10px; height: 10px; border-radius: 50%; background: #fff; }
+    .logo-text { font-family: 'Space Grotesk', sans-serif; font-size: 16px; font-weight: 700; letter-spacing: -0.5px; color: #f0f0f0; }
+    .logo-text em { color: #6ee7b7; font-style: normal; }
+    .nav-pill {
+      display: flex; align-items: center; gap: 2px;
+      background: rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 100px; padding: 4px;
+    }
+    .nav-link {
+      font-size: 13px; font-weight: 500; color: rgba(240,240,240,0.48);
+      padding: 7px 15px; border-radius: 100px;
+      transition: color 0.2s, background 0.2s;
+    }
+    .nav-link:hover { color: #fff; background: rgba(255,255,255,0.07); }
+    .nav-link.active { color: #6ee7b7; background: rgba(110,231,183,0.10); }
+    .nav-cta {
+      font-size: 13px; font-weight: 600; color: #000;
+      background: #6ee7b7; padding: 7px 16px;
+      border-radius: 100px; transition: background 0.2s;
+    }
+    .nav-cta:hover { background: #8ff0cb; }
 
     /* Footer */
     footer {
@@ -184,14 +201,23 @@
 </head>
 <body>
 
-  <nav class="top-nav">
-    <a href="index.html">Home</a>
-    <a href="web-design.html">Web Design</a>
-    <a href="davlog.html">Build Log</a>
-    <a href="links.html" class="active">Links</a>
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-mark"><div class="logo-mark-inner"></div></div>
+        <span class="logo-text">Team <em>Obsidian</em> AI</span>
+      </a>
+      <div class="nav-pill">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="web-design.html" class="nav-link">Web Design</a>
+        <a href="davlog.html" class="nav-link">Build Log</a>
+        <a href="links.html" class="nav-link active">Links</a>
+      </div>
+      <a href="start.html" class="nav-cta">Get Started</a>
+    </div>
   </nav>
 
-  <div class="profile" style="margin-top: 56px;">
+  <div class="profile" style="margin-top: 40px;">
     <div class="avatar">
       <span class="avatar-text">TO</span>
     </div>
