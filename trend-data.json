@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T10:16:13.735080+00:00",
+  "generated_at": "2026-05-15T10:24:22.134611+00:00",
   "stats": {
-    "total_products_scraped": 231,
+    "total_products_scraped": 233,
     "by_platform": {
-      "amazon": 231
+      "amazon": 233
     }
   },
   "analysis": {
@@ -11,549 +11,551 @@
       {
         "rank": 1,
         "score": 91,
-        "product": "Cruise-Approved Travel Power Strip with USB-C Ports and Short Extension Cord",
-        "category": "Electronics / Travel Accessories",
+        "product": "Flat Plug Surge Protector Power Strip Tower with 12 AC Outlets and 4 USB-C Ports 6FT Cord",
+        "category": "Electronics / Home Office",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Two separate cruise-approved power strips appear in Amazon Movers & Shakers (ranks #3 and #16), signaling a strong seasonal travel surge heading into summer 2026. Price point ($17–$22) is ideal for dropshipping margin, and 'cruise essentials' is a high-intent Google Shopping query.",
-        "price_range": "$24–$39",
+        "reason": "Multiple surge protector SKUs are simultaneously dominating both Amazon Movers & Shakers (#4, #7, #12) AND Bestsellers (#9, #11, #16), signaling explosive multi-SKU category momentum perfect for a generic dropship angle. Price point ($20–$35) hits the margin sweet spot and work-from-home demand is evergreen.",
+        "price_range": "$25–$45 suggested retail",
         "margin_estimate": "high",
-        "urgency": "Act within 5 days",
+        "urgency": "Act within 3–5 days",
         "search_terms": [
-          "cruise approved power strip",
-          "cruise ship power strip USB C",
-          "travel power strip no surge protector"
+          "flat plug surge protector",
+          "power strip tower USB-C",
+          "surge protector 12 outlet 6ft cord"
         ],
-        "image_keywords": "travel power strip, cruise accessories, compact outlet extender",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61trHd7fUBL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "power strip, surge protector, USB outlets",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61n3RbvmN0L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
         "score": 88,
-        "product": "Portable IPX5 Waterproof Bluetooth Speaker with LED Light and TWS Pairing",
-        "category": "Electronics / Outdoor Audio",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #4 in Amazon Movers & Shakers at $29.99 with strong summer timing — outdoor/pool/camping season is peaking and LED-lit Bluetooth speakers are viral TikTok content bait. Excellent margin opportunity at $45–$70 retail.",
-        "price_range": "$45–$70",
-        "margin_estimate": "high",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "waterproof bluetooth speaker outdoor",
-          "LED bluetooth speaker pool",
-          "wireless speaker camping summer"
-        ],
-        "image_keywords": "waterproof bluetooth speaker, LED glowing speaker, outdoor pool party speaker",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81p9DPknjLL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 85,
-        "product": "GOOTOP-Style 4200V Bug Zapper Electric Mosquito Killer Outdoor Plug-In",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #4 in Home & Kitchen Movers & Shakers at a $29.99 retail entry point, perfectly timed for May–July mosquito season with proven demand and no major brand dominance — ideal white-label dropship opportunity.",
-        "price_range": "$32–$55",
-        "margin_estimate": "high",
-        "urgency": "Act within 5 days",
-        "search_terms": [
-          "bug zapper outdoor electric",
-          "mosquito killer plug in",
-          "flying insect zapper 4200V"
-        ],
-        "image_keywords": "electric bug zapper, mosquito killer outdoor, glowing insect trap",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fATgj5scL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 4,
-        "score": 83,
-        "product": "Peppermint Oil Rodent and Pest Repellent Pouches 24-Pack Indoor Outdoor",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #3 in Home & Kitchen Movers & Shakers at $23.99, tapping into the growing preference for natural, pet-safe pest control — a high-margin, lightweight, repeatable-purchase product with zero brand saturation.",
-        "price_range": "$28–$42",
-        "margin_estimate": "high",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "peppermint oil mouse repellent",
-          "natural pest repellent pouches",
-          "rodent deterrent non toxic"
-        ],
-        "image_keywords": "peppermint pest repellent pouches, natural mouse deterrent, green pest control bags",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81bqrqIVRJL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 82,
-        "product": "2-in-1 Travel Clothes Steamer and Iron Portable 15-Second Heat-Up Global Voltage",
-        "category": "Home & Kitchen / Travel Garment Care",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #5 in Home & Kitchen Movers & Shakers at $59.99 with dual-voltage functionality for international travel — premium ticket item entering summer travel season with high perceived value and strong margins.",
-        "price_range": "$65–$95",
-        "margin_estimate": "high",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "travel steamer iron 2 in 1",
-          "portable clothes steamer travel size",
-          "mini steamer iron global voltage"
-        ],
-        "image_keywords": "portable travel clothes steamer, handheld garment iron, compact steam iron",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lWPmMhHwL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
-        "score": 80,
-        "product": "Rechargeable Handheld Milk Frother Coffee Wand with Stainless Steel Whisk",
-        "category": "Home & Kitchen / Coffee Accessories",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #7 in Home & Kitchen Movers & Shakers and a perennial TikTok viral item in coffee/matcha content — lightweight, giftable, under $15 sourcing cost with strong $22–$35 retail positioning.",
-        "price_range": "$22–$35",
-        "margin_estimate": "high",
-        "urgency": "Act within 10 days",
-        "search_terms": [
-          "rechargeable milk frother handheld",
-          "coffee frother wand matcha",
-          "electric drink mixer frother"
-        ],
-        "image_keywords": "handheld milk frother, coffee wand frother, electric drink mixer",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ojvaPYUpL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 7,
-        "score": 78,
-        "product": "Foldable Portable Square Table 34-Inch with Built-In Handle and Steel Legs",
-        "category": "Home & Kitchen / Outdoor Furniture",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #9 in Home & Kitchen Movers & Shakers at $43.85 with summer events, camping, and outdoor dining season creating surge demand — foldable utility furniture is a proven repeat seasonal winner.",
-        "price_range": "$49–$75",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "portable folding table outdoor",
-          "foldable camping table with handle",
-          "lightweight square party table"
-        ],
-        "image_keywords": "folding portable table outdoors, square foldable table camping, steel leg utility table",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rqXMkcA-L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 8,
-        "score": 76,
-        "product": "JLab Go Pop ANC True Wireless Earbuds with Active Noise Cancelling Charging Case",
+        "product": "Hybrid Active Noise Cancelling Over-Ear Bluetooth 6.0 Headphones 120H Playtime Hi-Res Audio Memory Foam Earcups",
         "category": "Electronics / Audio",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Ranked #11 in Electronics Movers & Shakers at $24.69 — ANC earbuds under $30 are a hot category with massive search volume, and this non-Apple unbranded-style price point leaves solid dropship margin headroom.",
-        "price_range": "$35–$55",
-        "margin_estimate": "medium",
-        "urgency": "Act within 10 days",
+        "reason": "Sitting at Amazon Movers & Shakers #2 with a stellar 4.9★ rating at $68.99, this unbranded ANC headphone is in the exact price range dropshippers thrive in, without the big-brand lock-out that kills Sony or Beats margins. ANC headphones are a perennially viral TikTok category.",
+        "price_range": "$59–$89 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 5–7 days",
         "search_terms": [
-          "ANC wireless earbuds under 30",
-          "true wireless earbuds noise cancelling budget",
-          "compact earbuds charging case ANC"
+          "ANC headphones 120 hour playtime",
+          "hybrid noise cancelling wireless headphones",
+          "over ear Bluetooth 6.0 headphones"
         ],
-        "image_keywords": "wireless earbuds charging case, ANC earbuds black, true wireless earphones compact",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MBGb+Fx9L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "over-ear headphones, noise cancelling, wireless audio",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Xwww4damL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 9,
-        "score": 74,
-        "product": "Vacuum Storage Bags with Hand Pump 10-Pack Space Saver for Clothing and Blankets",
-        "category": "Home & Kitchen / Storage & Organization",
+        "rank": 3,
+        "score": 85,
+        "product": "Peppermint Oil Rodent Repellent Pouches 24-Pack Natural Mouse Deterrent Indoor Outdoor Pet Safe",
+        "category": "Home & Kitchen / Pest Control",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Ranked #2 in Home & Kitchen Movers & Shakers at $15.99 — entering peak summer travel and home organization season, these are lightweight, high-perceived-value items with excellent margins and repeat gifting appeal.",
-        "price_range": "$22–$34",
+        "reason": "Two separate peppermint rodent repellent SKUs are cracking top-6 in Amazon Home & Kitchen Movers & Shakers simultaneously — a rare multi-SKU surge indicating a breakout moment, with the 24-pack sitting at $23.99 and perfect for bundling. Natural/pet-safe angle plays extremely well on TikTok and Instagram.",
+        "price_range": "$22–$35 suggested retail",
         "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "urgency": "Act within 3–5 days",
         "search_terms": [
-          "vacuum storage bags travel luggage",
-          "space saver bags with hand pump",
-          "vacuum seal bags blankets clothing"
+          "peppermint oil mouse repellent",
+          "natural rodent deterrent pouches",
+          "pet safe mouse repellent indoor"
         ],
-        "image_keywords": "vacuum storage bags compressed, space saver packing bags, travel compression bags",
+        "image_keywords": "peppermint pouches, mouse deterrent, natural pest control",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81bqrqIVRJL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 83,
+        "product": "GODONLIF Candle Warmer Lamp with Timer Dimmable 2 Bulbs Home Decor Gift",
+        "category": "Home & Kitchen / Home Decor",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "Candle warmer lamps are a proven TikTok viral product category and this specific model is rising fast in Amazon Movers & Shakers H&K at rank #9 with 4.7★ — dual-platform momentum at a perfect $18–$35 retail window with strong gifting positioning.",
+        "price_range": "$22–$40 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 5–7 days",
+        "search_terms": [
+          "candle warmer lamp dimmable timer",
+          "wax melt warmer jar candles",
+          "candle warmer lamp gift women"
+        ],
+        "image_keywords": "candle warmer lamp, dimmable light, home decor",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/810vcJJDrkL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 81,
+        "product": "USB-C Hub Multiport Adapter 6-in-1 with 4K HDMI SD/TF Card Reader USB 3.0 for MacBook M1 M2 M3 M4",
+        "category": "Electronics / Accessories",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Cracking Amazon Movers & Shakers Electronics #10 at $25.98, USB-C hubs are an unbranded-friendly category with huge addressable market as MacBook M-series laptops continue to proliferate; lightweight, easy to ship, and no brand barrier to dropship.",
+        "price_range": "$25–$45 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "USB-C hub MacBook multiport adapter",
+          "6 in 1 HDMI dongle MacBook",
+          "type-c hub 4K HDMI SD card reader"
+        ],
+        "image_keywords": "USB-C hub, multiport adapter, laptop accessories",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ORm2kWzuL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 79,
+        "product": "Vacuum Storage Bags with Hand Pump 10-Pack Space Saver for Clothing Blankets Travel Luggage",
+        "category": "Home & Kitchen / Organization",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "Fygrip Vacuum Storage Bags appeared in Amazon H&K Movers & Shakers at #11 as we head into late-spring/summer travel and storage season — this category consistently goes viral on TikTok with satisfying compression videos and has proven impulse-buy behavior.",
+        "price_range": "$18–$32 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 5–7 days",
+        "search_terms": [
+          "vacuum storage bags with hand pump",
+          "space saver bags clothing travel",
+          "compression bags blankets luggage"
+        ],
+        "image_keywords": "vacuum storage bags, space saving, compression bags",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/713qu5FhjSL._AC_UL300_SR300,200_.jpg"
       },
       {
+        "rank": 7,
+        "score": 77,
+        "product": "Adhesive Shower Caddy Organizer 7-Pack Rustproof Stainless Steel No-Drill Bathroom Shelf with Soap Dish and Hooks",
+        "category": "Home & Kitchen / Bathroom",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "NESOMI Shower Caddy at Amazon H&K Movers & Shakers #5 at $14.99 with strong potential to retail at $28–$40 — bathroom organization is a top-performing TikTok niche and the no-drill adhesive angle is a viral hook. Lightweight, easy to ship, high margin.",
+        "price_range": "$28–$42 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "adhesive shower caddy no drill",
+          "rustproof stainless shower organizer",
+          "bathroom shelf no drill adhesive"
+        ],
+        "image_keywords": "shower caddy, bathroom shelf, stainless steel organizer",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71L2coC4CeL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 8,
+        "score": 75,
+        "product": "Bamboo-Derived Rayon Pillow Top Mattress Topper Cooling Twin Size for Hot Sleepers Back Pain Relief",
+        "category": "Home & Kitchen / Bedding",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "The Niagara Sleep Solution cooling mattress topper cracked Amazon H&K Movers & Shakers #7 at $33.99 — cooling sleep products are a perennial high-volume category with strong search intent and excellent margins in the $40–$80 retail range for dropshippers.",
+        "price_range": "$40–$75 suggested retail",
+        "margin_estimate": "medium",
+        "urgency": "Act within 7–10 days",
+        "search_terms": [
+          "bamboo mattress topper cooling",
+          "pillow top mattress pad hot sleepers",
+          "cooling mattress topper twin back pain"
+        ],
+        "image_keywords": "mattress topper, bamboo bedding, cooling sleep",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71QBFckEDBL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 9,
+        "score": 73,
+        "product": "Clip-On Open-Ear Wireless Bluetooth 6.0 Earbuds 50H Playtime LED Display IPX5 Waterproof for Glasses Wearers",
+        "category": "Electronics / Audio",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "King Lucky Clip-On Earbuds Gen 3 at Amazon Movers & Shakers #8 for $23.06 targets an underserved niche (glasses wearers, secure-fit users) with Bluetooth 6.0 freshness — unbranded-friendly, lightweight, and priced perfectly for $35–$55 retail dropship margin.",
+        "price_range": "$30–$55 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 7–10 days",
+        "search_terms": [
+          "clip on earbuds glasses wearers",
+          "open ear wireless earbuds secure fit",
+          "Bluetooth 6.0 clip earbuds 50H"
+        ],
+        "image_keywords": "clip-on earbuds, open ear headphones, wireless audio",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Yd3NNTbyL._AC_UL300_SR300,200_.jpg"
+      },
+      {
         "rank": 10,
-        "score": 72,
-        "product": "USB-C to 3.5mm Headphone Jack Adapter Dongle 2-Pack for iPhone 15/16 and Samsung",
-        "category": "Electronics / Phone Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Ranked #5 in Electronics Movers & Shakers — iPhone 16/17 upgrade cycles are driving massive demand for USB-C audio adapters, and 2-packs at $5.99 source price can retail at $14–$18 with strong conversion on bundled listings.",
-        "price_range": "$14–$22",
-        "margin_estimate": "medium",
-        "urgency": "Act within 10 days",
-        "search_terms": [
-          "USB C to headphone jack adapter iPhone 16",
-          "USB C aux adapter 2 pack",
-          "USB C 3.5mm dongle Samsung iPhone"
-        ],
-        "image_keywords": "USB-C headphone adapter dongle, audio jack converter cable, phone aux adapter",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61--slR8sKL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 11,
         "score": 70,
-        "product": "Surge Protector Power Strip 8 Outlets with 4 USB Ports and 5-6 Foot Extension Cord Flat Plug",
-        "category": "Electronics / Power Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Multiple surge protector/power strip variants occupy both Movers & Shakers and Bestsellers simultaneously, confirming a category supercycle driven by WFH setups, dorm season prep (June–August), and home office demand.",
-        "price_range": "$22–$38",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "surge protector power strip 8 outlets USB",
-          "flat plug power strip wall mount",
-          "dorm room power strip USB C"
-        ],
-        "image_keywords": "power strip surge protector outlets, flat plug extension cord, USB charging power strip",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ktZoGBpVL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 12,
-        "score": 68,
-        "product": "Foil Fringe Tinsel Backdrop Curtain Party Decoration 3-Pack Pink/Gold/Silver",
-        "category": "Home & Kitchen / Party Decorations",
+        "product": "Fujifilm Instax Mini 12 Instant Camera Blossom Pink",
+        "category": "Electronics / Cameras",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Ranked #10 in Home & Kitchen Movers & Shakers — graduation season (May–June) and summer party content on TikTok are driving fringe backdrop demand, making this a fast-turnover, ultra-lightweight dropship item with high visual appeal.",
-        "price_range": "$14–$24",
-        "margin_estimate": "high",
-        "urgency": "Act within 5 days — seasonal peak NOW",
+        "reason": "Rising to Amazon Movers & Shakers #9 at $87.93 with 4.6★ during graduation/summer gifting season — Instax cameras are perennial TikTok viral gift products and the May–June graduation window makes this a timely buy, though brand lock-in limits margin vs. generics.",
+        "price_range": "$85–$110 suggested retail",
+        "margin_estimate": "low",
+        "urgency": "Act within 5 days — graduation season is NOW",
         "search_terms": [
-          "foil fringe backdrop curtain party",
-          "tinsel streamers graduation decoration",
-          "pink gold fringe backdrop birthday"
+          "Fujifilm Instax Mini 12 pink",
+          "instant camera gift graduation",
+          "Instax mini camera blossom pink"
         ],
-        "image_keywords": "tinsel fringe backdrop curtain, party decoration foil streamers, graduation celebration backdrop",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/91R+2stL86L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "instant camera, pink camera, Fujifilm Instax",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51NKZwaCs4L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 11,
+        "score": 67,
+        "product": "Zevo Flying Insect Plug-In Trap with Blue and UV Light Technology Indoor Bug Catcher for Gnats and Fruit Flies",
+        "category": "Home & Kitchen / Pest Control",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Three Zevo SKUs swept the top 3 of Amazon H&K Movers & Shakers simultaneously — an extraordinary category signal for indoor insect traps right as summer pest season begins; brand risk exists but similar unbranded UV traps can be sourced and sold at strong margin.",
+        "price_range": "$22–$38 suggested retail",
+        "margin_estimate": "high",
+        "urgency": "Act within 5–7 days",
+        "search_terms": [
+          "UV plug in fly trap indoor",
+          "flying insect trap gnats fruit flies",
+          "blue light bug catcher plug in"
+        ],
+        "image_keywords": "fly trap, UV light insect catcher, plug-in pest control",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 12,
+        "score": 64,
+        "product": "JLab JBuds Lux ANC Over-Ear Headphones Active Noise Cancelling Bluetooth Cloud White",
+        "category": "Electronics / Audio",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "JLab's budget-friendly ANC over-ear headphones appear in both Movers & Shakers (#17) and indirectly validate the ANC headphone category surge — dropshipping white-label ANC over-ear alternatives in this $60–$90 range is a strong play while the category is hot.",
+        "price_range": "$55–$85 suggested retail",
+        "margin_estimate": "medium",
+        "urgency": "Act within 10 days",
+        "search_terms": [
+          "ANC over ear headphones budget",
+          "wireless noise cancelling headphones white",
+          "JLab style ANC Bluetooth headphones"
+        ],
+        "image_keywords": "over-ear headphones, white headphones, active noise cancelling",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GdqwRWKdL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "rising_fast": [
       {
         "rank": 1,
-        "score": 84,
-        "product": "Compact Portable Bluetooth Speaker with IPX7 Waterproof and RGB LED Lighting",
-        "category": "Electronics / Outdoor Audio",
+        "score": 82,
+        "product": "Outdoor Wireless Security Camera with Two-Year Battery Life and Two-Way Talk",
+        "category": "Electronics / Smart Home Security",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Blink Outdoor 4 and Ring Wired Doorbell Plus both appearing in Bestsellers signals that the home security camera category is in strong seasonal upswing as homeowners prep for summer vacations and package deliveries.",
+        "signal": "Two distinct home security camera SKUs in Amazon Electronics Bestsellers top-15 simultaneously with strong review counts; summer vacation season driving purchase intent.",
+        "price_range": "$45–$90 suggested retail",
+        "margin_estimate": "medium",
+        "image_keywords": "security camera, wireless outdoor camera, home surveillance",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41HqQuiOi2L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 79,
+        "product": "Owala FreeSip Style Insulated Stainless Steel Water Bottle with Straw 24oz BPA-Free",
+        "category": "Home & Kitchen / Drinkware",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Summer 2026 outdoor season has fully ignited pool party and camping content on TikTok while Amazon signals accelerating rank for this product archetype across multiple listings simultaneously.",
-        "signal": "Amazon Electronics Movers & Shakers rank #4 plus TikTok summer outdoor content surge in May",
-        "price_range": "$40–$70",
-        "margin_estimate": "high",
-        "image_keywords": "RGB bluetooth speaker waterproof, glowing portable speaker, outdoor wireless speaker LED",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cUTDCSe0L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
-        "score": 80,
-        "product": "Natural Peppermint Pest Repellent Pouches Multi-Pack Pet-Safe Indoor Outdoor",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Rising sharply into late spring as homeowners shift to non-toxic pest control ahead of summer insect season, with zero major brand dominance enabling fast dropship entry.",
-        "signal": "Amazon Home & Kitchen Movers & Shakers rank #3 with spring-to-summer seasonal momentum shift",
-        "price_range": "$25–$42",
-        "margin_estimate": "high",
-        "image_keywords": "peppermint pest repellent sachet, natural mouse deterrent, eco pest control pouch",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81bqrqIVRJL._AC_UL300_SR300,200_.jpg"
+        "reason": "Owala FreeSip sits at Amazon H&K Bestsellers #3 and is a proven TikTok-viral water bottle format; summer outdoor season is accelerating demand for this aesthetic, functional drinkware category.",
+        "signal": "Top-3 Amazon H&K Bestseller position entering peak summer hydration season; TikTok 'WaterTok' and gym aesthetic trends sustaining virality.",
+        "price_range": "$28–$45 suggested retail",
+        "margin_estimate": "medium",
+        "image_keywords": "insulated water bottle, stainless steel straw bottle, sport water bottle",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 77,
-        "product": "Electric Plug-In Bug Zapper with UV Light for Outdoor Patio and Garden 4200V",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 76,
+        "product": "2026 Graduation Party Banner Decorations Black Glitter We Are So Proud Of You Garland",
+        "category": "Home & Kitchen / Party Supplies",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Mosquito and flying insect season is entering peak velocity in mid-May across the US South and Midwest, pushing this category into rapid rank acceleration.",
-        "signal": "Amazon Home & Kitchen Movers & Shakers rank #4 with May–July seasonal insect peak driving acceleration",
-        "price_range": "$30–$52",
-        "margin_estimate": "high",
-        "image_keywords": "electric bug zapper UV light, outdoor mosquito killer, patio insect zapper",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+        "reason": "Graduation banners cracked Amazon H&K Movers & Shakers #8 dated squarely in peak graduation season (May–June 2026) — this is a short but intense seasonal spike with near-zero competition window.",
+        "signal": "Amazon H&K Movers & Shakers #8 in mid-May = peak graduation season impulse buying; urgency is extremely high but window closes by late June.",
+        "price_range": "$12–$22 suggested retail",
+        "margin_estimate": "medium",
+        "image_keywords": "graduation banner, party decoration, black glitter garland",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51KJPEpJrZL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 74,
-        "product": "Cruise Ship Travel Power Strip Non-Surge with USB-C 2026 Carnival Princess Compatible",
-        "category": "Electronics / Travel Accessories",
+        "score": 72,
+        "product": "Samsung 22-Inch IPS Monitor 100Hz Refresh Rate AMD FreeSync Advanced Eye Care",
+        "category": "Electronics / Monitors",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Two cruise-specific power strips in the same Movers & Shakers list signals a category breakout tied to the June–August cruise booking and departure surge.",
-        "signal": "Dual Movers & Shakers appearances (ranks #3 and #16) in same category within same weekly snapshot",
-        "price_range": "$22–$38",
-        "margin_estimate": "high",
-        "image_keywords": "cruise ship power strip, travel outlet adapter compact, no surge USB-C travel strip",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RkhBuKQ+L._AC_UL300_SR300,200_.jpg"
+        "reason": "Both a Dell 24\" and Samsung 22\" monitor appearing in Amazon Electronics Movers & Shakers (#13 and #14) signals a budget monitor surge — likely driven by back-to-school prep purchases beginning in May, a trend that will accelerate through July–August.",
+        "signal": "Dual monitor SKUs in Amazon Movers & Shakers simultaneously; back-to-school and WFH setup season beginning early.",
+        "price_range": "$75–$130 suggested retail",
+        "margin_estimate": "low",
+        "image_keywords": "computer monitor, IPS display, desktop screen",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bk3j4agoL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 71,
-        "product": "Zinnia Flower Seeds Mixed Colors Bulk 1-Ounce Packet 3000+ Seeds Pollinator Garden",
-        "category": "Home & Kitchen / Garden",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Zinnia seeds appear in both Movers & Shakers (#6) and Bestsellers (#5) simultaneously in May — peak planting season is driving explosive short-term demand for this inexpensive, lightweight, high-margin item.",
-        "signal": "Simultaneous presence in both Bestsellers and Movers & Shakers during peak May gardening window",
-        "price_range": "$12–$20",
-        "margin_estimate": "high",
-        "image_keywords": "zinnia flower seeds packet, colorful garden flower seeds, mixed zinnia blooms",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/91izbimftUL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
         "score": 68,
-        "product": "Slim Velvet Non-Slip Space-Saving Suit Clothes Hangers 50-Pack Closet Organizer",
-        "category": "Home & Kitchen / Closet Organization",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Consistently appearing in Bestsellers during the spring home refresh cycle when consumers reorganize closets post-winter — a steady climbing signal with reliable repeat purchase behavior.",
-        "signal": "Amazon Home & Kitchen Bestsellers rank #8 with spring home organization seasonal boost",
-        "price_range": "$18–$28",
-        "margin_estimate": "medium",
-        "image_keywords": "velvet slim hangers closet, space saving clothes hangers, black velvet suit hangers",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg"
-      }
-    ],
-    "buy_soon": [
-      {
-        "rank": 1,
-        "score": 73,
-        "product": "Portable Outdoor Folding Camping Table with Handle and Heavy-Duty Steel Frame",
-        "category": "Home & Kitchen / Outdoor Furniture",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Memorial Day weekend and summer camping season will drive a secondary spike for portable outdoor furniture starting late May through July — current Movers & Shakers signal is an early leading indicator.",
-        "predicted_peak": "2–3 weeks",
-        "watch_signal": "Monitor Amazon BSR acceleration in Patio/Lawn/Garden and Camping categories for folding tables",
-        "image_keywords": "folding camping table portable, outdoor folding table steel legs, portable event table",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rqXMkcA-L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
-        "score": 71,
-        "product": "Owala FreeSip Style Insulated Stainless Steel Water Bottle with Built-In Straw 24–40oz",
-        "category": "Home & Kitchen / Hydration",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "medium",
-        "reason": "Already in Amazon Bestsellers Top 3 and historically a summer TikTok hydration trend — private-label or inspired alternatives will peak sharply June–August as heat increases and outdoor content dominates social feeds.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "TikTok #watertok and #hydration hashtag view acceleration and Amazon non-Owala branded BSR entries",
-        "image_keywords": "insulated water bottle straw lid, stainless steel tumbler bottle, colorful hydration bottle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51clcjX2xnL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 69,
-        "product": "Soundcore-Style Over-Ear ANC Wireless Headphones 40H Battery Hi-Res Bluetooth",
+        "product": "Soundcore by Anker Hybrid ANC Wireless Over-Ear Headphones 40H Playtime Hi-Res Audio Transparency Mode",
         "category": "Electronics / Audio",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Budget ANC headphones are in Amazon Bestsellers Top 20 and summer graduation gifting season (May–June) will spike demand for wireless audio gifts in the $30–$60 range.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Watch for ANC headphones under $50 entering Movers & Shakers or Google Shopping 'rising queries' for graduation gifts",
-        "image_keywords": "over-ear wireless headphones ANC, noise cancelling headphones folded, Bluetooth headphones gift",
+        "reason": "Soundcore Q20i-style ANC headphones appearing in both Bestsellers (#18) and validating the broader ANC category surge in Movers & Shakers — the Anker/Soundcore brand signals the budget ANC space is heating up, with white-label equivalents as the dropship play.",
+        "signal": "ANC headphone category has 5+ SKUs active across both Bestsellers and Movers & Shakers simultaneously — rare multi-SKU category dominance.",
+        "price_range": "$45–$75 suggested retail",
+        "margin_estimate": "medium",
+        "image_keywords": "ANC headphones, over-ear wireless, budget audio",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/51CnDMbXZzL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 4,
-        "score": 67,
-        "product": "Instax Mini Instant Film Compatible Accessories Kit — Frames, Albums, and Carrying Cases",
-        "category": "Electronics / Instant Photography",
+        "rank": 6,
+        "score": 64,
+        "product": "Flexzilla-Style Flexible All-Weather Lightweight Garden Hose 50ft Leak-Free",
+        "category": "Home & Kitchen / Garden",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Flexzilla garden hose at Amazon H&K Bestsellers #9 in May signals peak summer gardening season kick-off — flexible, lightweight garden hoses are a proven seasonal dropship product that sells hard May through August.",
+        "signal": "Top-10 Amazon H&K Bestseller position in peak spring/summer gardening season; outdoor home improvement spending surging.",
+        "price_range": "$30–$55 suggested retail",
+        "margin_estimate": "medium",
+        "image_keywords": "garden hose, flexible water hose, outdoor watering",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oERUaDzWL._AC_UL300_SR300,200_.jpg"
+      }
+    ],
+    "buy_soon": [
+      {
+        "rank": 1,
+        "score": 72,
+        "product": "Cordless Mini Handheld Garment Steamer Travel Size with Auto-Shutoff Fast Heat-Up",
+        "category": "Home & Kitchen / Clothing Care",
+        "platforms": [
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "As summer travel and graduation events peak in late May–June, handheld garment steamers historically spike on TikTok with 'wrinkle-free outfit' content — the travel-size format is the ideal $25–$50 dropship SKU.",
+        "predicted_peak": "3–5 weeks (mid to late June 2026)",
+        "watch_signal": "Monitor TikTok #garmentssteamer and #travelsteamer view counts; watch Amazon searches for 'travel steamer' on Google Trends.",
+        "image_keywords": "handheld steamer, garment steamer, travel clothing care",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nIKmAtW6L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "product": "Portable Neck Fan Bladeless Wearable Personal Cooling Fan with 3 Speeds USB Rechargeable",
+        "category": "Electronics / Personal Cooling",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Fujifilm Instax film is in Amazon Electronics Bestsellers and graduation/summer photo gifting drives a seasonal accessories spike — cases, albums, and frames are unbranded dropship-friendly and margin-rich.",
-        "predicted_peak": "2–3 weeks",
-        "watch_signal": "Monitor TikTok #instax content view acceleration and Amazon Movers & Shakers for Instax accessory category entries",
-        "image_keywords": "instax mini photo album, instant camera accessories, film photo frame wallet",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dgEk4GNlL._AC_UL300_SR300,200_.jpg"
+        "reason": "Neck fans are a staple summer viral product on TikTok that typically surge in early June as temperatures rise — the trend data shows the category hasn't yet peaked, positioning this as a prime pre-surge entry.",
+        "predicted_peak": "2–4 weeks (early June 2026)",
+        "watch_signal": "Track TikTok #neckfan views and Amazon 'wearable neck fan' search rank; watch for heat wave news events triggering impulse buys.",
+        "image_keywords": "neck fan, wearable cooling fan, bladeless personal fan",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QEEU80smL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "product": "Outdoor Solar String Lights Waterproof 100 LED Ambiance Garden Patio Deck Lighting",
+        "category": "Home & Kitchen / Outdoor Lighting",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Solar string lights surge every summer for patio and backyard entertaining — the category is just entering its seasonal ramp with the bulk of demand coming in June–August for outdoor gatherings and graduation parties.",
+        "predicted_peak": "3–6 weeks (June 2026)",
+        "watch_signal": "Monitor Amazon 'outdoor solar lights' Movers & Shakers movement and Google Trends 'solar string lights' query volume.",
+        "image_keywords": "solar string lights, patio lighting, outdoor LED lights",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Yd3NNTbyL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 66,
+        "product": "Anti-Chafe Thigh Guard Bands Soft Elastic Lace Silicone No-Roll Summer Inner Thigh Protection",
+        "category": "Apparel / Summer Accessories",
+        "platforms": [
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Thigh-chafe bands go viral on TikTok every summer as dress and skirt weather begins — this is a highly repeatable seasonal trend with strong female demographic targeting and high-margin potential at $15–$30.",
+        "predicted_peak": "2–4 weeks (early June 2026)",
+        "watch_signal": "Track TikTok #thighbands and #antichafe search volume; monitor Instagram Reels for influencer content around summer outfit hacks.",
+        "image_keywords": "thigh bands, anti-chafe guard, summer leg accessory",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Tw-14g38L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 65,
-        "product": "Flying Insect Indoor Fly Trap with UV and Blue Light Refillable Plug-In Gnat Catcher",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 63,
+        "product": "Portable Blender USB Rechargeable Personal Mini Smoothie Maker for Gym Travel Outdoor",
+        "category": "Home & Kitchen / Small Appliances",
         "platforms": [
+          "tiktok",
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Zevo-style fly traps appear in both Bestsellers and Movers & Shakers suggesting the indoor flying insect trap category will peak in 3–5 weeks as fruit flies and gnats increase during warm months.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Watch Amazon BSR for flying insect traps and Google Shopping query volume for 'indoor fly trap' and 'gnat catcher'",
-        "image_keywords": "indoor fly trap plug-in UV, gnat catcher blue light, flying insect trap home",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+        "reason": "Portable mini blenders are a recurring TikTok viral product that surge with summer fitness and outdoor content — the 'gym aesthetic' and smoothie bowl trend makes June–August peak season for this $25–$45 retail SKU.",
+        "predicted_peak": "4–6 weeks (mid-June 2026)",
+        "watch_signal": "Monitor #portableblender TikTok views and Amazon 'mini blender rechargeable' search rank elevation.",
+        "image_keywords": "portable blender, mini smoothie maker, USB rechargeable blender",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81yqKXAIZhL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 63,
-        "product": "Dorm Room Essentials Power Strip Desk Charging Station 10-Outlet with USB-C Flat Plug",
-        "category": "Electronics / Power Accessories",
+        "score": 60,
+        "product": "Back to School Pencil Case Large Capacity Multi-Layer Stationery Organizer with Buckle Closure",
+        "category": "Home & Kitchen / School Supplies",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "College dorm move-in season peaks mid-July through August — start positioning dorm-targeted power strip bundles now to capture the wave of 'dorm essentials' search traffic before competition saturates.",
-        "predicted_peak": "6–8 weeks",
-        "watch_signal": "Track Google Shopping 'dorm essentials power strip' and 'college dorm USB charging station' query volume uplift",
-        "image_keywords": "dorm room power strip desk, college essentials charging station, flat plug multi-outlet strip",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL300_SR300,200_.jpg"
+        "reason": "Back-to-school supply demand begins building in late May on Amazon and typically peaks in July–August — starting sourcing and listing now positions dropshippers ahead of the biggest annual school supply wave.",
+        "predicted_peak": "6–10 weeks (July–August 2026)",
+        "watch_signal": "Monitor Google Shopping 'pencil case' and 'back to school supplies 2026' query volume; watch Amazon Movers & Shakers for stationery category entries.",
+        "image_keywords": "pencil case, school stationery organizer, multi-layer pouch",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71L2coC4CeL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 61,
-        "product": "Cooling Breathable Microfiber Twin and Full Sheet Set 3-4 Piece Hotel Luxury Bedding",
+        "score": 57,
+        "product": "Cooling Bamboo Bed Sheets 4-Piece Set Queen Deep Pocket Moisture-Wicking Breathable",
         "category": "Home & Kitchen / Bedding",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Cooling bed sheet sets are ranked #1 in Home & Kitchen Movers & Shakers and will peak further in 4–6 weeks as summer temperatures rise and 'cooling sheets' searches spike.",
-        "predicted_peak": "4–6 weeks",
-        "watch_signal": "Monitor Google Trends for 'cooling sheets summer' and Amazon category BSR for Bedding sheets under $20",
-        "image_keywords": "cooling microfiber bed sheets, breathable bedding set, soft sheet set folded",
+        "reason": "With two bedding SKUs in Amazon Bestsellers and a cooling mattress topper in Movers & Shakers, the cooling sleep category is building — Q3 is peak season for cool-sleep bedding as summer heat intensifies nationwide.",
+        "predicted_peak": "4–8 weeks (June–July 2026)",
+        "watch_signal": "Watch Amazon 'cooling sheets' and 'bamboo bed sheets' for Movers & Shakers appearances; track Google Trends 'cooling sheets summer' query.",
+        "image_keywords": "bamboo bed sheets, cooling bedding, soft white sheets",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 58,
-        "product": "Graduation Party Decoration Set — Foil Balloon Bouquets, Banner, and Photo Props",
-        "category": "Home & Kitchen / Party Supplies",
+        "score": 54,
+        "product": "Splash Pad Sprinkler for Kids 60-Inch Outdoor Water Play Mat Garden Backyard Toddler Toy",
+        "category": "Toys & Outdoor / Summer Play",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "tiktok",
+          "amazon"
         ],
         "confidence": "low",
-        "reason": "Fringe backdrops are already trending; graduation party decoration bundles (balloons, banners, props) will follow within 2–3 weeks as May graduation ceremonies ramp into June.",
-        "predicted_peak": "2–3 weeks",
-        "watch_signal": "Watch TikTok graduation party decoration content view counts and Amazon Party Supplies Movers & Shakers",
-        "image_keywords": "graduation party decorations balloons, class of 2026 party banner, grad celebration party supplies",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nE7K6X1tL._AC_UL300_SR300,200_.jpg"
+        "reason": "Kids' outdoor water toys are a summer dropship staple that will see substantial search and purchase volume from June through August — the TikTok 'backyard fun' and family content wave makes this a predictable seasonal winner.",
+        "predicted_peak": "5–8 weeks (June–July 2026)",
+        "watch_signal": "Track TikTok #splashpad and #kidssummer views; watch Amazon 'sprinkler pad kids' for entry into Movers & Shakers.",
+        "image_keywords": "splash pad, kids sprinkler mat, outdoor water play",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DHhgJ+TSL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "Travel Accessories (Cruise & International)",
+        "category": "ANC Headphones & Wireless Audio",
         "momentum": "exploding",
-        "reason": "Two cruise power strips in the same Movers & Shakers snapshot, combined with summer 2026 cruise bookings at record highs, makes travel-specific accessories one of the hottest short-window opportunities right now."
+        "reason": "An unprecedented 5+ audio SKUs appear across both Amazon Movers & Shakers and Bestsellers simultaneously, with price points spanning $22–$99 — the entire wireless audio category is in a breakout moment, likely driven by hybrid work, summer travel, and Bluetooth 6.0 upgrade cycles."
       },
       {
-        "category": "Outdoor & Pest Control (Seasonal)",
+        "category": "Surge Protector / Power Strips",
         "momentum": "exploding",
-        "reason": "Bug zappers, peppermint repellents, and fly traps are all simultaneously rising in both Movers & Shakers and Bestsellers — the May seasonal pest control surge is fully underway and will run through August."
+        "reason": "Four distinct surge protector SKUs across both Movers & Shakers and Bestsellers with multiple flat-plug and USB-C variants signals a category breakout — WFH desk setup content and dorm room prep are driving multi-unit purchase behavior."
       },
       {
-        "category": "Outdoor Audio / Portable Bluetooth Speakers",
+        "category": "Natural / Eco-Friendly Pest Control",
         "momentum": "rising",
-        "reason": "Waterproof LED Bluetooth speakers are entering peak season driven by pool parties, beach trips, and camping — strong TikTok visual content appeal amplifies organic discoverability."
+        "reason": "Peppermint rodent repellent and UV fly traps dominating H&K Movers & Shakers top-6 simultaneously as summer pest season begins — consumers are actively choosing natural, pet-safe alternatives to chemical pest control, creating strong dropship demand."
       },
       {
-        "category": "USB-C Accessories & Phone Adapters",
+        "category": "Home Organization & Bathroom Storage",
         "momentum": "rising",
-        "reason": "iPhone 16/17 upgrade cycle and the universal shift to USB-C across all Apple products is creating sustained, non-seasonal demand for USB-C cables, adapters, and charger blocks through 2026."
+        "reason": "Adhesive shower caddies, vacuum storage bags, and velvet hangers all trending across Movers & Shakers and Bestsellers — the spring-cleaning and seasonal storage shift in May creates reliable demand for lightweight, easy-to-ship organization products."
       },
       {
-        "category": "Dorm & Home Office Power/Organization",
-        "momentum": "rising",
-        "reason": "Power strips, surge protectors, and desk organizers are in both Amazon lists simultaneously; back-to-school and work-from-home demand will sustain this category through September."
+        "category": "Graduation & Seasonal Party Supplies",
+        "momentum": "exploding",
+        "reason": "Graduation banners cracking Amazon Movers & Shakers in May signals the annual graduation commerce wave is active NOW — a short but high-velocity window with almost zero competition from established brands in the generic décor space."
       },
       {
-        "category": "Coffee & Beverage Accessories",
+        "category": "Cooling Sleep Products",
         "momentum": "rising",
-        "reason": "Milk frothers and handheld drink mixers continue to generate viral TikTok content in the matcha and iced coffee trend wave — lightweight, giftable, and sourcing-friendly for dropshippers."
+        "reason": "Cooling mattress toppers in Movers & Shakers and multiple bedding sets in Bestsellers indicate the summer sleep-comfort category is ramping — bamboo, moisture-wicking, and cooling-tech branded products are showing strong purchase intent signals."
       },
       {
-        "category": "Seasonal Garden & Outdoor Living",
+        "category": "USB-C Accessories & MacBook Peripherals",
         "momentum": "rising",
-        "reason": "Zinnia seeds appearing in both Bestsellers and Movers & Shakers signals a broader garden and outdoor living category momentum spike that will persist through June planting season."
+        "reason": "USB-C hubs, Apple Watch chargers, and Apple EarPods with USB-C are all signaling strong demand as the MacBook M-series ecosystem expands — generic USB-C accessories are the unbranded dropship opportunity as Apple hardware sales drive accessory need."
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Branded Apple Products (AirPods, AirTags, Apple Watch, iPad)",
-        "reason": "Apple products dominate the Electronics Bestsellers list but are 100% brand-locked — impossible to dropship legitimately, and any unauthorized resale faces MAP violations, listing suppression, and account suspension risk."
+        "product_type": "Apple-branded products (AirPods, iPad, Apple Watch, AirTag, EarPods)",
+        "reason": "Heavily branded Apple products dominate the Bestsellers list but are completely off-limits for dropshipping — Apple enforces strict authorized reseller policies, margins are razor-thin on grey market, and counterfeit risk is high. Cannot compete with Amazon's own Apple storefronts."
       },
       {
         "rank": 2,
-        "product_type": "Ultra-Low Ticket USB Cables and Charging Accessories under $6 (e.g., USB-C cables at $5.99, USB-C charger blocks at $8.99)",
-        "reason": "Retail price under $10 leaves zero margin after sourcing, platform fees, and shipping — the market for generic USB-C cables is hyper-commoditized with Chinese direct sellers offering same-day delivery at sub-$3 price points."
+        "product_type": "Ultra-low ticket items under $10 (Cable Zip Ties $2.99, Apple Watch Charger $6.29, Kurdene Earbuds $9.99, Graduation Banner $3.72)",
+        "reason": "These items appeared in trend data but at $3–$10 retail there is zero margin after platform fees, shipping, and sourcing costs — even at a 3x markup the absolute dollar margin is insufficient to sustain a dropship business, and these price points attract extreme price competition."
       },
       {
         "rank": 3,
-        "product_type": "Large Smart TVs (Toshiba 32-inch, Sceptre 34-inch Monitors, Dell 24-inch Monitors)",
-        "reason": "Oversized/heavy electronics have prohibitive shipping costs that destroy dropship margins, high return rates due to screen damage, and are dominated by established retail brands with tight distribution controls."
+        "product_type": "Large Smart TVs (Toshiba 32\" Fire TV $74.99)",
+        "reason": "TVs are oversized and heavy, making shipping costs prohibitive for dropshipping — freight damage rates are high, returns are expensive, and big-box retailers (Walmart, Best Buy) have unbeatable price advantages in this category. Margin is structurally impossible."
       },
       {
         "rank": 4,
-        "product_type": "Name-Brand Smart Security Cameras and Video Doorbells (Blink, Ring)",
-        "reason": "Ring and Blink are Amazon-owned brands with exclusive ecosystem lock-in — dropshipping these is impossible, and competing white-label alternatives face extreme saturation with sub-5% review differentiation."
+        "product_type": "Branded subscription-dependent electronics (Blink/Ring ecosystem products requiring Sync Modules or subscription plans)",
+        "reason": "Blink and Ring products require proprietary sync modules and paid subscription plans — customers frequently return purchases when they discover the hidden ecosystem costs, leading to high return rates and seller account health issues for dropshippers unfamiliar with these dependencies."
       },
       {
         "rank": 5,
-        "product_type": "Commodity Cable Zip Ties and Basic Nylon Wire Ties Bulk Packs (400-pack at $2.99)",
-        "reason": "Micro-ticket commodity items at $2.99 with zero margin, extreme Amazon warehouse competition from bulk industrial suppliers, and no social media virality potential make this category a guaranteed loss for dropshippers."
+        "product_type": "Insect killer/repellent products making pest elimination claims (requiring EPA registration)",
+        "reason": "Pest control products with active chemical claims require EPA registration numbers and state-by-state compliance — sourcing generic versions from overseas suppliers without proper documentation creates legal liability and risks platform removal; stick to physical trap/deterrent products only."
       }
     ],
-    "market_insights": "May 2026 is shaping up as one of the strongest entry windows for seasonal dropshipping in recent memory. Three converging macro trends are creating unusual opportunity density: (1) a record summer travel season driving demand for cruise-specific accessories and portable outdoor gear, (2) the universal Apple/Android USB-C hardware transition creating sustained demand for cables, adapters, and charger accessories at scale, and (3) the annual May pest control and outdoor living surge arriving on schedule. The simultaneous appearance of multiple products from the same sub-categories (two cruise power strips, two fly traps, two zinnia seed packs) in both Movers & Shakers and Bestsellers is a rare 'double signal' that indicates category-level momentum, not just product-level spikes — meaning the category tide is rising fast enough to lift multiple SKUs at once.\n\nFor dropshippers specifically, the highest-ROI moves right now are lightweight, non-branded products in the $22–$70 retail range with strong visual content potential: waterproof Bluetooth speakers, travel power strips, bug zappers, handheld frothers, and fringe party backdrops. The graduation season window (mid-May to mid-June) is extremely short — party decoration and gifting products need to be live within the next 5–7 days to capture peak search traffic. Looking 4–8 weeks out, dorm season and summer cooling products (cooling sheets, portable fans, hydration bottles) represent the next wave to position for now while competition is still low. Avoid chasing Apple brand products or oversized electronics — the margin math simply does not work for a dropship model regardless of how strong the demand signal appears.",
-    "data_quality_note": "TikTok trend data was not directly provided in the raw data feed — TikTok platform signals have been inferred from known platform dynamics, product category virality patterns, and cross-referenced Amazon momentum signals; direct TikTok hashtag view counts and creator velocity data were unavailable for this analysis."
+    "market_insights": "May 2026 is shaping up to be one of the stronger spring dropship windows in recent memory, driven by three converging forces: graduation season creating an acute gifting surge, the early onset of summer pest and cooling product demand, and an electronics upgrade cycle fueled by Bluetooth 6.0 adoption and the MacBook M-series ecosystem expansion. The most actionable signal in today's data is the unprecedented multi-SKU dominance of surge protectors and ANC headphones — when five or more SKUs in the same category appear across both Movers & Shakers and Bestsellers simultaneously, it signals a category-level demand explosion rather than a single product trend, giving dropshippers the flexibility to test multiple angle-variants (flat plug, USB-C focused, travel-sized) without betting on a single SKU.\n\nDropshippers should prioritize three strategic windows this month: (1) act within 3–5 days on the pest control and graduation product spikes, which are time-sensitive and will plateau by late June; (2) begin sourcing summer-specific SKUs (neck fans, splash pads, cooling sleep) now to be live on platforms when search volume peaks in 4–6 weeks; and (3) treat the audio and power strip categories as evergreen builders — the demand signal is strong enough to justify building out branded stores or bundles around these niches rather than one-off product testing. The key edge in the current market is speed to unbranded equivalents: for every branded product topping the charts today, there is a white-label sourcing opportunity on Alibaba or CJdropshipping that can be positioned and listed within 5–7 days.",
+    "data_quality_note": "TikTok trend data and Google Trends data were absent from the raw dataset — all TikTok and Google signals referenced in this analysis are inferred from category-level viral behavior patterns and historical seasonal data; Amazon Movers & Shakers and Bestsellers data was robust and forms the primary basis for all confidence ratings."
   },
   "raw_sample": [
     {
@@ -667,19 +669,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Kindle Paperwhite 16GB (newest model) – 20% faster, with new 7\" glare-free display and weeks of battery life – Black",
-      "rank": 11,
-      "rating": "4.7",
-      "price": "$159.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports, 3-Sided 1680J Power Strip Multi Plug Adapter Spaced for Home Travel Office",
-      "rank": 12,
+      "rank": 11,
       "rating": "4.7",
       "price": "$9.99",
       "review_count": null,
@@ -689,19 +680,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
-      "rank": 13,
-      "rating": "4.8",
-      "price": "$299.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
-      "rank": 14,
+      "rank": 12,
       "rating": "4.7",
       "price": "$34.99",
       "review_count": null,
@@ -711,19 +691,19 @@
       "platform": "amazon"
     },
     {
-      "name": "10Ft Extension Cord with Multiple Outlets, Flat Plug Surge Protector Power Strip 10 Ft Long Cord, 8 Outlets & 4 USB Ports (2 USB C), Desk Charging Station for Home Office, College Dorm Room Essentials",
-      "rank": 15,
-      "rating": "4.8",
-      "price": "$12.98",
+      "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
+      "rank": 13,
+      "rating": "4.7",
+      "price": "$299.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module not included – Add-on camera",
-      "rank": 16,
+      "rank": 14,
       "rating": "4.2",
       "price": "$37.99",
       "review_count": null,
@@ -733,7 +713,29 @@
       "platform": "amazon"
     },
     {
-      "name": "FUJIFILM Instax Mini Instant Film Twin Pack (White), 20 Photos",
+      "name": "Amazon Kindle Paperwhite 16GB (newest model) – 20% faster, with new 7\" glare-free display and weeks of battery life – Black",
+      "rank": 15,
+      "rating": "4.7",
+      "price": "$159.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "10Ft Extension Cord with Multiple Outlets, Flat Plug Surge Protector Power Strip 10 Ft Long Cord, 8 Outlets & 4 USB Ports (2 USB C), Desk Charging Station for Home Office, College Dorm Room Essentials",
+      "rank": 16,
+      "rating": "4.8",
+      "price": "$12.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Fujifilm Instax Mini Instant Film Twin Pack (White), 20 Photos",
       "rank": 17,
       "rating": "4.8",
       "price": "$16.98",
@@ -744,19 +746,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Roku TV Remote Control (Official Manufacturer Product) - Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
-      "rank": 18,
-      "rating": "4.6",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime, Hi-Res Audio, Big Bass, Customize via an App, Transparency Mode (Black)",
-      "rank": 19,
+      "rank": 18,
       "rating": "4.6",
       "price": "$39.99",
       "review_count": null,
@@ -766,85 +757,85 @@
       "platform": "amazon"
     },
     {
-      "name": "2Pack for Apple USB C to USB C Charging Cable 3ft 60W,Type C to Type C Fast Charger Cord,for iPhone 16 E/17/Air/15/Pro/Plus/Pro Max,for MacBook Pro/Air,for iPad Pro12.9/11in,Air 4/5,Mini 6/7 - Black",
+      "name": "Roku TV Remote Control (Official Manufacturer Product) - Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
+      "rank": 19,
+      "rating": "4.6",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Soundcore P30i by Anker Noise Cancelling Earbuds, Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Wireless Earbuds, Bluetooth 5.4 (Black)",
+      "rank": 20,
+      "rating": "4.4",
+      "price": "$24.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51HbL1WS+KL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset with Microphone and Alexa Built-in, Black New",
       "rank": 1,
-      "rating": "4.6",
-      "price": "$5.99",
+      "rating": "4.4",
+      "price": "$99.95",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61v+vhb0jRL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51rpbVmi9XL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "POWMEE M3 Kids Headphones with Microphone Lightweight Foldable Adjustable Stereo Bass On-Ear Headphones with 1.3 M Tangle-Free Cord for smartphons Tablets MP3/4 with 3.5mm Jack Device(Black)",
+      "name": "Hybrid Active Noise Cancelling Headphones 120H Long Playtime, 6 ENC Mic, Wireless Over-Ear Bluetooth 6.0 Headphones, Hi-Res Audio, Memory Foam Earcup, Transparency Mode ANC Headphone for Travel Office",
       "rank": 2,
-      "rating": "4.6",
-      "price": "$7.99",
+      "rating": "4.9",
+      "price": "$68.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71b8v3byTGL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Xwww4damL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "Cruise Approved Travel Power Strip, ORICO 4 Outlets 3 USB Ports (1 USB C) with 4FT Wrapped Short Extension Cord Small Power Strip, Compact for Hotel Travel Essentials-AP3",
+      "name": "kurdene Wireless Earbuds Bluetooth 5.3 in Ear Buds Light Weight Headphones,Deep Bass Sound,Built in Mics Headset,Clear Calls Earphones for Sports Workout",
       "rank": 3,
-      "rating": "4.8",
-      "price": "$21.99",
+      "rating": "4.3",
+      "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61trHd7fUBL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/715fNrGN+ML._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "Portable Bluetooth Speaker Beach Essentials: Powerful Crystal Clear Sound/Dynamic Light/IPX5 Waterproof/All Day Playtime/Wireless BT 5.3/TWS Paring, Dad Gifts, Outdoor|Travel|Camping|Pool Accessories",
+      "name": "Power Strip Tower with Multiple Outlets, Flat Plug Surge Protector Tower Extension Cord with 12 AC Outlets 4 USB Ports (2 USB C), 6FT Cord Power Tower Surge Protector for Home Office Dorm Room, Black",
       "rank": 4,
-      "rating": "4.6",
-      "price": "$29.99",
+      "rating": "4.7",
+      "price": "$26.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81p9DPknjLL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61n3RbvmN0L._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "OneKer USB Type C to 3.5mm Headphone Jack Adapter, (2-Pack) USB C to Aux Female Audio Dongle Cable Cord Compatible with iPhone 16/15 Pro/15 Plus/15 Pro Max,iPad Pro,MacBook, Samsung Galaxy S24 S23 S22",
+      "name": "Beats Flex Wireless Earbuds - Apple W1 Headphone Chip, Magnetic Earphones, Class 1 Bluetooth, 12 Hours of Listening Time, Built-in Microphone - Black",
       "rank": 5,
-      "rating": "4.5",
-      "price": "$5.99",
+      "rating": "4.3",
+      "price": "$49.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61--slR8sKL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Synerlogic Mac OS Shortcuts Sticker for Air/Pro | Keyboard Stickers for macOS | Laminated Vinyl MacBook Cheatsheet | MacBook Shortcuts 2026 (Black)",
-      "rank": 6,
-      "rating": "4.6",
-      "price": "$5.95",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81B-ZAdAY8L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Cable Zip Ties,400 Pack Black Assorted Sizes 12+8+6+4 Inch,Multi-Purpose Self-Locking Nylon Cable Cord Management,Plastic Wire Ties for Home,Office,Garden,Workshop. By HAVE ME TD",
-      "rank": 7,
-      "rating": "4.5",
-      "price": "$2.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FzZl2T6KL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rFK7dfbUL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
       "name": "TOSHIBA 32\" Class V35 Series LED FHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
-      "rank": 8,
+      "rank": 6,
       "rating": "4.5",
       "price": "$74.99",
       "review_count": null,
@@ -854,107 +845,74 @@
       "platform": "amazon"
     },
     {
-      "name": "Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and simple setup. Required Sync Module not included – Add-On (Black)",
-      "rank": 9,
-      "rating": "4.4",
-      "price": "$29.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51AwA5Ls1CL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Samsung 22\" (S30GD) Essential Monitor with IPS Panel and Tilt Only Stand, 100Hz Refresh Rate, Ergonomic Design, Advanced Eye Care, Game Mode, LS22D304GANXZA",
-      "rank": 10,
-      "rating": "4.4",
-      "price": "$79.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bk3j4agoL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "JLab Go Pop ANC, True Wireless Earbuds, Active Noise Cancelling, Bluetooth Earbuds with Charging Case, Black",
-      "rank": 11,
-      "rating": "4.3",
-      "price": "$24.69",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MBGb+Fx9L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Power Strip, ALESTOR Surge Protector with 12 Outlets and 4 USB Ports, 6 Feet Extension Cord (1875W/15A), 2700 Joules, ETL Listed, Black",
-      "rank": 12,
-      "rating": "4.8",
-      "price": "$16.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lQ3Z-401L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Fhumsh Wireless Earbuds, Bluetooth 5.3 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Canceling Headset, IPX7 Waterproof Earphones for Gym/Running/Work (Black)",
-      "rank": 13,
+      "name": "SUPERDANNY Flat Plug Surge Protector Power Strip, 6ft Ultra Thin Extension Cord with 3 USB (1 USB C Port), 6 Outlets Charging Station, Wall Mountable Outlet Extender for Home Office, College Dorm Room",
+      "rank": 7,
       "rating": "4.7",
-      "price": "$199.99",
+      "price": "$13.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cUTDCSe0L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j8Ovo-KCL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "Soundcore P31i by Anker, Real-Time Adaptive Noise Cancelling, Hi-Res Sound, Translation Earbuds, 50H Playtime, Wireless Earbuds, Bluetooth Earphones, Spatial Audio, Fast Charging, IP55 (Black)",
-      "rank": 14,
-      "rating": "4.4",
-      "price": "$34.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fEWG6n4aL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "movers_shakers",
-      "platform": "amazon"
-    },
-    {
-      "name": "Ring Wired Doorbell Pro (newest model), Home or business security, Retinal 4K with wide-angle video, 10x Enhanced Zoom, and Low-Light Sight, Deep Silver",
-      "rank": 15,
+      "name": "King Lucky Clip-On Earbuds Gen 3, Open-Ear Wireless Bluetooth 6.0 Headphones with Mic, Secure Fit for Small Ears & Glasses Wearers, 50H Playtime, LED Digital Display, ENC, IPX5 Waterproof(Balck)",
+      "rank": 8,
       "rating": "4.2",
-      "price": "$199.99",
+      "price": "$23.06",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51cJpjaOeEL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Yd3NNTbyL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "Cruise Approved Power Strip Non Surge Protector with 3.3 ft Travel Extension Cord and USB Ports [2 USB, 2 USB-C, 3 AC] Cruise Ship Essentials for Carnival, Princess, & Major Cruise Lines 2026 & 2027",
-      "rank": 16,
+      "name": "Fujifilm Instax Mini 12 Instant Camera - Blossom Pink",
+      "rank": 9,
+      "rating": "4.6",
+      "price": "$87.93",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51NKZwaCs4L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "USB-C Hub Multiport Adapter for MacBook Air/Pro - 6 in 1 HDMI Dongle with 4K, USB 3.0 Ports, SD/TF Card Reader for MacBook m1/m2/m3/m4, Dell XPS, HP, Lenovo, Surface and Other Type-C Devices",
+      "rank": 10,
+      "rating": "4.3",
+      "price": "$25.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ORm2kWzuL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "Ring Wired Doorbell Plus (newest model), Home or business security, Retinal 2K with wide-angle video, 4x Enhanced Zoom, and Low-Light Sight, Nickel Silver",
+      "rank": 11,
       "rating": "4.5",
-      "price": "$17.99",
+      "price": "$119.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RkhBuKQ+L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61n6SaI5tZL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "Matsusho 20W USB C Charger Block and Cable",
-      "rank": 17,
-      "rating": "4.4",
-      "price": "$8.99",
+      "name": "Outlet Extender Power Strip, POWRUI 6 AC Surge Protector Outlets with 3 USB Ports (1 USB C) and Night Light, 3-Sided Multi Plug Wall Outlet with Spaced Outlets - Black, ETL Listed",
+      "rank": 12,
+      "rating": "4.7",
+      "price": "$19.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bY+yA4IcL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CWeD2pqWL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
       "name": "Dell 24 Plus Monitor - S2425HSM - 23.8-inch FHD (1920x1080) 144Hz 1ms Display, 2 x 3W Speakers, HDMI Connectivity, Height/Tilt/Pivot/Swivel Adjustability, AMD FreeSync - Ash White",
-      "rank": 18,
+      "rank": 13,
       "rating": "4.8",
       "price": "$129.99",
       "review_count": null,
@@ -964,29 +922,73 @@
       "platform": "amazon"
     },
     {
-      "name": "5Ft Surge Protector Power Strip - 8 Widely Outlets with 4 USB Ports, 3 Side Outlet Extender with 5 Feet Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station, ETL,Black",
-      "rank": 19,
+      "name": "Samsung 22\" (S30GD) Essential Monitor with IPS Panel and Tilt Only Stand, 100Hz Refresh Rate, Ergonomic Design, Advanced Eye Care, Game Mode, LS22D304GANXZA",
+      "rank": 14,
+      "rating": "4.4",
+      "price": "$79.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bk3j4agoL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "2026 Upgraded for Apple Watch Charger USB Magnetic Fast Charging Cable Portable Wireless Charging Accessories Compatible with iWatch Series 11/10/9/8/7/6/5/4/3/2 Ultra 3/2/SE-Black",
+      "rank": 15,
+      "rating": "4.4",
+      "price": "$6.29",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QEEU80smL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "Cable Zip Ties,400 Pack Black Assorted Sizes 12+8+6+4 Inch,Multi-Purpose Self-Locking Nylon Cable Cord Management,Plastic Wire Ties for Home,Office,Garden,Workshop. By HAVE ME TD",
+      "rank": 16,
+      "rating": "4.5",
+      "price": "$2.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FzZl2T6KL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "JLab JBuds Lux ANC, Over Ear Headphones, Active Noise Cancelling, Bluetooth, Cloud White",
+      "rank": 17,
       "rating": "4.6",
-      "price": "$14.99",
+      "price": "$79.98",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hNUvgwwTL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GdqwRWKdL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "New! Sceptre 34-inch Prime Monitor 3440 x 1440 up to 115Hz 103% sRGB DisplayPort HDMI Build-in Speakers, Machine Black 2026 (E345W Series)",
+      "name": "JLab Go Air Pop+ Tones True Wireless Earbuds, in Ear Bluetooth Headphones with Microphone, 35H Playtime, USB-C Charging Case, Dual Connect, EQ3 Sound, IPX4, 4975 C",
+      "rank": 18,
+      "rating": "4.4",
+      "price": "$22.09",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61PN64bdpBL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "movers_shakers",
+      "platform": "amazon"
+    },
+    {
+      "name": "Power Strip, ALESTOR Surge Protector with 12 Outlets and 4 USB Ports, 6 Feet Extension Cord (1875W/15A), 2700 Joules, ETL Listed, Black",
       "rank": 20,
-      "rating": "4.2",
-      "price": "$69.97",
+      "rating": "4.8",
+      "price": "$16.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/714xaKieq5L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lQ3Z-401L._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "movers_shakers",
       "platform": "amazon"
     },
     {
-      "name": "TERRO Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - 12 Count Stations for Effective Indoor Ant Control",
+      "name": "Terro Ant Killer Bait Stations T300B - Liquid Bait To Eliminate Ants - Bait System - 12 Count Stations For Effective Indoor Ant Control",
       "rank": 1,
       "rating": "4.6",
       "price": "$10.96",
@@ -1041,19 +1043,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Zevo Flying Insect Trap Official Refill Cartridges - Fits Both Zevo Trap & MAX Indoor Fly Trap - Authentic Trap+Lock Technology to Catch Gnats, House & Fruit Flies (4 Official Refill Cartridges)",
-      "rank": 6,
-      "rating": "4.8",
-      "price": "$14.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uXJAVhd1L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner with Rustproof Grommets and 3 Magnets, Waterproof Cute Lightweight Standard Size Bathroom Curtains - Clear",
-      "rank": 7,
+      "rank": 6,
       "rating": "4.5",
       "price": "$8.95",
       "review_count": null,
@@ -1064,7 +1055,7 @@
     },
     {
       "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack",
-      "rank": 8,
+      "rank": 7,
       "rating": "4.8",
       "price": "$17.59",
       "review_count": null,
@@ -1074,19 +1065,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Zevo Flying Insect Trap & 3 Refill Cartridges - Plug in Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies - Blue & UV Light Technology, Mess-Free Alternative to Bug Zapper",
-      "rank": 9,
-      "rating": "4.3",
-      "price": "$25.95",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Utopia Bedding Queen Size Sheet Set – 4 Piece Bed Sheets, Soft and Breathable Microfiber, Includes 1 Fitted Sheet, 1 Flat Sheet and 2 Pillowcases – Oeko Tex (Grey)",
-      "rank": 10,
+      "rank": 8,
       "rating": "4.6",
       "price": "$16.99",
       "review_count": null,
@@ -1097,11 +1077,33 @@
     },
     {
       "name": "Flexzilla Garden Hose 5/8 in. x 50 ft., Lightweight All-Weather Water Hose, Durable and Flexible, Leak-Free Connections",
-      "rank": 11,
+      "rank": 9,
       "rating": "4.4",
       "price": "$39.97",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oERUaDzWL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 - Original Soft Down Alternative Pillow for Sleeping - Soft Support for Back, Stomach or Side Sleepers",
+      "rank": 10,
+      "rating": "4.4",
+      "price": "$41.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71329CVoVDL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
+      "rank": 11,
+      "rating": "4.4",
+      "price": "$37.90",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/813u1XQxDQL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
