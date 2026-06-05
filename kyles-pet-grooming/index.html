@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyle's Pet Grooming | Mobile Dog Grooming in Sarasota, FL</title>
+    <meta name="description" content="Mobile pet grooming in Sarasota, FL. Kyle's comes to your driveway — professional, stress-free grooming for all breeds. 10+ years experience. Call (941) 899-1167.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;0,9..144,700;1,9..144,400&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --forest: #1E3A2F;
+            --cream: #F5EFE4;
+            --gold: #C9953A;
+            --light-gold: #E8C97A;
+            --warm-white: #FDFAF5;
+            --text-dark: #1A1A16;
+            --text-mid: #4A4A3E;
+            --text-light: #7A7A6E;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background: var(--warm-white);
+            color: var(--text-dark);
+            overflow-x: hidden;
+        }
+
+        /* NAV */
+        nav {
+            position: fixed;
+            top: 0; left: 0; right: 0;
+            z-index: 100;
+            padding: 18px 48px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: rgba(253,250,245,0.92);
+            backdrop-filter: blur(14px);
+            border-bottom: 1px solid rgba(201,149,58,0.15);
+        }
+
+        .nav-logo {
+            font-family: 'Fraunces', serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--forest);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            list-style: none;
+        }
+
+        .nav-links a {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text-mid);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover { color: var(--forest); }
+
+        .nav-cta {
+            background: var(--forest);
+            color: var(--cream) !important;
+            padding: 10px 24px;
+            border-radius: 50px;
+            font-weight: 600 !important;
+            transition: background 0.2s, transform 0.2s !important;
+        }
+
+        .nav-cta:hover {
+            background: var(--gold) !important;
+            transform: translateY(-1px);
+            color: var(--forest) !important;
+        }
+
+        /* HERO */
+        .hero {
+            min-height: 100vh;
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            align-items: center;
+            padding: 130px 80px 80px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -10%;
+            right: -5%;
+            width: 55%;
+            height: 110%;
+            background: radial-gradient(ellipse, rgba(201,149,58,0.1) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(201,149,58,0.1);
+            border: 1px solid rgba(201,149,58,0.3);
+            color: var(--gold);
+            font-size: 0.78rem;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            padding: 7px 18px;
+            border-radius: 50px;
+            margin-bottom: 28px;
+        }
+
+        .hero h1 {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(2.8rem, 4.5vw, 4rem);
+            font-weight: 700;
+            line-height: 1.1;
+            color: var(--forest);
+            margin-bottom: 24px;
+        }
+
+        .hero h1 em {
+            font-style: italic;
+            color: var(--gold);
+        }
+
+        .hero-sub {
+            font-size: 1.05rem;
+            line-height: 1.75;
+            color: var(--text-mid);
+            max-width: 480px;
+            margin-bottom: 40px;
+        }
+
+        .hero-actions {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .btn-primary {
+            background: var(--forest);
+            color: var(--cream);
+            padding: 15px 34px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 600;
+            transition: all 0.25s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary:hover {
+            background: var(--gold);
+            color: var(--forest);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(201,149,58,0.3);
+        }
+
+        .btn-ghost {
+            color: var(--forest);
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding-bottom: 2px;
+            border-bottom: 2px solid var(--gold);
+            transition: color 0.2s;
+        }
+
+        .btn-ghost:hover { color: var(--gold); }
+
+        .hero-stats {
+            display: flex;
+            gap: 36px;
+            margin-top: 56px;
+            padding-top: 36px;
+            border-top: 1px solid rgba(30,58,47,0.12);
+        }
+
+        .stat-num {
+            font-family: 'Fraunces', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--forest);
+            display: block;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.78rem;
+            color: var(--text-light);
+            letter-spacing: 0.03em;
+            margin-top: 5px;
+        }
+
+        /* BOOKING CARD */
+        .hero-visual {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            animation: fadeUp 0.8s 0.15s ease both;
+        }
+
+        .book-card {
+            background: var(--forest);
+            border-radius: 28px;
+            padding: 48px 40px;
+            max-width: 360px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 32px 80px rgba(30,58,47,0.28);
+        }
+
+        .book-card::before {
+            content: '';
+            position: absolute;
+            top: -50px; right: -50px;
+            width: 220px; height: 220px;
+            background: radial-gradient(circle, rgba(201,149,58,0.18) 0%, transparent 70%);
+        }
+
+        .book-paw {
+            font-size: 3rem;
+            display: block;
+            margin-bottom: 18px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .book-title {
+            font-family: 'Fraunces', serif;
+            font-size: 1.45rem;
+            color: var(--cream);
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .book-body {
+            font-size: 0.875rem;
+            line-height: 1.7;
+            color: rgba(245,239,228,0.7);
+            margin-bottom: 28px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .phone-btn {
+            display: block;
+            background: var(--gold);
+            color: var(--forest);
+            text-align: center;
+            padding: 15px 24px;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            text-decoration: none;
+            position: relative;
+            z-index: 1;
+            transition: transform 0.2s, box-shadow 0.2s;
+            letter-spacing: 0.02em;
+        }
+
+        .phone-btn:hover {
+            transform: scale(1.02);
+            box-shadow: 0 6px 20px rgba(201,149,58,0.4);
+        }
+
+        .phone-note {
+            font-size: 0.75rem;
+            color: rgba(245,239,228,0.4);
+            text-align: center;
+            margin-top: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* WHY MOBILE STRIP */
+        .why-strip {
+            background: var(--forest);
+            padding: 64px 80px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 48px;
+        }
+
+        .why-point {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+        }
+
+        .why-icon { font-size: 2.2rem; flex-shrink: 0; margin-top: 2px; }
+
+        .why-title {
+            font-family: 'Fraunces', serif;
+            font-size: 1.05rem;
+            color: var(--light-gold);
+            margin-bottom: 8px;
+        }
+
+        .why-text {
+            font-size: 0.875rem;
+            line-height: 1.7;
+            color: rgba(245,239,228,0.65);
+        }
+
+        /* SECTIONS */
+        section {
+            padding: 100px 80px;
+        }
+
+        .section-label {
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 14px;
+            display: block;
+        }
+
+        .section-title {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(1.9rem, 3vw, 2.7rem);
+            font-weight: 700;
+            color: var(--forest);
+            line-height: 1.2;
+            margin-bottom: 14px;
+        }
+
+        .section-sub {
+            font-size: 1rem;
+            color: var(--text-mid);
+            line-height: 1.75;
+            max-width: 520px;
+            margin-bottom: 56px;
+        }
+
+        /* SERVICES */
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 22px;
+        }
+
+        .svc-card {
+            background: var(--cream);
+            border-radius: 20px;
+            padding: 34px 30px;
+            transition: transform 0.25s, box-shadow 0.25s;
+            border: 1px solid rgba(30,58,47,0.06);
+        }
+
+        .svc-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 50px rgba(30,58,47,0.1);
+        }
+
+        .svc-icon { font-size: 2rem; margin-bottom: 14px; display: block; }
+
+        .svc-name {
+            font-family: 'Fraunces', serif;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--forest);
+            margin-bottom: 8px;
+        }
+
+        .svc-desc {
+            font-size: 0.875rem;
+            line-height: 1.65;
+            color: var(--text-mid);
+        }
+
+        /* HOW IT WORKS */
+        .how { background: var(--cream); }
+
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0;
+            position: relative;
+        }
+
+        .steps::after {
+            content: '';
+            position: absolute;
+            top: 38px;
+            left: 18%;
+            right: 18%;
+            height: 2px;
+            background: linear-gradient(90deg, var(--gold) 0%, rgba(201,149,58,0.2) 100%);
+        }
+
+        .step {
+            text-align: center;
+            padding: 16px 40px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .step-num {
+            width: 76px;
+            height: 76px;
+            border-radius: 50%;
+            background: var(--forest);
+            color: var(--cream);
+            font-family: 'Fraunces', serif;
+            font-size: 1.7rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 22px;
+        }
+
+        .step:nth-child(2) .step-num { background: var(--gold); color: var(--forest); }
+
+        .step-title {
+            font-family: 'Fraunces', serif;
+            font-size: 1.1rem;
+            color: var(--forest);
+            margin-bottom: 10px;
+        }
+
+        .step-desc {
+            font-size: 0.875rem;
+            line-height: 1.7;
+            color: var(--text-mid);
+        }
+
+        /* ABOUT */
+        .about-inner {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .about-card {
+            background: var(--forest);
+            border-radius: 28px;
+            padding: 56px 48px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .about-card::after {
+            content: '🐾';
+            position: absolute;
+            font-size: 9rem;
+            bottom: -24px; right: -12px;
+            opacity: 0.07;
+            pointer-events: none;
+        }
+
+        .quote-mark {
+            font-family: 'Fraunces', serif;
+            font-size: 5rem;
+            color: var(--gold);
+            line-height: 0.5;
+            display: block;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+
+        .quote-text {
+            font-family: 'Fraunces', serif;
+            font-style: italic;
+            font-size: 1.3rem;
+            color: var(--cream);
+            line-height: 1.65;
+            margin-bottom: 28px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .quote-attr {
+            font-size: 0.82rem;
+            color: rgba(245,239,228,0.45);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            position: relative;
+            z-index: 1;
+        }
+
+        .about-list {
+            list-style: none;
+            margin-top: 28px;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .about-list li {
+            display: flex;
+            gap: 14px;
+            font-size: 0.95rem;
+            color: var(--text-mid);
+            line-height: 1.5;
+            align-items: flex-start;
+        }
+
+        .check {
+            width: 22px; height: 22px;
+            border-radius: 50%;
+            background: rgba(201,149,58,0.15);
+            color: var(--gold);
+            font-size: 0.7rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            margin-top: 1px;
+            font-weight: 700;
+        }
+
+        /* TESTIMONIALS */
+        .testimonials { background: var(--forest); }
+
+        .testimonials .section-title { color: var(--cream); }
+        .testimonials .section-sub { color: rgba(245,239,228,0.6); }
+
+        .t-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 22px;
+        }
+
+        .t-card {
+            background: rgba(245,239,228,0.07);
+            border: 1px solid rgba(245,239,228,0.1);
+            border-radius: 20px;
+            padding: 30px 26px;
+            transition: background 0.2s;
+        }
+
+        .t-card:hover {
+            background: rgba(245,239,228,0.1);
+        }
+
+        .stars {
+            color: var(--gold);
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            margin-bottom: 14px;
+            display: block;
+        }
+
+        .t-text {
+            font-family: 'Fraunces', serif;
+            font-style: italic;
+            font-size: 1rem;
+            line-height: 1.7;
+            color: rgba(245,239,228,0.85);
+            margin-bottom: 20px;
+        }
+
+        .t-author {
+            font-size: 0.78rem;
+            color: rgba(245,239,228,0.4);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        /* CTA */
+        .cta {
+            text-align: center;
+            padding: 120px 80px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta::before {
+            content: '';
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 700px; height: 700px;
+            background: radial-gradient(circle, rgba(201,149,58,0.07) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .cta .section-title {
+            max-width: 580px;
+            margin: 0 auto 14px;
+        }
+
+        .cta .section-sub {
+            margin: 0 auto 44px;
+        }
+
+        .cta-phone {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(2.2rem, 4.5vw, 3.5rem);
+            font-weight: 700;
+            color: var(--forest);
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+            margin-bottom: 16px;
+        }
+
+        .cta-phone::after {
+            content: '';
+            display: block;
+            height: 4px;
+            background: var(--gold);
+            border-radius: 2px;
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+            margin-top: 4px;
+        }
+
+        .cta-phone:hover { color: var(--gold); }
+        .cta-phone:hover::after { transform: scaleX(1); }
+
+        .cta-sub {
+            font-size: 0.875rem;
+            color: var(--text-light);
+            position: relative;
+            z-index: 1;
+        }
+
+        /* FOOTER */
+        footer {
+            background: #111109;
+            color: rgba(245,239,228,0.4);
+            padding: 36px 80px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.8rem;
+        }
+
+        .footer-logo {
+            font-family: 'Fraunces', serif;
+            font-size: 0.95rem;
+            color: rgba(245,239,228,0.7);
+        }
+
+        footer a {
+            color: rgba(245,239,228,0.4);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        footer a:hover { color: var(--gold); }
+
+        /* ANIMATIONS */
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(28px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .hero-text { animation: fadeUp 0.8s ease both; }
+        .hero-visual { animation: fadeUp 0.8s 0.18s ease both; }
+
+        /* MOBILE */
+        @media (max-width: 900px) {
+            nav { padding: 16px 24px; }
+            .nav-links { display: none; }
+            .hero { grid-template-columns: 1fr; padding: 100px 28px 60px; }
+            .hero-visual { display: none; }
+            .why-strip { grid-template-columns: 1fr; padding: 50px 28px; gap: 32px; }
+            section { padding: 70px 28px; }
+            .services-grid, .steps, .t-grid { grid-template-columns: 1fr; }
+            .steps::after { display: none; }
+            .about-inner { grid-template-columns: 1fr; gap: 36px; }
+            .cta { padding: 80px 28px; }
+            footer { flex-direction: column; gap: 14px; text-align: center; padding: 30px 28px; }
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="nav-logo">🐾 Kyle's Pet Grooming</div>
+    <ul class="nav-links">
+        <li><a href="#services">Services</a></li>
+        <li><a href="#how">How It Works</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="tel:9418991167" class="nav-cta">Call to Book</a></li>
+    </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="home">
+    <div class="hero-text">
+        <div class="hero-badge">🚐 Mobile Grooming · Sarasota, FL</div>
+        <h1>The Spa Day Your Pet<br><em>Deserves</em> — Delivered<br>To Your Door.</h1>
+        <p class="hero-sub">Skip the car ride. Skip the waiting room. Kyle's fully-equipped grooming van comes to your driveway in Sarasota and surrounding areas — stress-free, professional, and thorough every time.</p>
+        <div class="hero-actions">
+            <a href="tel:9418991167" class="btn-primary">📞 Call (941) 899-1167</a>
+            <a href="#services" class="btn-ghost">See all services →</a>
+        </div>
+        <div class="hero-stats">
+            <div>
+                <span class="stat-num">10+</span>
+                <div class="stat-label">Years in business</div>
+            </div>
+            <div>
+                <span class="stat-num">100%</span>
+                <div class="stat-label">Mobile — we come to you</div>
+            </div>
+            <div>
+                <span class="stat-num">5★</span>
+                <div class="stat-label">Yelp & Google rated</div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-visual">
+        <div class="book-card">
+            <span class="book-paw">🐶</span>
+            <h3 class="book-title">Book Your Spot This Week</h3>
+            <p class="book-body">Slots fill up fast. Call or text to schedule your pet's grooming — we serve Sarasota, Bradenton, and the surrounding area.</p>
+            <a href="tel:9418991167" class="phone-btn">(941) 899-1167</a>
+            <p class="phone-note">Call or text anytime</p>
+        </div>
+    </div>
+</section>
+
+<!-- WHY MOBILE -->
+<div class="why-strip">
+    <div class="why-point">
+        <span class="why-icon">🏡</span>
+        <div>
+            <div class="why-title">Zero Travel Stress</div>
+            <p class="why-text">Your pet stays in their neighborhood. No car rides, no crowded waiting rooms. Just calm, one-on-one grooming right outside your door.</p>
+        </div>
+    </div>
+    <div class="why-point">
+        <span class="why-icon">✂️</span>
+        <div>
+            <div class="why-title">Full Salon Equipment</div>
+            <p class="why-text">Our van brings professional tubs, dryers, and tools to your driveway — a complete salon experience without the salon trip.</p>
+        </div>
+    </div>
+    <div class="why-point">
+        <span class="why-icon">❤️</span>
+        <div>
+            <div class="why-title">One-on-One Attention</div>
+            <p class="why-text">No cages, no waiting, no rushing. Your pet gets Kyle's full, undivided attention from drop-off to finish.</p>
+        </div>
+    </div>
+</div>
+
+<!-- SERVICES -->
+<section id="services">
+    <span class="section-label">What We Offer</span>
+    <h2 class="section-title">Full-Service Grooming,<br>Right in Your Driveway</h2>
+    <p class="section-sub">Every service is performed with care using professional-grade tools. All breeds and sizes welcome.</p>
+    <div class="services-grid">
+        <div class="svc-card">
+            <span class="svc-icon">🛁</span>
+            <h3 class="svc-name">Bath & Brush</h3>
+            <p class="svc-desc">Full shampoo and conditioner with a professional finish blow-dry and brush-out. Leaves your pet clean, fluffy, and smelling great.</p>
+        </div>
+        <div class="svc-card">
+            <span class="svc-icon">✂️</span>
+            <h3 class="svc-name">Full Groom</h3>
+            <p class="svc-desc">Complete haircut in breed-appropriate style, bath, blow-dry, and tidy finish. Your dog will look like they just left a fancy salon — because they did.</p>
+        </div>
+        <div class="svc-card">
+            <span class="svc-icon">🐾</span>
+            <h3 class="svc-name">Nail Trim & Grind</h3>
+            <p class="svc-desc">Precision nail clipping and optional grinding for a smooth finish. Keeps your floors scratch-free and your pet comfortable.</p>
+        </div>
+        <div class="svc-card">
+            <span class="svc-icon">💨</span>
+            <h3 class="svc-name">De-Shedding Treatment</h3>
+            <p class="svc-desc">Specialized shampoo, deep conditioning, and high-velocity blow-out to remove the undercoat. Dramatically reduces shedding for weeks.</p>
+        </div>
+        <div class="svc-card">
+            <span class="svc-icon">👂</span>
+            <h3 class="svc-name">Ear Cleaning</h3>
+            <p class="svc-desc">Gentle cleaning of the ear canal to remove wax and debris — helps prevent infections and keeps your pet comfortable.</p>
+        </div>
+        <div class="svc-card">
+            <span class="svc-icon">🦟</span>
+            <h3 class="svc-name">Flea & Tick Treatment</h3>
+            <p class="svc-desc">Specialized shampoo treatment to help protect your pet. Available as an add-on to any grooming appointment.</p>
+        </div>
+    </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="how" id="how">
+    <span class="section-label">Simple as 1-2-3</span>
+    <h2 class="section-title">Here's How It Works</h2>
+    <p class="section-sub">No drop-offs, no pickups, no waiting rooms. Just a clean, happy pet and time back in your day.</p>
+    <div class="steps">
+        <div class="step">
+            <div class="step-num">1</div>
+            <h3 class="step-title">Call or Text to Book</h3>
+            <p class="step-desc">Reach out at (941) 899-1167 with your pet's breed, size, and the services you need. We'll lock in a time that works for you.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">2</div>
+            <h3 class="step-title">We Pull Up to Your Home</h3>
+            <p class="step-desc">Our fully-equipped grooming van arrives at your driveway right on time. You don't need to go anywhere or make any arrangements.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">3</div>
+            <h3 class="step-title">Pick Up a Happy Pet</h3>
+            <p class="step-desc">We knock when we're done. Your pet is clean, styled, and glowing — and you never had to leave home.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+    <div class="about-inner">
+        <div>
+            <span class="section-label">About Kyle</span>
+            <h2 class="section-title">Local, Trusted, and Built on Love for Animals</h2>
+            <p style="font-size:0.975rem;line-height:1.8;color:var(--text-mid);margin-bottom:12px;">Kyle's Pet Grooming has been a trusted name in the Sarasota community for over 10 years. As a family-owned mobile grooming service, we've built our reputation one happy pet at a time.</p>
+            <p style="font-size:0.975rem;line-height:1.8;color:var(--text-mid);">Every pet deserves to feel great — and every owner deserves convenience. That's why we bring the full salon experience to your driveway, on your schedule.</p>
+            <ul class="about-list">
+                <li><span class="check">✓</span> 10+ years serving Sarasota and surrounding areas</li>
+                <li><span class="check">✓</span> Family-owned and operated — your pet is in caring hands</li>
+                <li><span class="check">✓</span> All breeds and sizes welcome, from Chihuahuas to Great Danes</li>
+                <li><span class="check">✓</span> Fully-equipped mobile van — everything for a complete groom</li>
+                <li><span class="check">✓</span> Same skilled hands every visit — consistent, personal service</li>
+            </ul>
+        </div>
+        <div class="about-card">
+            <span class="quote-mark">"</span>
+            <p class="quote-text">My dog is always nervous at grooming salons — but with Kyle coming to our driveway, she's totally relaxed. Fast, friendly, and so worth it. I wouldn't go anywhere else.</p>
+            <div class="quote-attr">— Satisfied customer, Sarasota FL</div>
+        </div>
+    </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials" id="reviews">
+    <span class="section-label">What Pet Owners Say</span>
+    <h2 class="section-title">Happy Pets. Happy Families.</h2>
+    <p class="section-sub">Here's what Sarasota pet owners have to say about Kyle's.</p>
+    <div class="t-grid">
+        <div class="t-card">
+            <span class="stars">★★★★★</span>
+            <p class="t-text">"Kyle does an amazing job every single time. My golden always comes back looking beautiful. The mobile service is a game changer — so incredibly convenient."</p>
+            <div class="t-author">Sarah M. · Sarasota</div>
+        </div>
+        <div class="t-card">
+            <span class="stars">★★★★★</span>
+            <p class="t-text">"Been using Kyle's for 4 years. Consistent, professional, and genuinely loves animals. My dogs are always calm — no noisy salon, no strangers, no stress."</p>
+            <div class="t-author">James R. · Bradenton</div>
+        </div>
+        <div class="t-card">
+            <span class="stars">★★★★★</span>
+            <p class="t-text">"Quick, thorough, and such reasonable prices. Our Yorkie has been coming to Kyle for years and she always looks — and smells — incredible after every visit."</p>
+            <div class="t-author">Linda T. · Sarasota</div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA -->
+<section class="cta" id="contact">
+    <span class="section-label">Ready to Book?</span>
+    <h2 class="section-title">Give Your Pet the Best Grooming Experience in Sarasota</h2>
+    <p class="section-sub" style="margin:0 auto 40px;">Spots fill up fast. Call or text today to get your pet on the schedule.</p>
+    <div>
+        <a href="tel:9418991167" class="cta-phone">(941) 899-1167</a>
+    </div>
+    <p class="cta-sub">Call or text · Sarasota · Bradenton · Surrounding Areas</p>
+</section>
+
+<footer>
+    <div class="footer-logo">🐾 Kyle's Pet Grooming — Sarasota, FL</div>
+    <div style="display:flex;gap:24px;align-items:center;">
+        <span>Mobile Grooming</span>
+        <a href="tel:9418991167">(941) 899-1167</a>
+    </div>
+</footer>
+
+</body>
+</html>
