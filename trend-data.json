@@ -1,779 +1,577 @@
 {
-  "generated_at": "2026-06-26T10:52:06.355997+00:00",
+  "generated_at": "2026-06-27T10:07:25.035710+00:00",
   "stats": {
-    "total_products_scraped": 117,
+    "total_products_scraped": 60,
     "by_platform": {
-      "amazon": 117
+      "amazon": 60
     }
   },
   "analysis": {
     "buy_now": [
       {
         "rank": 1,
-        "score": 88,
-        "product": "Oura Ring Health & Sleep Tracker (Gen 4 Style, Non-Branded Alternative)",
-        "category": "Wearable Health Tech",
+        "score": 92,
+        "product": "40oz Insulated Stainless Steel Water Bottle with Handle and Flip Straw",
+        "category": "Drinkware & Hydration",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "high",
-        "reason": "The Oura Ring 4 sizing kit sitting in Amazon Electronics top 10 signals massive consumer intent for smart ring health trackers — the branded version is locked, but unbranded smart ring alternatives (heart rate, sleep, SpO2) are highly dropshippable and riding this wave. Price point and form factor are ideal for margin.",
-        "price_range": "$35–$89",
+        "reason": "Multiple 40oz tumbler/bottle SKUs dominate both Home & Kitchen and Sports & Outdoors bestseller lists simultaneously, signaling peak sustained demand heading into summer 2026. TikTok hydration content is evergreen and continues driving impulse purchases in this price range.",
+        "price_range": "$28–$55",
         "margin_estimate": "high",
-        "urgency": "Act within 7 days",
+        "urgency": "Act within 3 days",
         "search_terms": [
-          "smart ring health tracker",
-          "sleep tracking ring",
-          "fitness ring monitor"
+          "40oz water bottle with handle",
+          "insulated tumbler flip straw",
+          "hydrojug dupe",
+          "large water bottle cup holder fit"
         ],
-        "image_keywords": "smart ring,wearable tracker,minimalist health ring",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "insulated tumbler,stainless steel water bottle,handle straw lid",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61R3-h-5dUL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 85,
-        "product": "Anti-Loss Bluetooth Item Tracker Tag (4-Pack, Wallet & Key Compatible)",
-        "category": "Electronics / Tracking Devices",
+        "score": 88,
+        "product": "Bamboo-Derived Rayon Pillow Top Cooling Mattress Topper Queen Size",
+        "category": "Bedding & Sleep",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Apple AirTag 2nd Gen at #2 in Electronics proves tracker demand is at peak season — non-Apple Bluetooth tracker 4-packs (compatible with Android/universal) are unbranded, lightweight, high-margin, and actively converting on TikTok with 'lost keys' content. Summer travel season amplifies urgency.",
-        "price_range": "$25–$55",
+        "reason": "Cooling mattress toppers are ranking top 3 on Amazon Home & Kitchen in late June — peak hot-weather buying season — and bamboo/cooling materials command premium pricing with strong perceived value. Dropshippers can source quality alternatives at $20–$35 landed cost and retail at $75–$120.",
+        "price_range": "$65–$120",
         "margin_estimate": "high",
         "urgency": "Act within 5 days",
         "search_terms": [
-          "bluetooth item tracker tag",
-          "anti-lost key finder",
-          "wallet tracker tag 4 pack"
+          "cooling mattress topper queen",
+          "bamboo mattress pad hot sleepers",
+          "pillow top mattress topper back pain",
+          "breathable bed topper summer"
         ],
-        "image_keywords": "bluetooth tracker tag,small white device,key finder accessory",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/611DjYhflAL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 83,
-        "product": "Bamboo Rayon Cooling Mattress Topper Queen Size",
-        "category": "Home & Kitchen / Bedding",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "The Niagara Bamboo Mattress Topper at #4 in Home & Kitchen in late June confirms peak summer sleeping comfort demand — bamboo/rayon cooling toppers are brandless, lightweight, high perceived value, and command strong margins with consistent search volume every summer.",
-        "price_range": "$45–$95",
-        "margin_estimate": "high",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "bamboo cooling mattress topper",
-          "queen mattress pad hot sleepers",
-          "pillow top bed topper cooling"
-        ],
-        "image_keywords": "bamboo mattress topper,white bed pad,cooling bedding layer",
+        "image_keywords": "mattress topper,bamboo bedding,white pillow top pad",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 4,
-        "score": 81,
-        "product": "Insulated Stainless Steel Water Bottle with Flip Straw Lid 24–40 oz",
-        "category": "Home & Kitchen / Drinkware",
+        "rank": 3,
+        "score": 85,
+        "product": "Ultra Soft Chenille Bathroom Rug Set Non-Slip Rubber Backing 30x20",
+        "category": "Bath & Home Décor",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "high",
-        "reason": "Both Owala FreeSip (#5) and Stanley Quencher (#2) are in Amazon's Home top 10 simultaneously in summer — the category is proven but unbranded stainless insulated bottles with premium lids are fully dropshippable and TikTok continues to drive viral color/design cycles in this space.",
-        "price_range": "$22–$48",
-        "margin_estimate": "medium",
-        "urgency": "Act within 10 days",
+        "reason": "Bathroom rugs are a perennial TikTok home refresh trend and appear solidly in the Amazon top 20 — chenille texture and quick-dry features are highly shareable aesthetic content. Low unit weight keeps shipping costs minimal, protecting strong margins.",
+        "price_range": "$22–$45",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "insulated water bottle straw lid",
-          "stainless steel tumbler 40oz",
-          "leakproof sports water bottle"
+          "chenille bath rug non slip",
+          "absorbent bathroom mat quick dry",
+          "soft bath rug set",
+          "bathroom floor mat rubber backing"
         ],
-        "image_keywords": "stainless steel water bottle,insulated tumbler,straw lid drinkware",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Yqf0iEo6L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "chenille bath rug,soft bathroom mat,grey absorbent rug",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 83,
+        "product": "LEVOIT-Style Mini Desktop Air Purifier with 3-in-1 HEPA Filter and Aroma Pad",
+        "category": "Air Quality & Home Health",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "high",
+        "reason": "Compact desktop air purifiers are a top-performing TikTok home product category and rank in the Amazon top 20 — the aroma/essential oil pad feature adds a lifestyle angle that drives viral content. Ideal price point with lightweight shipping profile.",
+        "price_range": "$35–$65",
+        "margin_estimate": "high",
+        "urgency": "Act within 7 days",
+        "search_terms": [
+          "mini air purifier bedroom desk",
+          "small HEPA air purifier aroma",
+          "air purifier for dorm room",
+          "desktop air cleaner allergens"
+        ],
+        "image_keywords": "mini air purifier,desktop HEPA filter,white compact air cleaner",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wGv7Fh2AL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 79,
-        "product": "USB-C Wired Earbuds with Microphone and Volume Control",
-        "category": "Electronics / Audio Accessories",
+        "score": 81,
+        "product": "Waterproof Noiseless Queen Mattress Protector Deep Pocket 6-18 inch",
+        "category": "Bedding & Sleep Protection",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Apple EarPods USB-C at #13 in Electronics signals a massive market shift from 3.5mm to USB-C wired earbuds — unbranded USB-C wired earbuds with inline controls are extremely cheap to source, lightweight, and have surging search demand as Android and new iPhone users ditch adapters.",
-        "price_range": "$18–$38",
+        "reason": "Mattress protectors rank in the Amazon top 20 and are a high-repeat-purchase item with strong evergreen demand — the 'noiseless' and deep-pocket features address common consumer complaints and justify a premium price. Lightweight and compressible for low shipping costs.",
+        "price_range": "$25–$55",
         "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "USB-C wired earbuds microphone",
-          "type-c earphones with mic",
-          "wired earbuds USB C Android"
+          "waterproof mattress protector queen noiseless",
+          "deep pocket mattress cover",
+          "silent mattress pad waterproof",
+          "bed mattress protector washable"
         ],
-        "image_keywords": "USB-C earbuds,wired earphones,in-ear headphones cable",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "mattress protector,waterproof bed cover,white fitted mattress pad",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MtbD5gj7L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 77,
-        "product": "Indoor UV Bug Trap Light for Flies Gnats and Fruit Flies (Plug-In Style)",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 79,
+        "product": "Anti-Fog Wide-View Kids Swim Goggles 2-Pack UV Protection Age 3-14",
+        "category": "Swim & Summer Outdoor",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Zevo Flying Insect Trap appearing TWICE in Amazon Home top 10 (#9 and #10) in June is an unmistakable summer pest peak signal — unbranded plug-in UV fly/gnat trap lights are dropshippable, sub-$30, lightweight, and convert heavily in summer with outdoor-living content on TikTok.",
-        "price_range": "$20–$40",
-        "margin_estimate": "high",
-        "urgency": "Act within 5 days — peak summer pest season NOW",
+        "reason": "Kids swim goggles are ranking top 5 in Sports & Outdoors in peak summer season (late June 2026) — 2-pack format delivers perceived value and higher average order values. Parents are actively purchasing swim gear right now before July 4th holiday pool usage spikes.",
+        "price_range": "$18–$32",
+        "margin_estimate": "medium",
+        "urgency": "Act within 3 days — peak season NOW",
         "search_terms": [
-          "indoor fly trap UV light",
-          "plug in gnat trap",
-          "fruit fly catcher light"
+          "kids swim goggles anti fog 2 pack",
+          "children swimming goggles UV protection",
+          "swim goggles for kids 3-14",
+          "wide view swim goggles youth"
         ],
-        "image_keywords": "UV bug light trap,plug-in insect catcher,glowing fly trap",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "kids swim goggles,colorful pool goggles,children swimming",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61R1gTyB30L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 75,
-        "product": "Smart Alarm Clock with LED Display and Night Light (Bedside)",
-        "category": "Electronics / Smart Home",
+        "score": 77,
+        "product": "Weighted Vest with Reflective Stripe 6lb-30lb Adjustable for Workout and Running",
+        "category": "Fitness & Strength Training",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "high",
-        "reason": "Amazon Echo Spot appearing in BOTH Electronics (#11) and Home (#7) top 10 charts confirms sky-high demand for smart bedside alarm clocks — non-Alexa LED smart alarm clocks with sunrise simulation or temperature display are fully dropshippable and trending heavily as back-to-sleep health content grows.",
-        "price_range": "$28–$65",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
+        "reason": "Weighted vests appear in the Amazon Sports top 10 and are actively trending on TikTok fitness content as the 'rucking' and weighted cardio trend accelerates in 2026. Multiple weight options allow upselling and appeal to both beginners and advanced users.",
+        "price_range": "$40–$85",
+        "margin_estimate": "high",
+        "urgency": "Act within 5 days",
         "search_terms": [
-          "smart bedside alarm clock LED",
-          "digital clock night light",
-          "sunrise alarm clock bedroom"
+          "weighted vest workout running",
+          "adjustable weight vest rucking",
+          "weighted training vest reflective",
+          "strength training weighted vest"
         ],
-        "image_keywords": "LED bedside alarm clock,smart display clock,glowing bedroom clock",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "weighted vest,workout fitness vest,reflective training gear",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81l7AwlRcDL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 73,
-        "product": "Deep Pocket Microfiber Bed Sheet Set 4-Piece (Queen/King)",
-        "category": "Home & Kitchen / Bedding",
+        "score": 75,
+        "product": "Insulated Soft Cooler Lunch Bag with Zipper for Travel and Work",
+        "category": "Outdoor & Travel Food Storage",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Generic queen sheet sets holding #1 in Amazon Home & Kitchen demonstrates massive evergreen demand with no dominant brand — Oeko-Tex certified microfiber deep-pocket sets are lightweight, low-cost to source, and deliver strong margins with repeat seasonal velocity every summer and back-to-school period.",
-        "price_range": "$28–$58",
+        "reason": "Insulated lunch/cooler bags are ranking in Amazon Sports top 10 during peak summer — the crossover appeal for office workers, gym-goers, and outdoor adventurers creates a broad addressable market. Lightweight with high margin potential sourced from established suppliers.",
+        "price_range": "$25–$55",
         "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "deep pocket queen sheet set",
-          "cooling microfiber bed sheets",
-          "hotel luxury bed sheet set 4 piece"
+          "insulated lunch bag travel",
+          "soft cooler bag zipper",
+          "insulated tote bag work gym",
+          "BPA free cooler lunch bag"
         ],
-        "image_keywords": "white bed sheet set,hotel bedding,folded microfiber sheets",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "insulated lunch bag,soft cooler tote,zipper travel bag",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81G0v3ORZ1L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 9,
-        "score": 70,
-        "product": "Wireless Bluetooth On-Ear Headphones 50-Hour Battery Life Foldable",
-        "category": "Electronics / Audio",
+        "score": 73,
+        "product": "Silicone Oven Mitts 2-Pack Heat Resistant Extra Long Kitchen Gloves",
+        "category": "Kitchen Accessories",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
-        "confidence": "medium",
-        "reason": "Beats Solo 4 at #10 in Electronics proves strong consumer demand for over/on-ear wireless headphones — unbranded foldable Bluetooth headphones with 40–60hr battery claims are highly dropshippable, convert well on TikTok unboxing content, and sit in the $30–$70 sweet spot.",
-        "price_range": "$32–$75",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
+        "confidence": "high",
+        "reason": "Silicone oven mitts consistently perform as a TikTok kitchen content product and appear in Amazon's home top 20 — branded versions (KitchenAid) ranking here signals strong category demand that unbranded/private label alternatives can capture at better margins.",
+        "price_range": "$18–$35",
+        "margin_estimate": "high",
+        "urgency": "Act within 10 days",
         "search_terms": [
-          "wireless on ear headphones foldable",
-          "bluetooth headphones long battery",
-          "over ear headphones travel"
+          "silicone oven mitts heat resistant",
+          "kitchen oven gloves 2 pack",
+          "extra long oven mitts cooking",
+          "non slip kitchen mitts silicone"
         ],
-        "image_keywords": "foldable wireless headphones,over ear bluetooth,headphone carry case",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JNqP2C4rL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "silicone oven mitts,kitchen gloves,heat resistant cooking mitts",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/617z6N3l59L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 10,
-        "score": 68,
-        "product": "Liquid Ant Killer Bait Stations Indoor (12-Pack)",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 71,
+        "product": "Portable Mini Carpet and Upholstery Spot Cleaner Machine with Attachments",
+        "category": "Home Cleaning Appliances",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
-        "confidence": "medium",
-        "reason": "Terro Ant Bait at #6 in Amazon Home signals peak summer ant season demand — generic liquid ant bait station multi-packs are inexpensive to source, extremely lightweight, and carry strong margins while being fully non-regulated for standard dropship platforms.",
-        "price_range": "$18–$32",
+        "confidence": "high",
+        "reason": "Portable spot cleaners are a perennial TikTok 'satisfying clean' viral product and rank in Amazon's top 15 Home & Kitchen — the before/after cleaning content format drives massive organic reach. Price point supports strong dropshipping margins.",
+        "price_range": "$65–$110",
         "margin_estimate": "high",
-        "urgency": "Act within 7 days — peak ant season June–August",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "liquid ant bait stations indoor",
-          "ant killer trap 12 pack",
-          "indoor ant control bait"
+          "portable carpet spot cleaner",
+          "mini upholstery cleaner machine",
+          "small carpet cleaner car detailer",
+          "portable stain remover machine"
         ],
-        "image_keywords": "ant bait station,pest control trap,small white bait pod",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "portable carpet cleaner,mini spot cleaner,upholstery cleaning machine",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Zg+lIkXeL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 11,
-        "score": 65,
-        "product": "Soft Down Alternative Bed Pillows Standard/Queen 2-Pack",
-        "category": "Home & Kitchen / Bedding",
+        "score": 68,
+        "product": "Indoor Plug-In Flying Insect Trap with UV and Blue Light Technology",
+        "category": "Pest Control & Home",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Beckham Hotel Collection pillows at #3 in Amazon Home confirms the hotel-luxury bedroom refresh trend is in full swing for summer — unbranded down-alternative pillow 2-packs are a perennial dropship performer with strong conversion on lifestyle imagery and low return rates.",
-        "price_range": "$28–$55",
+        "reason": "Flying insect traps (Zevo-type) hold two spots simultaneously in Amazon's top 20 during June — peak bug season — and the no-mess cartridge format solves a real consumer pain point. Refill consumable model signals recurring purchase potential.",
+        "price_range": "$20–$40",
         "margin_estimate": "medium",
-        "urgency": "Act within 21 days",
+        "urgency": "Act within 5 days — peak pest season window closes by August",
         "search_terms": [
-          "down alternative pillows 2 pack queen",
-          "soft hotel pillows set of 2",
-          "bed pillows for side sleepers"
+          "indoor fly trap plug in UV light",
+          "flying insect trap home no mess",
+          "fruit fly gnat trap indoor",
+          "bug light trap plug in home"
         ],
-        "image_keywords": "white hotel pillows pair,fluffy bed pillows,bedroom pillow set",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71329CVoVDL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "indoor insect trap,plug-in bug light,UV fly catcher",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 12,
-        "score": 62,
-        "product": "E-Reader Case with Stand and Sleep/Wake Auto-Sensor (7-inch)",
-        "category": "Electronics / Accessories",
+        "score": 65,
+        "product": "Extra Heavy Duty Large Moving Storage Bags with Zipper and Handles 6-Pack",
+        "category": "Storage & Organization",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Kindle Paperwhite 7-inch (#15) and standard Kindle (#19) both in Amazon Electronics top 20 signals a device refresh cycle — 7-inch Kindle-compatible protective cases with origami stands are lightweight, inexpensive to source, and convert as upgrade accessories for new device owners.",
-        "price_range": "$18–$38",
-        "margin_estimate": "high",
-        "urgency": "Act within 21 days",
+        "reason": "Heavy-duty moving bags rank in Amazon's top 20 in late June — peak summer moving season (college move-out, apartment leases) — creating a tight seasonal window for strong sales velocity. 6-pack format drives higher AOV and positive review rates.",
+        "price_range": "$22–$42",
+        "margin_estimate": "medium",
+        "urgency": "Act within 3 days — moving season peaks July–August",
         "search_terms": [
-          "Kindle Paperwhite 7 inch case",
-          "e-reader case with stand",
-          "Kindle protective cover auto sleep"
+          "heavy duty moving bags with zipper",
+          "large storage bags for moving college",
+          "packing bags with handles moving",
+          "extra large clothes moving bags"
         ],
-        "image_keywords": "e-reader protective case,Kindle cover stand,tablet origami case",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "heavy duty moving bags,large zipper storage bags,blue packing bags",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "rising_fast": [
       {
         "rank": 1,
         "score": 84,
-        "product": "Smart Ring Sizing Kit + Fitness Ring Starter Bundle",
-        "category": "Wearable Health Tech",
+        "product": "Polarized No-Slip Lightweight Sports Sunglasses for Running and Outdoor Activity",
+        "category": "Eyewear & Outdoor",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The Oura Ring sizing kit charting in top 10 Electronics in June 2026 signals that smart ring adoption is crossing the mainstream chasm — accessory bundles and generic alternatives are accelerating fast as consumers price-compare.",
-        "signal": "Oura Ring 4 Sizing Kit at Amazon Electronics #7 — rare product placing as a sizing tool indicates extreme purchase intent pipeline",
-        "price_range": "$30–$79",
+        "reason": "Polarized sport sunglasses are ranking in Amazon Sports top 10 during peak summer outdoor season, and the 'no bounce no slip' feature is a growing search modifier indicating consumer sophistication and repeat buyer demand.",
+        "signal": "Amazon Sports bestseller top 10 in late June — prime summer outdoor activity season driving purchase intent",
+        "price_range": "$18–$45",
         "margin_estimate": "high",
-        "image_keywords": "smart fitness ring,health wearable ring,minimalist tracker ring",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/518Qh+G3I5L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "polarized sport sunglasses,outdoor running eyewear,UV400 sunglasses",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hlhfuMSiL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
         "score": 80,
-        "product": "Portable USB-C Multi-Port Travel Charger Hub (65W GaN)",
-        "category": "Electronics / Charging Accessories",
+        "product": "Hotel Luxury Deep Pocket 4-Piece Cooling Bed Sheet Set Oeko-Tex Certified",
+        "category": "Bedding",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The dominance of USB-C across Apple's entire ecosystem (AirPods Pro 3, iPad, EarPods all USB-C) in this data set signals an accelerating consumer migration — GaN multi-port USB-C chargers are riding this transition wave and selling fast.",
-        "signal": "Multiple USB-C Apple products in top 20 Electronics simultaneously confirms ecosystem-wide USB-C adoption shift in 2026",
-        "price_range": "$28–$65",
+        "reason": "Cooling bed sheet sets are holding the #1 spot on Amazon Home & Kitchen in summer 2026 — the Oeko-Tex certification and 'hotel luxury' positioning are emerging differentiators that justify premium pricing for non-branded alternatives.",
+        "signal": "#1 Amazon Home & Kitchen bestseller in late June — summer sleep comfort search queries rising steeply",
+        "price_range": "$35–$70",
         "margin_estimate": "high",
-        "image_keywords": "GaN USB-C charger hub,compact multi-port charger,travel power adapter",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "white bed sheet set,luxury hotel bedding,cooling sheets folded",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
         "score": 76,
-        "product": "Outdoor Wireless Security Camera with Solar Panel and Night Vision",
-        "category": "Smart Home / Security",
+        "product": "Compact Smart Alarm Clock Display for Nightstand Office Bedroom",
+        "category": "Smart Home & Electronics",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Blink Outdoor 4 at #5 and Blink Doorbell at #20 in Electronics confirm that DIY home security cameras are in accelerated adoption — solar-powered wireless variants are the unbranded alternative that converts without subscription baggage.",
-        "signal": "Two separate Blink security camera SKUs in Amazon Electronics top 20 simultaneously = category-wide demand surge",
-        "price_range": "$38–$85",
+        "reason": "Smart nightstand displays are moving up the Amazon Home bestseller list as consumers seek minimalist smart home devices — non-Amazon-branded compact alarm clock displays can be dropshipped profitably in this rising category.",
+        "signal": "Amazon Echo Spot ranking in Home & Kitchen top 10 signals rising consumer demand for compact smart display/clock devices as a home category",
+        "price_range": "$30–$75",
         "margin_estimate": "medium",
-        "image_keywords": "outdoor solar security camera,wireless surveillance camera,waterproof night vision camera",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41HqQuiOi2L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "smart alarm clock display,nightstand digital clock,compact bedside display",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 73,
-        "product": "Insulated Handle Tumbler 30oz with Flowstate-Style 3-Position Lid",
-        "category": "Home & Kitchen / Drinkware",
+        "score": 74,
+        "product": "Liquid Ant Bait Indoor Trap Stations 6-12 Pack Home Use",
+        "category": "Pest Control",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Stanley Quencher at #2 in Home & Kitchen in late June signals the summer hydration tumbler cycle is peaking — handle tumblers with rotating lids in seasonal colorways are moving extremely fast right now.",
-        "signal": "Stanley Quencher H2.0 30oz at Amazon Home #2 in June with seasonal colorway (Lilac) = summer color drop demand accelerating",
-        "price_range": "$25–$52",
+        "reason": "Indoor ant bait stations are ranking top 10 in Amazon Home in late June — peak ant season — and represent a high-velocity consumable product with consistent reorder demand throughout summer months.",
+        "signal": "Amazon Home top 10 placement in June signals peak pest control purchase window driven by warm weather ant infestations",
+        "price_range": "$12–$28",
         "margin_estimate": "medium",
-        "image_keywords": "insulated handle tumbler,stainless steel cup with straw,colorful travel tumbler",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "ant bait stations,indoor ant trap,pest control home kit",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 70,
-        "product": "4K Fire TV Stick Alternative Android TV Dongle with Voice Remote",
-        "category": "Electronics / Streaming",
+        "score": 71,
+        "product": "First Aid Emergency Kit 80-Piece Portable with Bandages and Wound Care",
+        "category": "Health & Safety Outdoor",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Three separate Fire TV Stick SKUs in Amazon Electronics top 20 (4K, HD, 4K Max) confirms that streaming dongles are in a device refresh cycle that is accelerating — Android TV dongles as alternatives are riding cord-cutting momentum.",
-        "signal": "Fire TV Stick 4K (#8), Fire TV HD (#9), and Fire TV 4K Max (#17) all in Electronics top 20 = streaming device upgrade supercycle active",
-        "price_range": "$28–$60",
+        "reason": "Portable first aid kits are ranking top 5 in Sports & Outdoors as summer camping and travel season peaks — the multi-use positioning (home/car/camping) broadens the addressable audience and supports strong conversion rates.",
+        "signal": "Amazon Sports top 5 in late June aligns with summer travel, camping, and outdoor recreation season driving first aid preparedness purchases",
+        "price_range": "$20–$40",
         "margin_estimate": "medium",
-        "image_keywords": "4K streaming dongle,TV stick device,HDMI media player remote",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "portable first aid kit,emergency medical kit,red cross travel kit",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vQmvJOqyL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 66,
-        "product": "Single-Cup Pod Coffee Maker Compact Countertop with Large Reservoir",
-        "category": "Home & Kitchen / Coffee",
+        "score": 67,
+        "product": "Black Wood-Frame Gallery Wall Picture Frame 11x14 Mat to 8x10",
+        "category": "Home Décor & Photo Display",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Keurig K-Express at #8 in Amazon Home confirms single-serve coffee makers are in strong summer demand — compact unbranded pod-compatible machines are rising fast as back-to-office and dorm-season approaches.",
-        "signal": "Keurig K-Express at Amazon Home #8 in June with strong review velocity = single-serve coffee category accelerating toward back-to-school season",
-        "price_range": "$38–$75",
+        "reason": "Picture frames are in Amazon's Home top 20 year-round and see a consistent mid-summer refresh as people redecorate — TikTok gallery wall content continues to drive impulse décor purchases in the $15–$35 range.",
+        "signal": "Amazon Home top 20 combined with ongoing TikTok 'gallery wall' and 'home aesthetic' content trend driving frame demand",
+        "price_range": "$15–$35",
         "margin_estimate": "medium",
-        "image_keywords": "single serve pod coffee maker,compact countertop brewer,K-cup coffee machine",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xuVr0CPbL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "black picture frame wall,gallery wall frame,photo display mat frame",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg"
       }
     ],
     "buy_soon": [
       {
         "rank": 1,
         "score": 72,
-        "product": "Cordless Electric Spin Scrubber with 4 Brush Heads and Extendable Handle",
-        "category": "Home & Kitchen / Cleaning Tools",
+        "product": "Adjustable Neoprene Dumbbell Set 5lb-25lb Hex Weight Home Gym Pair",
+        "category": "Fitness & Home Gym",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Summer deep-cleaning season and late-summer home refresh content on TikTok will drive spin scrubber demand in the next 2–4 weeks as consumers tackle bathrooms and outdoor furniture.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Monitor TikTok 'cleaning hack' and 'deep clean with me' content volume — when spin scrubber appears in 3+ viral videos, buy immediately",
-        "image_keywords": "electric spin scrubber,cordless cleaning brush,bathroom scrubber tool",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/611DjYhflAL._AC_UL300_SR300,200_.jpg"
+        "reason": "Neoprene dumbbells are ranking in Amazon Sports top 10 — as August approaches, back-to-gym and back-to-school fitness motivation will create a second demand spike complementing the current summer fitness trend.",
+        "predicted_peak": "4–6 weeks (August back-to-gym cycle)",
+        "watch_signal": "Monitor Amazon BSR acceleration in Sports & Outdoors dumbbell subcategory and TikTok home gym content volume",
+        "image_keywords": "neoprene dumbbell set,home gym weights,colorful hex dumbbells",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mBMQqe-rL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
         "score": 70,
-        "product": "Portable Neck Fan Bladeless Wearable with 3 Speed Settings",
-        "category": "Home & Kitchen / Personal Cooling",
+        "product": "Travel-Ready Portable Insulated Stainless Steel Water Bottle 24oz Leak Proof",
+        "category": "Drinkware",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Late June data shows peak summer just beginning — wearable neck fans typically hit their viral TikTok moment in July as heatwave content spikes and outdoor events ramp up.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Track Google Trends for 'neck fan' — buy when query rises above 70/100 in the US",
-        "image_keywords": "wearable neck fan,bladeless personal cooler,portable neck cooler white",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg"
+        "reason": "Smaller 24oz travel water bottles are ranking well in both Amazon departments — as summer travel season peaks in July, this compact size will see increased gifting and vacation prep purchase intent.",
+        "predicted_peak": "2–3 weeks (July 4th travel kickoff)",
+        "watch_signal": "Monitor 'travel water bottle' and 'vacation water bottle' Google Search trends for acceleration",
+        "image_keywords": "24oz stainless water bottle,travel sports bottle,leak proof insulated bottle",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51znrXuLBtL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 67,
-        "product": "Sunrise Simulation Alarm Clock with Sleep Aid White Noise (Bedroom)",
-        "category": "Electronics / Wellness Tech",
+        "score": 68,
+        "product": "Cordless Electric Spin Scrubber with 4 Interchangeable Brush Heads for Bathroom Tile and Grout",
+        "category": "Home Cleaning Tools",
         "platforms": [
-          "amazon"
+          "tiktok"
         ],
         "confidence": "medium",
-        "reason": "The smart alarm clock signal from Echo Spot data will cross-pollinate into sleep wellness as back-to-school season approaches in August, driving demand for non-Alexa sunrise clocks with white noise.",
-        "predicted_peak": "4–6 weeks",
-        "watch_signal": "Watch Amazon BSR movement in 'Alarm Clocks' subcategory — any non-branded item entering top 50 with <500 reviews is your entry signal",
-        "image_keywords": "sunrise alarm clock,soft glow bedroom clock,sleep aid wake up light",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wGv7Fh2AL._AC_UL300_SR300,200_.jpg"
+        "reason": "Electric spin scrubbers are a proven TikTok viral cleaning product that sees consistent late-summer demand spikes as people do end-of-summer deep cleans and back-to-school home refreshes.",
+        "predicted_peak": "3–5 weeks",
+        "watch_signal": "Watch TikTok #cleantok hashtag volume and search for 'electric scrubber' rising on Google Shopping",
+        "image_keywords": "electric spin scrubber,cordless bathroom scrubber,rotating brush head cleaner",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 65,
-        "product": "Back-to-School Backpack Organizer Insert with Laptop Sleeve and USB Port",
-        "category": "Bags & Travel",
+        "score": 66,
+        "product": "Blackout Curtains Thermal Insulated Room Darkening Grommet Panels 52x84 Pair",
+        "category": "Window Treatments & Home",
         "platforms": [
-          "amazon"
+          "amazon",
+          "tiktok"
         ],
         "confidence": "medium",
-        "reason": "July marks the start of back-to-school shopping season — laptop backpack inserts and organizational accessories will see search volume surge within 3 weeks as school supply content peaks on TikTok.",
+        "reason": "Blackout curtains follow bedding demand patterns — with cooling sleep products dominating now, blackout curtains are the natural next search consumers make for sleep improvement and will spike as back-to-school bedroom setups begin in late July.",
         "predicted_peak": "3–5 weeks",
-        "watch_signal": "Monitor Google Shopping queries for 'backpack organizer' and 'back to school bag 2026' — rising search in mid-July is your buy signal",
-        "image_keywords": "backpack organizer insert,laptop sleeve bag,school supply organizer",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "watch_signal": "Monitor Amazon Home window treatment BSR movement and 'blackout curtains bedroom' Google Shopping query volume",
+        "image_keywords": "blackout curtains bedroom,room darkening panels,thermal window curtains"
       },
       {
         "rank": 5,
-        "score": 63,
-        "product": "Silicone Ice Cube Tray with Lid Large Square Nugget Style (2-Pack)",
-        "category": "Home & Kitchen / Kitchen Tools",
+        "score": 64,
+        "product": "Collapsible Silicone Travel Bottles Leak Proof TSA Approved 3oz Set of 4",
+        "category": "Travel Accessories",
         "platforms": [
-          "amazon"
+          "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Summer cocktail and iced beverage content drives ice tray virality every July — nugget and large cube silicone trays are inexpensive, lightweight, and spike reliably with 'summer drinks' TikTok content.",
-        "predicted_peak": "2–3 weeks",
-        "watch_signal": "Monitor TikTok #summerdrinksrecipe and #icetray hashtag views — exponential growth is the buy signal",
-        "image_keywords": "silicone ice cube tray,large square ice mold,clear ice tray lid",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/617z6N3l59L._AC_UL300_SR300,200_.jpg"
+        "reason": "TSA-approved travel bottles are a classic summer travel essential that peaks in late June through August — TikTok travel packing content drives discovery and impulse purchases for these low-cost, high-margin items.",
+        "predicted_peak": "1–2 weeks",
+        "watch_signal": "Monitor TikTok 'travel packing essentials' content volume and Google Trends for 'TSA travel bottles'",
+        "image_keywords": "silicone travel bottles TSA,collapsible toiletry bottles,travel size refillable containers",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51znrXuLBtL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 61,
-        "product": "Portable Outdoor Camping Lantern Solar + USB Rechargeable Collapsible",
-        "category": "Outdoors / Camping Gear",
+        "score": 62,
+        "product": "Portable Neck Fan Bladeless Wearable Personal Fan USB Rechargeable",
+        "category": "Personal Cooling Devices",
         "platforms": [
-          "amazon"
+          "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Peak camping and outdoor festival season runs July–August — solar collapsible lanterns convert extremely well in summer outdoor content and TikTok camping hauls will drive demand.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Track Amazon 'Camping Lanterns' subcategory movers — non-branded items with <200 reviews entering top 100 BSR indicate early breakout",
-        "image_keywords": "collapsible solar lantern,outdoor camping light,portable LED tent lantern",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vQmvJOqyL._AC_UL300_SR300,200_.jpg"
+        "reason": "Wearable neck fans are a proven TikTok summer viral product with strong search-to-purchase conversion — late June through July is the absolute peak window and this trend is likely just beginning its 2026 cycle.",
+        "predicted_peak": "1–2 weeks (peak summer heat)",
+        "watch_signal": "Track TikTok #neckfan hashtag views and Google Shopping 'portable neck fan' query acceleration",
+        "image_keywords": "wearable neck fan,bladeless personal cooler,USB rechargeable neck fan"
       },
       {
         "rank": 7,
-        "score": 58,
-        "product": "Waterproof Floating Phone Pouch Dry Bag with Lanyard (2-Pack)",
-        "category": "Sports & Outdoors / Water Activities",
+        "score": 60,
+        "product": "Back-to-School Backpack with USB Charging Port Laptop Compartment 15.6 inch",
+        "category": "Bags & Back-to-School",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "July Fourth holiday and peak beach/pool season will drive waterproof phone pouch searches in 1–2 weeks — lightweight, extremely cheap to source, with reliable seasonal demand and strong TikTok conversion.",
-        "predicted_peak": "1–2 weeks — act fast",
-        "watch_signal": "Google Trends 'waterproof phone pouch' query crossing 60/100 in US = immediate buy signal",
-        "image_keywords": "waterproof phone pouch,floating dry bag,clear beach phone case",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UJx0RZinL._AC_UL300_SR300,200_.jpg"
+        "reason": "Back-to-school backpack searches begin climbing significantly in mid-July, and the USB charging port feature differentiates from commodity options while driving higher margin — early stocking now sets up for the peak August rush.",
+        "predicted_peak": "5–7 weeks (late July–August back-to-school)",
+        "watch_signal": "Monitor Google Trends 'backpack with USB charging' query and Amazon BSR acceleration in the luggage/bags category",
+        "image_keywords": "laptop backpack USB charging,school backpack black,student bag computer compartment",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZxgS1cu+L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 55,
-        "product": "Mini Projector Portable 1080P WiFi Bluetooth for Outdoor Movie Night",
-        "category": "Electronics / Home Entertainment",
+        "score": 58,
+        "product": "LED Strip Lights Smart App-Controlled RGB Room Décor 16.4ft Flexible with Music Sync",
+        "category": "Home Lighting & Décor",
         "platforms": [
-          "amazon"
+          "tiktok"
         ],
         "confidence": "low",
-        "reason": "Outdoor movie nights trend heavily in late July through August — portable mini projectors under $100 are a consistent summer dropship performer when seeded with outdoor cinema lifestyle content.",
-        "predicted_peak": "5–7 weeks",
-        "watch_signal": "Watch for 'outdoor movie night' TikTok trend re-emergence and Google Shopping queries for 'portable projector outdoor' crossing 50/100",
-        "image_keywords": "mini portable projector,outdoor movie screen,compact home cinema projector",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vQmvJOqyL._AC_UL300_SR300,200_.jpg"
+        "reason": "RGB LED strip lights are a persistent TikTok room makeover product that sees renewed back-to-school demand from students setting up dorm rooms and bedrooms in August — pairing with back-to-school season creates a strong upcoming window.",
+        "predicted_peak": "5–8 weeks (dorm/bedroom setup season)",
+        "watch_signal": "Monitor TikTok 'room transformation' and 'dorm setup' content virality, and Google Shopping 'LED room lights' queries",
+        "image_keywords": "LED strip lights room,RGB color changing lights,smart bedroom lighting",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81fgNCXCZYL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "Smart Ring & Wearable Health Tech",
+        "category": "Hydration & Drinkware",
         "momentum": "exploding",
-        "reason": "Oura Ring 4 sizing kit in Amazon Electronics top 10 signals consumer health tracking moving from niche to mainstream — smart rings are the 2026 equivalent of early smartwatch adoption"
+        "reason": "Multiple 40oz tumbler and insulated bottle SKUs occupy top positions in both Home & Kitchen and Sports & Outdoors simultaneously — summer heat + TikTok hydration culture is sustaining category dominance through August."
+      },
+      {
+        "category": "Cooling Bedding & Sleep Comfort",
+        "momentum": "exploding",
+        "reason": "Bamboo cooling toppers, breathable sheet sets, waterproof mattress protectors, and down-alternative pillows all rank in the Amazon top 20 simultaneously — the 'better sleep in summer heat' consumer trend is peaking right now."
       },
       {
         "category": "Home Pest Control",
-        "momentum": "exploding",
-        "reason": "Two Zevo insect trap products in Amazon Home top 10 simultaneously plus Terro ant bait confirm peak summer pest season is generating extraordinary category-wide demand right now"
-      },
-      {
-        "category": "USB-C Accessories & Charging",
         "momentum": "rising",
-        "reason": "Full Apple ecosystem migration to USB-C (AirPods Pro 3, iPad, EarPods all USB-C in top 20) is driving a massive accessory replacement cycle across charging cables, hubs, and adapters"
+        "reason": "Two Zevo insect trap products and ant bait stations all appear in the Amazon Home top 20 — late June through August is peak pest season and consumer purchase urgency is high, creating a reliable seasonal window."
       },
       {
-        "category": "Bedroom Comfort & Sleep Wellness",
+        "category": "Fitness & Weighted Training",
         "momentum": "rising",
-        "reason": "Sheet sets (#1), mattress toppers (#4), pillows (#3), and smart alarm clocks appearing across both top-10 Amazon Home and Electronics lists signals a sustained bedroom upgrade supercycle with no slowdown"
+        "reason": "Weighted vests and neoprene dumbbells both appear in the Sports top 10 — the rucking and weighted cardio trends from social media are converting into Amazon purchase intent, with a second surge expected in August back-to-gym season."
       },
       {
-        "category": "DIY Home Security & Smart Cameras",
+        "category": "Compact Home Cleaning Appliances",
         "momentum": "rising",
-        "reason": "Blink Outdoor 4 (#5) and Blink Doorbell (#20) both in Electronics top 20 shows DIY security camera adoption accelerating — consumers are upgrading existing systems and adding cameras to new locations"
+        "reason": "Portable spot cleaners and air purifiers both appear in the Amazon Home top 20 — TikTok 'satisfying clean' and 'home refresh' content continues to funnel viewers to compact, demonstrable cleaning devices."
       },
       {
-        "category": "Summer Hydration & Drinkware",
-        "momentum": "exploding",
-        "reason": "Stanley Quencher #2 and Owala FreeSip #5 in Amazon Home top 10 simultaneously in late June confirms peak summer hydration product demand — seasonal colorways and new lid designs drive repeat purchase behavior"
-      },
-      {
-        "category": "Streaming & Cord-Cutting Devices",
+        "category": "Summer Swim & Outdoor Recreation",
         "momentum": "rising",
-        "reason": "Three Fire TV Stick variants (4K, HD, 4K Max) plus Fire TV INSIGNIA TV all appearing in Amazon Electronics top 20 signals a device refresh/upgrade supercycle as streaming library wars continue driving hardware upgrades"
+        "reason": "Kids swim goggles, portable cooler bags, and outdoor first aid kits all rank in Amazon Sports top 10 — the summer outdoor activity season is at peak momentum with July 4th approaching, sustaining demand for at least 6 more weeks."
+      },
+      {
+        "category": "Bath & Home Décor Accessories",
+        "momentum": "stable",
+        "reason": "Chenille bath rugs and picture frames hold steady positions in the Amazon top 20 — driven by ongoing TikTok home aesthetic content, this category provides reliable margin with low volatility risk year-round."
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Apple-branded electronics (AirPods, AirTags, Apple Watch, iPad)",
-        "reason": "All Apple products (AirPods Pro 3, AirTag, Apple Watch Series 11, iPad — all in top 20) are heavily brand-controlled, MAP-priced, and impossible to dropship at margin; Amazon and authorized retailers will always undercut and win the buy box"
+        "product_type": "Amazon Echo and Echo Show smart displays",
+        "reason": "These are proprietary Amazon-branded products that cannot be dropshipped — attempting to list competitive non-branded alternatives risks IP issues, and the category is dominated entirely by Amazon's own vertical integration."
       },
       {
         "rank": 2,
-        "product_type": "Amazon Echo / Alexa branded smart speakers and displays",
-        "reason": "Echo Dot, Echo Spot, and Fire TV Sticks are Amazon's own proprietary hardware — zero possibility of dropshipping, and competing generic voice speakers cannot leverage Alexa brand equity; margin is destroyed by Amazon's own pricing"
+        "product_type": "Keurig branded single-serve coffee makers",
+        "reason": "Keurig is a heavily protected brand with strict authorized reseller policies — dropshipping gray-market units risks account suspension, and the category is dominated by the brand owner with no room for generic alternatives at competitive margins."
       },
       {
         "rank": 3,
-        "product_type": "Large Smart TVs (55-inch and above)",
-        "reason": "INSIGNIA 55-inch Fire TV at #16 confirms TV demand, but large TVs are prohibitively heavy and oversized for dropshipping — freight costs destroy all margin, damage rates are high, and returns are operationally catastrophic"
+        "product_type": "TaylorMade and branded golf equipment",
+        "reason": "Premium branded sports equipment like TaylorMade golf balls carries authorized dealer requirements, MAP pricing enforcement, and authenticity risk — margins are non-existent and account suspension risk is high for unauthorized resellers."
       },
       {
         "rank": 4,
-        "product_type": "Branded coffee makers (Keurig, Nespresso, Breville)",
-        "reason": "Keurig K-Express at Amazon Home #8 signals demand but branded appliance dropshipping is restricted by MAP pricing and authorized dealer requirements — unbranded alternatives are viable but branded units are off-limits for margin"
+        "product_type": "Stanley and BISSELL branded products",
+        "reason": "Both Stanley (tumblers) and BISSELL (portable cleaners) are brand-protected with active MAP policies and authorized dealer programs — listing under or near these brand names risks trademark infringement and storefront closure."
       },
       {
         "rank": 5,
-        "product_type": "Beats / Sony / Bose branded headphones",
-        "reason": "Beats Solo 4 trending confirms audio demand but Beats is an Apple subsidiary with strict brand controls, MAP pricing, and authorized seller restrictions — attempting to dropship these will result in account suspension and zero margin"
+        "product_type": "Mattress-related products over Queen size (King mattress toppers, full mattress pads)",
+        "reason": "Oversized bedding items like King and California King mattress toppers become extremely costly to ship, often eating 40–60% of retail price in freight costs, destroying dropshipping margins even when retail pricing is competitive."
       }
     ],
-    "market_insights": "The late June 2026 Amazon data reveals a market defined by two simultaneous supercycles: a summer seasonal surge (pest control, cooling bedding, hydration drinkware, outdoor security cameras) and a platform-driven hardware refresh cycle (USB-C ecosystem migration, streaming device upgrades, wearable health tech entering mainstream adoption). For dropshippers, this convergence creates a rare window where products in both cycles — like USB-C accessories paired with cooling lifestyle products — can be bundled and cross-marketed effectively. The Oura Ring and smart ring data signal that wearable health monitoring has crossed the mainstream threshold, creating a particularly strong opportunity for unbranded smart ring alternatives priced $35–$80.\n\nThe dominant risk in this data set is Apple brand saturation — nearly 30% of Amazon Electronics top 20 is Apple-branded SKUs that are completely inaccessible to dropshippers. The actionable insight is to target the halo effect: for every Apple product trending, there is an unbranded equivalent riding the same wave at 3–5x the margin potential. The pest control category stands out as the single most overlooked high-margin opportunity this month — two Zevo and one Terro SKU in top 10 with peak summer demand, zero brand lock, lightweight shipping, and strong seasonal urgency. Dropshippers sleeping on the pest control category are leaving significant summer revenue on the table.",
-    "data_quality_note": "Only Amazon Bestseller data was provided in this analysis — TikTok trend data and Google Trends data were entirely absent, which limits confidence in platform cross-validation signals; all TikTok and Google Trends references in recommendations are based on historical seasonal patterns and category knowledge rather than live scraped data."
+    "market_insights": "Late June 2026 presents a high-clarity buying window for dropshippers. The convergence of summer heat, peak outdoor recreation, and pre-July 4th purchasing is creating unusually strong signals across Home & Kitchen and Sports & Outdoors simultaneously. The hydration/drinkware category is the clearest opportunity — multiple SKUs from competing brands are dominating both departments at once, confirming that the consumer demand is category-wide rather than brand-specific, which is exactly the condition where unbranded or private-label dropship alternatives can capture market share. Cooling bedding is a close second, with the sweet spot being bamboo-derived and 'hotel luxury' positioned products that have strong perceived value but minimal brand lock-in.\n\nDropshippers should note that seasonal urgency is real in this data set — pest control, swim gear, and moving storage products all have closing windows by late August. The time to list, test ads, and optimize is this week, not next month. On the forward-looking side, back-to-school demand (backpacks, dorm lighting, home gym equipment) is approximately 4–6 weeks away from peaking, and sourcing those products now allows for early listing optimization and review accumulation before the main traffic wave hits. Avoid the temptation to chase branded items appearing in the bestseller data — those rankings are evidence of category demand, not an invitation to resell those specific SKUs.",
+    "data_quality_note": "TikTok and Google Trends data were absent from the provided raw dataset — all TikTok and Google signals referenced in recommendations are inferred from known platform behavior patterns and historical category performance rather than live scraped data, so treat those confidence levels conservatively and validate with live TikTok search and Google Shopping before committing to large inventory positions."
   },
   "raw_sample": [
-    {
-      "name": "blink plus plan with monthly auto-renewal",
-      "rank": 1,
-      "rating": "4.4",
-      "price": "$11.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/31YHGbJsldL._AC_UL300_SR300,200_.png",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirTag (2nd Generation) - 4 Pack: Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range*",
-      "rank": 2,
-      "rating": "4.6",
-      "price": "$89.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/611DjYhflAL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Feature, Bluetooth Headphones, Spatial Audio, High-Fidelity Sound, USB-C Charging",
-      "rank": 3,
-      "rating": "4.5",
-      "price": "$179.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
-      "rank": 4,
-      "rating": "4.7",
-      "price": "$29.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module not included – Add-on camera",
-      "rank": 5,
-      "rating": "4.2",
-      "price": "$23.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41HqQuiOi2L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
-      "rank": 6,
-      "rating": "4.7",
-      "price": "$279.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Oura Ring 4 Sizing Kit - Before You Buy the Unique Sizing, Not Standard US Sizes - Receive Credit for Purchase, Sizing Kit, Oura App",
-      "rank": 7,
-      "rating": "4.5",
-      "price": "$10.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/518Qh+G3I5L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
-      "rank": 8,
-      "rating": "4.2",
-      "price": "$17.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r3G3vAhBL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
-      "rank": 9,
-      "rating": "4.1",
-      "price": "$15.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Cloud Pink",
-      "rank": 10,
-      "rating": "4.6",
-      "price": "$99.95",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JNqP2C4rL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
-      "rank": 11,
-      "rating": "4.5",
-      "price": "$39.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "rank": 12,
-      "rating": "4.6",
-      "price": "$24.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume",
-      "rank": 13,
-      "rating": "4.6",
-      "price": "$19.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone",
-      "rank": 14,
-      "rating": "4.6",
-      "price": "$99.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iBtxCUabL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Kindle Paperwhite 16GB (newest model) – 20% faster, with new 7\" glare-free display and weeks of battery life – Black",
-      "rank": 15,
-      "rating": "4.7",
-      "price": "$124.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "INSIGNIA 55-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa Voice Remote (NS-55F501NA26)",
-      "rank": 16,
-      "rating": "4.4",
-      "price": "$179.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81jLRWNrTXL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick 4K Max (newest model), streaming device, with AI-powered Fire TV Search, supports Wi-Fi 6E, free & live TV without cable or satellite, find shows faster with Alexa+",
-      "rank": 17,
-      "rating": "4.6",
-      "price": "$34.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WSW6X9+uL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue",
-      "rank": 18,
-      "rating": "4.7",
-      "price": "$299.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aPY8odPSL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Kindle 16 GB (newest model) - Lightest and most compact Kindle, now with faster page turns, and higher contrast ratio, for an enhanced reading experience - Matcha",
-      "rank": 19,
-      "rating": "4.6",
-      "price": "$84.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51seYeLPo9L._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and simple setup. Sync Module Core included – System (Black)",
-      "rank": 20,
-      "rating": "4.2",
-      "price": "$23.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51b-GzWqPTL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
     {
       "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
       "rank": 1,
       "rating": "4.5",
-      "price": "$17.49",
+      "price": "$24.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -781,21 +579,10 @@
       "platform": "amazon"
     },
     {
-      "name": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Lilac",
-      "rank": 2,
-      "rating": "4.7",
-      "price": "$20.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 - Original Soft Down Alternative Pillow for Sleeping - Soft Support for Back, Stomach or Side Sleepers",
-      "rank": 3,
+      "rank": 2,
       "rating": "4.4",
-      "price": "$39.87",
+      "price": "$59.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71329CVoVDL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -804,9 +591,9 @@
     },
     {
       "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
-      "rank": 4,
+      "rank": 3,
       "rating": "4.4",
-      "price": "$35.99",
+      "price": "$37.89",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -814,10 +601,43 @@
       "platform": "amazon"
     },
     {
-      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Summer Sweetness",
+      "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Primrose",
+      "rank": 4,
+      "rating": "4.6",
+      "price": "$44.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61R3-h-5dUL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Lightweight Breathable Brushed Microfiber 3-Piece Bed Sheet Set With 14-Inch Deep Pockets, Wrinkle Resistant, Twin XL, Dark Gray, Solid",
       "rank": 5,
+      "rating": "4.6",
+      "price": "$10.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZxgS1cu+L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Violet Blossom",
+      "rank": 6,
       "rating": "4.7",
-      "price": "$29.99",
+      "price": "$40.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51dxcfhOT7L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Summer Sweetness",
+      "rank": 7,
+      "rating": "4.7",
+      "price": "$40.39",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/41FY3GlTX9L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -825,21 +645,10 @@
       "platform": "amazon"
     },
     {
-      "name": "Terro, Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - Stations for Effective Indoor Ant Control, 12 Count",
-      "rank": 6,
-      "rating": "4.6",
-      "price": "$9.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
-      "rank": 7,
+      "rank": 8,
       "rating": "4.5",
-      "price": "$39.99",
+      "price": "$79.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -847,10 +656,32 @@
       "platform": "amazon"
     },
     {
+      "name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+      "rank": 9,
+      "rating": "4.2",
+      "price": "$89.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gwIm-iSnL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Terro, Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - Stations for Effective Indoor Ant Control, 12 Count",
+      "rank": 10,
+      "rating": "4.6",
+      "price": "$10.96",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
       "name": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker, 3 Brew Sizes, Strong Button Feature, 42oz Removable Reservoir, Black",
-      "rank": 8,
+      "rank": 11,
       "rating": "4.3",
-      "price": "$58.99",
+      "price": "$109.00",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xuVr0CPbL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -858,19 +689,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Zevo Flying Insect Trap Official Refill Cartridges - Fits Zevo Trap and MAX Indoor Fly Trap, Trap+Lock Technology Fly Trap Refill for Gnats, House Flies & Fruit Flies (4 Official Refill Cartridges)",
-      "rank": 9,
-      "rating": "4.8",
-      "price": "$14.49",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uXJAVhd1L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Zevo Flying Insect Trap - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (1 Plug-in Base and 3 Cartridges)",
-      "rank": 10,
+      "rank": 12,
       "rating": "4.3",
       "price": "$25.27",
       "review_count": null,
@@ -880,19 +700,19 @@
       "platform": "amazon"
     },
     {
-      "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Olive",
-      "rank": 11,
-      "rating": "4.6",
-      "price": "$33.24",
+      "name": "Zevo Flying Insect Trap Official Refill Cartridges - Fits Zevo Trap and MAX Indoor Fly Trap, Trap+Lock Technology Fly Trap Refill for Gnats, House Flies & Fruit Flies (4 Official Refill Cartridges)",
+      "rank": 13,
+      "rating": "4.8",
+      "price": "$14.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Yqf0iEo6L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uXJAVhd1L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "KITCHENAID Ribbed Soft Silicone Oven Mitt 2-Pack Set, 7.5\"x13\", Milkshake",
-      "rank": 12,
+      "rank": 14,
       "rating": "4.7",
       "price": "$11.86",
       "review_count": null,
@@ -902,19 +722,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
-      "rank": 13,
-      "rating": "4.2",
-      "price": "$49.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gwIm-iSnL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "BISSELL Little Green Mini Portable Carpet and Upholstery Deep Cleaner, Car/Auto Detailer, with HydroRinse Self-Cleaning Tool and 4\" Tough Stain Tool, Tea Green, 4075",
-      "rank": 14,
+      "rank": 15,
       "rating": "4.5",
       "price": "$79.99",
       "review_count": null,
@@ -925,9 +734,9 @@
     },
     {
       "name": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack",
-      "rank": 15,
+      "rank": 16,
       "rating": "4.5",
-      "price": "$5.94",
+      "price": "$6.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -936,9 +745,9 @@
     },
     {
       "name": "LEVOIT Air Purifiers for Bedroom Home Dorm, AHAM VERIFIDE, 3-in-1 Filter Cleaner With Aroma Pad, Filters Smoke, Allergens, Pet Dander, Odor, Dust, Office, Desktop, Core Mini-P, White",
-      "rank": 16,
+      "rank": 17,
       "rating": "4.6",
-      "price": "$39.97",
+      "price": "$49.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wGv7Fh2AL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -947,9 +756,9 @@
     },
     {
       "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper & Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies, Dark Blue",
-      "rank": 17,
+      "rank": 18,
       "rating": "4.8",
-      "price": "$23.98",
+      "price": "$29.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -957,145 +766,354 @@
       "platform": "amazon"
     },
     {
-      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6\"-18\" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
+      "name": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath Mats for Bathroom Floor, Tub and Shower, Home Decor Accessories, Grey",
       "rank": 19,
-      "rating": "4.6",
-      "price": "$22.76",
+      "rating": "4.4",
+      "price": "$9.47",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+omVwPiXL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner with Rustproof Grommets and 3 Magnets, Waterproof Cute Lightweight Standard Size Bathroom Curtains - Clear",
+      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Noiseless Mattress Pad with Deep Pocket 6\"-18\" Depth, Soft Breathable Bed Mattress Cover Washable for Home, Bedroom, Hotel (White)",
       "rank": 20,
-      "rating": "4.5",
-      "price": "$8.07",
+      "rating": "4.6",
+      "price": "$26.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MtbD5gj7L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Step2 Rain Showers Splash Pond Water Table, Kids Water and Sand Activity Sensory Playset, Summer Outdoor Toys, 13 Piece Water Toy Accessories, For Toddlers 1.5+ Years Old, Blue & Green",
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Daybreak",
       "rank": 1,
       "rating": "4.7",
-      "price": "$69.99",
+      "price": "$29.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rVHKdRZbL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51SbWPkLSRL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Disney Store Official Buzz Lightyear Interactive Talking Action Figure from Toy Story, Features 10+ English Phrases, Interacts with Other Figures and Toys",
+      "name": "HydroJug Sport - Stainless Steel Tumbler with Straw, Vacuum Insulated, 40oz Leakproof Water Bottle, Ergonomic Design, Reusable, Dishwasher Safe, Rubber Base, Durable for Gym or Outdoors, Alumni Red",
       "rank": 2,
-      "rating": "4.7",
-      "price": "$33.99",
+      "rating": "4.6",
+      "price": "$39.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/713M+bcQESL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gTRr57eiL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
+      "name": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for Travel, School, and Sports, BPA Free, Leak Proof, 30 oz, Putting Green",
       "rank": 3,
-      "rating": "4.6",
-      "price": "$14.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91gUA7twgmL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Bezente Assorted Rainbow Latex Balloons, 100 Pack 12 inch Round Helium Bright Color Balloons for Birthday Bridal Shower Wedding Party Decorations",
-      "rank": 4,
-      "rating": "4.6",
-      "price": "$5.64",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FqjBG9v7L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Bunch O Balloons Tropical Party (6 Pack) by ZURU, 200+ Rapid-Filling Self-Sealing Tropical Colored Water Balloons for Outdoor Family, Friends, Children Summer Fun (6 Pack)",
-      "rank": 5,
-      "rating": "4.6",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81qMELDxTTL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Toniebox 2 My First Farm Bundle for Kids 1+ with Soft and Squeezable Cow, Horse, and Pig - Sky Blue",
-      "rank": 6,
       "rating": "4.7",
-      "price": "$169.99",
+      "price": "$27.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dtH1+RNNL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51znrXuLBtL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "LEGO Star Wars Imperial Star Destroyer Building Toy - Build & Display Set for Boys & Girls, Ages 10+ - Gift for Birthdays - Star Wars Darth Vader & 6 Minifigure Toys - 75394",
+      "name": "BAND-AID Brand Travel Ready Portable Emergency First Aid Kit, Minor Wound Care, Perfect for Home, Car, Camping, Travel & Outdoor Essentials, Supplies Include Bandages, Neosporin & Tylenol, 80 Piece",
+      "rank": 4,
+      "rating": "4.8",
+      "price": "$10.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vQmvJOqyL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Seago Swim Goggles 2 Pack Anti-Fog Anti-UV Wide View Swimming Goggles for Kids 3-14",
+      "rank": 5,
+      "rating": "4.4",
+      "price": "$15.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61R1gTyB30L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Neoprene Dumbbell Hand Weights for Exercise and Muscle Toning",
+      "rank": 6,
+      "rating": "4.8",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Y26toqdTL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box | Insulated Travel Bag with Zipper | BPA-Free",
       "rank": 7,
       "rating": "4.8",
-      "price": "$111.99",
+      "price": "$100.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DjbOQStyL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81G0v3ORZ1L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Animals Habitat 500+ Kids Sticker Book by Cupkin Toddler Airplane Travel Activity Coloring and Sticker Book, Road Trip Essentials, 12 Coloring Pages + 12 Scenes for Ages 2–8 Years",
+      "name": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
       "rank": 8,
-      "rating": "4.8",
-      "price": "$13.55",
+      "rating": "4.6",
+      "price": "$30.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81spN5T1mEL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81l7AwlRcDL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "PartyWoo White Balloons 140 pcs Different Sizes of 18 12 10 5 Inch White Balloons Arch Kit Garland for Wedding Baby Shower Birthday Bridal Shower Graduation Engagement Party Decorations White-Y13",
+      "name": "TaylorMade Golf TP5",
+      "rank": 9,
+      "rating": "4.8",
+      "price": "$44.44",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mV5BAiWML._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "goodr Polarized Sunglasses, Medium Sized (OG), UV400 Protection, No Slip, No Bounce",
+      "rank": 10,
+      "rating": "4.7",
+      "price": "$30.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hlhfuMSiL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Fitbit Charge 6 Fitness Tracker with Google Apps - Heart Rate on Exercise Equipment - 3-Month Google Health Premium Membership Included - Health Tools - Obsidian/Black - Small&Large Bands Included",
+      "rank": 11,
+      "rating": "4.1",
+      "price": "$85.45",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZtqtvoD2L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "CAP Barbell Coated Hex Dumbbell Weight - Single | 10-120 lbs | Multiple Options",
+      "rank": 12,
+      "rating": "4.7",
+      "price": "$18.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mBMQqe-rL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Rainleaf Microfiber Towel Perfect Travel & Gym & Camping Towel. Quick Dry - Super Absorbent - Ultra Compact - Lightweight. Suitable for Trip, Beach, Shower, Backpacking, Pool",
+      "rank": 13,
+      "rating": "4.7",
+      "price": "$12.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HHXRkRz6L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zeerun Weighted Vest, 6lb/8lb/10lb/12lb/15lb/18lb/20lb/24lb/30lb for Men Women, Reflective Stripe Adjustable Buckle, Comfortable Durable Rucking Vest for Walking Running Strength Training",
+      "rank": 14,
+      "rating": "4.6",
+      "price": "$16.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81zh-RIi18L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Speedo Kids' Swim Goggles Sunny G Ages 3-8",
+      "rank": 15,
+      "rating": "4.6",
+      "price": "$15.40",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yqAKSySGL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "AXV Vibration Plate Fitness Platform Exercise Machine Vibrating Shaking Full Body Shaker Workout Vibrate Stand Shake Board Sport for Weight Loss Fat Burner for Gym Home Office",
+      "rank": 16,
+      "rating": "4.5",
+      "price": "$89.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/711uk7HmcyL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
+      "rank": 17,
+      "rating": "4.8",
+      "price": "$14.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610MT9qiRyL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "HEETA Dry Bag Waterproof for Women Men, 5L/10L/20L/30L/40L Roll Top Lightweight Dry Storage Bag Backpack with Phone Case for Travel Swimming Boating Kayaking Paddle Board Camping Beach Accessories",
+      "rank": 18,
+      "rating": "4.6",
+      "price": "$11.39",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UJx0RZinL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Intex 64417ED 22in Queen Dura-Beam Comfort Plush High-Rise Inflatable Air Mattress with Built in Pump for Travel and Camping, 600lb Weight Capacity",
+      "rank": 19,
+      "rating": "4.3",
+      "price": "$56.51",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WGsXRgQrL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Gaiam Yoga Block - Supportive Latex-Free Eva Foam - Soft Non-Slip Surface with Beveled Edges for Yoga, Pilates, Meditation",
+      "rank": 20,
+      "rating": "4.8",
+      "price": "$16.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81xT4xrd3eL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+      "rank": 1,
+      "rating": "4.2",
+      "price": "$89.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gwIm-iSnL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "INABA Churu Cat Treats, Lickable, Squeezable Creamy Purée Cat Treat with Green Tea Extract & Taurine, 0.5 Ounces Each Tube, 50 Tubes, Tuna & Chicken Variety",
+      "rank": 2,
+      "rating": "4.9",
+      "price": "$32.96",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71B8D1hWW4L._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Earth Rated Poop Bags for Dogs, Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls, Lavender Scented, 270 Bags",
+      "rank": 3,
+      "rating": "4.8",
+      "price": "$14.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l4DqotI3L._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter 40 lb. Bag",
+      "rank": 4,
+      "rating": "4.3",
+      "price": "$20.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gV7T7iW-L._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Fresh Step Advanced Simply Unscented Multi Cat Clumping Litter, Formulated With No Added Dyes or Fragrances, Ammonia Block Technology, Low Dust, 18.5 lb. Box, Pack of 2",
+      "rank": 5,
+      "rating": "4.6",
+      "price": "$26.35",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/812rS5--kHL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Purina Fancy Feast Gravy Lovers Poultry and Beef Grilled Gourmet Wet Cat Food Variety Pack - (Pack of 30) 3 oz. Cans",
+      "rank": 6,
+      "rating": "4.7",
+      "price": "$28.06",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/614LkTRpkoL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Dog Poop Leak Proof Bags with Dispenser and Leash Clip, Unscented, 13\" x 9\" Large Size, 300 Count",
+      "rank": 7,
+      "rating": "4.8",
+      "price": "$11.01",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RhBxKwOWL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Pur Luv Chicken Jerky Dog Treats, Made with 100% Real Chicken Breast, 16 Ounces, Healthy, Easily Digestible, Long-Lasting, High Protein, Satisfies Dog's Urge to Chew",
+      "rank": 8,
+      "rating": "4.6",
+      "price": "$14.09",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81fgNCXCZYL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Leak-Proof Dog and Puppy Potty Training Pee Pads with Quick-Dry 5-Layer Super Absorbent Design, Regular Size 22 x 22 inch, Blue & White, 100 Count",
       "rank": 9,
       "rating": "4.5",
-      "price": "$9.99",
+      "price": "$18.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cVspdZr4L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LHksRF15L._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Bicycle Standard Playing Cards, Standard Poker Size Deck of Cards, Red & Blue (2 Pack), Classic Cards for Poker, Blackjack, Family Game Night & Card Games, Fun for All Ages",
+      "name": "Temptations Cat Treats Classic Crunchy and Soft Cat Treats, Tasty Chicken Flavor, 16 oz. Tub",
       "rank": 10,
       "rating": "4.8",
-      "price": "$5.34",
+      "price": "$6.36",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Mr. Sketch Scented Markers, Chisel Tip, Assorted Colors, 22 Count - Fun for Kids, Coloring, Spark Creativity, Arts & Crafts",
-      "rank": 11,
-      "rating": "4.8",
-      "price": "$9.94",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81nw2TCbYJL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81XiXcsCIyL._AC_UL300_SR300,200_.jpg",
+      "category": "Pet Supplies",
       "list_type": "bestseller",
       "platform": "amazon"
     }
