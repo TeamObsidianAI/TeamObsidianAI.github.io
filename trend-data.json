@@ -1,807 +1,1119 @@
 {
-  "generated_at": "2026-06-30T10:58:53.775001+00:00",
+  "generated_at": "2026-07-01T11:24:52.532571+00:00",
   "stats": {
-    "total_products_scraped": 20,
+    "total_products_scraped": 78,
     "by_platform": {
-      "amazon": 20
+      "amazon": 78
     }
   },
   "analysis": {
     "buy_now": [
       {
         "rank": 1,
-        "score": 93,
-        "product": "PDRN Salmon DNA Serum (Pink Peptide Glow Serum with Niacinamide)",
-        "category": "Korean Skincare – Serums",
+        "score": 88,
+        "product": "Owala FreeSip Insulated Stainless Steel Water Bottle 24oz with Straw",
+        "category": "Home & Kitchen / Drinkware",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "high",
-        "reason": "PDRN salmon DNA skincare is the dominant viral ingredient trend on TikTok in mid-2026, with multiple SKUs from Anua and medicube holding top-10 Amazon positions simultaneously — a rare convergence signal. Price point, repeat-purchase nature, and lightweight shipping make this ideal for dropshipping margin.",
-        "price_range": "$28–$55",
+        "reason": "Owala FreeSip sits in the Amazon Home & Kitchen top 5, has massive TikTok organic buzz as a Stanley alternative, and hits the $25–$45 sweet spot with strong margin potential from unbranded generics. Summer 2026 hydration culture keeps demand at peak.",
+        "price_range": "$25–$45",
         "margin_estimate": "high",
         "urgency": "Act within 7 days",
         "search_terms": [
-          "PDRN serum",
-          "salmon DNA skincare",
-          "pink peptide serum",
-          "Korean glass skin serum"
+          "insulated water bottle with straw",
+          "FreeSip style water bottle",
+          "stainless steel sports water bottle 24oz"
         ],
-        "image_keywords": "pink serum bottle,Korean skincare,glass dropper",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/615DOoCI6xL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "stainless steel water bottle,straw lid,colorful drinkware",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 91,
-        "product": "Korean Hydrogel Bio-Collagen Overnight Deep Mask (single-use sheet format)",
-        "category": "Korean Skincare – Face Masks",
+        "score": 85,
+        "product": "8-Outlet Surge Protector Power Strip with 4 USB Ports and 6-Foot Flat Plug Extension Cord",
+        "category": "Electronics / Accessories",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "BIODANCE-style bio-collagen hydrogel masks are exploding on TikTok as a luxury self-care visual product with strong ASMR and 'glass skin' content appeal; Amazon #2 ranking confirms purchase intent is converting. Lightweight, low-cost to ship, and highly giftable.",
-        "price_range": "$22–$45",
+        "reason": "A perennial Amazon Electronics top-20 item with proven year-round demand driven by remote work and multi-device households; white-label versions are widely available from suppliers at under $8 landed cost, enabling strong $22–$35 retail margins.",
+        "price_range": "$22–$38",
         "margin_estimate": "high",
-        "urgency": "Act within 7 days",
+        "urgency": "Act within 10 days",
         "search_terms": [
-          "bio collagen hydrogel mask",
-          "overnight face mask Korean",
-          "pore minimizing sheet mask",
-          "collagen sleeping mask"
+          "surge protector power strip USB ports",
+          "flat plug power strip 6 foot",
+          "desk charging station power strip"
         ],
-        "image_keywords": "hydrogel face mask,translucent sheet mask,Korean beauty",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "power strip USB ports,flat plug surge protector,white desk power strip",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 89,
-        "product": "Dual-Textured AHA/BHA Exfoliating Toner Pads (Korean skincare, 70-count)",
-        "category": "Korean Skincare – Exfoliants",
+        "score": 83,
+        "product": "Bamboo-Derived Rayon Pillow Top Queen Mattress Topper for Hot Sleepers",
+        "category": "Home & Kitchen / Bedding",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "high",
-        "reason": "medicube Toner Pads hold #1 on Amazon Beauty — an extremely strong signal of proven, sustained demand — while dual-textured exfoliating pad content performs heavily on TikTok skincare. The 70-count format drives perceived value and repeat purchases.",
-        "price_range": "$25–$48",
+        "reason": "Cooling mattress toppers are a top Amazon Home performer and a recurring TikTok viral product in the summer sleep-wellness niche; generic bamboo versions are dropship-friendly at $35–$60 cost with $70–$110 retail pricing yielding solid margins.",
+        "price_range": "$65–$110",
         "margin_estimate": "high",
         "urgency": "Act within 7 days",
         "search_terms": [
-          "AHA BHA toner pads",
-          "Korean exfoliating pads",
-          "pore care toner pads",
-          "dual textured facial pads"
+          "cooling mattress topper bamboo",
+          "pillow top mattress pad hot sleepers",
+          "queen size bamboo mattress topper"
         ],
-        "image_keywords": "toner pads container,exfoliating cotton pads,skincare routine",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "bamboo mattress topper,white fluffy bed pad,queen size bedding",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 87,
-        "product": "Hydrating Face Mist Serum Spray with Hyaluronic Acid and PDRN (Korean skincare)",
-        "category": "Korean Skincare – Mists & Sprays",
+        "score": 81,
+        "product": "Waterproof Noiseless Deep-Pocket Queen Mattress Protector Pad",
+        "category": "Home & Kitchen / Bedding",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "Anua PDRN spray sits at Amazon #4, and face mist spray formats go massively viral on TikTok due to satisfying video content; the PDRN ingredient stacks on top of the dominant 2026 trend for a double boost. Extremely low shipping weight maximizes dropship margin.",
-        "price_range": "$24–$42",
+        "reason": "Amazon Home & Kitchen top-10 confirms consistent purchase intent; mattress protectors are lightweight, low-return-rate items with high supplier availability and 50–65% margins at $25–$45 retail.",
+        "price_range": "$25–$45",
         "margin_estimate": "high",
         "urgency": "Act within 10 days",
         "search_terms": [
-          "hyaluronic acid face mist",
-          "PDRN collagen spray",
-          "dewy glass skin mist",
-          "Korean hydrating serum spray"
+          "waterproof mattress protector queen",
+          "noiseless mattress pad deep pocket",
+          "bed mattress cover washable"
         ],
-        "image_keywords": "face mist spray bottle,skincare mist,dewy skin",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LQ-32prpL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "waterproof mattress protector,white bed cover,deep pocket fitted pad",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 85,
-        "product": "Niacinamide Collagen Jelly Cream (Korean skincare, barrier hydration, 24h glow)",
-        "category": "Korean Skincare – Moisturizers",
+        "score": 79,
+        "product": "PEVA Clear Shower Curtain Liner with Rustproof Grommets and Weighted Magnets",
+        "category": "Home & Kitchen / Bathroom",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "Collagen jelly-texture creams are a surging TikTok aesthetic product with strong ASMR unboxing appeal, and medicube's version holds Amazon #5 — signaling the category is in an early-to-mid growth phase before big brands dominate. Niacinamide remains the top searched skincare ingredient globally.",
-        "price_range": "$26–$50",
-        "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "reason": "Consistent Amazon top-15 Home performer; clear shower liners are lightweight, non-breakable, cheap to ship, and appeal to the booming rental/apartment market with $12–$22 retail at 55%+ margins.",
+        "price_range": "$12–$22",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
         "search_terms": [
-          "niacinamide collagen cream",
-          "jelly face moisturizer Korean",
-          "barrier repair cream",
-          "24h glow moisturizer"
+          "clear shower curtain liner PEVA",
+          "rustproof shower liner magnets",
+          "waterproof bathroom shower liner"
         ],
-        "image_keywords": "jelly cream jar,collagen moisturizer,Korean beauty product",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDluwKSxL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "clear shower curtain liner,bathroom curtain hooks,PEVA waterproof liner",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 83,
-        "product": "Hydrocolloid Acne Pimple Patches (36-count, vegan, cruelty-free)",
-        "category": "Skincare – Acne Treatment",
+        "score": 77,
+        "product": "Liquid Ant Bait Killer Stations Indoor 12-Pack",
+        "category": "Home & Kitchen / Pest Control",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "Pimple patches are a perennial TikTok darling with Hero Cosmetics' Mighty Patch holding Amazon #6, proving sustained evergreen demand; the vegan/cruelty-free positioning aligns with Gen Z values driving most TikTok purchases. Ultra-lightweight and compact = ideal dropship economics.",
-        "price_range": "$15–$28",
+        "reason": "Ant bait stations rank #3 on Amazon Home in peak summer season (July); generic borax-based alternatives are easily sourced and a 12-pack retails at $18–$28 with strong margin potential.",
+        "price_range": "$18–$28",
         "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
+        "urgency": "Act within 7 days — peak ant season NOW",
         "search_terms": [
-          "hydrocolloid pimple patch",
-          "acne spot treatment sticker",
-          "vegan pimple patch",
-          "overnight blemish patch"
+          "indoor ant bait stations 12 pack",
+          "liquid ant killer bait",
+          "ant trap indoor home"
         ],
-        "image_keywords": "pimple patch dots,acne patch skincare,clear dot sticker",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p+1+md+8L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "ant bait station,pest control indoor,liquid ant trap",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 81,
-        "product": "PDRN Hyaluronic Acid Lightweight Moisturizing Cream (glass skin, Korean skincare)",
-        "category": "Korean Skincare – Moisturizers",
+        "score": 75,
+        "product": "UV & Blue Light Plug-In Indoor Flying Insect Trap for Gnats and Fruit Flies",
+        "category": "Home & Kitchen / Pest Control",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "high",
-        "reason": "Anua's PDRN moisturizer at Amazon #20 is the lowest-ranked of the PDRN cluster — meaning it's still climbing and represents the best entry-price opportunity before it saturates. Glass skin cream content dominates TikTok's summer 2026 beauty cycle.",
-        "price_range": "$28–$52",
-        "margin_estimate": "high",
-        "urgency": "Act within 14 days",
+        "reason": "Two Zevo fly trap SKUs in Amazon Home top 10 confirms explosive summer demand; plug-in fly trap generics are TikTok-viral as a 'satisfying' pest solution and dropship at $15–$30 retail with zero consumable complexity.",
+        "price_range": "$18–$35",
+        "margin_estimate": "medium",
+        "urgency": "Act within 5 days — peak summer pest season",
         "search_terms": [
-          "PDRN moisturizer",
-          "glass skin cream Korean",
-          "hyaluronic acid face cream lightweight",
-          "salmon DNA moisturizer"
+          "plug in flying insect trap UV light",
+          "gnat trap indoor plug in",
+          "fruit fly trap blue UV light"
         ],
-        "image_keywords": "lightweight face cream,glass skin moisturizer,Korean skincare jar",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HPLwL7omL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "plug-in insect trap,blue UV light bug catcher,indoor fruit fly trap",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 79,
-        "product": "Collagen Overnight Peel-Off Wrapping Mask (elasticity and glow, Korean skincare)",
-        "category": "Korean Skincare – Masks",
+        "score": 73,
+        "product": "Down Alternative Bed Pillows Standard/Queen Size Set of 2 for All Sleep Positions",
+        "category": "Home & Kitchen / Bedding",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "Peel-off mask formats generate exceptionally high TikTok engagement due to satisfying removal video content, and medicube's collagen wrapping mask at Amazon #19 confirms real purchase conversion. Overnight skincare rituals are peaking in the summer self-care content cycle.",
-        "price_range": "$22–$40",
-        "margin_estimate": "high",
+        "reason": "Amazon Home top-10 for pillows is a repeat signal; pairs of down-alternative pillows ship in manageable parcels and retail at $28–$45 with reliable 45–55% dropship margins through domestic suppliers.",
+        "price_range": "$28–$48",
+        "margin_estimate": "medium",
         "urgency": "Act within 14 days",
         "search_terms": [
-          "peel off collagen mask",
-          "overnight wrapping mask Korean",
-          "elasticity face mask",
-          "glow peel off facial"
+          "down alternative bed pillows set of 2",
+          "soft hotel pillows queen size",
+          "sleeping pillow set side back sleeper"
         ],
-        "image_keywords": "peel off face mask,collagen mask tube,overnight skincare",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61occWCJN-L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "white bed pillows pair,soft down alternative pillow,hotel luxury pillows",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61k1qZuYToL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 9,
-        "score": 76,
-        "product": "Glycolic Acid 7% Daily Exfoliating Toner (brightening, even skin tone)",
-        "category": "Skincare – Chemical Exfoliants",
+        "score": 71,
+        "product": "4-Piece Cooling Breathable Microfiber Bed Sheet Set Queen with Deep Pockets",
+        "category": "Home & Kitchen / Bedding",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "amazon"
         ],
         "confidence": "high",
-        "reason": "The Ordinary's glycolic toner at Amazon #15 is an enduring bestseller that continues to be recommended in TikTok dermatologist and skincare-routine content, providing stable consistent demand that dropshippers can rely on with minimal seasonal risk.",
-        "price_range": "$18–$32",
+        "reason": "Two separate sheet set SKUs rank #1 and #2 on Amazon Home — an unmistakable demand signal; microfiber sheet sets are summer staples, lightweight to ship, and available at $12–$18 landed cost for $35–$55 retail.",
+        "price_range": "$30–$55",
         "margin_estimate": "medium",
-        "urgency": "Act within 21 days",
+        "urgency": "Act within 10 days",
         "search_terms": [
-          "glycolic acid toner",
-          "exfoliating toner brightening",
-          "AHA daily toner",
-          "The Ordinary dupe glycolic"
+          "cooling bed sheet set queen",
+          "breathable microfiber sheets deep pocket",
+          "hotel luxury sheet set 4 piece"
         ],
-        "image_keywords": "glycolic acid toner bottle,chemical exfoliant,clear serum bottle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bC4vVdkOL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "white bed sheet set folded,microfiber queen sheets,hotel bedding set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 10,
-        "score": 74,
-        "product": "Sheer Tinted Lip Treatment Balm with Shea Butter (Korean skincare lip care)",
-        "category": "Lip Care – Tinted Balms",
+        "score": 69,
+        "product": "11x14 Black Picture Frame with Mat for 8x10 Photos Wall Hanging Display",
+        "category": "Home & Kitchen / Home Décor",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Amazon Home top-10 placement for picture frames reflects strong gifting and home décor demand, especially in summer (graduation, moving season); generic black frames are lightweight, low-cost to ship, and margin-friendly at $18–$30 retail.",
+        "price_range": "$18–$32",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "11x14 picture frame with mat 8x10",
+          "black wall photo frame display",
+          "modern photo frame set wall hanging"
+        ],
+        "image_keywords": "black picture frame mat,wall display photo frame,11x14 modern frame",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 11,
+        "score": 66,
+        "product": "Oura Ring Style Smart Sleep and Health Tracker Sizing Kit",
+        "category": "Electronics / Wearables",
         "platforms": [
           "amazon",
           "tiktok"
         ],
-        "confidence": "high",
-        "reason": "LANEIGE-style tinted lip balms remain one of TikTok's most-recommended beauty products across multiple years with Amazon #7 confirming the demand is real and sustained; the tube format is photogenic, giftable, and ships virtually free due to minimal weight.",
+        "confidence": "medium",
+        "reason": "Oura Ring 4 in Amazon Electronics top-20 signals booming smart ring demand; dropshippers can capitalize by selling generic smart ring health trackers in the $45–$95 range where brand dominance hasn't locked out competitors yet.",
+        "price_range": "$45–$95",
+        "margin_estimate": "high",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "smart ring health tracker sleep monitor",
+          "fitness ring heart rate tracker",
+          "smart ring wearable health monitor"
+        ],
+        "image_keywords": "smart ring wearable,health tracking ring,minimalist fitness ring",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/518Qh+G3I5L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 12,
+        "score": 63,
+        "product": "Amazon Kindle Paperwhite-Style 7-Inch E-Reader Case with Sleep/Wake Magnetic Cover",
+        "category": "Electronics / Accessories",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Kindle Paperwhite (newest model) is in Amazon Electronics top-20 driving accessory demand; slim magnetic e-reader cases are dropship-friendly at $18–$35 with no brand restrictions and steady year-round reorder potential.",
         "price_range": "$18–$35",
         "margin_estimate": "medium",
         "urgency": "Act within 21 days",
         "search_terms": [
-          "tinted lip balm treatment",
-          "shea butter lip gloss balm",
-          "Korean lip care",
-          "glossy non-sticky lip balm"
+          "Kindle Paperwhite 7 inch case magnetic",
+          "e-reader slim protective cover",
+          "Kindle case sleep wake auto"
         ],
-        "image_keywords": "tinted lip balm tube,glossy lip care,berry lip treatment",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/612UcJQa1VL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 11,
-        "score": 71,
-        "product": "Disposable Biodegradable Face Towels XL (100% USDA Biobased, 50-count, eczema-safe)",
-        "category": "Skincare Tools & Accessories",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "medium",
-        "reason": "Disposable face towels went viral on TikTok skincare-hygiene content and Clean Skin Club holds Amazon #11, showing the category has matured to proven demand while still offering white-label alternatives for dropshippers at healthy margins. Eco-branding differentiates from standard cotton pads.",
-        "price_range": "$16–$30",
-        "margin_estimate": "medium",
-        "urgency": "Act within 21 days",
-        "search_terms": [
-          "disposable face towel",
-          "biodegradable face wipe",
-          "dry face towelette skincare",
-          "clean face cloth 50 count"
-        ],
-        "image_keywords": "disposable face towel,white facial wipes,skincare accessory",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Cn1ooILhL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 12,
-        "score": 68,
-        "product": "Patriotic Red White and Blue Glitter Body Stick (4th of July face and hair glitter)",
-        "category": "Seasonal Beauty – Costume & Festival Makeup",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "medium",
-        "reason": "With today's date being June 30, 2026, patriotic glitter sticks are at absolute peak seasonal demand with the July 4th window closing in 24–48 hours, but post-holiday festival makeup demand (Summerfest, concerts) sustains this category through August. Move inventory immediately at premium pricing.",
-        "price_range": "$12–$22",
-        "margin_estimate": "medium",
-        "urgency": "Act within 48 hours — seasonal peak NOW",
-        "search_terms": [
-          "4th of July face glitter",
-          "patriotic body glitter stick",
-          "red white blue festival makeup",
-          "USA flag glitter makeup"
-        ],
-        "image_keywords": "patriotic glitter stick,red white blue makeup,festival body glitter",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JPodwbl2L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "Kindle e-reader case,slim tablet protective cover,magnetic book-style case",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "rising_fast": [
       {
         "rank": 1,
-        "score": 86,
-        "product": "PDRN (Salmon DNA) Ingredient-Focused Skincare Bundles (serum + moisturizer sets)",
-        "category": "Korean Skincare – Bundles",
+        "score": 82,
+        "product": "Cordless Electric Spin Scrubber with 4 Interchangeable Brush Heads and Extendable Handle",
+        "category": "Home & Kitchen / Cleaning",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "tiktok",
+          "amazon"
         ],
         "confidence": "medium",
-        "reason": "PDRN appears in 4 of the top 20 Amazon Beauty bestsellers simultaneously — a clustering signal that indicates the ingredient is crossing from early adopter to mainstream mass market, driving explosive bundle search behavior.",
-        "signal": "Multiple PDRN SKUs (Anua #4, #20 and medicube #10) holding top-20 Amazon Beauty simultaneously — ingredient clustering = category inflection point",
-        "price_range": "$45–$85 for bundles",
+        "reason": "Summer deep-cleaning culture and 'cleaning TikTok' content consistently drives spin scrubber virality in Q3, and rising Amazon search volume for bathroom cleaning tools mirrors accelerating social proof.",
+        "signal": "TikTok cleaning content surge + Amazon 'bathroom scrubber' search rank climbing in July",
+        "price_range": "$35–$65",
         "margin_estimate": "high",
-        "image_keywords": "Korean skincare bundle set,PDRN serum collection,beauty gift set",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/615DOoCI6xL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "electric spin scrubber,bathroom tile cleaning brush,cordless scrubber extendable",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-U5dEbEBL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 82,
-        "product": "Ceramide and Niacinamide Daily Face Moisturizer (fragrance-free, all skin types)",
-        "category": "Skincare – Barrier Repair Moisturizers",
+        "score": 79,
+        "product": "Portable Neck Fan Bladeless Wearable Personal Air Conditioner for Summer Outdoor Use",
+        "category": "Electronics / Personal Comfort",
         "platforms": [
-          "amazon",
-          "tiktok"
+          "tiktok",
+          "amazon"
         ],
         "confidence": "medium",
-        "reason": "La Roche-Posay at Amazon #12 shows dermatologist-recommended barrier repair is accelerating as consumers pivot from aggressive actives back to gentle skin barrier rebuilding — a TikTok derm-content trend that is growing rapidly in mid-2026.",
-        "signal": "Dermatologist-endorsed 'skin barrier repair' content surge on TikTok aligning with Amazon #12 placement for ceramide moisturizer",
-        "price_range": "$20–$38",
-        "margin_estimate": "medium",
-        "image_keywords": "ceramide face moisturizer,fragrance free cream,dermatologist moisturizer",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51x78epntaL._AC_UL300_SR300,200_.jpg"
+        "reason": "Wearable neck fans trend explosively every July on TikTok as heatwave content spikes, and Amazon search data for 'portable neck fan' is historically at its annual peak in the first two weeks of July.",
+        "signal": "July heatwave season peak + TikTok outdoor summer content driving impulse buys",
+        "price_range": "$25–$55",
+        "margin_estimate": "high",
+        "image_keywords": "bladeless neck fan,wearable personal fan,summer cooling device",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lylM-9P4L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 79,
-        "product": "Micellar Water Plant-Based Makeup Remover Wipes (dual-pack, waterproof makeup remover)",
-        "category": "Skincare – Makeup Removers",
+        "score": 76,
+        "product": "Insulated Stainless Steel Tumbler 40oz with Handle and Straw Lid for Cold Drinks",
+        "category": "Home & Kitchen / Drinkware",
         "platforms": [
+          "tiktok",
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Neutrogena micellar wipes appear at both #3 and #14 in Amazon Beauty top 20, indicating strong and growing category demand with search volume rising faster than supply adjusts, opening a window for private-label alternatives.",
-        "signal": "Same brand's wipe SKUs occupying two spots in the Amazon Beauty top 20 simultaneously — category demand outpacing individual SKU cannibalization",
-        "price_range": "$14–$26",
-        "margin_estimate": "medium",
-        "image_keywords": "micellar wipes pack,makeup remover cloth,plant based wipe",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JnbwZyFoL._AC_UL300_SR300,200_.jpg"
+        "reason": "The 40oz tumbler format has sustained TikTok momentum through summer 2026 as a gifting and lifestyle item, with Amazon search queries for 'insulated tumbler with handle' accelerating alongside the hydration wellness trend.",
+        "signal": "Sustained TikTok hydration trend + summer gifting season driving Amazon cart additions",
+        "price_range": "$28–$50",
+        "margin_estimate": "high",
+        "image_keywords": "40oz insulated tumbler handle,stainless steel tumbler straw,large cold drink cup",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-U5dEbEBL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 75,
-        "product": "Volumizing and Lengthening Buildable Mascara (washable, blackest black formula)",
-        "category": "Color Cosmetics – Mascara",
+        "score": 73,
+        "product": "Portable Handheld Mini Pocket Fan USB Rechargeable with 3-Speed Settings",
+        "category": "Electronics / Personal Comfort",
         "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "medium",
-        "reason": "Maybelline Sky High at Amazon #18 is accelerating as 'summer makeup looks' TikTok content peaks in late June/July, with mascara being one of the top repurchase beauty products — ideal for subscription-style dropship models.",
-        "signal": "Summer beauty content cycle peaking on TikTok; 'best drugstore mascara' queries trending upward on Google Shopping",
-        "price_range": "$12–$22",
-        "margin_estimate": "medium",
-        "image_keywords": "mascara wand black,volumizing mascara tube,eyelash makeup",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 72,
-        "product": "Vanilla Cashmere 24-Hour Body Lotion with Natural Shea (lightweight, non-greasy, 16oz)",
-        "category": "Body Care – Lotions",
-        "platforms": [
-          "amazon",
-          "tiktok"
-        ],
-        "confidence": "medium",
-        "reason": "eos body lotion at Amazon #13 is rising on the back of 'summer body care routine' TikTok content and the vanilla/cashmere scent profile is perfectly positioned for the warm-weather self-care surge peaking now through August.",
-        "signal": "Summer body care TikTok routine content driving 'non-greasy body lotion' search surge; vanilla scent trending in beauty fragrance category",
-        "price_range": "$12–$22",
-        "margin_estimate": "low",
-        "image_keywords": "body lotion bottle pink,shea butter lotion,vanilla scented cream",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IQUadfGEL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
-        "score": 68,
-        "product": "Lavender Foaming Hand Soap Refill Pouch (natural scent, plant-derived, 33oz)",
-        "category": "Home & Personal Care – Hand Soap",
-        "platforms": [
+          "tiktok",
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Mrs. Meyer's lavender refill at Amazon #9 signals accelerating demand for eco-conscious refillable home care, with 'sustainable bathroom routine' content growing consistently on TikTok and Pinterest through summer.",
-        "signal": "Refillable eco home care trending in TikTok 'clean home routine' content; lavender wellness products peaking in summer aromatherapy category",
-        "price_range": "$10–$18",
-        "margin_estimate": "low",
-        "image_keywords": "lavender hand soap bottle,natural soap refill,green cleaning product",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71issVjgM+L._AC_UL300_SR300,200_.jpg"
+        "reason": "Compact handheld fans are a recurring summer TikTok impulse buy with sub-$20 price points that drive high conversion rates, and mid-summer Amazon rank climbing signals the window before saturation.",
+        "signal": "TikTok summer heatwave content + Amazon Movers & Shakers signals in personal cooling",
+        "price_range": "$18–$30",
+        "margin_estimate": "medium",
+        "image_keywords": "handheld mini fan USB,portable pocket fan rechargeable,small personal cooling fan",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j1KdNT8HL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "product": "Silicone Reusable Produce Storage Bags Set of 8 for Fruits and Vegetables",
+        "category": "Home & Kitchen / Kitchen Storage",
+        "platforms": [
+          "tiktok",
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Eco-conscious kitchen organization content is a consistent TikTok performer in summer when people meal-prep more, and silicone bag sets are a lightweight, high-margin dropship item entering a sustained growth phase.",
+        "signal": "TikTok meal prep & eco-living content surge + Amazon kitchen storage search growth in July",
+        "price_range": "$22–$38",
+        "margin_estimate": "high",
+        "image_keywords": "silicone reusable food bags,colorful produce storage bags,eco kitchen storage set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iBtxCUabL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 67,
+        "product": "Outdoor Solar-Powered LED Landscape Pathway Lights Set of 8 Stake Lights",
+        "category": "Home & Kitchen / Outdoor Lighting",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Solar pathway lights peak in late June through August as outdoor entertaining season hits full stride, and Amazon search trends for outdoor solar lights show consistent annual rank climbs in early July.",
+        "signal": "Summer outdoor décor season peak + Amazon search rank climbing for solar pathway lights",
+        "price_range": "$25–$50",
+        "margin_estimate": "medium",
+        "image_keywords": "solar pathway garden lights,outdoor stake LED lights,solar landscape lighting set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "buy_soon": [
       {
         "rank": 1,
-        "score": 74,
-        "product": "At-Home LED Red Light Therapy Face Mask (anti-aging, collagen stimulation, wearable)",
-        "category": "Beauty Devices – Light Therapy",
-        "platforms": [
-          "tiktok",
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "The convergence of Korean skincare actives trending now will naturally push consumers toward at-home device upgrades by late July; red light therapy masks are the next logical TikTok beauty device trend following the current skincare boom.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Monitor TikTok #redlighttherapy view count crossing 500M and Amazon Movers & Shakers in Beauty Devices",
-        "image_keywords": "LED face mask red light,beauty device wearable,anti-aging light therapy",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 2,
         "score": 72,
-        "product": "Gua Sha Facial Sculpting Stone Set with Facial Oil (rose quartz or jade, gift-ready packaging)",
-        "category": "Skincare Tools – Facial Massage",
-        "platforms": [
-          "tiktok",
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Gua sha tools complement the current glass skin and Korean skincare trend cycle on TikTok perfectly, and late-summer gifting demand (back-to-school self-care) will push this into a second wave by mid-July.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Watch TikTok 'gua sha tutorial' weekly upload velocity and Google Trends 'gua sha stone' query rising above 70/100",
-        "image_keywords": "gua sha stone jade,facial sculpting tool,rose quartz beauty",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 3,
-        "score": 70,
-        "product": "Snail Mucin 96% Power Repairing Essence (Korean skincare, all skin types)",
-        "category": "Korean Skincare – Essences",
-        "platforms": [
-          "tiktok",
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Snail mucin is the next ingredient likely to surge after PDRN peaks, as TikTok beauty influencers cycle through trending Korean actives and snail mucin has strong evergreen search foundations plus compelling viral visual content potential.",
-        "predicted_peak": "3–6 weeks",
-        "watch_signal": "Track #snailmucin TikTok view growth rate and Amazon rank movement for COSRX Advanced Snail 96 Mucin Power Essence",
-        "image_keywords": "snail mucin essence bottle,Korean skincare serum,snail extract beauty",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LQ-32prpL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 4,
-        "score": 67,
-        "product": "Portable Mini Facial Steamer with Nano Ionic Mist (home spa, USB rechargeable)",
-        "category": "Beauty Devices – Facial Steamers",
-        "platforms": [
-          "tiktok",
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Home spa devices consistently trend in late July through August as consumers invest in 'summer skin reset' routines on TikTok, and the compact nano mist format ships easily and demonstrates beautifully on short-form video.",
-        "predicted_peak": "4–6 weeks",
-        "watch_signal": "Monitor Amazon Beauty Devices Movers & Shakers and TikTok 'home spa routine' content views crossing 200M",
-        "image_keywords": "facial steamer mist,nano ionic steamer,home spa device",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 65,
-        "product": "SPF 50+ Mineral Sunscreen Stick (travel-size, reef-safe, tinted for all skin tones)",
-        "category": "Sun Care – Sunscreen",
-        "platforms": [
-          "tiktok",
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Sunscreen sticks are trending on TikTok as a summer essential rec and Korean sun care formats are being cross-promoted by the same skincare influencers driving the current K-beauty surge, positioning this for a peak in 3–4 weeks.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Track #sunscreenstick and #koreansunscreen TikTok views and Google Shopping 'mineral sunscreen stick' query volume",
-        "image_keywords": "sunscreen stick SPF,mineral sun protection,travel sunscreen tube",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 6,
-        "score": 63,
-        "product": "Back-to-School Skincare Starter Kit (cleanser + toner + moisturizer, teenage-targeted)",
-        "category": "Skincare – Gift Sets",
+        "product": "Back-to-School Ergonomic Mesh Chair with Lumbar Support and Adjustable Armrests",
+        "category": "Home & Kitchen / Furniture",
         "platforms": [
           "amazon",
           "tiktok"
         ],
         "confidence": "medium",
-        "reason": "Back-to-school shopping season begins mid-July and Gen Z skincare gifting is a major TikTok commerce category; bundled starter sets priced under $45 will see strong demand through August driven by parent and teen purchases.",
-        "predicted_peak": "4–7 weeks",
-        "watch_signal": "Monitor Amazon 'skincare gift set' BSR movement in July and TikTok back-to-school beauty haul content volume",
-        "image_keywords": "skincare starter set gift,teen skincare kit,beauty routine bundle",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HPLwL7omL._AC_UL300_SR300,200_.jpg"
+        "reason": "Back-to-school and college dorm setup season peaks in late July through August, driving a predictable surge in ergonomic desk chair demand from students and parents.",
+        "predicted_peak": "3–5 weeks",
+        "watch_signal": "Amazon 'desk chair' search rank and TikTok 'dorm setup' content views accelerating",
+        "image_keywords": "mesh ergonomic office chair,adjustable desk chair,lumbar support chair",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 7,
-        "score": 61,
-        "product": "Electric Blackhead Remover Vacuum Pore Cleanser with 4 Suction Heads (USB rechargeable)",
-        "category": "Beauty Devices – Pore Care",
+        "rank": 2,
+        "score": 70,
+        "product": "Portable Blender USB Rechargeable Personal Mini Blender for Smoothies and Shakes",
+        "category": "Home & Kitchen / Kitchen Appliances",
         "platforms": [
           "tiktok",
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The current toner pads and pore-minimizing mask trend on Amazon is priming consumer interest in pore care tools; electric blackhead removers generate extremely high TikTok engagement through satisfying extraction video content.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Track TikTok #porecare and #blackheadremover view acceleration and Amazon Movers & Shakers in facial care devices",
-        "image_keywords": "blackhead vacuum device,pore suction tool,electric facial cleanser",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
+        "reason": "Portable blenders are a late-summer TikTok health and fitness staple that peaks when school starts and meal-prep routines return in August.",
+        "predicted_peak": "3–4 weeks",
+        "watch_signal": "TikTok smoothie recipe content and Amazon 'portable blender' search volume rising above baseline",
+        "image_keywords": "USB portable blender,mini personal smoothie blender,rechargeable travel blender",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j1KdNT8HL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 8,
-        "score": 58,
-        "product": "Waterproof Festival Body Jewels and Face Gems Sticker Set (holographic, adhesive rhinestones)",
-        "category": "Seasonal Beauty – Festival & Event Makeup",
+        "rank": 3,
+        "score": 68,
+        "product": "LED Ring Light 10-Inch with Tripod Stand and Phone Holder for Selfie and Video",
+        "category": "Electronics / Photography Accessories",
         "platforms": [
           "tiktok",
           "amazon"
         ],
+        "confidence": "medium",
+        "reason": "Back-to-school content creation season drives ring light demand as students set up streaming and content setups in August and September.",
+        "predicted_peak": "4–6 weeks",
+        "watch_signal": "TikTok 'setup tour' and 'dorm room' content views climbing week-over-week",
+        "image_keywords": "LED ring light tripod stand,selfie light phone holder,10 inch ring light",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "product": "Weighted Blanket 15lbs Adult Queen Size Cooling Cotton Cover for Anxiety and Sleep",
+        "category": "Home & Kitchen / Bedding",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Weighted blanket demand historically ramps from August into fall as anxiety and sleep content peaks on TikTok with changing seasons and back-to-school stress.",
+        "predicted_peak": "5–7 weeks",
+        "watch_signal": "Amazon weighted blanket search rank and TikTok sleep wellness content engagement rate",
+        "image_keywords": "weighted blanket cooling cover,heavy anxiety blanket,queen size weighted bedding",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 63,
+        "product": "Dorm Room Essentials Storage Cube Organizer Set 6-Pack Collapsible Fabric Bins",
+        "category": "Home & Kitchen / Storage & Organization",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "medium",
+        "reason": "Collapsible storage cube organizers surge in August as college move-in season begins, with TikTok dorm organization content driving massive impulse purchasing.",
+        "predicted_peak": "4–5 weeks",
+        "watch_signal": "Amazon 'dorm storage' and 'cube organizer' search rank plus TikTok 'dorm room organization' hashtag growth",
+        "image_keywords": "collapsible fabric storage cube,dorm room organizer bins,fabric cube basket set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71STcje+p-L._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 61,
+        "product": "Aromatherapy Essential Oil Ultrasonic Cool Mist Humidifier Diffuser with LED Mood Lights",
+        "category": "Home & Kitchen / Air Quality",
+        "platforms": [
+          "tiktok",
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Diffuser and humidifier combo units see seasonal demand ramp in late August as fall wellness routines kick in and TikTok 'cozy room setup' content begins trending.",
+        "predicted_peak": "6–8 weeks",
+        "watch_signal": "TikTok 'cozy room' and 'self care routine' content views and Amazon 'essential oil diffuser' search trajectory",
+        "image_keywords": "ultrasonic essential oil diffuser,LED mood light humidifier,mist aromatherapy diffuser",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51x78epntaL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 7,
+        "score": 59,
+        "product": "Magnetic Whiteboard Calendar Planner for Fridge with Dry Erase Markers Set",
+        "category": "Home & Kitchen / Office Supplies",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
         "confidence": "low",
-        "reason": "Post-July 4th, the summer festival and concert season accelerates through August, and adhesive face gems are a perennial TikTok viral beauty accessory that will benefit from the festival content spike replacing holiday content.",
-        "predicted_peak": "1–3 weeks",
-        "watch_signal": "Monitor TikTok festival makeup content upload velocity post-July 4th and Google Trends 'face gems festival' queries",
-        "image_keywords": "face gems rhinestones,holographic body jewels,festival makeup sticker",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JnbwZyFoL._AC_UL300_SR300,200_.jpg"
+        "reason": "Fridge calendar planners are a back-to-school and fall productivity staple that begins trending in mid-August as families plan academic schedules.",
+        "predicted_peak": "5–7 weeks",
+        "watch_signal": "Amazon 'dry erase calendar planner' search rank and TikTok 'back to school organization' video engagement",
+        "image_keywords": "magnetic whiteboard fridge calendar,dry erase planner board,monthly calendar whiteboard",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 8,
+        "score": 57,
+        "product": "Laptop Backpack with USB Charging Port and Anti-Theft Hidden Pocket 15.6-Inch",
+        "category": "Bags & Luggage",
+        "platforms": [
+          "amazon",
+          "tiktok"
+        ],
+        "confidence": "low",
+        "reason": "Back-to-school backpack demand peaks in August and is driven by TikTok 'what's in my bag' and 'school supply haul' content, with USB charging port backpacks being the trending upgrade feature.",
+        "predicted_peak": "4–6 weeks",
+        "watch_signal": "Amazon 'laptop backpack with USB charging' search rank and TikTok school supply haul video counts",
+        "image_keywords": "laptop backpack USB charging port,anti-theft school bag,modern travel backpack 15 inch",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "Korean Skincare (K-Beauty) – PDRN & Peptide Actives",
+        "category": "Home Pest Control",
         "momentum": "exploding",
-        "reason": "PDRN salmon DNA ingredient occupies 4 of the top 20 Amazon Beauty positions simultaneously — a once-rare convergence signal indicating a category is transitioning from niche to mass market. TikTok K-beauty content is the single largest driver of beauty commerce in 2026."
+        "reason": "Two separate pest control SKUs (ant bait and fly trap) in Amazon Home top 10 simultaneously signals peak summer bug season demand — rare category double-hit."
       },
       {
-        "category": "At-Home Beauty Devices (LED, Microcurrent, Steamers)",
-        "momentum": "rising",
-        "reason": "The skincare active trend always precedes a device trend as consumers seek to amplify ingredient results; red light therapy and pore devices are the next logical TikTok content wave following the current serum and mask boom."
-      },
-      {
-        "category": "Barrier Repair & Skin Microbiome Skincare",
-        "momentum": "rising",
-        "reason": "Ceramide, niacinamide, and gentle moisturizer placements (La Roche-Posay #12) signal a consumer pivot from aggressive exfoliation back to skin barrier healing — a TikTok derm content trend growing steadily through 2026."
-      },
-      {
-        "category": "Eco-Conscious Personal Care (Refillable, Biodegradable, Biobased)",
-        "momentum": "rising",
-        "reason": "Mrs. Meyer's refill (#9) and Clean Skin Club biobased towels (#11) in the Beauty top 20 confirm sustainable personal care is hitting mainstream purchasing behavior, not just aspirational intent — critical inflection for dropshippers."
-      },
-      {
-        "category": "Seasonal & Festival Beauty (Glitter, Face Gems, Body Art)",
+        "category": "Bedding & Sleep Wellness",
         "momentum": "exploding",
-        "reason": "With July 4th on July 1 and summer concert/festival season in full swing, patriotic and festival beauty accessories are at peak demand now and will sustain through August Labor Day — time-sensitive but high-velocity."
+        "reason": "Four distinct bedding SKUs (sheets x2, mattress topper, mattress protector, pillows) dominate Amazon Home top 10 — the cooling sleep trend is at peak summer intensity."
       },
       {
-        "category": "Disposable & Hygienic Skincare Tools (Face Towels, Cotton Rounds)",
+        "category": "Personal Cooling Electronics",
+        "momentum": "rising",
+        "reason": "Neck fans and handheld fans are entering their annual peak demand window driven by July heatwaves and TikTok outdoor lifestyle content."
+      },
+      {
+        "category": "Smart Wearables & Health Trackers",
+        "momentum": "rising",
+        "reason": "Oura Ring presence in Amazon Electronics top-20 signals growing mainstream consumer interest in health-monitoring wearables beyond smartwatches, opening a gap for affordable alternatives."
+      },
+      {
+        "category": "Back-to-School Dorm & Study Essentials",
+        "momentum": "rising",
+        "reason": "July 1 marks the start of the 6-week window before peak back-to-school purchasing — storage, lighting, seating, and desk accessories are all pre-ramping now."
+      },
+      {
+        "category": "Eco-Friendly Kitchen Storage",
+        "momentum": "rising",
+        "reason": "Silicone bags, reusable containers, and sustainable kitchen products continue gaining TikTok traction through summer meal-prep and eco-lifestyle content."
+      },
+      {
+        "category": "Outdoor & Garden Lighting",
         "momentum": "stable",
-        "reason": "Disposable biobased face towels and cotton rounds maintain consistent top-20 Amazon Beauty presence, driven by ongoing TikTok hygiene and skincare routine content; low price risk and high reorder rate make this a reliable steady-margin category."
-      },
-      {
-        "category": "Sun Care & Outdoor Summer Skin Protection",
-        "momentum": "rising",
-        "reason": "Peak summer (July–August) traditionally drives the strongest sunscreen search demand of the year; Korean SPF formats and mineral tinted sticks are being heavily recommended by the same TikTok beauty community driving K-beauty sales now."
+        "reason": "Solar pathway and string lights maintain steady mid-summer demand as outdoor entertaining is at its annual high through August — reliable margin category."
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Amazon Basics commodity items (cotton swabs, cotton rounds, generic hygiene basics)",
-        "reason": "Amazon Basics (#8 cotton swabs, #16 cotton rounds) dominate these ultra-commodity categories with pricing power no dropshipper can compete with; margins are near-zero, brand trust defaults to Amazon's own label, and sub-$5 retail prices make dropshipping economics completely unviable."
+        "product_type": "Apple-branded products (AirPods Pro 3, AirPods 4, AirTag, Apple Watch Series 11, Apple iPad)",
+        "reason": "Heavily branded by Apple — cannot be dropshipped, resale margins are razor-thin on Amazon, MAP pricing enforced, and counterfeit risk is severe; avoid entirely."
       },
       {
         "rank": 2,
-        "product_type": "Branded name-brand drugstore products (Neutrogena, Maybelline, La Roche-Posay)",
-        "reason": "Major CPG brands like Neutrogena (#3, #14), Maybelline (#18), and La Roche-Posay (#12) are protected by authorized retailer policies, MAP pricing agreements, and brand registry programs — dropshipping these creates counterfeit risk, account bans, and zero competitive margin."
+        "product_type": "Amazon-branded ecosystem devices (Echo Dot, Echo Spot, Fire TV Stick, Kindle Paperwhite as primary product)",
+        "reason": "Amazon controls distribution, pricing, and fulfillment of its own branded hardware — no dropship opportunity exists and competing against the manufacturer is a losing strategy."
       },
       {
         "rank": 3,
-        "product_type": "Large-format liquid body care (33oz hand soap refills, 16oz body lotions)",
-        "reason": "Heavy, large-volume liquid products like Mrs. Meyer's 33oz refill (#9) and eos 16oz body lotion (#13) incur disproportionate shipping costs that destroy dropship margins; potential hazmat classification for certain formulations adds further complexity and cost."
+        "product_type": "Beats and Bose branded premium headphones",
+        "reason": "Heavily branded audio products from major companies (Beats/Apple, Bose) have MAP pricing, authorized dealer requirements, and zero margin opportunity for dropshippers; brand infringement risk is high."
       },
       {
         "rank": 4,
-        "product_type": "Established Korean beauty hero SKUs from brands with strong direct-to-consumer presence (LANEIGE, The Ordinary)",
-        "reason": "LANEIGE (#7) and The Ordinary (#15) have robust DTC channels, Sephora/Ulta distribution, and loyal fanbase communities that purchase directly — dropshippers cannot compete on price, authenticity trust, or fulfillment speed against these established brand ecosystems."
+        "product_type": "Subscription-based digital services (Blink Plus Plan monthly auto-renewal)",
+        "reason": "Digital subscription products are not physical goods and cannot be dropshipped; physical Blink security cameras are also an Amazon-owned brand with controlled distribution."
       },
       {
         "rank": 5,
-        "product_type": "Hyper-seasonal patriotic beauty with no post-holiday pivot plan (single-use 4th of July branding)",
-        "reason": "Strictly July 4th branded products (beyond generic red/white/blue) become unsellable inventory after July 5th; without a festival/summer pivot strategy, holding post-holiday stock creates dead inventory risk that outweighs the 48-hour peak opportunity."
+        "product_type": "Oversized or heavy streaming media hardware (Roku Streaming Stick, Fire TV as primary product)",
+        "reason": "While small in size, these are branded products with extremely tight margins, manufacturer-controlled pricing, and no white-label equivalent to dropship competitively."
       }
     ],
-    "market_insights": "Korean skincare is experiencing its strongest mainstream moment in the US market to date, with the PDRN (salmon DNA) ingredient category achieving the rare distinction of placing multiple SKUs simultaneously in the Amazon Beauty top 20. This is a textbook category inflection point — the 'ingredient goes viral' phase where TikTok discovery converts to Amazon purchase intent at scale. Dropshippers should prioritize sourcing white-label or unbranded PDRN serums, bio-collagen masks, and dual-textured toner pads immediately; the window before major US beauty brands absorb and saturate these niches is approximately 60–90 days. Lightweight packaging, photogenic formulations, and satisfying texture content make these products perfect for TikTok Shop integration alongside traditional dropship channels.\n\nThe broader 2026 mid-year beauty market is defined by two converging forces: ingredient sophistication (consumers seeking clinical actives like PDRN, niacinamide, AHA/BHA in cosmetic delivery formats) and the ritual economy (self-care as content, not just consumption). Products that combine proven efficacy ingredients with strong visual/ASMR content potential — jelly textures, hydrogel masks, spray mists, peel-off formulas — are dramatically outperforming single-purpose basics. Dropshippers should build product selections that work as a cohesive TikTok content storyline (e.g., a 'glass skin morning routine' bundle) rather than isolated SKUs. Summer 2026 data also suggests the at-home device category is approximately 4–6 weeks behind the current serum/mask wave, presenting an ideal pre-trend acquisition window for LED masks and facial steamers before the TikTok device content cycle peaks.",
-    "data_quality_note": "Only Amazon Beauty bestseller data was provided in the raw input; TikTok trend data and Google Trends data were absent, so TikTok and Google signals referenced in this analysis are inferred from category knowledge and cross-platform trend pattern modeling as of June 2026 — dropshippers should independently verify TikTok view counts and Google Shopping query volumes before committing to larger inventory positions."
+    "market_insights": "July 1, 2026 represents one of the highest-opportunity dropshipping windows of the year for home essentials and seasonal products. The Amazon data reveals an unusually dominant home category moment — with bedding, pest control, drinkware, and bathroom products all cresting simultaneously — driven by the intersection of summer heat, post-vacation home refresh behavior, and the lead-up to back-to-school spending. Dropshippers who move aggressively on lightweight, unbranded home goods (sheet sets, mattress toppers, insect traps, water bottles) in the next 7–10 days will capture the peak demand curve before Q3 saturation sets in. Margins on these categories remain high because no single brand has monopolized the generic/white-label supply chain.\n\nThe electronics data tells a cautionary tale: Amazon's top electronics list is almost entirely dominated by Apple, Amazon, and Beats — all manufacturer-controlled brands with zero dropship viability. However, this creates a clear strategic gap in the accessories and alternatives market. Smart ring health trackers, e-reader cases, USB surge protectors, and ring lights are all riding the coattails of their branded counterparts with strong consumer intent signals. Additionally, the back-to-school season ramp beginning in 4–5 weeks creates a forward-looking opportunity in organization, personal cooling, and content creation tools that savvy dropshippers should begin sourcing now to be ready when demand peaks in late July through August.",
+    "data_quality_note": "Input data contained only Amazon Bestseller listings for two categories (Electronics and Home & Kitchen) with no TikTok raw data, no Google Trends data, and no Amazon Movers & Shakers data provided — TikTok and Google Trends signals referenced in recommendations are based on known seasonal patterns and historical platform behavior for July rather than live scraped data, reducing confidence on cross-platform signals."
   },
   "raw_sample": [
     {
-      "name": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid | Ideal for All, Korean Skin Care, 70 Pads (1 Pack)",
+      "name": "blink plus plan with monthly auto-renewal",
       "rank": 1,
-      "rating": "4.6",
-      "price": "$18.90",
+      "rating": "4.4",
+      "price": "$11.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/31YHGbJsldL._AC_UL300_SR300,200_.png",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea",
+      "name": "Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range",
       "rank": 2,
-      "rating": "4.5",
-      "price": "$14.25",
+      "rating": "4.6",
+      "price": "$27.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Neutrogena Makeup Remover Micellar Wipes for Face Daily Gently Removes Oil Dirt and Waterproof Makeup in a Simple Fully Plant-Based Cloth, 2 pack of 25 ct",
+      "name": "Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume",
       "rank": 3,
-      "rating": "4.8",
-      "price": "$9.97",
+      "rating": "4.6",
+      "price": "$19.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JnbwZyFoL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Instant Plumping Hydration, Firming Care, Korean Skincare, 3.38 fl oz",
+      "name": "Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Feature, Bluetooth Headphones, Spatial Audio, High-Fidelity Sound, USB-C Charging",
       "rank": 4,
       "rating": "4.5",
-      "price": "$21.00",
+      "price": "$225.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LQ-32prpL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen - Boosts skin's barrier hydration and gives 24h Glow & Lifted Look - Korean skincare (1.69 Fl Oz (Pack of 1))",
+      "name": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone",
       "rank": 5,
-      "rating": "4.4",
-      "price": "$14.90",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDluwKSxL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes, Spot Treatment Stickers for Face and Skin, Vegan and Cruelty Free (36 Count)",
-      "rank": 6,
       "rating": "4.6",
-      "price": "$12.99",
+      "price": "$99.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p+1+md+8L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iBtxCUabL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube with Shea & Murumuru Butters for Hydrating, Moisturizing, Glossy, Non-Sticky Shine, Berry | Korean Skin Care",
-      "rank": 7,
+      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
+      "rank": 6,
       "rating": "4.7",
-      "price": "$19.00",
+      "price": "$49.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612UcJQa1VL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, Cotton, Versatile, Baby Safe, 500 Count",
+      "name": "Blink Outdoor 4 – Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk. Sync Module Core included – 5 camera system",
+      "rank": 7,
+      "rating": "4.2",
+      "price": "$104.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/31oSNXtjjyL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
       "rank": 8,
       "rating": "4.7",
-      "price": "$2.68",
+      "price": "$329.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612HeyYXOnL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6110Jv9wqeL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "MRS. MEYER'S CLEAN DAY Hand Soap Refill, Lavender Scent, 33 Fl Oz Bottle",
+      "name": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
       "rank": 9,
-      "rating": "4.7",
-      "price": "$8.69",
+      "rating": "4.5",
+      "price": "$79.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71issVjgM+L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides & Niacinamide for Hydration & Firm-Looking Skin | Uneven Tone Care | Korean Skincare, 1.01 fl. Oz",
+      "name": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
       "rank": 10,
-      "rating": "4.7",
-      "price": "$18.90",
+      "rating": "4.1",
+      "price": "$34.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/615DOoCI6xL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
+      "name": "Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
       "rank": 11,
-      "rating": "4.8",
-      "price": "$17.95",
+      "rating": "4.2",
+      "price": "$39.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Cn1ooILhL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r3G3vAhBL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer Face Cream with Ceramide and Niacinamide for All Skin Types, Oil Free, Fragrance Free",
+      "name": "6 Ft Surge Protector Power Strip - 8 Widely Outlets with 4 USB Ports, 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station, ETL,White",
       "rank": 12,
       "rating": "4.6",
-      "price": "$24.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51x78epntaL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
-      "rank": 13,
-      "rating": "4.7",
-      "price": "$9.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IQUadfGEL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Neutrogena Makeup Remover Towelettes for Face with Micellar Water Daily Alcohol-Free Gently Removes Oil Dirt and Waterproof Makeup in a Simple Fully Plant-Based Cloth, 25 ct",
-      "rank": 14,
-      "rating": "4.8",
-      "price": "$5.22",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XBVncqBGL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
-      "rank": 15,
-      "rating": "4.7",
-      "price": "$13.50",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bC4vVdkOL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Hypoallergenic Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack",
-      "rank": 16,
-      "rating": "4.7",
-      "price": "$3.23",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41roS4Ps5RL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Mysense Patriotic Red White and Blue Face Hair Body Glitter Stick,4th of July Outfits and Accessories for Women Kids,USA Flag Makeup for Independence Day 250 Anniversary Memorial Day Veterans Day",
-      "rank": 17,
-      "rating": "4.3",
       "price": "$9.98",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JPodwbl2L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Blackest Black, 1 Count",
+      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
+      "rank": 13,
+      "rating": "4.6",
+      "price": "$49.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Roku Streaming Stick HD — HD Streaming Device for TV with Roku Voice Remote, Free & Live TV",
+      "rank": 14,
+      "rating": "4.7",
+      "price": "$28.49",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GUOcJCzSL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black",
+      "rank": 16,
+      "rating": "4.6",
+      "price": "$149.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/515FE+S4yLL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Silver",
+      "rank": 17,
+      "rating": "4.7",
+      "price": "$466.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Q-vahOT9L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Oura Ring 4 Sizing Kit - Before You Buy the Unique Sizing, Not Standard US Sizes - Receive Credit for Purchase, Sizing Kit, Oura App",
       "rank": 18,
       "rating": "4.5",
-      "price": "$10.82",
+      "price": "$8.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/518Qh+G3I5L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Elasticity & Hydration Care, Reduces Sagging & Dullness | Hydrolyzed Collagen For Glowing Skin | Korean Skin Care, 2.53 fl.oz",
+      "name": "Amazon Kindle Paperwhite 16GB (newest model) – 20% faster, with new 7\" glare-free display and weeks of battery life – Black",
+      "rank": 19,
+      "rating": "4.7",
+      "price": "$159.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Black",
+      "rank": 20,
+      "rating": "4.5",
+      "price": "$179.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51f7KKP25PL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
+      "rank": 1,
+      "rating": "4.5",
+      "price": "$24.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Lightweight Breathable Brushed Microfiber 3-Piece Bed Sheet Set With 14-Inch Deep Pockets, Wrinkle Resistant, Twin XL, Dark Gray, Solid",
+      "rank": 2,
+      "rating": "4.6",
+      "price": "$10.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZxgS1cu+L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Terro, Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - Stations for Effective Indoor Ant Control, 12 Count",
+      "rank": 3,
+      "rating": "4.6",
+      "price": "$10.96",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Very, Very Dark",
+      "rank": 4,
+      "rating": "4.7",
+      "price": "$29.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Trap Official Refill Cartridges - Fits Zevo Trap and MAX Indoor Fly Trap, Trap+Lock Technology Fly Trap Refill for Gnats, House Flies & Fruit Flies (4 Official Refill Cartridges)",
+      "rank": 5,
+      "rating": "4.8",
+      "price": "$14.49",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uXJAVhd1L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
+      "rank": 6,
+      "rating": "4.4",
+      "price": "$37.89",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Trap - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (1 Plug-in Base and 1 Cartridge)",
+      "rank": 7,
+      "rating": "4.3",
+      "price": "$17.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6\"-18\" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
+      "rank": 8,
+      "rating": "4.6",
+      "price": "$23.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 - Original Soft Down Alternative Pillow for Sleeping - Soft Support for Back, Stomach or Side Sleepers",
+      "rank": 9,
+      "rating": "4.4",
+      "price": "$59.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61k1qZuYToL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack",
+      "rank": 10,
+      "rating": "4.5",
+      "price": "$6.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner with Rustproof Grommets and 3 Magnets, Waterproof Cute Lightweight Standard Size Bathroom Curtains - Clear",
+      "rank": 11,
+      "rating": "4.5",
+      "price": "$8.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack",
+      "rank": 12,
+      "rating": "4.8",
+      "price": "$16.79",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/617+Wg+p7WL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath Mats for Bathroom Floor, Tub and Shower, Home Decor Accessories, Grey",
+      "rank": 13,
+      "rating": "4.4",
+      "price": "$9.37",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Rose Quartz 2.0",
+      "rank": 14,
+      "rating": "4.7",
+      "price": "$23.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-U5dEbEBL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Traps - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (2 Plug-in Bases and 2 Cartridges)",
+      "rank": 15,
+      "rating": "4.4",
+      "price": "$37.47",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uxQ4MUSlL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
+      "rank": 16,
+      "rating": "4.5",
+      "price": "$79.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Honeywell TurboForce Air Circulator, Small Tabletop Fan, Quiet Personal Fan for Home or Office, 3 Speeds, 90 Degree Pivoting Head, Black, HT900",
+      "rank": 17,
+      "rating": "4.6",
+      "price": "$14.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lylM-9P4L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "HydroJug Traveler - 32 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Pink Sand",
+      "rank": 18,
+      "rating": "4.6",
+      "price": "$29.74",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/31tbwj3Mi9L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "BISSELL Little Green Mini Portable Carpet and Upholstery Deep Cleaner, Car/Auto Detailer, with HydroRinse Self-Cleaning Tool and 4\" Tough Stain Tool, Tea Green, 4075",
       "rank": 19,
       "rating": "4.5",
-      "price": "$19.00",
+      "price": "$99.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61occWCJN-L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Zg+lIkXeL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for Glass Skin, Korean Skincare (2.02 fl oz)",
+      "name": "JISULIFE 3 IN 1 Handheld Mini Fan - Portable Fan & Power Bank & Flashlight, 19H Max Cooling, USB Rechargeable, Pocket-Sized for Travel, Cruise, Concerts, Makeup, 2026 Summer Gifts for Women(Pink)",
       "rank": 20,
       "rating": "4.6",
-      "price": "$24.00",
+      "price": "$13.07",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HPLwL7omL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j1KdNT8HL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
+      "rank": 2,
+      "rating": "4.6",
+      "price": "$25.68",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91gUA7twgmL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Bezente Assorted Rainbow Latex Balloons, 100 Pack 12 inch Round Helium Bright Color Balloons for Birthday Bridal Shower Wedding Party Decorations",
+      "rank": 3,
+      "rating": "4.6",
+      "price": "$6.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FqjBG9v7L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Bicycle Standard Playing Cards, Standard Poker Size Deck of Cards, Red & Blue (2 Pack), Classic Cards for Poker, Blackjack, Family Game Night & Card Games, Fun for All Ages",
+      "rank": 4,
+      "rating": "4.8",
+      "price": "$5.34",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Disney Store Official Buzz Lightyear Interactive Talking Action Figure from Toy Story, Features 10+ English Phrases, Interacts with Other Figures and Toys",
+      "rank": 5,
+      "rating": "4.7",
+      "price": "$39.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/713M+bcQESL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "PartyWoo Red Balloons 140 pcs Different Sizes of 18 12 10 5 Inch Red Balloon Arch Kit Garland for Birthday Graduation Bachelorette Citizenship Anniversary Cherry Casino Theme Party Decorations Red-Y57",
+      "rank": 6,
+      "rating": "4.5",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HwbvR5y9L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "PartySticks Glow Sticks Party Supplies 100pk - 8 Inch Glow in the Dark Light Up Sticks Party Favors, Glow Party Decorations, Neon Party Glow Necklaces and Glow Bracelets with Connectors",
+      "rank": 7,
+      "rating": "4.6",
+      "price": "$7.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JYNlch58L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Animals Habitat 500+ Kids Sticker Book by Cupkin Toddler Airplane Travel Activity Coloring and Sticker Book, Road Trip Essentials, 12 Coloring Pages + 12 Scenes for Ages 2–8 Years",
+      "rank": 8,
+      "rating": "4.8",
+      "price": "$16.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81spN5T1mEL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Butter Slow Rising Squishy，Squishy Toy,Dumpling Stress Balls，PU Materia Fidget Toy for Office or Party Favor",
+      "rank": 9,
+      "rating": "3.9",
+      "price": "$6.50",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61poKPfNUNL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "SEREED Baby Balance Bike for 1 Year Old Boys Girls 12-24 Month Toddler Balance Bike, 4 Wheels Toddler First Bike, First Birthday Gifts",
+      "rank": 10,
+      "rating": "4.8",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tilO4erpL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Original Squishmallows™ SLIMYGLOOP Purple Gelli Gels, Slow Rising Sensory Squeeze Toy with Glitter, Gel Filled Fidget Toys",
+      "rank": 11,
+      "rating": "4.5",
+      "price": "$8.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91tyUp19fRL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Aqua 4-in-1 Monterey Hammock Pool Float & Water Hammock, Multi-Purpose, Inflatable Pool Floats for Adults, Patented Thick, Non-Stick PVC Material, One Light Blue & One Navy/White Stripe, 2-Pack",
+      "rank": 12,
+      "rating": "4.5",
+      "price": "$24.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/814LFWjSmbL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
     }
