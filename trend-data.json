@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-12T09:49:43.793798+00:00",
+  "generated_at": "2026-07-13T10:58:29.526233+00:00",
   "stats": {
-    "total_products_scraped": 79,
+    "total_products_scraped": 100,
     "by_platform": {
-      "amazon": 79
+      "amazon": 100
     }
   },
   "analysis": {
@@ -11,10 +11,230 @@
     "buy_soon": [],
     "categories_to_watch": [],
     "avoid": [],
-    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwxLEj6cbeDSkLL36ur3'}",
-    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwxLEj6cbeDSkLL36ur3'}"
+    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcywPH5xNpnkjomxnKrFa'}",
+    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcywPH5xNpnkjomxnKrFa'}"
   },
   "raw_sample": [
+    {
+      "name": "Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid",
+      "rank": 1,
+      "rating": "4.6",
+      "price": "$14.16",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Terro, Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - Stations for Effective Indoor Ant Control, 12 Count | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use",
+      "rank": 2,
+      "rating": "4.6",
+      "price": "$10.96",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
+      "rank": 3,
+      "rating": "4.5",
+      "price": "$24.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Trap Official Refill Cartridges - Fits Zevo Trap and MAX Indoor Fly Trap, Trap+Lock Technology Fly Trap Refill for Gnats, House Flies & Fruit Flies (4 Official Refill Cartridges)",
+      "rank": 4,
+      "rating": "4.8",
+      "price": "$14.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uXJAVhd1L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Trap - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (1 Plug-in Base and 1 Cartridge)",
+      "rank": 5,
+      "rating": "4.3",
+      "price": "$17.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
+      "rank": 6,
+      "rating": "4.7",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6\"-18\" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
+      "rank": 7,
+      "rating": "4.6",
+      "price": "$25.49",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack",
+      "rank": 8,
+      "rating": "4.5",
+      "price": "$6.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
+      "rank": 9,
+      "rating": "4.4",
+      "price": "$37.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Ivory/Beige, 30-Pack",
+      "rank": 10,
+      "rating": "4.8",
+      "price": "$16.19",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81331aSHcAL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner with Rustproof Grommets and 3 Magnets, Waterproof Cute Lightweight Standard Size Bathroom Curtains - Clear",
+      "rank": 11,
+      "rating": "4.5",
+      "price": "$8.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath Mats for Bathroom Floor, Tub and Shower, Home Decor Accessories, Grey",
+      "rank": 12,
+      "rating": "4.4",
+      "price": "$9.47",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
+      "rank": 13,
+      "rating": "4.5",
+      "price": "$9.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Traps - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (2 Plug-in Bases and 2 Cartridges)",
+      "rank": 14,
+      "rating": "4.4",
+      "price": "$37.47",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uxQ4MUSlL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "HOME GROWN Zinnia Dahlia Seeds Pack for 2026 Non GMO 524 Flower Seeds | Vibrant Zinnia Elegans for Pollinator Gardens, Borders & Containers | Easy-to-Grow Outdoor Blooms",
+      "rank": 15,
+      "rating": "4.2",
+      "price": "$5.59",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-7L4At4XL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "GODONLIF Candle Warmer Lamp with Cycle Timer, Birthday Gifts for Women Mom Her, House Warming Gifts New Home Room Decor, Wax Melt Warmer for Jar Candles with 2 Bulbs",
+      "rank": 16,
+      "rating": "4.7",
+      "price": "$8.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/810vcJJDrkL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Honeywell TurboForce Air Circulator, Small Tabletop Fan, Quiet Personal Fan for Home or Office, 3 Speeds, 90 Degree Pivoting Head, Black, HT900",
+      "rank": 17,
+      "rating": "4.6",
+      "price": "$14.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lylM-9P4L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 - Original Soft Down Alternative Pillow for Sleeping - Soft Support for Back, Stomach or Side Sleepers",
+      "rank": 18,
+      "rating": "4.4",
+      "price": "$59.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XtBANZuJL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Queen Size Sheet Set – 4 Piece Bed Sheets, Soft and Breathable Microfiber, Includes 1 Fitted Sheet, 1 Flat Sheet and 2 Pillowcases – Oeko Tex (Grey)",
+      "rank": 19,
+      "rating": "4.6",
+      "price": "$13.31",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tGN2LBhrL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "JISULIFE 3 IN 1 Handheld Mini Fan - Portable Fan & Power Bank & Flashlight, 19H Max Cooling, USB Rechargeable, Pocket-Sized for Travel, Cruise, Concerts, Makeup, 2026 Summer Gifts for Women(Pink)",
+      "rank": 20,
+      "rating": "4.6",
+      "price": "$12.32",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j1KdNT8HL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
     {
       "name": "PartyWoo White Balloons 140 pcs Different Sizes of 18 12 10 5 Inch White Balloons Arch Kit Garland for Wedding Baby Shower Birthday Bridal Shower Graduation Engagement Party Decorations White-Y13",
       "rank": 1,
@@ -30,7 +250,7 @@
       "name": "Bicycle Standard Playing Cards, Standard Poker Size Deck of Cards, Red & Blue (2 Pack), Classic Cards for Poker, Blackjack, Family Game Night & Card Games, Fun for All Ages",
       "rank": 2,
       "rating": "4.8",
-      "price": "$5.82",
+      "price": "$4.72",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
@@ -74,7 +294,7 @@
       "name": "SEREED Baby Balance Bike for 1 Year Old Boys Girls 12-24 Month Toddler Balance Bike, 4 Wheels Toddler First Bike, First Birthday Gifts",
       "rank": 6,
       "rating": "4.8",
-      "price": "$29.97",
+      "price": "$36.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tilO4erpL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
@@ -82,8 +302,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Crayola Broad Line Markers (12 Count), Washable Markers for Kids, Assorted Colors, Arts & Crafts Supplies, For Coloring Books & Art Projects, Ages 3+",
+      "name": "50+ Official Pokemon Cards Collection with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare",
       "rank": 7,
+      "rating": "4.2",
+      "price": "$7.89",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p-47sRv9L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Crayola Broad Line Markers (12 Count), Washable Markers for Kids, Assorted Colors, Arts & Crafts Supplies, For Coloring Books & Art Projects, Ages 3+",
+      "rank": 8,
       "rating": "4.8",
       "price": "$7.31",
       "review_count": null,
@@ -94,7 +325,7 @@
     },
     {
       "name": "Play Doh Modeling Compound 10-Pack Case of Assorted Colors, Non-Toxic 2 oz. Cans, Back to School Gifts, Prizes, & Party Favors, Preschool Toys for Kids, Ages 2+ (Amazon Exclusive)",
-      "rank": 8,
+      "rank": 9,
       "rating": "4.7",
       "price": "$7.99",
       "review_count": null,
@@ -105,7 +336,7 @@
     },
     {
       "name": "Crayola Colored Pencils (36ct), Kids Pencil Set, Pre-Sharpened Coloring Book Pencils for Kids & Adults, Arts & Crafts Supplies, Coloring Gift, Ages 3+",
-      "rank": 9,
+      "rank": 10,
       "rating": "4.8",
       "price": "$6.49",
       "review_count": null,
@@ -115,19 +346,8 @@
       "platform": "amazon"
     },
     {
-      "name": "50+ Official Pokemon Cards Collection with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare",
-      "rank": 10,
-      "rating": "4.2",
-      "price": "$7.89",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p-47sRv9L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Animals Habitat 500+ Kids Sticker Book by Cupkin Toddler Airplane Travel Activity Coloring and Sticker Book, Road Trip Essentials, 12 Coloring Pages + 12 Scenes for Ages 2–8 Years",
-      "rank": 12,
+      "rank": 11,
       "rating": "4.8",
       "price": "$16.98",
       "review_count": null,
@@ -137,63 +357,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
-      "rank": 13,
-      "rating": "4.6",
-      "price": "$17.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91gUA7twgmL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "PartySticks Glow Sticks Party Supplies 100pk - 8 Inch Glow in the Dark Light Up Sticks Party Favors, Glow Party Decorations, Neon Party Glow Necklaces and Glow Bracelets with Connectors",
-      "rank": 14,
-      "rating": "4.6",
-      "price": "$7.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JYNlch58L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Hello Kitty® and Friends SLIMYGLOOP Gelli Gels – Hello Kitty, Slow Rising Sensory Squeeze Toy with Glitter, Gel Filled Fidget Toys",
-      "rank": 15,
-      "rating": "4.4",
-      "price": "$8.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81gUkW7X+eL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
-      "rank": 16,
-      "rating": "4.7",
-      "price": "$3.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81fmkv7E38L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Schylling NeeDoh Nice Ice Baby - Sensory Squeeze Toy - Super Solid Squish - 1.25\" Wide - Color May Vary (Pack of 1)",
-      "rank": 17,
-      "rating": "4.0",
-      "price": "$16.49",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/717FM41-pPL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "USAOPOLY Flip 7, The Ultimate Blend of Press Your Luck & Strategy, Fast-Paced Addictive Card Game,Quick to Learn & Easy to Teach,Perfect for Game Nights, 3+ Players, Ages 8 & Up, 20 Minutes Play Time",
-      "rank": 18,
+      "rank": 12,
       "rating": "4.9",
       "price": "$7.97",
       "review_count": null,
@@ -203,10 +368,65 @@
       "platform": "amazon"
     },
     {
+      "name": "PartySticks Glow Sticks Party Supplies 100pk - 8 Inch Glow in the Dark Light Up Sticks Party Favors, Glow Party Decorations, Neon Party Glow Necklaces and Glow Bracelets with Connectors",
+      "rank": 13,
+      "rating": "4.6",
+      "price": "$7.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JYNlch58L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+      "rank": 14,
+      "rating": "4.7",
+      "price": "$3.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81fmkv7E38L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Aqua 4-in-1 Monterey Hammock Pool Float & Water Hammocks – 2-3-4 Multipacks – Multiple Colors/Styles – for Adults and Kids Floating",
+      "rank": 15,
+      "rating": "4.5",
+      "price": "$24.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/814LFWjSmbL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
+      "rank": 16,
+      "rating": "4.6",
+      "price": "$17.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91gUA7twgmL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Hello Kitty® and Friends SLIMYGLOOP Gelli Gels – Cinnamoroll™, Slow Rising Sensory Squeeze Toy with Glitter, Gel Filled Fidget Toys",
+      "rank": 17,
+      "rating": "4.4",
+      "price": "$8.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wALYn2RdL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
       "name": "Mattel Games UNO Card Game for Kid, Adult & Family Nights & Parties, Travel & Vacations, Color Blind Accessible & Customizable Deck (Amazon Exclusive)",
-      "rank": 19,
+      "rank": 18,
       "rating": "4.8",
-      "price": "$11.12",
+      "price": "$11.16",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tVL-E4lkL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
@@ -214,12 +434,23 @@
       "platform": "amazon"
     },
     {
-      "name": "Aqua 4-in-1 Monterey Hammock Pool Float & Water Hammocks – 2-3-4 Multipacks – Multiple Colors/Styles – for Adults and Kids Floating",
-      "rank": 20,
-      "rating": "4.5",
-      "price": "$24.99",
+      "name": "Schylling NeeDoh Nice Cube - Sensory Squeeze Toy with Super Solid Squish - 2.25\" Cube - Color May Vary (Pack of 1)",
+      "rank": 19,
+      "rating": "4.3",
+      "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/814LFWjSmbL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51uyZ+EfDML._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games (1 Deck) | playing-cards",
+      "rank": 20,
+      "rating": "4.7",
+      "price": "$5.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JkEmp-ZCL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -258,23 +489,23 @@
       "platform": "amazon"
     },
     {
-      "name": "Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct | #1 Hydrocolloid Acne Patches, Shrinking Zits & Whiteheads in 1 Use, Spot Treatment, Pimple Stickers for Face",
+      "name": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea",
       "rank": 4,
-      "rating": "4.6",
-      "price": "$12.99",
+      "rating": "4.5",
+      "price": "$19.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p+1+md+8L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg",
       "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea",
+      "name": "Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct | #1 Hydrocolloid Acne Patches, Shrinking Zits & Whiteheads in 1 Use, Spot Treatment, Pimple Stickers for Face",
       "rank": 5,
-      "rating": "4.5",
-      "price": "$17.10",
+      "rating": "4.6",
+      "price": "$12.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p+1+md+8L._AC_UL300_SR300,200_.jpg",
       "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -331,237 +562,6 @@
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL._AC_UL300_SR300,200_.jpg",
       "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, Dermatologist-Tested, pH Balanced, Cruelty-Free, 50 Fluid Ounces, 1-Pack (Previously Solimo)",
-      "rank": 11,
-      "rating": "4.6",
-      "price": "$3.82",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61F5elwBZYL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Mrs. Meyer's Clean Day, Hand Soap Refill, Lavender Scent, 33 Fl Oz",
-      "rank": 12,
-      "rating": "4.7",
-      "price": "$8.69",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71issVjgM+L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
-      "rank": 13,
-      "rating": "4.8",
-      "price": "$17.95",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Cn1ooILhL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "celimax The Vita A Retinal Shot Tightening Booster | 0.1% Retinal, 3% Matryxyl, High-Strength Retinoid for Anti-Aging, Pore Minimizer, Wrinkles & Fine Lines, Firmer Skin, 15ml, Korean Skin Care Gift",
-      "rank": 14,
-      "rating": "4.5",
-      "price": "$18.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51utpRckeQL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "eos Body Wash, Vanilla, Moisturizing Creamy Gel Formula with Shea Butter, Glycerin, Vitamin E, pH Balanced, Sensitive Skin, Vegan, 16 fl oz",
-      "rank": 15,
-      "rating": "4.8",
-      "price": "$9.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/715Se8v8DWL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Naturium The Glow Getter Multi-Oil Hydrating Body Wash, Gentle Cleanser, 16.9 oz",
-      "rank": 16,
-      "rating": "4.6",
-      "price": "$14.44",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51YvKBN9uZL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Neutrogena Beach Defense Sunscreen Spray SPF 70 Broad Spectrum UVA UVB Protection Lightweight Water Resistant up to 80 Minutes Beach-Strength Sun Protection for Whole Family, 6.5 oz",
-      "rank": 17,
-      "rating": "4.7",
-      "price": "$9.39",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61w72VmXgBL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion, 100% Mineral Sunscreen, UVA/UVB Protection, Infused with organic Aloe Vera, Soothes and Hydrates, 5 fl oz",
-      "rank": 18,
-      "rating": "4.6",
-      "price": "$14.69",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gEzQByuUL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz",
-      "rank": 19,
-      "rating": "4.6",
-      "price": "$15.88",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UKDMdW3KL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "EltaMD UV Clear Face Sunscreen SPF, Oil-Free Sunscreen with Zinc Oxide, Dermatologist Recommended",
-      "rank": 20,
-      "rating": "4.6",
-      "price": "$38.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aXlh7do4L._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports Water Bottle, 24 oz, Angel Food Cake",
-      "rank": 1,
-      "rating": "4.7",
-      "price": "$23.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51uA1LV5hpL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Neoprene Dumbbell Hand Weights for Exercise and Muscle Toning",
-      "rank": 2,
-      "rating": "4.8",
-      "price": "$9.47",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61UEXxKIlrL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Seago Swim Goggles 2 Pack Anti-Fog Anti-UV Wide View Swimming Goggles for Kids 3-14",
-      "rank": 3,
-      "rating": "4.4",
-      "price": "$15.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612ZG0PJKYL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "BAND-AID Brand Travel Ready Portable Emergency First Aid Kit, Minor Wound Care, Perfect for Home, Car, Camping, Travel & Outdoor Essentials, Supplies Include Bandages, Neosporin & Tylenol, 80 Piece",
-      "rank": 4,
-      "rating": "4.8",
-      "price": "$10.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vQmvJOqyL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for Travel, School, and Sports, 30oz, BPA Free, Leak Proof, Beach House",
-      "rank": 5,
-      "rating": "4.7",
-      "price": "$27.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51GiCw2F1RL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Zeerun Weighted Vest, 6lb/8lb/10lb/12lb/15lb/18lb/20lb/24lb/30lb for Men Women, Reflective Stripe Adjustable Buckle, Comfortable Durable Rucking Vest for Walking Running Strength Training",
-      "rank": 6,
-      "rating": "4.6",
-      "price": "$14.24",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81zh-RIi18L._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "2026 Panini FIFA World Cup Sticker Collection Box – 50 Sticker Packs | Amazon Exclusive Orange Parallel | Official FIFA World Cup Trading Stickers | Collect, Trade & Complete Your Album | Amazon Exclusive Orange Parallel, Official FIFA World Cup Trading Stickers, Collect, Trade & Complete Your Album",
-      "rank": 7,
-      "rating": "3.9",
-      "price": "$97.87",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fAVB2noeL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "adidas FIFA World Cup 26™ Trionda Soccer Ball",
-      "rank": 8,
-      "rating": "4.5",
-      "price": "$37.77",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BirAZbzXL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Rainleaf Microfiber Towel Perfect Travel & Gym & Camping Towel. Quick Dry - Super Absorbent - Ultra Compact - Lightweight. Suitable for Trip, Beach, Shower, Backpacking, Pool",
-      "rank": 9,
-      "rating": "4.7",
-      "price": "$12.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HHXRkRz6L._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
-      "rank": 10,
-      "rating": "4.6",
-      "price": "$26.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81l7AwlRcDL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Cool Coolers by Fit & Fresh 4 Pack XL Slim Ice Packs, Quick Freeze Space Saving Reusable Ice Packs for Lunch Boxes or Coolers",
-      "rank": 11,
-      "rating": "4.7",
-      "price": "$9.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sQ9s9tgQL._AC_UL300_SR300,200_.jpg",
-      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     }
