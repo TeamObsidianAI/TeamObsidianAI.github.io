@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:07:14.953425+00:00",
+  "generated_at": "2026-07-17T09:55:26.500374+00:00",
   "stats": {
     "total_products_scraped": 117,
     "by_platform": {
@@ -11,8 +11,8 @@
     "buy_soon": [],
     "categories_to_watch": [],
     "avoid": [],
-    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd5YuPaZH7KSE1EUgzxH1'}",
-    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd5YuPaZH7KSE1EUgzxH1'}"
+    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd7Rp5ShuzMc5AaM1YrxV'}",
+    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd7Rp5ShuzMc5AaM1YrxV'}"
   },
   "raw_sample": [
     {
@@ -71,19 +71,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "rank": 6,
-      "rating": "4.6",
-      "price": "$49.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "6 Ft Surge Protector Power Strip - 8 Widely Outlets with 4 USB Ports, 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station, ETL,White",
-      "rank": 7,
+      "rank": 6,
       "rating": "4.6",
       "price": "$9.99",
       "review_count": null,
@@ -93,10 +82,21 @@
       "platform": "amazon"
     },
     {
+      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
+      "rank": 7,
+      "rating": "4.6",
+      "price": "$49.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
       "name": "Roku Streaming Stick HD — HD Streaming Device for TV with Roku Voice Remote, Free & Live TV",
       "rank": 8,
       "rating": "4.7",
-      "price": "$29.97",
+      "price": "$28.95",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GUOcJCzSL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
@@ -104,19 +104,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
-      "rank": 9,
-      "rating": "4.2",
-      "price": "$39.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r3G3vAhBL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports, 3-Sided 1680J Power Strip Multi Plug Adapter Spaced for Home Travel Office",
-      "rank": 10,
+      "rank": 9,
       "rating": "4.7",
       "price": "$9.98",
       "review_count": null,
@@ -127,7 +116,7 @@
     },
     {
       "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
-      "rank": 11,
+      "rank": 10,
       "rating": "4.8",
       "price": "$299.00",
       "review_count": null,
@@ -138,7 +127,7 @@
     },
     {
       "name": "Oura Ring 5 Sizing Kit - Size Before You Buy Oura Ring 5 - Unique Sizing, Not Standard Ring Sizing - Receive Amazon Credit for Oura Ring 5 Purchase",
-      "rank": 12,
+      "rank": 11,
       "rating": "4.6",
       "price": "$10.00",
       "review_count": null,
@@ -148,19 +137,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
-      "rank": 13,
+      "name": "Amazon Fire TV Stick 4K Select (newest model), start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
+      "rank": 12,
       "rating": "4.2",
-      "price": "$34.99",
+      "price": "$39.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r3G3vAhBL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
-      "rank": 14,
+      "rank": 13,
       "rating": "4.7",
       "price": "$49.99",
       "review_count": null,
@@ -170,19 +159,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
-      "rank": 15,
-      "rating": "4.7",
-      "price": "$34.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyRfbgaLL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "10Ft Extension Cord with Multiple Outlets, Flat Plug Surge Protector Power Strip 10 Ft Long Cord, 8 Outlets & 4 USB Ports (2 USB C), Desk Charging Station for Home Office, College Dorm Room Essentials",
-      "rank": 16,
+      "rank": 14,
       "rating": "4.8",
       "price": "$13.99",
       "review_count": null,
@@ -193,11 +171,33 @@
     },
     {
       "name": "Roku Voice Remote | Replacement TV Remote Control with Voice Control, Simple Setup, & Pre-Set App Shortcuts - Compatible with Roku TV, Players, & Audio Devices | Voice Remote",
-      "rank": 18,
+      "rank": 16,
       "rating": "4.6",
       "price": "$19.88",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JvQ68q1yL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
+      "rank": 17,
+      "rating": "4.2",
+      "price": "$34.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+      "rank": 18,
+      "rating": "4.7",
+      "price": "$34.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyRfbgaLL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -214,12 +214,12 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Kindle Paperwhite 16GB (newest model) – 20% faster, with new 7\" glare-free display and weeks of battery life – Black",
+      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue",
       "rank": 20,
       "rating": "4.7",
-      "price": "$159.99",
+      "price": "$427.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KMlIaN9pL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aPY8odPSL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -236,19 +236,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid",
-      "rank": 2,
-      "rating": "4.6",
-      "price": "$14.16",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set",
-      "rank": 3,
+      "rank": 2,
       "rating": "4.5",
       "price": "$21.24",
       "review_count": null,
@@ -258,23 +247,34 @@
       "platform": "amazon"
     },
     {
-      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
-      "rank": 4,
-      "rating": "4.7",
-      "price": "$29.99",
+      "name": "Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid",
+      "rank": 3,
+      "rating": "4.6",
+      "price": "$14.16",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Zevo Flying Insect Trap - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats (1 Plug-in Base and 1 Cartridge)",
-      "rank": 5,
+      "rank": 4,
       "rating": "4.3",
       "price": "$17.97",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
+      "rank": 5,
+      "rating": "4.7",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -335,23 +335,23 @@
       "platform": "amazon"
     },
     {
-      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
+      "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
       "rank": 11,
-      "rating": "4.5",
-      "price": "$9.99",
+      "rating": "4.4",
+      "price": "$37.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green",
+      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
       "rank": 12,
-      "rating": "4.4",
-      "price": "$37.99",
+      "rating": "4.5",
+      "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -368,23 +368,23 @@
       "platform": "amazon"
     },
     {
-      "name": "HOME GROWN Zinnia Dahlia Seeds Pack for 2026 Non GMO 524 Flower Seeds | Vibrant Zinnia Elegans for Pollinator Gardens, Borders & Containers | Easy-to-Grow Outdoor Blooms",
+      "name": "Honeywell TurboForce Air Circulator, Small Tabletop Fan, Quiet Personal Fan for Home or Office, 3 Speeds, 90 Degree Pivoting Head, Black, HT900",
       "rank": 14,
-      "rating": "4.2",
-      "price": "$6.99",
+      "rating": "4.6",
+      "price": "$14.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-7L4At4XL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lylM-9P4L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Honeywell TurboForce Air Circulator, Small Tabletop Fan, Quiet Personal Fan for Home or Office, 3 Speeds, 90 Degree Pivoting Head, Black, HT900",
+      "name": "HOME GROWN Zinnia Dahlia Seeds Pack for 2026 Non GMO 524 Flower Seeds | Vibrant Zinnia Elegans for Pollinator Gardens, Borders & Containers | Easy-to-Grow Outdoor Blooms",
       "rank": 15,
-      "rating": "4.6",
-      "price": "$14.99",
+      "rating": "4.2",
+      "price": "$5.59",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lylM-9P4L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-7L4At4XL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -412,8 +412,19 @@
       "platform": "amazon"
     },
     {
-      "name": "JISULIFE 3 IN 1 Handheld Mini Fan - Portable Fan & Power Bank & Flashlight, 19H Max Cooling, USB Rechargeable, Pocket-Sized for Travel, Cruise, Concerts, Makeup, 2026 Summer Gifts for Women(Pink)",
+      "name": "LEVOIT Tower Fan for Bedroom, 90° Oscillating Standing Fan with 28dB Quiet for Sleep, 25ft/s Velocity, 12H Timer, 5 Speeds 4 Modes, Remoter, Bladeless Room Fan for Home, Office, Indoor, 36 inch, White",
       "rank": 18,
+      "rating": "4.6",
+      "price": "$54.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/510+fa1wg7L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "JISULIFE 3 IN 1 Handheld Mini Fan - Portable Fan & Power Bank & Flashlight, 19H Max Cooling, USB Rechargeable, Pocket-Sized for Travel, Cruise, Concerts, Makeup, 2026 Summer Gifts for Women(Pink)",
+      "rank": 19,
       "rating": "4.6",
       "price": "$13.07",
       "review_count": null,
@@ -424,9 +435,9 @@
     },
     {
       "name": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Rose Quartz 2.0",
-      "rank": 19,
+      "rank": 20,
       "rating": "4.7",
-      "price": "$25.00",
+      "price": "$32.95",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-U5dEbEBL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -434,19 +445,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics 16x20x1 Air Filter 6-Pack, MERV 8 AC Furnace Filters, Allergy Control, Removes Dust, Lint and Pollen, Electrostatic (Actual Size: 15.75\" x 19.75\" x 0.75\")",
-      "rank": 20,
-      "rating": "4.6",
-      "price": "$27.85",
+      "name": "Schylling NeeDoh Gumdrop - Textured Sensory Toy with Super Solid Squish - 2.5\" Tall - Colors May Vary (Pack of 1)",
+      "rank": 1,
+      "rating": "4.3",
+      "price": "$26.90",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KuGgYip5L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71v0sBDQvsL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "PartyWoo White Balloons 140 pcs Different Sizes of 18 12 10 5 Inch White Balloons Arch Kit Garland for Wedding Baby Shower Birthday Bridal Shower Graduation Engagement Party Decorations White-Y13",
-      "rank": 1,
+      "rank": 2,
       "rating": "4.5",
       "price": "$8.99",
       "review_count": null,
@@ -459,7 +470,7 @@
       "name": "Bicycle Playing Cards 2 Pack Standard Poker Size Red and Blue | Air-cushion finish, Over 130 years trusted, 52 cards plus 2 Jokers per deck, Great for poker and rummy",
       "rank": 3,
       "rating": "4.8",
-      "price": "$5.34",
+      "price": "$5.82",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
@@ -479,7 +490,7 @@
     },
     {
       "name": "Disney Store Official Buzz Lightyear Interactive Talking Action Figure from Toy Story, Features 10+ English Phrases, Interacts with Other Figures and Toys",
-      "rank": 5,
+      "rank": 6,
       "rating": "4.7",
       "price": "$39.95",
       "review_count": null,
@@ -490,22 +501,11 @@
     },
     {
       "name": "Crayola Broad Line Markers (12 Count), Washable Markers for Kids, Assorted Colors, Arts & Crafts Supplies, For Coloring Books & Art Projects, Ages 3+",
-      "rank": 6,
+      "rank": 7,
       "rating": "4.8",
       "price": "$7.33",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YCP3jdKKL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Crayola Colored Pencils (36ct), Kids Pencil Set, Pre-Sharpened Coloring Book Pencils for Kids & Adults, Arts & Crafts Supplies, Coloring Gift, Ages 3+",
-      "rank": 7,
-      "rating": "4.8",
-      "price": "$6.49",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TZzq7oBKL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -522,8 +522,19 @@
       "platform": "amazon"
     },
     {
-      "name": "30 Pack Squishy Toys, Kawaii Squishies Party Favors for Kids 4-8 8-12 Treasure Box Toys for Classroom Birthday Xmas Gifts Goodie Bag Mini Animals Mochi Squishy Stress Relief Sensory Toys Random",
+      "name": "Crayola Colored Pencils (36ct), Kids Pencil Set, Pre-Sharpened Coloring Book Pencils for Kids & Adults, Arts & Crafts Supplies, Coloring Gift, Ages 3+",
       "rank": 9,
+      "rating": "4.8",
+      "price": "$6.49",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TZzq7oBKL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "30 Pack Squishy Toys, Kawaii Squishies Party Favors for Kids 4-8 8-12 Treasure Box Toys for Classroom Birthday Xmas Gifts Goodie Bag Mini Animals Mochi Squishy Stress Relief Sensory Toys Random",
+      "rank": 10,
       "rating": "4.6",
       "price": "$9.99",
       "review_count": null,
@@ -534,7 +545,7 @@
     },
     {
       "name": "50+ Official Pokemon Cards Collection with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare",
-      "rank": 10,
+      "rank": 11,
       "rating": "4.2",
       "price": "$7.89",
       "review_count": null,
@@ -545,22 +556,11 @@
     },
     {
       "name": "Animals Habitat 500+ Kids Sticker Book by Cupkin Toddler Airplane Travel Activity Coloring and Sticker Book, Road Trip Essentials, 12 Coloring Pages + 12 Scenes for Ages 2–8 Years",
-      "rank": 11,
+      "rank": 12,
       "rating": "4.8",
       "price": "$16.98",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81spN5T1mEL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "ZURU BUNCH O BALLOONS - 350 Rapid-Fill Crazy Color Water Balloons (10 Pack) Amazon Exclusive",
-      "rank": 12,
-      "rating": "4.6",
-      "price": "$24.70",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eSMjsg+RL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
