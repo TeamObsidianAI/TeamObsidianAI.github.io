@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T10:23:11.960099+00:00",
+  "generated_at": "2026-07-31T10:37:00.143766+00:00",
   "stats": {
-    "total_products_scraped": 100,
+    "total_products_scraped": 99,
     "by_platform": {
-      "amazon": 100
+      "amazon": 99
     }
   },
   "analysis": {
@@ -11,8 +11,8 @@
     "buy_soon": [],
     "categories_to_watch": [],
     "avoid": [],
-    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY5SjcXRqep4fAKtat8a'}",
-    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY5SjcXRqep4fAKtat8a'}"
+    "market_insights": "Analysis unavailable: API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZzJiBQn8EiBcKdfBfPK'}",
+    "data_quality_note": "API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZzJiBQn8EiBcKdfBfPK'}"
   },
   "raw_sample": [
     {
@@ -126,30 +126,8 @@
       "platform": "amazon"
     },
     {
-      "name": "(Pack of 2) Replacement Remote Control Only for Roku TV, Compatible for TCL Roku/Hisense Roku/Onn Roku/Sharp Roku/Element Roku/Westinghouse Roku/Philips Roku Smart TVs (Not for Roku Stick and Box)",
-      "rank": 11,
-      "rating": "4.5",
-      "price": "$9.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
-      "rank": 12,
-      "rating": "4.6",
-      "price": "$34.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyRfbgaLL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "rank": 13,
+      "rank": 11,
       "rating": "4.6",
       "price": "$49.99",
       "review_count": null,
@@ -160,7 +138,7 @@
     },
     {
       "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
-      "rank": 14,
+      "rank": 13,
       "rating": "4.7",
       "price": "$49.99",
       "review_count": null,
@@ -170,19 +148,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue",
-      "rank": 15,
-      "rating": "4.7",
-      "price": "$426.99",
+      "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+      "rank": 14,
+      "rating": "4.6",
+      "price": "$34.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aPY8odPSL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyRfbgaLL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Roku TV Remote Control (Official Manufacturer Product) | Simple Setup & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
-      "rank": 16,
+      "rank": 15,
       "rating": "4.6",
       "price": "$9.99",
       "review_count": null,
@@ -192,23 +170,34 @@
       "platform": "amazon"
     },
     {
-      "name": "Apple Watch Series 11 [GPS 46mm] Smartwatch with Jet Black Aluminum Case with Black Sport Band - M/L. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
-      "rank": 17,
+      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue",
+      "rank": 16,
       "rating": "4.7",
-      "price": "$329.99",
+      "price": "$426.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6129OfG4gfL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aPY8odPSL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports, 3-Sided 1680J Power Strip Multi Plug Adapter Spaced for Home Travel Office",
-      "rank": 18,
-      "rating": "4.7",
+      "name": "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
+      "rank": 17,
+      "rating": "4.5",
       "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41CiQ7hR31L._AC_UL300_SR300,200_.jpg",
+      "category": "Electronics",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Apple Watch Series 11 [GPS 46mm] Smartwatch with Jet Black Aluminum Case with Black Sport Band - M/L. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
+      "rank": 18,
+      "rating": "4.7",
+      "price": "$329.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/6129OfG4gfL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -225,12 +214,12 @@
       "platform": "amazon"
     },
     {
-      "name": "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
+      "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports, 3-Sided 1680J Power Strip Multi Plug Adapter Spaced for Home Travel Office",
       "rank": 20,
-      "rating": "4.5",
+      "rating": "4.7",
       "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41CiQ7hR31L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -250,7 +239,7 @@
       "name": "Terro, Ant Killer Bait Stations T300B - Liquid Bait to Eliminate Ants - Bait System - Stations for Effective Indoor Ant Control, 12 Count | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use",
       "rank": 2,
       "rating": "4.6",
-      "price": "$10.96",
+      "price": "$9.58",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -258,12 +247,12 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid",
+      "name": "Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid",
       "rank": 3,
       "rating": "4.6",
-      "price": "$14.94",
+      "price": "$16.98",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KCbJGpAFL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -294,7 +283,7 @@
       "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Base & 1 Refills | Fly Trap Catches House Flies, Gnats & Fruit Flies 24/7, Spray-Free, Odor-Free, Blue & UV Light, Safe for Kids & Pets*",
       "rank": 6,
       "rating": "4.2",
-      "price": "$17.97",
+      "price": "$19.97",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -313,23 +302,23 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack",
+      "name": "Barossa Design Premium Shower Curtain Liner Standard Size, Clear | Oeko-tex Certified, Rustproof Grommets, 3 Bottom Magnets, Waterproof PEVA, Cute Lightweight Bathroom Curtain",
       "rank": 8,
-      "rating": "4.8",
-      "price": "$22.04",
+      "rating": "4.5",
+      "price": "$8.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Barossa Design Premium Shower Curtain Liner Standard Size, Clear | Oeko-tex Certified, Rustproof Grommets, 3 Bottom Magnets, Waterproof PEVA, Cute Lightweight Bathroom Curtain",
+      "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack",
       "rank": 9,
-      "rating": "4.5",
-      "price": "$8.49",
+      "rating": "4.8",
+      "price": "$16.79",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/617+Wg+p7WL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -357,23 +346,23 @@
       "platform": "amazon"
     },
     {
-      "name": "PlayHot Portable Handheld Turbo Fan, Travel Essentials, Gifts for Women/Men | 5-Speed, Up to 12H, 10m/s Airflow, USB-C Rechargeable, LED Display, 3-in-1 Foldable Personal Fan for Cruise, Beach, Vacation",
+      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper, Dark Blue | Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies",
       "rank": 12,
-      "rating": "4.5",
-      "price": "$16.98",
+      "rating": "4.8",
+      "price": "$23.98",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HjMmGgC2L._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper, Dark Blue | Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies",
+      "name": "PlayHot Portable Handheld Turbo Fan, Travel Essentials, Gifts for Women/Men | 5-Speed, Up to 12H, 10m/s Airflow, USB-C Rechargeable, LED Display, 3-in-1 Foldable Personal Fan for Cruise, Beach, Vacation",
       "rank": 13,
-      "rating": "4.8",
-      "price": "$23.98",
+      "rating": "4.5",
+      "price": "$16.98",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HjMmGgC2L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -390,30 +379,8 @@
       "platform": "amazon"
     },
     {
-      "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 | Original Soft Down Alternative Pillow for Sleeping, Soft Support for Back, Stomach or Side Sleepers",
-      "rank": 15,
-      "rating": "4.4",
-      "price": "$41.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XtBANZuJL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Utopia Bedding Queen Size Mattress Protector Zippered, 100% Waterproof | Bed Bug and Dust Mite Proof Mattress Encasement, Absorbent 6 Sided Mattress Cover fits upto 15\" deep, Machine Washable",
-      "rank": 16,
-      "rating": "4.6",
-      "price": "$22.49",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iPH-uMadL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 2 Bases & 2 Refills | Fly Trap Catches House Flies, Gnats & Fruit Flies 24/7, Spray-Free, Odor-Free, Blue & UV Light, Safe for Kids & Pets*",
-      "rank": 17,
+      "rank": 15,
       "rating": "4.4",
       "price": "$36.47",
       "review_count": null,
@@ -424,7 +391,7 @@
     },
     {
       "name": "Twin Sheets Set, 3 Pieces 16\" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 1 Pillowcase",
-      "rank": 18,
+      "rank": 16,
       "rating": "4.7",
       "price": "$9.99",
       "review_count": null,
@@ -434,23 +401,45 @@
       "platform": "amazon"
     },
     {
-      "name": "TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer",
-      "rank": 19,
-      "rating": "3.9",
-      "price": "$10.75",
+      "name": "Utopia Bedding Queen Size Mattress Protector Zippered, 100% Waterproof | Bed Bug and Dust Mite Proof Mattress Encasement, Absorbent 6 Sided Mattress Cover fits upto 15\" deep, Machine Washable",
+      "rank": 17,
+      "rating": "4.6",
+      "price": "$22.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81F5uQH3fyL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iPH-uMadL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 | Original Soft Down Alternative Pillow for Sleeping, Soft Support for Back, Stomach or Side Sleepers",
+      "rank": 18,
+      "rating": "4.4",
+      "price": "$41.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XtBANZuJL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "HOMESURE Supports 200lbs Heavy Duty Moving Bags - Strong Zipper & Wrap-Around Handles - Water-Resistant Storage Totes, Durable Alternative to Moving Boxes - 8 Pack - Semi-Transparent",
-      "rank": 20,
+      "rank": 19,
       "rating": "4.7",
       "price": "$26.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wDuStnj9L._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories",
+      "rank": 20,
+      "rating": "4.4",
+      "price": "$9.47",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -489,8 +478,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Basics Hypoallergenic Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack",
+      "name": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
       "rank": 4,
+      "rating": "4.7",
+      "price": "$9.12",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IQUadfGEL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Hypoallergenic Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack",
+      "rank": 5,
       "rating": "4.7",
       "price": "$2.96",
       "review_count": null,
@@ -501,22 +501,11 @@
     },
     {
       "name": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
-      "rank": 5,
+      "rank": 6,
       "rating": "4.7",
       "price": "$13.50",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bC4vVdkOL._AC_UL300_SR300,200_.jpg",
-      "category": "Beauty & Personal Care",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
-      "rank": 6,
-      "rating": "4.7",
-      "price": "$9.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IQUadfGEL._AC_UL300_SR300,200_.jpg",
       "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -544,8 +533,19 @@
       "platform": "amazon"
     },
     {
-      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Blackest Black, 1 Count",
+      "name": "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
       "rank": 9,
+      "rating": "4.8",
+      "price": "$17.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Cn1ooILhL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Blackest Black, 1 Count",
+      "rank": 10,
       "rating": "4.5",
       "price": "$10.82",
       "review_count": null,
@@ -555,12 +555,12 @@
       "platform": "amazon"
     },
     {
-      "name": "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
-      "rank": 10,
-      "rating": "4.8",
-      "price": "$17.95",
+      "name": "Mrs. Meyer's Clean Day, Hand Soap Refill, Lemon Verbena Scent, 33 Fl Oz",
+      "rank": 11,
+      "rating": "4.7",
+      "price": "$8.69",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Cn1ooILhL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O6EsQ5lqL._AC_UL300_SR300,200_.jpg",
       "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
