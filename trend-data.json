@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T08:37:12.377482+00:00",
+  "generated_at": "2026-08-21T08:39:25.845348+00:00",
   "stats": {
-    "total_products_scraped": 118,
+    "total_products_scraped": 100,
     "by_platform": {
-      "amazon": 118
+      "amazon": 100
     }
   },
   "analysis": {
@@ -11,542 +11,542 @@
       {
         "rank": 1,
         "score": 88,
-        "product": "Multi-Sided Surge Protector Power Strip with USB-C and USB-A Ports, Flat Plug, 6–10 Ft Extension Cord",
+        "product": "Multi-Port Surge Protector Power Strip with Flat Plug and USB-C (8 AC + 4 USB Ports, 6–10 Ft Cord)",
         "category": "Electronics / Home Office",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Three distinct surge protector/power strip SKUs appear in Amazon's top 15 electronics bestsellers simultaneously, signaling a category explosion likely driven by back-to-school and home office demand. Generic, brandless versions are wide open for dropshippers at strong margin in the $25–$55 retail range.",
-        "price_range": "$25–$55",
+        "reason": "Multiple surge protector variants dominate Amazon's top 15 Electronics bestsellers simultaneously, signaling explosive category demand tied to back-to-school and home office setups in August. Generic/white-label versions are highly sourceable from overseas suppliers at strong margins with no brand lock-in.",
+        "price_range": "$22–$45",
         "margin_estimate": "high",
         "urgency": "Act within 7 days",
         "search_terms": [
-          "flat plug surge protector",
-          "power strip USB-C outlets",
-          "dorm room power strip extension cord"
+          "surge protector power strip flat plug",
+          "dorm room power strip USB-C",
+          "multi outlet extension cord desk"
         ],
-        "image_keywords": "power strip, USB outlets, flat plug",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Pg83pxUML._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "power strip, flat plug, USB ports",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
         "score": 85,
-        "product": "Foldable Wired Over-Ear Headphones with Microphone, 3.5mm Jack, Tangle-Free Nylon Cord for Students",
-        "category": "Electronics / Audio",
+        "product": "Oura Ring 5 Health & Sleep Tracking Smart Ring (non-branded alternative sizing/accessory)",
+        "category": "Health Tech / Wearables",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Student/school wired headphones dominate the top 20 Amazon electronics list with multiple SKUs, peaking exactly during back-to-school season in August 2026. Unbranded variants with a mic and foldable design source cheaply and retail strongly in the $20–$40 window.",
-        "price_range": "$20–$40",
+        "reason": "The Oura Ring 5 sizing kit reaching #18 in Amazon Electronics bestsellers in August 2026 signals massive purchase intent for smart rings — dropshippers can capture adjacent demand via ring accessories, silicone protective covers, and charging docks at healthy margins. Wearable health rings are a white-hot category with TikTok health influencer tailwinds.",
+        "price_range": "$20–$55",
         "margin_estimate": "high",
-        "urgency": "Act within 5 days — peak season is NOW",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "wired headphones for school",
-          "kids headphones with microphone 3.5mm",
-          "foldable corded headphones students"
+          "smart ring accessories",
+          "oura ring silicone cover",
+          "health tracking ring charger"
         ],
-        "image_keywords": "wired headphones, student, microphone",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/6129lgZ55TL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "smart ring, wearable tracker, finger ring tech",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HAkWN1-LL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
         "score": 82,
-        "product": "Bamboo-Derived Rayon Cooling Mattress Topper with Pillow Top, Queen Size, 20-Inch Deep Pocket",
-        "category": "Home & Kitchen / Bedding",
+        "product": "Kids Wired Over-Ear Foldable Headphones with Microphone (3.5mm, Safe Volume, Tangle-Free Cord)",
+        "category": "Electronics / Kids",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Cooling and bamboo-derived bedding is a persistent high-margin category, and a pillow-top mattress topper hitting the Amazon Home bestsellers list in summer 2026 signals hot-sleeper demand is peaking. Dropshippable at $45–$95 with generous margin from overseas suppliers.",
-        "price_range": "$45–$95",
+        "reason": "Back-to-school season (peak August) is driving heavy demand for kids' school headphones as evidenced by multiple SKUs charting in Amazon top 20 Electronics — unbranded safe-volume kids headphones are a proven dropship winner with strong seasonal repeat cycles.",
+        "price_range": "$18–$35",
         "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "urgency": "Act within 5 days — peak season now",
         "search_terms": [
-          "bamboo cooling mattress topper queen",
-          "pillow top mattress pad hot sleepers",
-          "deep pocket mattress topper back pain"
+          "kids headphones for school wired",
+          "children over ear headphones microphone",
+          "toddler safe volume headphones"
         ],
-        "image_keywords": "mattress topper, bamboo fabric, bedroom",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "kids headphones, colorful over-ear, school child",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/6129lgZ55TL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
         "score": 80,
-        "product": "Waterproof Noiseless Mattress Protector Pad, Deep Pocket Fit 6–18 Inch, Queen/King, Breathable",
-        "category": "Home & Kitchen / Bedding",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "high",
-        "reason": "Waterproof mattress protectors are a recurring bestseller with consistent Amazon ranking and repeat-buy demand, making them ideal for dropshipping at strong margins with no brand lock-in. The noiseless and breathable positioning is the current winning angle per bestseller data.",
-        "price_range": "$25–$55",
-        "margin_estimate": "high",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "waterproof mattress protector queen noiseless",
-          "deep pocket mattress pad breathable",
-          "bed protector washable queen"
-        ],
-        "image_keywords": "mattress protector, white bedding, waterproof",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 78,
-        "product": "Owala-Style Insulated Stainless Steel Water Bottle with FreeSip Spout, 24–32 oz, Multiple Colors",
+        "product": "Owala FreeSip-Style Insulated Stainless Steel Water Bottle 24oz with Dual-Sip Lid",
         "category": "Home & Kitchen / Drinkware",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "The Owala FreeSip holds the #1 Home & Kitchen spot, but the branded version is off-limits — however, insulated dual-spout stainless steel bottles with the same functional appeal are thriving in the white-label space on TikTok and Amazon alike. Target $25–$45 retail.",
-        "price_range": "$25–$45",
-        "margin_estimate": "medium",
+        "reason": "Owala FreeSip holding #1 in Amazon Home & Kitchen in late August shows the insulated bottle trend is sustained and still at peak — white-label dual-sip stainless bottles with similar functionality are highly sourceable and convert well on TikTok Shop.",
+        "price_range": "$22–$40",
+        "margin_estimate": "high",
         "urgency": "Act within 10 days",
         "search_terms": [
-          "insulated water bottle dual spout stainless steel",
-          "leak proof water bottle 32oz",
-          "tumbler water bottle with straw and spout"
+          "insulated water bottle dual sip lid",
+          "stainless steel water bottle 24oz",
+          "leak proof water bottle with straw"
         ],
-        "image_keywords": "stainless steel water bottle, colorful drinkware, insulated tumbler",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "stainless water bottle, insulated tumbler, dual lid drinking",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 6,
-        "score": 76,
-        "product": "Kids Safe-Sound Foldable Over-Ear Wired Headphones with Volume Limiting, 85dB, 3.5mm for Tablets and iPad",
-        "category": "Electronics / Kids Audio",
+        "rank": 5,
+        "score": 78,
+        "product": "3-Sided Wall Outlet Extender with 5 AC Outlets and 4 USB Ports (1080–1680J Surge Protection, Compact)",
+        "category": "Electronics / Home",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Kids-specific volume-limiting headphones appear in the top 20 Amazon electronics list right at back-to-school peak, and this niche has proven TikTok parent-audience appeal for school supply hauls. White-label versions with SafeSound branding source well under $8 and retail for $22–$38.",
-        "price_range": "$22–$38",
+        "reason": "Wall outlet extender plug adapters appear across three separate bestseller slots in the Amazon Electronics top 15, confirming a high-velocity niche that is not brand-dominated and has consistent household demand year-round.",
+        "price_range": "$18–$32",
         "margin_estimate": "high",
-        "urgency": "Act within 5 days — back-to-school window closing soon",
+        "urgency": "Act within 7 days",
         "search_terms": [
-          "kids headphones volume limiting school",
-          "toddler wired headphones 3.5mm iPad",
-          "children safe sound headphones foldable"
+          "wall outlet extender USB ports",
+          "3 sided outlet adapter surge protector",
+          "travel wall outlet expander"
         ],
-        "image_keywords": "kids headphones, colorful, child wearing headphones",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sW8UNU0XL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "wall outlet extender, multi-plug adapter, USB charging block",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 6,
+        "score": 75,
+        "product": "Liquid Ant Bait Killer Stations Indoor (Borax Formula, 12-Pack, Colony Killer)",
+        "category": "Home & Kitchen / Pest Control",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Ant killer bait stations at #3 in Amazon Home & Kitchen in August is perfectly on-trend — late-summer pest season peaks in August–September, and borax-based liquid ant baits are a consistently viral TikTok pest hack product with strong purchase intent.",
+        "price_range": "$12–$28",
+        "margin_estimate": "medium",
+        "urgency": "Act within 5 days — seasonal peak right now",
+        "search_terms": [
+          "liquid ant bait stations indoor",
+          "borax ant killer 12 pack",
+          "ant trap home kitchen"
+        ],
+        "image_keywords": "ant bait trap, borax station, pest control indoor",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 74,
-        "product": "Slim Velvet Non-Slip Space-Saving Clothes Hangers, 50-Pack, Multiple Colors",
+        "score": 73,
+        "product": "Fruit Fly & Gnat UV Light Plug-In Flying Insect Trap with Replacement Cartridges",
+        "category": "Home & Kitchen / Pest Control",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Two separate Zevo flying insect trap products (#5 and #8) charting simultaneously in Amazon Home & Kitchen confirms peak demand for non-toxic plug-in bug traps — late summer is prime season and this is a proven TikTok 'satisfying trap reveal' content product.",
+        "price_range": "$20–$40",
+        "margin_estimate": "medium",
+        "urgency": "Act within 5 days — August–September peak",
+        "search_terms": [
+          "fruit fly trap plug in UV light",
+          "gnat trap kitchen counter",
+          "flying insect trap refill cartridge"
+        ],
+        "image_keywords": "fruit fly trap, UV light bug catcher, plug-in insect trap",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 8,
+        "score": 70,
+        "product": "Roku-Compatible Universal TV Remote Control (Pre-Programmed, Ready Out of Box, 2-Pack)",
+        "category": "Electronics / Smart Home",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Replacement Roku remotes appear in two bestseller slots (#12 and #19) confirming strong evergreen replacement demand — universal remotes are a classic high-margin dropship product with no brand restriction and consistent repeat buyer need.",
+        "price_range": "$15–$30",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days",
+        "search_terms": [
+          "Roku compatible universal remote replacement",
+          "TCL Hisense Roku TV remote",
+          "smart TV remote control pre-programmed"
+        ],
+        "image_keywords": "TV remote control, universal remote, streaming device remote",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 9,
+        "score": 68,
+        "product": "Bamboo Rayon Ultra-Soft Pillow-Top Mattress Topper Queen (Deep Pocket, Cooling, Back Pain Relief)",
+        "category": "Home & Kitchen / Bedding",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Bamboo-derived cooling mattress toppers hitting #7 in Amazon Home & Kitchen signals sustained demand in the sleep wellness category — back-to-college season drives heavy bedding purchases and this price point supports excellent dropship margins.",
+        "price_range": "$45–$95",
+        "margin_estimate": "high",
+        "urgency": "Act within 10 days",
+        "search_terms": [
+          "bamboo cooling mattress topper queen",
+          "pillow top mattress pad deep pocket",
+          "back pain mattress topper soft"
+        ],
+        "image_keywords": "mattress topper white fluffy, bamboo bedding, pillow top pad",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 10,
+        "score": 65,
+        "product": "Velvet Non-Slip Slim Space-Saving Clothes Hangers (50-Pack, Black)",
         "category": "Home & Kitchen / Closet Organization",
         "platforms": [
           "amazon"
         ],
-        "confidence": "high",
-        "reason": "Velvet slim hangers have been a perennial Amazon bestseller and the closet organization category remains hot on TikTok for organization content, making this a reliable dropship product with consistent search volume and high repeat purchases.",
-        "price_range": "$20–$35",
+        "confidence": "medium",
+        "reason": "Velvet slim hangers at #6 in Amazon Home & Kitchen in August align with back-to-school and move-in season demand for dorm and apartment organization — a perennial high-volume dropship product with strong conversion on visual platforms.",
+        "price_range": "$18–$30",
         "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
+        "urgency": "Act within 10 days",
         "search_terms": [
-          "velvet slim hangers 50 pack non slip",
-          "space saving closet hangers",
-          "flocked clothes hangers bulk"
+          "slim velvet hangers 50 pack black",
+          "non slip space saving closet hangers",
+          "thin velvet clothes hanger set"
         ],
-        "image_keywords": "velvet hangers, organized closet, clothing rack",
+        "image_keywords": "velvet hangers black, slim closet organizer, clothing hanger set",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 8,
-        "score": 72,
-        "product": "Liquid Ant Bait Killer Stations Indoor 12-Pack, Borax Formula, Kills Colony and Queen",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Two pest-control insect trap products appear in the Amazon Home top 10 simultaneously during August — peak bug season in the US — signaling strong seasonal purchase intent that a dropshipper can capitalize on with generic ant bait station multipacks.",
-        "price_range": "$18–$32",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days — seasonal window peaks August–September",
-        "search_terms": [
-          "indoor ant bait stations borax 12 pack",
-          "liquid ant killer indoor traps",
-          "ant trap kill queen colony"
-        ],
-        "image_keywords": "ant bait station, pest control, indoor trap",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 9,
-        "score": 70,
-        "product": "Flying Insect UV Light Trap Plug-In for Fruit Flies and Gnats, Spray-Free, Refillable Cartridge",
-        "category": "Home & Kitchen / Pest Control",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Flying insect traps (both base unit and refill cartridges) appear in the Amazon Home top 10 simultaneously in late summer, confirming this is a hot seasonal buy with genuine purchase urgency. Generic UV gnat trap plug-ins dropship well at $22–$40.",
-        "price_range": "$22–$40",
-        "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
-        "search_terms": [
-          "fruit fly trap plug in UV light",
-          "gnat trap indoor spray free",
-          "flying insect trap refillable"
-        ],
-        "image_keywords": "insect trap, UV light, plug-in device",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AnvlATCkL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 10,
-        "score": 68,
-        "product": "Lightweight Microfiber Bed Sheet Set 4-Piece with 14-Inch Deep Pockets, Wrinkle-Free, Multiple Colors",
+        "rank": 11,
+        "score": 62,
+        "product": "Lightweight Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets (Queen/Full, Wrinkle-Free)",
         "category": "Home & Kitchen / Bedding",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Two separate microfiber/luxury sheet sets occupy the top 5 Amazon Home bestsellers, confirming bedding as a dominant category right now with unbranded sheet sets offering excellent dropship margins at $28–$55 retail.",
-        "price_range": "$28–$55",
+        "reason": "Microfiber bed sheets holding multiple slots in Amazon Home & Kitchen top 5 during back-to-school season is a reliable annual signal — white-label premium microfiber sheet sets in trendy colorways are easy to dropship with consistent demand.",
+        "price_range": "$25–$50",
         "margin_estimate": "medium",
         "urgency": "Act within 14 days",
         "search_terms": [
-          "microfiber bed sheets 4 piece deep pockets",
-          "wrinkle free soft bed sheet set queen",
-          "luxury hotel sheets breathable cooling"
+          "microfiber bed sheet set queen deep pocket",
+          "wrinkle free breathable bed sheets",
+          "hotel luxury sheet set full queen"
         ],
-        "image_keywords": "bed sheets, folded microfiber, bedroom set",
+        "image_keywords": "bed sheet set folded, microfiber bedding, bedroom white sheets",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg"
       },
       {
-        "rank": 11,
-        "score": 65,
-        "product": "Oura Ring-Style Smart Health Tracker Ring — Heart Rate, Sleep, Recovery Monitoring, Stainless Steel",
-        "category": "Electronics / Wearables",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "The Oura Ring 5 sizing kit appearing in Amazon's top 20 electronics signals massive consumer interest in smart ring wearables, and while the branded version is unavailable for dropshipping, white-label health-tracking smart rings are a fast-growing TikTok category at $45–$90.",
-        "price_range": "$45–$90",
-        "margin_estimate": "high",
-        "urgency": "Act within 21 days",
-        "search_terms": [
-          "smart ring health tracker sleep monitor",
-          "fitness ring heart rate recovery",
-          "smart ring wearable wellness"
-        ],
-        "image_keywords": "smart ring, wearable tech, finger health tracker",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg"
-      },
-      {
         "rank": 12,
-        "score": 62,
-        "product": "Multi-Opening Gallery Wall Picture Frame Set, 11x14 with 8x10 Mat, Black or White, Tabletop or Wall Mount",
-        "category": "Home & Kitchen / Home Décor",
+        "score": 60,
+        "product": "PEVA Clear Waterproof Shower Curtain Liner with Rustproof Grommets and Bottom Magnets (72 inch)",
+        "category": "Home & Kitchen / Bathroom",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Picture frames consistently perform in home décor on Amazon and the gallery-wall trend continues to grow on TikTok home content, giving dropshippers a reliable mid-ticket product with manageable shipping weight at $22–$45.",
-        "price_range": "$22–$45",
+        "reason": "Shower curtain liners reaching Amazon Home & Kitchen top 10 during move-in season reflects strong student housing and apartment setup demand — low cost, lightweight shipping, and universal fit make this a reliable dropship SKU.",
+        "price_range": "$14–$28",
         "margin_estimate": "medium",
-        "urgency": "Act within 21 days",
+        "urgency": "Act within 14 days",
         "search_terms": [
-          "gallery wall picture frame set 11x14",
-          "black picture frame 8x10 mat wall mount",
-          "multi opening family photo frame set"
+          "clear PEVA shower curtain liner waterproof",
+          "shower liner with magnets rustproof",
+          "72 inch bathroom curtain liner"
         ],
-        "image_keywords": "picture frame, gallery wall, home decor",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "clear shower curtain liner, bathroom PEVA, rustproof grommets",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "rising_fast": [
       {
         "rank": 1,
         "score": 82,
-        "product": "3-Sided Wall Outlet Plug Extender with USB-C Fast Charging and Surge Protection, Compact Travel Size",
-        "category": "Electronics / Travel Accessories",
+        "product": "Smart Ring Health Tracker Silicone Protective Case and Charging Dock Accessories",
+        "category": "Health Tech Accessories",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Three-sided outlet extenders with USB-C appear multiple times in the Amazon electronics top 15 and are surging as remote work and travel normalization drives demand for compact power solutions heading into fall.",
-        "signal": "Multiple surge protector/outlet extender SKUs simultaneously in Amazon top 15 Electronics — category-level explosion signal",
-        "price_range": "$18–$38",
+        "reason": "Oura Ring 5 sizing kit on Amazon bestsellers in August 2026 is a leading indicator that millions of units are being purchased — accessory ecosystem products will spike 2–4 weeks after device purchase waves.",
+        "signal": "Oura Ring 5 sizing kit at Amazon Electronics #18 signals imminent mass device adoption and accessory demand surge",
+        "price_range": "$20–$45",
         "margin_estimate": "high",
-        "image_keywords": "wall outlet extender, USB-C charger, compact plug",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "smart ring accessories, silicone ring cover, ring charging dock",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61T8W7-25IL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 78,
-        "product": "Smart Home Voice-Controlled Mini Speaker with Built-In AI Assistant, Compact Bedroom Design",
-        "category": "Electronics / Smart Home",
+        "score": 76,
+        "product": "Cordless Electric Spin Scrubber with 4 Interchangeable Brush Heads and Extension Arm",
+        "category": "Home & Kitchen / Cleaning",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The Amazon Echo Dot (newest model) charting in the top 15 alongside Alexa+ positioning signals that AI-integrated smart speakers are re-entering their growth phase, and white-label competitors with similar form factors are gaining TikTok traction.",
-        "signal": "AI-integrated smart speaker in Amazon top 15 Electronics during back-to-school / dorm setup season",
-        "price_range": "$30–$65",
-        "margin_estimate": "medium",
-        "image_keywords": "mini smart speaker, home assistant device, bedside speaker",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Late August home cleaning demand accelerates as people reset their spaces post-summer, and electric spin scrubbers are a TikTok viral cleaning product category gaining momentum heading into fall deep-clean season.",
+        "signal": "Late-summer home reset behavior + persistent TikTok cleaning hack trend cycle approaching fall peak",
+        "price_range": "$35–$70",
+        "margin_estimate": "high",
+        "image_keywords": "electric spin scrubber, cordless brush cleaner, bathroom tile scrubber",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 75,
-        "product": "USB-C to 3.5mm Headphone Adapter Dongle with DAC Chip, Hi-Fi Audio for iPhone and Android",
-        "category": "Electronics / Audio Accessories",
+        "score": 72,
+        "product": "Portable Blender 22oz USB-C Rechargeable Personal Smoothie Maker (6 Blades, BPA-Free)",
+        "category": "Home & Kitchen / Small Appliances",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Apple EarPods USB-C being a top-2 Amazon electronics bestseller shows the market has shifted to USB-C audio, and the accessory gap for wired audio adapters is enormous for dropshippers who can source dongles cheaply.",
-        "signal": "Apple USB-C EarPods at #2 Amazon Electronics signals consumer shift to USB-C audio — accessory demand rising fast",
-        "price_range": "$12–$28",
+        "reason": "Back-to-school health routines drive portable blender demand each August as students seek convenient nutrition solutions — USB-C rechargeable models are gaining fast over legacy USB-A versions.",
+        "signal": "August back-to-school health trend + USB-C migration in portable appliances creating new buying cycle",
+        "price_range": "$28–$55",
         "margin_estimate": "high",
-        "image_keywords": "USB-C headphone adapter, audio dongle, phone accessory",
+        "image_keywords": "portable blender personal, USB rechargeable blender, smoothie maker cup",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 72,
-        "product": "Streaming Device Remote Universal Replacement with Shortcut Buttons and Voice Search, Compatible with Roku/Fire TV",
-        "category": "Electronics / Smart TV Accessories",
+        "score": 69,
+        "product": "LED Desk Lamp with Wireless Charging Pad, USB-C Port, and Adjustable Color Temperature (Touch Control)",
+        "category": "Electronics / Home Office",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Two Roku replacement remote SKUs appear in the Amazon top 20 Electronics simultaneously, and universal replacement remotes for streaming devices are exploding as streaming stick adoption peaks — a perfect low-cost, high-volume dropship product.",
-        "signal": "Two Roku remote SKUs simultaneously in Amazon top 20 Electronics — replacement accessory market accelerating",
-        "price_range": "$15–$30",
+        "reason": "Dorm and home office setup season peaks in August–September, driving rapid acceleration in multi-function desk lighting with integrated charging — a consistently viral back-to-school TikTok product.",
+        "signal": "Back-to-school dorm setup peak + power strip surge protector trend indicating broader home office accessory demand",
+        "price_range": "$30–$65",
         "margin_estimate": "high",
-        "image_keywords": "streaming remote control, Roku replacement, TV remote",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71CBWyQfKhL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "LED desk lamp wireless charging, touch control light, USB desk lamp",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 68,
-        "product": "Back-to-School Desk Organization Kit: Charging Station Dock with AC Outlets and USB Ports, Dorm-Ready",
-        "category": "Home & Kitchen / Dorm Essentials",
+        "score": 64,
+        "product": "Hanging Closet Organizer and Storage Shelf (6-Tier Fabric Hanging Closet Organizer, Dorm, Bedroom)",
+        "category": "Home & Kitchen / Storage & Organization",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Multiple dorm-room-tagged power strips and accessories dominating the Amazon electronics bestseller list confirms the back-to-school dorm setup niche is peaking RIGHT NOW in August 2026, making bundled desk charging stations a fast mover.",
-        "signal": "Multiple products with 'dorm room essentials' explicitly in product titles ranking top 15 Amazon Electronics simultaneously",
-        "price_range": "$28–$58",
-        "margin_estimate": "high",
-        "image_keywords": "desk charging station, dorm room organizer, USB hub dock",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL300_SR300,200_.jpg"
+        "reason": "The dorm move-in surge visible in velvet hangers and bedding bestsellers signals an adjacent wave forming for vertical hanging organizers as students maximize small-space storage.",
+        "signal": "Closet organizer category surfing the same back-to-school move-in demand wave visible in hanger bestseller data",
+        "price_range": "$18–$35",
+        "margin_estimate": "medium",
+        "image_keywords": "hanging closet organizer, fabric shelf organizer, dorm storage",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 64,
-        "product": "Lightweight Portable Bluetooth Tracker Tag for Keys, Wallet, and Luggage, Compatible with Find My Network",
-        "category": "Electronics / Tracking Devices",
+        "score": 61,
+        "product": "Mini Projector 1080p Native Resolution with WiFi 6 and Bluetooth 5.3 (Outdoor Movie Portable)",
+        "category": "Electronics / Entertainment",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Apple AirTag 2nd Gen at #3 Amazon Electronics confirms the item-tracking category is surging, and compatible white-label Bluetooth tracker tags for Android and universal use remain a wide-open dropship opportunity at strong margins.",
-        "signal": "Apple AirTag 2nd Gen at #3 Amazon Electronics bestsellers — category demand proven, non-Apple alternatives wide open",
-        "price_range": "$20–$45",
+        "reason": "Late August transitions into outdoor movie and dorm entertainment season, with compact mini projectors accelerating on Amazon as a college must-have alternative to TVs in small spaces.",
+        "signal": "End-of-summer outdoor + dorm entertainment seasonal shift with Roku Fire Stick streaming data confirming streaming device momentum",
+        "price_range": "$55–$120",
         "margin_estimate": "high",
-        "image_keywords": "bluetooth tracker tag, key finder, luggage tag",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "mini projector portable, 1080p projector small, outdoor movie projector",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "buy_soon": [
       {
         "rank": 1,
         "score": 72,
-        "product": "Cordless Electric Spin Scrubber with Extendable Handle and 4 Interchangeable Brush Heads for Bathroom Tiles and Grout",
-        "category": "Home & Kitchen / Cleaning",
+        "product": "Electric Heated Blanket Throw with Dual Controllers and Auto Shut-Off (50x60 inch, Washable)",
+        "category": "Home & Kitchen / Bedding",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Fall deep-cleaning season typically begins in late September as households transition from summer, and electric spin scrubbers are a proven TikTok viral category — positioning now ahead of the wave is ideal.",
-        "predicted_peak": "4–6 weeks (late September–October 2026)",
-        "watch_signal": "Monitor TikTok #CleaningTok views for spin scrubber content exceeding 5M weekly views",
-        "image_keywords": "electric spin scrubber, bathroom cleaning, rotating brush",
+        "reason": "Bedding category strength in August is a reliable precursor to heated blanket demand explosion in October — sourcing now allows 6–8 week lead time to land inventory before the fall thermal comfort season.",
+        "predicted_peak": "6–8 weeks (mid-October)",
+        "watch_signal": "Monitor Amazon Movers & Shakers for heated blanket category entries in September",
+        "image_keywords": "electric heated blanket, plush throw blanket, cozy warmth blanket",
         "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
         "score": 70,
-        "product": "LED Ambient Desk Lamp with Wireless Charging Pad, Adjustable Color Temperature, Touch Dimmer, USB-A Port",
-        "category": "Home & Kitchen / Lighting",
+        "product": "Foam Roller Set for Deep Tissue Massage and Muscle Recovery (Textured Grid Pattern, 13-inch)",
+        "category": "Sports & Fitness / Recovery",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "As students return to school and remote workers reset home offices in fall, multifunctional desk lamps with wireless charging consistently spike in search volume September–November and are highly giftable heading into Q4.",
-        "predicted_peak": "3–5 weeks (mid-September to mid-October 2026)",
-        "watch_signal": "Track Google Shopping queries for 'desk lamp wireless charging' rising above prior 90-day baseline",
-        "image_keywords": "LED desk lamp, wireless charger, home office light",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg"
+        "reason": "September marks the start of fall fitness resolution cycles and new gym-goers entering the market, driving consistent demand for recovery tools that pair well with TikTok fitness content.",
+        "predicted_peak": "3–5 weeks",
+        "watch_signal": "TikTok fitness recovery content volume and #musclerecovery hashtag engagement in September",
+        "image_keywords": "foam roller exercise, muscle recovery tool, textured massage roller",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6SkL3DOL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
         "score": 68,
-        "product": "Heated Fleece Blanket with Auto Shut-Off and 6 Heat Settings, Machine Washable, 50x60 Inch",
-        "category": "Home & Kitchen / Bedding & Warmth",
+        "product": "Autumn Aromatherapy Essential Oil Diffuser (400ml Ultrasonic, Warm LED, Wood Grain Design)",
+        "category": "Home & Kitchen / Wellness",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Heated blankets are a predictable seasonal product entering their strongest demand window in October–December, and the 2026 energy-conscious consumer is primed for this category based on prior-year TikTok viral trends.",
-        "predicted_peak": "6–8 weeks (October 2026)",
-        "watch_signal": "Monitor Amazon Movers & Shakers in Home & Kitchen for heated blanket SKUs entering top 50",
-        "image_keywords": "heated electric blanket, cozy fleece, winter warmth",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg"
+        "reason": "Home ambiance products with seasonal scents (pumpkin, cinnamon, cedarwood) spike consistently in late September through November — wood-grain aesthetic diffusers perform well on visual platforms.",
+        "predicted_peak": "5–7 weeks (late September)",
+        "watch_signal": "Google Trends search volume for 'fall essential oil diffuser' and 'autumn scent diffuser'",
+        "image_keywords": "wood grain diffuser, ultrasonic mist diffuser, aromatherapy home",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wMxPo0TlL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
         "score": 65,
-        "product": "Portable Neck and Shoulder Massager with Heat, Shiatsu Kneading Nodes, Adjustable Intensity for Home and Office",
-        "category": "Health & Personal Care",
+        "product": "Smart Plug Mini Wi-Fi Outlet with Energy Monitoring and Voice Control (4-Pack, Alexa/Google Compatible)",
+        "category": "Electronics / Smart Home",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Massage and recovery devices traditionally surge in Q4 as gifting season approaches and stress levels rise at year-end, and neck massagers are one of the most TikTok-demonstrable wellness products at the ideal $35–$75 price point.",
-        "predicted_peak": "5–8 weeks (late September–October 2026)",
-        "watch_signal": "Track TikTok hashtag #NeckMassager for viral demo videos crossing 2M views on single posts",
-        "image_keywords": "neck massager, shiatsu heat, shoulder relief",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
+        "reason": "The Echo Dot and Roku streaming device presence in Amazon bestsellers signals growing smart home ecosystem adoption — smart plugs are the lowest-friction entry point and holiday gifting season will accelerate demand.",
+        "predicted_peak": "8–10 weeks (pre-holiday October)",
+        "watch_signal": "Amazon Movers & Shakers in Smart Home Devices category for smart plug entries",
+        "image_keywords": "smart plug WiFi outlet, mini smart socket, voice control plug",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 63,
-        "product": "Magnetic Levitating Floating Globe with LED Base, Desktop Decoration for Office and Gift",
-        "category": "Home & Kitchen / Novelty Décor",
+        "score": 62,
+        "product": "Picture Ledge Floating Wall Shelf for Photo Frames and Small Decor (White, Set of 3, 12/24/36 inch)",
+        "category": "Home & Kitchen / Wall Decor",
         "platforms": [
           "amazon"
         ],
-        "confidence": "low",
-        "reason": "Levitating and novelty desk items are perennial Q4 gift bestsellers that get discovered through TikTok 'cool product' content in September–October, and sourcing ahead of this window gives dropshippers first-mover pricing advantage.",
-        "predicted_peak": "6–10 weeks (October–November 2026)",
-        "watch_signal": "Monitor TikTok #CoolGadgets and #DeskSetup for levitating product posts surpassing 1M views",
-        "image_keywords": "levitating floating globe, magnetic desk toy, LED base",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
+        "confidence": "medium",
+        "reason": "Photo frame bestseller presence (#9 Home & Kitchen) indicates active home decorating behavior — floating ledge shelves are the complementary product that converts heavily when people are styling walls.",
+        "predicted_peak": "3–4 weeks",
+        "watch_signal": "Pinterest and TikTok gallery wall styling content volume through September",
+        "image_keywords": "floating picture ledge shelf, white wall shelf decor, photo display shelf",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 61,
-        "product": "Smart Automatic Pet Feeder with Camera, App-Controlled Portion Scheduling, 2-Way Audio",
-        "category": "Pet Supplies",
+        "score": 60,
+        "product": "Rechargeable Hand Warmer Power Bank 10000mAh (Dual-Sided Heating, 3 Heat Settings)",
+        "category": "Electronics / Outdoor",
         "platforms": [
           "amazon"
         ],
         "confidence": "low",
-        "reason": "Smart pet tech is a rapidly growing category on TikTok among millennials and Gen Z pet owners, with camera-enabled feeders performing exceptionally well in Q4 gift content — start sourcing by early September to capture holiday demand.",
-        "predicted_peak": "7–10 weeks (October–November 2026)",
-        "watch_signal": "Watch for Amazon Movers & Shakers in Pet Supplies featuring smart feeder/camera SKUs entering top 25",
-        "image_keywords": "automatic pet feeder, camera smart device, cat dog dispenser",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg"
+        "reason": "Hand warmers are a September–November sleeper product that historically spikes fast once first cold snaps hit — sourcing in August allows ideal positioning before competitors react.",
+        "predicted_peak": "8–12 weeks (October–November)",
+        "watch_signal": "Google Trends alert for 'rechargeable hand warmer' query volume acceleration in September",
+        "image_keywords": "rechargeable hand warmer, pocket warmer power bank, USB hand warmer",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 58,
-        "product": "Mini Portable Projector with WiFi and Bluetooth, 1080P Supported, Phone Screen Mirror, 150-Inch Display",
-        "category": "Electronics / Home Entertainment",
+        "score": 57,
+        "product": "Stainless Steel Insulated Tumbler 40oz with Handle and Straw (Stanley-Style, Leak-Proof Lid)",
+        "category": "Home & Kitchen / Drinkware",
         "platforms": [
           "amazon"
         ],
         "confidence": "low",
-        "reason": "Compact home projectors are a recurring TikTok viral category every fall as movie nights move indoors, and the price has dropped low enough for strong dropship margins while still commanding $65–$120 retail.",
-        "predicted_peak": "5–8 weeks (late September–October 2026)",
-        "watch_signal": "Monitor TikTok #MovieNight and #MinorProjector hashtag view counts for sudden spikes above 10M",
-        "image_keywords": "mini projector, home cinema, portable movie screen",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "With Owala at #1 in Home & Kitchen, the 40oz tumbler space continues to evolve and new colorway releases consistently drive viral TikTok moments heading into fall seasonal editions.",
+        "predicted_peak": "4–6 weeks (fall colorway cycle)",
+        "watch_signal": "TikTok #watertok and #tumbler hashtag trend reactivation with fall colors/themes",
+        "image_keywords": "40oz tumbler with handle, insulated cup straw lid, stainless tumbler",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41I8AN0RAgL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 55,
-        "product": "Reusable Beeswax Food Wraps Set of 3 with Assorted Sizes, Eco-Friendly Plastic-Free Kitchen Alternative",
-        "category": "Home & Kitchen / Eco Products",
+        "score": 54,
+        "product": "Magnetic Dry Erase Whiteboard Calendar for Fridge (Monthly Planner, Marker Included, 16x12 inch)",
+        "category": "Home & Kitchen / Office Products",
         "platforms": [
           "amazon"
         ],
         "confidence": "low",
-        "reason": "Eco-conscious kitchen products see seasonal search spikes in the fall as consumers reset habits and prepare for holiday entertaining, and beeswax wraps remain a strong TikTok sustainability content category.",
-        "predicted_peak": "5–7 weeks (late September–October 2026)",
-        "watch_signal": "Track Google Trends for 'reusable food wrap' rising above 60 index score in US",
-        "image_keywords": "beeswax food wrap, eco kitchen, reusable wrap",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TYdHY2uTL._AC_UL300_SR300,200_.jpg"
+        "reason": "Back-to-school and fall semester planning drives a predictable spike in organizational planning tools through September — fridge calendar whiteboards are a highly giftable, lightweight dropship-friendly item.",
+        "predicted_peak": "2–3 weeks",
+        "watch_signal": "Amazon search rank movement for 'fridge whiteboard calendar' and 'magnetic weekly planner'",
+        "image_keywords": "magnetic fridge whiteboard, monthly calendar planner board, dry erase organizer",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JxjmbExxL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "Dorm Room & Home Office Power Accessories",
+        "category": "Surge Protectors & Power Accessories",
         "momentum": "exploding",
-        "reason": "Multiple surge protector and charging station SKUs simultaneously dominate the Amazon Electronics top 15 in August, the peak back-to-school dorm setup window — this category is at full explosion right now."
+        "reason": "Three distinct surge protector/power strip products in Amazon Electronics top 15 simultaneously signals category is at explosive peak — back-to-school and home office demand converging in August"
       },
       {
-        "category": "Student & Kids Audio (Wired Headphones)",
+        "category": "Home Pest Control (Indoor)",
         "momentum": "exploding",
-        "reason": "Back-to-school demand has pushed multiple wired headphone SKUs including kids-specific volume-limiting models into the Amazon top 20 Electronics simultaneously — a compressed seasonal explosion that peaks mid-August."
+        "reason": "Late summer is peak pest season — two separate pest control products (ant bait + gnat trap) charting top 10 in Amazon Home & Kitchen with TikTok 'pest hack' content driving major purchase intent"
       },
       {
-        "category": "Bedding & Sleep Solutions (Cooling, Waterproof, Bamboo)",
+        "category": "Sleep & Bedding Wellness",
         "momentum": "rising",
-        "reason": "Cooling mattress toppers, waterproof protectors, and microfiber sheet sets collectively dominate the Amazon Home top 10, driven by both the hot-sleeper trend and the annual fall bedding refresh cycle."
+        "reason": "Mattress toppers, bed sheets, and cooling sleep products are strong in August bestsellers, with fall thermal comfort products set to accelerate this category further through October"
       },
       {
-        "category": "Seasonal Pest Control (Indoor Traps & Baits)",
+        "category": "Smart Wearables & Health Tech",
+        "momentum": "exploding",
+        "reason": "Oura Ring 5 accessories demand, Apple Watch Series 11 presence, and AirPods Pro 3 charting signal consumer health tech spending is at a generational high with strong accessory ecosystem opportunities"
+      },
+      {
+        "category": "Dorm & Small-Space Organization",
         "momentum": "rising",
-        "reason": "Two pest control products (ant bait and flying insect traps) appear in the Amazon Home top 10 simultaneously in peak bug season, confirming strong late-summer purchase intent that will taper after September."
+        "reason": "Velvet hangers, picture frames, shower curtain liners, and bedding all trending together confirms August back-to-school dorm setup season is peak — category momentum holds through mid-September"
       },
       {
-        "category": "Smart Wearables & Health Tracking Rings",
+        "category": "Streaming Device Accessories",
         "momentum": "rising",
-        "reason": "The Oura Ring 5 sizing kit cracking Amazon's top 20 Electronics signals consumer readiness for ring-form health wearables — a category with enormous white-label dropship opportunity as the tech becomes mainstream."
+        "reason": "Roku streaming devices and replacement remotes appearing across multiple Amazon bestseller slots suggests cable-cutting acceleration continues, creating demand for compatible remotes, HDMI hubs, and mount accessories"
       },
       {
-        "category": "Streaming & Smart TV Accessories",
+        "category": "Kids Electronics & School Tech",
         "momentum": "rising",
-        "reason": "Fire TV Stick, Roku streaming sticks, and multiple Roku replacement remotes all occupy Amazon's top 20 Electronics together, indicating the smart TV accessory ecosystem is in a strong demand cycle."
-      },
-      {
-        "category": "Eco & Wellness Home Products",
-        "momentum": "stable",
-        "reason": "Steady demand for sustainable kitchen items, bamboo bedding, and wellness-oriented home goods continues building toward a Q4 gifting peak — low urgency now but worth building supplier relationships for October launch."
+        "reason": "Two separate kids' headphone SKUs charting in Amazon Electronics top 20 reflects strong back-to-school tech purchasing for classroom use — this window closes by mid-September so timing is critical"
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Branded Apple Products (AirPods, EarPods, AirTags, iPad, AirPods Pro)",
-        "reason": "Every top-ranked Apple product in this dataset is brand-locked — dropshipping authentic Apple products is impossible without authorized dealer status, and counterfeits carry severe legal and platform ban risk."
+        "product_type": "Apple-branded devices (AirPods, iPad, Apple Watch, EarPods, AirTag)",
+        "reason": "Heavily brand-locked products — Apple controls distribution strictly, counterfeit risk is extreme, authorized resellers have no margin headroom, and MAP pricing enforcement makes dropshipping impossible at any reasonable margin"
       },
       {
         "rank": 2,
-        "product_type": "Amazon Ecosystem Subscription Services (Blink Plus Plan, Echo Dot, Fire TV Sticks as standalone)",
-        "reason": "Amazon's own branded devices and subscription products cannot be dropshipped — Amazon itself is the seller, and these products exist as loss leaders to lock users into the ecosystem, not as resale opportunities."
+        "product_type": "Amazon-branded subscription products (Blink Plus Plan, Echo Dot, Fire TV Stick)",
+        "reason": "Amazon Basics and Amazon ecosystem devices are proprietary — Amazon will always win on price and trust for its own branded products, making third-party dropshipping of these items completely unviable"
       },
       {
         "rank": 3,
-        "product_type": "Ultra-Low-Ticket Basic Electronics Under $12 (Sony MDR-ZX110 Wired Headphones, Basic USB Cables)",
-        "reason": "Products like the Sony MDR-ZX110 retail at $8–$12 — after sourcing cost, shipping, platform fees, and ad spend, margin is negative or under $1, making them unviable for dropshipping at any meaningful scale."
+        "product_type": "Ultra-low ticket household consumables (ant bait refills, gnat trap cartridge refills under $10)",
+        "reason": "While the parent trap units are viable, individual refill packs retail under $10, leaving zero margin after COGS, payment processing fees, and shipping — avoid the refill/consumable SKUs specifically"
       },
       {
         "rank": 4,
-        "product_type": "Heavily Branded Audio Products (Sony, Bose, Beats Headphones)",
-        "reason": "Major audio brands have authorized dealer networks and MAP pricing enforcement that prevent dropshippers from competing — selling these without authorization risks account suspension and legal action from brand protection programs."
+        "product_type": "Sony-branded headphones and other major CE brand audio products",
+        "reason": "Branded consumer electronics like Sony MDR-ZX110 have razor-thin retail margins, aggressive authorized dealer pricing, and grey-market risk — dropshippers cannot compete on price or authenticity assurance"
       },
       {
         "rank": 5,
-        "product_type": "Oversized/Heavy Bedding Bundles (Full Comforter Sets, Weighted Blankets over 15 lbs, King Mattress Toppers)",
-        "reason": "While bedding is trending, oversized heavy items incur dimensional weight shipping surcharges that can exceed $25–$40 per unit, destroying the margin that makes smaller bedding accessories viable — stick to mattress protectors and toppers under 5 lbs."
+        "product_type": "Oversized bedding sets marketed as premium (California King comforter sets, full bed-in-a-bag)",
+        "reason": "While sheets and toppers are viable, oversized full bedding sets incur dimensional weight shipping penalties that destroy margins — shipping costs can equal or exceed product cost for bulky comforter packages"
       }
     ],
-    "market_insights": "The dominant theme of August 2026 is a dual seasonal surge: back-to-school/dorm setup demand is driving electronics accessories (power strips, student headphones, streaming accessories) to explosive levels RIGHT NOW, while summer's peak pest control and hot-sleeper bedding categories are in their final 2–3 week window. Dropshippers should concentrate immediate spend on the power accessory and student audio niches this week, as both have a narrow window before Labor Day signals the end of the back-to-school buying cycle. The non-branded opportunity in all of these categories is enormous — every top-ranking product has generic alternatives that can be sourced from established suppliers at 60–75% below the retail price point.\n\nLooking 4–10 weeks ahead, the smart play is to begin sourcing fall/winter products NOW: heated blankets, neck massagers, compact projectors, and smart pet tech are all on a predictable Q4 trajectory that historically rewards early movers with lower CPCs and better supplier pricing. The emergence of smart ring wearables (evidenced by the Oura Ring 5 cracking the Amazon top 20) signals a new category is crossing the mainstream threshold — white-label health tracking rings at $45–$90 represent one of the highest-upside opportunities visible in this data set for a dropshipper willing to move in the next 30 days before the holiday gift guide cycle begins.",
-    "data_quality_note": "This analysis is based solely on Amazon bestseller data; TikTok trend data and Google Shopping query data were absent from the provided dataset, so TikTok and Google signals have been inferred from category knowledge and seasonal context rather than direct platform scraping — confidence ratings reflect this limitation."
+    "market_insights": "August 2026 is being defined by two dominant demand forces converging simultaneously: the back-to-school/dorm setup cycle and peak late-summer pest and maintenance activity. The power accessories category (surge protectors, outlet extenders, USB-C chargers) is in a rare explosive moment with multiple SKUs charting simultaneously — this specific window will compress by early September as dorm move-ins complete. Smart health wearables are at a generational inflection point, with the Oura Ring 5's market penetration signaling that biometric tracking rings are crossing into mainstream consumer behavior, creating a rich accessory and adjacent product ecosystem for agile dropshippers to capture.\n\nHeading into September–October, the opportunity shifts toward home comfort, organization, and early holiday gifting categories. Dropshippers who source heated blankets, aromatherapy products, and smart home accessories now will be positioned ahead of the fall demand curve. TikTok Shop continues to be the primary organic discovery engine for home goods and health gadgets — products with strong 'before/after' or 'satisfying reveal' visual narratives (pest traps, cleaning tools, water bottles) are converting at exceptional rates. The ideal dropship play right now is to ride the proven August bestseller wave in pest control and power accessories while simultaneously seeding inventory for the October thermal comfort and holiday gift-hunting season.",
+    "data_quality_note": "Input data was limited to Amazon bestseller ranks only with no TikTok trending data, Google Trends queries, or Movers & Shakers velocity signals provided — all platform cross-reference signals, TikTok momentum assessments, and Google Shopping intent scores were inferred from seasonal context, category behavior patterns, and Amazon rank positioning rather than live multi-platform data."
   },
   "raw_sample": [
     {
@@ -608,7 +608,7 @@
       "name": "YISHU 6Ft Surge Protector Power Strip with 8 Widely Outlets & 4 USB Ports | 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, for Home, Office, College Dorm Room Essentials, ETL, White",
       "rank": 6,
       "rating": "4.6",
-      "price": "$9.99",
+      "price": "$11.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
@@ -630,7 +630,7 @@
       "name": "Roku Streaming Stick HD with Voice Remote | Compact 4K Streaming Device for TV with Roku Voice Remote & Long-Range Wi-Fi - Free & Live Local News, Sports",
       "rank": 8,
       "rating": "4.6",
-      "price": "$29.99",
+      "price": "$28.99",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71CBWyQfKhL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
@@ -682,23 +682,23 @@
       "platform": "amazon"
     },
     {
-      "name": "TESSAN Surge Protector Power Strip with 900J Surge Protection, 5 Ft, Grey | 8 AC with 3 USB Ports (1 USB C 20W PD), Flat Plug Extension Cord, 3 Sided Outlet Extender with Power Switch for Dorm Room",
+      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
       "rank": 13,
-      "rating": "4.8",
-      "price": "$19.54",
+      "rating": "4.7",
+      "price": "$49.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Pg83pxUML._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
+      "name": "TESSAN Surge Protector Power Strip with 900J Surge Protection, 5 Ft, Grey | 8 AC with 3 USB Ports (1 USB C 20W PD), Flat Plug Extension Cord, 3 Sided Outlet Extender with Power Switch for Dorm Room",
       "rank": 14,
-      "rating": "4.7",
-      "price": "$49.99",
+      "rating": "4.8",
+      "price": "$19.54",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Pg83pxUML._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -729,7 +729,7 @@
       "name": "iClever HS19 Kids Headphones for School, Over-Ear for Toddler Boys Girls | SafeSound Tech, HD Mic Stereo Sound, Kids Headphones with Cord, FunShare Foldable 3.5mm Wired for iPad Computer Travel",
       "rank": 17,
       "rating": "4.6",
-      "price": "$12.99",
+      "price": "$16.98",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sW8UNU0XL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
@@ -737,7 +737,7 @@
       "platform": "amazon"
     },
     {
-      "name": "Oura Ring 5 Sizing Kit - Size Before You Buy Oura Ring 5 | Unique Sizing, Not Standard Ring Sizing - Receive Amazon Credit for Oura Ring 5 Purchase",
+      "name": "OURA Ring 5 Sizing Kit - Size Before You Buy Ring 5 | Unique Sizing, Not Standard Ring Sizing - Receive Amazon Credit for Oura Ring 5 Purchase",
       "rank": 18,
       "rating": "4.6",
       "price": "$10.00",
@@ -759,23 +759,23 @@
       "platform": "amazon"
     },
     {
-      "name": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+      "name": "Apple Watch Series 11 [GPS 42mm] Smartwatch with Rose Gold Aluminum Case with Light Blush Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant",
       "rank": 20,
-      "rating": "4.6",
-      "price": "$34.99",
+      "rating": "4.7",
+      "price": "$299.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyRfbgaLL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61T8W7-25IL._AC_UL300_SR300,200_.jpg",
       "category": "Electronics",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark",
+      "name": "Owala FreeSip Stainless Steel Water Bottle 24 oz Denim",
       "rank": 1,
       "rating": "4.6",
-      "price": "$29.97",
+      "price": "$29.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Gvw0-b0eL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -784,7 +784,7 @@
       "name": "Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid",
       "rank": 2,
       "rating": "4.5",
-      "price": "$14.56",
+      "price": "$14.55",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O5+I+kA6L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -847,19 +847,8 @@
       "platform": "amazon"
     },
     {
-      "name": "upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas",
-      "rank": 8,
-      "rating": "4.4",
-      "price": "$6.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets*",
-      "rank": 9,
+      "rank": 8,
       "rating": "4.2",
       "price": "$19.97",
       "review_count": null,
@@ -869,19 +858,19 @@
       "platform": "amazon"
     },
     {
-      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
-      "rank": 10,
-      "rating": "4.6",
-      "price": "$25.49",
+      "name": "upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas",
+      "rank": 9,
+      "rating": "4.4",
+      "price": "$6.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72\" Length",
-      "rank": 11,
+      "rank": 10,
       "rating": "4.5",
       "price": "$8.95",
       "review_count": null,
@@ -891,19 +880,19 @@
       "platform": "amazon"
     },
     {
-      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
-      "rank": 12,
-      "rating": "4.5",
-      "price": "$9.99",
+      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
+      "rank": 11,
+      "rating": "4.6",
+      "price": "$25.49",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-lJnMf2tL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
       "name": "Queen Sheets Set, 4 Pieces 16\" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases",
-      "rank": 13,
+      "rank": 12,
       "rating": "4.6",
       "price": "$13.31",
       "review_count": null,
@@ -913,10 +902,21 @@
       "platform": "amazon"
     },
     {
+      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
+      "rank": 13,
+      "rating": "4.5",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
       "name": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories",
       "rank": 14,
       "rating": "4.4",
-      "price": "$9.47",
+      "price": "$9.38",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/914ufIDbM1L._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
@@ -935,19 +935,8 @@
       "platform": "amazon"
     },
     {
-      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper, Dark Blue | Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies",
-      "rank": 16,
-      "rating": "4.8",
-      "price": "$26.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer",
-      "rank": 17,
+      "rank": 16,
       "rating": "4.0",
       "price": "$11.94",
       "review_count": null,
@@ -957,12 +946,23 @@
       "platform": "amazon"
     },
     {
-      "name": "Bedsure Satin Pillowcase, Similar to Silk Pillow Cases Queen Size Set of 2, Cooling Pillow Case Covers with Envelope Closure, Room Decor Gifts for Women Men, Silver Grey, 20x30 Inches, 2pcs",
-      "rank": 18,
-      "rating": "4.5",
-      "price": "$6.99",
+      "name": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper, Dark Blue | Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies",
+      "rank": 17,
+      "rating": "4.8",
+      "price": "$26.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ELt2J71tL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71izg8Ai-KL._AC_UL300_SR300,200_.jpg",
+      "category": "Home & Kitchen",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 2 Plug-in Bases, 2 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets*",
+      "rank": 18,
+      "rating": "4.3",
+      "price": "$36.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uxQ4MUSlL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -979,123 +979,123 @@
       "platform": "amazon"
     },
     {
-      "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 2 Plug-in Bases, 2 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets*",
+      "name": "HydroJug Traveler 40oz, Insulated Tumbler with Handle & Straw, Pink Sand | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, dishwasher safe",
       "rank": 20,
-      "rating": "4.3",
-      "price": "$36.47",
+      "rating": "4.6",
+      "price": "$31.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uxQ4MUSlL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41I8AN0RAgL._AC_UL300_SR300,200_.jpg",
       "category": "Home & Kitchen",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Crayola Colored Pencils (36ct), Teacher School Supplies for Kids & Adults, Preschool Classroom Must Haves, Coloring Gift, Ages 3+ | Preschool Classroom Must Haves, Coloring Gift, Ages 3+",
+      "name": "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid - For All, Korean Skin Care, 70 Pads, 1 Pack",
       "rank": 1,
-      "rating": "4.8",
-      "price": "$6.49",
+      "rating": "4.6",
+      "price": "$18.90",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fEImDN-kL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Crayola Broad Line Markers (12 Count), Washable Markers for Kids, Assorted Colors, Arts & Crafts Supplies, For Coloring Books & Art Projects, Ages 3+",
+      "name": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, Cotton, Versatile, Baby Safe, 500 Count",
       "rank": 2,
-      "rating": "4.8",
-      "price": "$7.96",
+      "rating": "4.7",
+      "price": "$2.65",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/813fj8QKksL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/612HeyYXOnL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "PartyWoo White Balloons 140pcs Matte White Latex Balloons Different Sizes | 18 12 10 5 Inch for Wedding Bridal Graduation Baby Shower Birthday Bridal Shower Gender Reveal Party Decorations White-Y13",
+      "name": "Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct | #1 Hydrocolloid Acne Patches, Shrinking Zits & Whiteheads in 1 Use, Spot Treatment, Pimple Stickers for Face",
       "rank": 3,
-      "rating": "4.5",
-      "price": "$8.99",
+      "rating": "4.6",
+      "price": "$12.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cVspdZr4L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p+1+md+8L._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Crayola Erasable Colored Pencils for Kids, 24ct Drawing Coloring Pencils | Teacher School Supplies & Homeschool Essentials for Kids, Gifts, Ages 6, 7, 8",
+      "name": "eos Natural Shea Better Body Lotion, Fresh & Cozy, 16 fl oz",
       "rank": 4,
       "rating": "4.7",
-      "price": "$5.88",
+      "price": "$8.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71c-VnVqlbL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61xMQh4nCsL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Play Doh Modeling Compound 10-Pack Case of Assorted Colors, Non-Toxic 2 oz. Cans, Back to School Gifts, Prizes, & Party Favors, Preschool Toys for Kids, Ages 2+ (Amazon Exclusive)",
+      "name": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
       "rank": 5,
       "rating": "4.7",
-      "price": "$7.99",
+      "price": "$13.50",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LqxbA1WCL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bC4vVdkOL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Hello Kitty® and Friends SLIMYGLOOP Gelli Gels – Kuromi™, Slow Rising Sensory Squeeze Toy with Glitter, Gel Filled Fidget Toys",
+      "name": "Neutrogena Makeup Remover Micellar Wipes, 2 Pack of 25 Ct | Plant-Based Micellar Water Cleansing Cloths, Gently Removes Oil, Dirt & Waterproof Makeup, No Heavy Residue, Alcohol-Free",
+      "rank": 6,
+      "rating": "4.8",
+      "price": "$9.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JnbwZyFoL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Hypoallergenic Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack",
       "rank": 7,
-      "rating": "4.2",
-      "price": "$8.99",
+      "rating": "4.7",
+      "price": "$3.21",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81s5IdhpDHL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51q7TPeMd9L._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Bezente Assorted Latex Rainbow Balloons 100 Pack 12 inch | Bright Color Balloons for Birthday Bridal Shower Wedding Party Decorations",
+      "name": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea",
       "rank": 8,
-      "rating": "4.6",
-      "price": "$6.99",
+      "rating": "4.5",
+      "price": "$19.00",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FqjBG9v7L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ubxqzNGIL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Bicycle Playing Cards 2 Pack Standard Poker Size Red and Blue | Air-cushion finish, Over 130 years trusted, 52 cards plus 2 Jokers per deck, Great for poker and rummy",
+      "name": "PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash, Maximum Strength, Daily Acne-Fighting Face and Body Cleanser, Face Wash to Clear, Treat and Prevent Acne Pimples and Stubborn Breakouts, 5.5 Oz Tube | Maximum Strength, Antibacterial Daily Cleanser, Treats & Prevents Acne, Non-Comedogenic, Vegan, Unscented, All Skin Types",
       "rank": 9,
-      "rating": "4.8",
-      "price": "$5.34",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "30 Pack Squishy Toys, Kawaii Squishies Party Favors for Kids 4-8 8-12 Treasure Box Toys for Classroom Birthday Xmas Gifts Goodie Bag Mini Animals Mochi Squishy Stress Relief Sensory Toys Random",
-      "rank": 11,
       "rating": "4.6",
-      "price": "$8.99",
+      "price": "$10.12",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Lx-bmXe+L._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I9gtceY8L._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     },
     {
-      "name": "Play-Doh Jewel Colors Bulk 12-Pack of 4-Ounce Cans | Back to School, Prizes & Party Favors, Kids Arts & Crafts, Preschool Toys, Ages 2+ (Amazon Exclusive)",
-      "rank": 12,
-      "rating": "4.8",
-      "price": "$13.49",
+      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Blackest Black, 1 Count",
+      "rank": 10,
+      "rating": "4.5",
+      "price": "$9.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MBGJ5W+pL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL._AC_UL300_SR300,200_.jpg",
+      "category": "Beauty & Personal Care",
       "list_type": "bestseller",
       "platform": "amazon"
     }
