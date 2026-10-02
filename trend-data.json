@@ -1,994 +1,554 @@
 {
-  "generated_at": "2026-10-01T15:06:55.827117+00:00",
+  "generated_at": "2026-10-02T14:29:10.799586+00:00",
   "stats": {
-    "total_products_scraped": 119,
+    "total_products_scraped": 40,
     "by_platform": {
-      "amazon": 119
+      "amazon": 40
     }
   },
   "analysis": {
     "buy_now": [
       {
         "rank": 1,
-        "score": 88,
-        "product": "Multi-Sided Surge Protector Power Strip with Flat Plug and USB-C Ports",
-        "category": "Electronics / Home Office",
+        "score": 93,
+        "product": "Halloween Spider Web Decoration Kit with 150 Fake Spiders 1400sqft Stretchy Cobweb",
+        "category": "Halloween Seasonal Decor",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Multiple flat-plug, multi-outlet surge protectors appear across Amazon Electronics top 20 (#12, #16, #17, #20), signaling massive and sustained purchase intent. Generic/unbranded variants are dropship-friendly with strong margin potential in the $25–$55 retail range.",
-        "price_range": "$25–$55",
+        "reason": "Halloween is October 31 — we are now at peak buying window (October 2). Spider web decoration kits are consumable, lightweight, high-margin, and dominating the Toys & Games bestseller list right now.",
+        "price_range": "$15–$28",
         "margin_estimate": "high",
-        "urgency": "Act within 7 days",
+        "urgency": "Act within 3 days — peak demand expires by Oct 31",
         "search_terms": [
-          "flat plug power strip USB-C",
-          "surge protector 8 outlet USB",
-          "multi-sided outlet extender"
+          "halloween spider web decoration",
+          "fake cobweb outdoor halloween decor",
+          "halloween yard decorations spiders"
         ],
-        "image_keywords": "power strip,flat plug,white outlet",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "halloween cobweb, fake spiders decoration, spooky yard decor",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MIMkpq4xL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 85,
-        "product": "Owala FreeSip-Style Insulated Stainless Steel Water Bottle 24oz–32oz",
-        "category": "Home & Kitchen / Drinkware",
+        "score": 91,
+        "product": "Glow Sticks Bulk Party Pack 100pcs 8-Inch with Necklace and Bracelet Connectors",
+        "category": "Halloween & Party Supplies",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Owala FreeSip holds the #1 Home & Kitchen spot, and the insulated bottle niche remains evergreen with strong Q4 gifting demand; unbranded alternatives with similar dual-lid sip design command solid margins at $30–$50 retail.",
-        "price_range": "$28–$52",
+        "reason": "Two separate glow stick products in the top 20 Amazon bestsellers signals extreme Halloween and fall-festival demand right now; ultra-lightweight, low COGs, and perfect $10–$20 bundle pricing make margins excellent.",
+        "price_range": "$12–$22",
         "margin_estimate": "high",
-        "urgency": "Act within 7 days",
+        "urgency": "Act within 5 days — Halloween peak demand window",
         "search_terms": [
-          "insulated water bottle 32oz stainless",
-          "FreeSip style water bottle",
-          "vacuum sealed water bottle dual lid"
+          "glow sticks bulk halloween",
+          "glow necklaces party pack",
+          "neon glow party supplies"
         ],
-        "image_keywords": "stainless steel water bottle,insulated tumbler,colorful drinkware",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "glow sticks neon, colorful light bracelets, halloween party glow",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lwlxx8MYL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 82,
-        "product": "Soundcore-Style Hybrid ANC Over-Ear Bluetooth Headphones",
-        "category": "Electronics / Audio",
+        "score": 88,
+        "product": "Squishmas Advent Calendar 24 Mini Squeeze Stress Relief Toys Christmas Countdown",
+        "category": "Holiday Seasonal Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "ANC headphones (Soundcore Q20i type, #18) remain a proven category with no dominant single dropshippable brand, and Q4 holiday gifting makes this the perfect launch window for white-label equivalents at $45–$80 retail.",
-        "price_range": "$45–$80",
+        "reason": "Advent calendars begin trending in late September and peak through November; a squishy-toy advent calendar hits two mega-trends simultaneously (sensory toys + holiday gifting), and the $25–$45 price point is ideal for margin.",
+        "price_range": "$25–$45",
         "margin_estimate": "high",
-        "urgency": "Act within 10 days",
+        "urgency": "Act within 7 days — Q4 gifting season ramp begins now",
         "search_terms": [
-          "ANC over-ear headphones bluetooth",
-          "noise cancelling headphones 40 hour",
-          "wireless headphones hi-res audio"
+          "squishy toy advent calendar",
+          "kids christmas advent calendar 2026",
+          "squeeze toy countdown calendar"
         ],
-        "image_keywords": "over-ear headphones,noise cancelling,black wireless headphones",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XBzSvq-NL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "advent calendar countdown, mini squishy toys, christmas holiday countdown box",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81I08gnesHL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 80,
-        "product": "Hotel Luxury Cooling Bed Sheet Set Queen/King (Microfiber, Deep Pocket)",
-        "category": "Home & Kitchen / Bedding",
+        "score": 85,
+        "product": "Kawaii Squishy Mochi Mini Animal Party Favor Set 30-Pack Stress Relief Sensory Toys",
+        "category": "Sensory & Fidget Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Both #2 and #7 in Home & Kitchen are premium sheet sets, confirming a strong and sustained bedding demand moment; unbranded microfiber cooling sheet sets are ideal dropship items with high perceived value and healthy margins.",
-        "price_range": "$30–$65",
+        "reason": "Multiple squishy/sensory toy SKUs dominating the Amazon top 10 confirms a sustained category spike heading into Q4 gifting; these bulk packs retail well at $15–$25 and are extremely lightweight for cheap shipping.",
+        "price_range": "$14–$24",
         "margin_estimate": "high",
         "urgency": "Act within 10 days",
         "search_terms": [
-          "cooling bed sheets queen deep pocket",
-          "hotel luxury microfiber sheets",
-          "breathable wrinkle-free sheet set"
+          "kawaii mochi squishy toys bulk",
+          "mini animal stress balls kids",
+          "classroom party favor sensory toys"
         ],
-        "image_keywords": "folded bed sheets,white bedding,hotel bed set",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/813JS2zoiPL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "kawaii squishy toys, colorful mochi animals, mini stress ball set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Lx-bmXe+L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 77,
-        "product": "Waterproof Noiseless Mattress Protector Deep Pocket (Queen/King)",
-        "category": "Home & Kitchen / Bedding",
+        "score": 83,
+        "product": "Owala FreeSip Stainless Steel Insulated Water Bottle 24oz",
+        "category": "Hydration & Drinkware",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "BEDLORE Waterproof Mattress Protector at #10 in Home & Kitchen shows bedding protection is a consistent high-converting category; unbranded waterproof mattress pads are lightweight, easy to ship, and have strong repeat-purchase potential.",
-        "price_range": "$25–$55",
-        "margin_estimate": "high",
-        "urgency": "Act within 14 days",
+        "reason": "Owala holds the #1 AND #3 spots in Sports & Outdoors simultaneously, signaling a brand-level category domination; white-label equivalents and competing insulated bottle styles with flip-straw lids are ripe for dropshipping at strong margin.",
+        "price_range": "$22–$38",
+        "margin_estimate": "medium",
+        "urgency": "Act within 14 days — sustained evergreen + holiday gift demand",
         "search_terms": [
-          "waterproof mattress protector queen",
-          "noiseless mattress pad deep pocket",
-          "breathable mattress cover washable"
+          "insulated stainless steel water bottle flip straw",
+          "owala style water bottle 24oz",
+          "leak proof tumbler water bottle"
         ],
-        "image_keywords": "white mattress protector,bed pad,waterproof bedding",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81X+MBrUg+L._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "stainless steel water bottle, insulated tumbler, flip straw drinkware",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41ZPiDU6woL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 75,
-        "product": "Indoor Plug-In UV Flying Insect Trap for Fruit Flies and Gnats",
-        "category": "Home & Kitchen / Pest Control",
+        "score": 81,
+        "product": "LEGO-Style Halloween Jack-O'-Lantern Building Set Seasonal Decor 177 Pieces",
+        "category": "Halloween Toys & Building Sets",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Zevo Flying Insect Trap dominates two separate Home & Kitchen top positions (#3 and #4), and the plug-in UV trap style is easily sourceable as a generic; Q4 indoor living season keeps demand high with minimal brand lock-in risk.",
-        "price_range": "$20–$40",
+        "reason": "Holiday-themed building block sets are a proven gifting category for ages 8+ and the Halloween timing aligns perfectly with immediate Q4 gifting; alternative non-branded building block kits can be dropshipped with strong margin in the $18–$35 range.",
+        "price_range": "$18–$35",
         "margin_estimate": "medium",
-        "urgency": "Act within 7 days",
+        "urgency": "Act within 5 days — Halloween demand peaks Oct 25–31",
         "search_terms": [
-          "plug-in fruit fly trap UV light",
-          "indoor flying insect trap gnat",
-          "UV bug zapper plug in home"
+          "halloween building blocks set kids",
+          "jack o lantern building toy",
+          "seasonal holiday building kit"
         ],
-        "image_keywords": "plug-in insect trap,UV light trap,fruit fly catcher",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "halloween building blocks, jack-o-lantern toy set, pumpkin building kit",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BuBIYCk7L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
-        "score": 73,
-        "product": "Slim Velvet Non-Slip Space-Saving Closet Hangers 50-Pack",
-        "category": "Home & Kitchen / Organization",
+        "score": 79,
+        "product": "Pokemon Card Collection Bundle 50+ Cards with Foil and Rare Guaranteed",
+        "category": "Trading Card Games",
         "platforms": [
           "amazon"
         ],
         "confidence": "high",
-        "reason": "Amazon Basics velvet hangers at #5 in Home & Kitchen confirm a perennial, high-volume niche where unbranded equivalents compete effectively on price; lightweight bundles are cheap to ship and easy to upsell.",
-        "price_range": "$18–$35",
+        "reason": "Trading card bundles appear in the Amazon top 10 and are a perennial Q4 gifting staple; curated assortment packs sell at excellent margin and the category consistently spikes October through December.",
+        "price_range": "$18–$32",
         "margin_estimate": "medium",
         "urgency": "Act within 14 days",
         "search_terms": [
-          "velvet slim hangers 50 pack non-slip",
-          "space saving closet hangers",
-          "thin velvet suit hangers bulk"
+          "pokemon card lot rare foil bundle",
+          "pokemon cards gift set kids",
+          "trading card collection pack"
         ],
-        "image_keywords": "velvet hangers,closet organizer,black slim hangers",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "pokemon trading cards, holographic foil cards, collectible card bundle",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p-47sRv9L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
-        "score": 71,
-        "product": "PEVA Waterproof Shower Curtain Liner with Magnetic Bottom and Rustproof Grommets",
-        "category": "Home & Kitchen / Bathroom",
+        "score": 77,
+        "product": "Resistance Loop Exercise Bands Set of 5 with Carry Bag and Instruction Guide",
+        "category": "Home Fitness Equipment",
         "platforms": [
           "amazon"
         ],
-        "confidence": "medium",
-        "reason": "Barossa Design shower curtain liner at #9 indicates strong seasonal bath refresh demand heading into fall; generic PEVA liners with magnets and rustproof grommets are lightweight, dropship-ideal, and command steady repeat orders.",
-        "price_range": "$18–$38",
-        "margin_estimate": "medium",
+        "confidence": "high",
+        "reason": "Home fitness bands are a perennial evergreen bestseller and appear in the Sports & Outdoors top 10; Q4 'new year prep' purchasing starts ramping in October, making this an ideal time to stock lightweight, high-margin fitness accessories.",
+        "price_range": "$12–$22",
+        "margin_estimate": "high",
         "urgency": "Act within 14 days",
         "search_terms": [
-          "PEVA shower curtain liner clear waterproof",
-          "shower curtain liner magnetic bottom",
-          "rustproof grommet shower liner 72 inch"
+          "resistance loop bands set workout",
+          "exercise bands home gym women",
+          "fitness resistance bands with carry bag"
         ],
-        "image_keywords": "clear shower curtain liner,bathroom curtain,PEVA waterproof liner",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "resistance exercise bands colorful, home workout bands, loop fitness band set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71S4-NjoTDL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 9,
-        "score": 69,
-        "product": "Gallery Wall Multi-Pack Picture Frames (11x14 with 8x10 Mat, Black Finish)",
-        "category": "Home & Kitchen / Wall Décor",
+        "score": 74,
+        "product": "Thick Non-Slip NBR Yoga Mat with Carry Strap 72x24 Inch",
+        "category": "Yoga & Pilates Equipment",
         "platforms": [
           "amazon"
         ],
-        "confidence": "medium",
-        "reason": "Upsimples picture frames at #8 in Home & Kitchen reflect an active home décor trend that spikes in Q4 as consumers redecorate before the holiday season; black gallery frames are TikTok-adjacent home styling content magnets.",
-        "price_range": "$22–$45",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "11x14 picture frame black gallery wall",
-          "multi-pack photo frames 8x10 mat",
-          "wall decor picture frame set black"
-        ],
-        "image_keywords": "black picture frame,gallery wall,photo frame set",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 10,
-        "score": 67,
-        "product": "Roku-Compatible Universal Replacement Remote Control for Smart TVs",
-        "category": "Electronics / TV Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Two separate Roku-compatible replacement remotes rank in the Electronics top 20 (#11 and #19), signaling a highly repeatable, consumable electronics accessory with no brand moat and strong impulse-buy appeal at a $15–$30 price point.",
-        "price_range": "$15–$32",
-        "margin_estimate": "medium",
-        "urgency": "Act within 14 days",
-        "search_terms": [
-          "universal Roku TV replacement remote",
-          "smart TV remote control compatible TCL Hisense",
-          "Roku remote replacement ready to use"
-        ],
-        "image_keywords": "TV remote control,universal remote,smart TV accessory",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 11,
-        "score": 64,
-        "product": "AirTag-Compatible Multi-Pack Key Finder Loop Holder Accessories Set",
-        "category": "Electronics / Tracking Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Apple AirTag 2nd Gen at #3 in Electronics creates a halo accessory opportunity; AirTag holders, loops, and wallet inserts are dropship-perfect accessories with very low shipping weight and strong impulse-buy conversions at $15–$40.",
-        "price_range": "$15–$40",
-        "margin_estimate": "high",
-        "urgency": "Act within 10 days",
-        "search_terms": [
-          "AirTag holder keychain case",
-          "AirTag wallet holder slim",
-          "AirTag accessory loop set multi-pack"
-        ],
-        "image_keywords": "AirTag holder,key finder case,wallet tracker accessory",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg"
-      },
-      {
-        "rank": 12,
-        "score": 61,
-        "product": "USB-C Wired Earbuds with Inline Remote for iPhone and Android",
-        "category": "Electronics / Audio Accessories",
-        "platforms": [
-          "amazon"
-        ],
-        "confidence": "medium",
-        "reason": "Apple EarPods USB-C at #2 signals widespread consumer shift away from 3.5mm to USB-C audio; generic high-quality USB-C wired earbuds are an accessible, lightweight dropship product with growing cross-platform demand at $20–$45.",
-        "price_range": "$20–$45",
+        "confidence": "high",
+        "reason": "Yoga mats consistently rank in Amazon Sports & Outdoors top 10 year-round and see a Q4 gift-purchase spike; thick NBR foam non-slip versions are lightweight enough to ship profitably at the $25–$45 retail range.",
+        "price_range": "$25–$45",
         "margin_estimate": "medium",
         "urgency": "Act within 21 days",
         "search_terms": [
-          "USB-C wired earbuds inline remote",
-          "USB type-C earphones phone calls",
-          "wired earbuds USB-C android iPhone"
+          "thick yoga mat non-slip with strap",
+          "exercise mat pilates home gym",
+          "NBR foam yoga mat 72 inch"
         ],
-        "image_keywords": "USB-C earbuds,wired earphones,in-ear headphones",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "yoga mat rolled, exercise mat purple, non-slip fitness mat",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mao7QZ1iL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 10,
+        "score": 72,
+        "product": "Crayola Globbles Sticky Squishy Fidget Balls 6-Count Stress Relief Sensory Toy",
+        "category": "Fidget & Sensory Toys",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "high",
+        "reason": "Holding Amazon Toys #2 confirms sustained demand for this format; comparable sticky squishy fidget ball sets can be sourced and dropshipped at high margin ahead of the Christmas gifting rush.",
+        "price_range": "$14–$20",
+        "margin_estimate": "high",
+        "urgency": "Act within 10 days",
+        "search_terms": [
+          "sticky squishy fidget balls",
+          "globbles stress balls kids adults",
+          "sensory fidget toy set"
+        ],
+        "image_keywords": "colorful sticky squishy balls, fidget stress toy, sensory squeeze balls",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uE0L7cFOL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 11,
+        "score": 69,
+        "product": "Neoprene Hex Dumbbell Hand Weights Pair for Home Exercise and Muscle Toning",
+        "category": "Free Weights & Strength Training",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Dumbbells occupy Amazon Sports #2 confirming strong gym-at-home demand; however heavy products can compress shipping margins — focus on lighter weight sets (3lb–10lb pairs) to stay within profitable shipping thresholds.",
+        "price_range": "$22–$45",
+        "margin_estimate": "medium",
+        "urgency": "Act within 21 days — Q4 fitness gifting season",
+        "search_terms": [
+          "neoprene dumbbell set pair home gym",
+          "hand weights women toning",
+          "hex dumbbell 5lb 10lb set"
+        ],
+        "image_keywords": "neoprene dumbbells pair, colorful hand weights, home gym fitness weights",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61UEXxKIlrL._AC_UL300_SR300,200_.jpg"
+      },
+      {
+        "rank": 12,
+        "score": 66,
+        "product": "Trading Card Hard Plastic Sleeves 400-Pack 3x4 Inch Sports Card Protectors",
+        "category": "Trading Card Accessories",
+        "platforms": [
+          "amazon"
+        ],
+        "confidence": "medium",
+        "reason": "Card sleeve protectors rank #4 in Sports & Outdoors showing strong collector accessory demand that piggybacks on the TCG card boom; lightweight, high-margin, and easy to bundle with card collection products.",
+        "price_range": "$14–$24",
+        "margin_estimate": "high",
+        "urgency": "Act within 21 days",
+        "search_terms": [
+          "trading card sleeves protectors bulk",
+          "sports card plastic sleeves 3x4",
+          "card collector protector pack"
+        ],
+        "image_keywords": "trading card sleeves clear, card protector plastic, sports card collector supplies",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AP4HKabxL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "rising_fast": [
       {
         "rank": 1,
-        "score": 82,
-        "product": "Portable Surge Protector Travel Power Strip with USB-C and Retractable Cord",
-        "category": "Electronics / Travel Accessories",
+        "score": 84,
+        "product": "Halloween Balloon Decoration Sets Black Assorted Sizes 100–140 Count",
+        "category": "Party & Halloween Decor",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The explosive clustering of power strip variants in Amazon Electronics top 20 signals the category is bifurcating into a travel-specific sub-niche that hasn't yet peaked.",
-        "signal": "4 distinct power strip SKUs in Amazon Electronics top 20 simultaneously — sub-niche differentiation is occurring now",
-        "price_range": "$28–$58",
+        "reason": "Two separate balloon packs occupy Amazon Toys #1 and #3 within days of Halloween, indicating a rapid acceleration in at-home Halloween party decoration purchases.",
+        "signal": "Two competing balloon SKUs simultaneously in Amazon Toys & Games top 3 — category is exploding this week",
+        "price_range": "$10–$18",
         "margin_estimate": "high",
-        "image_keywords": "travel power strip,compact surge protector,USB-C travel charger",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BYto2DtnL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "black halloween balloons, party balloon assortment, halloween party decoration balloons",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LsMqYwK+L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 78,
-        "product": "Weighted Satin Sleep Eye Mask with Contoured Nose Bridge and Ear Loops",
-        "category": "Health & Wellness / Sleep",
+        "score": 80,
+        "product": "MAGNA-TILES Magnetic Building Tiles Spooky Halloween Travel Set 24-Piece",
+        "category": "Magnetic Building Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Adjacent to the bedding surge in Home & Kitchen, sleep optimization accessories are accelerating fast into Q4 as holiday gifting and wellness trends converge.",
-        "signal": "Bedding category dominance (#2, #7, #10 Home & Kitchen) indicates broader sleep category momentum spilling into accessories",
-        "price_range": "$22–$48",
-        "margin_estimate": "high",
-        "image_keywords": "sleep eye mask,weighted eye cover,contoured sleep mask",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Magnetic tile building sets are accelerating hard into Q4 as a top gifting toy format, and Halloween-themed sets appearing in the top 10 signal a seasonal product line gaining rapid traction.",
+        "signal": "Seasonal magnetic building set in Amazon Toys top 10 in early October — category heating up ahead of holiday gifting",
+        "price_range": "$25–$45",
+        "margin_estimate": "medium",
+        "image_keywords": "magnetic building tiles colorful, kids building set, magnetic construction toy",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kbYE+H4pL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
-        "score": 75,
-        "product": "Cordless Electric Spin Scrubber with 4 Interchangeable Brush Heads and Extension Arm",
-        "category": "Home & Kitchen / Cleaning",
+        "score": 76,
+        "product": "Kids Sticker Activity Book with 500+ Stickers and Coloring Pages Spiral-Bound",
+        "category": "Children's Activity & Craft Books",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Fall home deep-clean season and TikTok cleaning content momentum are converging; spin scrubbers are a known viral product type with strong first-quarter repeat search patterns.",
-        "signal": "October fall cleaning cycle + TikTok cleaning product virality pattern recurring annually in Q4",
-        "price_range": "$35–$75",
-        "margin_estimate": "high",
-        "image_keywords": "electric spin scrubber,cordless cleaning brush,bathroom scrubber tool",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg"
+        "reason": "Activity sticker books are surging as screen-free, low-price gifting options for young children, appearing in Amazon Toys top 10 at the exact moment Q4 gift-buying begins.",
+        "signal": "Amazon Toys top 10 placement in early Q4 = early gifting season demand acceleration for kids' activity books",
+        "price_range": "$12–$20",
+        "margin_estimate": "medium",
+        "image_keywords": "kids sticker activity book, children's craft book, spiral bound coloring stickers",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LWFXl2hHL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
-        "score": 72,
-        "product": "Compact Smart Alarm Clock with LED Display and Wireless Charging Pad",
-        "category": "Electronics / Smart Home",
+        "score": 74,
+        "product": "Compression Socks 4-Pair Set for Nurses Runners and Athletic Circulation Support",
+        "category": "Athletic Compression Wear",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Amazon Echo Spot (#15) validating the smart nightstand device category opens a gap for non-Alexa-dependent, unbranded smart alarm clocks that don't require subscription services.",
-        "signal": "Amazon Echo Spot (#15) in bestsellers confirms smart alarm clock demand without locking dropshippers into branded ecosystem products",
-        "price_range": "$30–$65",
-        "margin_estimate": "medium",
-        "image_keywords": "smart alarm clock,LED bedside clock,wireless charging nightstand",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg"
+        "reason": "Compression socks are accelerating into fall/winter gifting season and remain a consistently undervalued dropship product — lightweight, high-demand from nurses and runners, with strong reorder rates.",
+        "signal": "Sports & Outdoors top 10 in October = seasonal acceleration driven by winter activity and healthcare worker gifting",
+        "price_range": "$16–$28",
+        "margin_estimate": "high",
+        "image_keywords": "compression socks athletic, running socks pairs, nursing support socks",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71HbzLmTH-L._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
-        "score": 69,
-        "product": "Anti-Humidity Frizz-Control Hair Wrap Towel Microfiber Set",
-        "category": "Beauty & Personal Care / Hair",
+        "score": 71,
+        "product": "Baby Wrist Rattle and Foot Finder Sock Set Soft Crinkle Sensory Newborn Toy",
+        "category": "Baby Sensory Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Q4 bathroom refresh purchases (curtains, liners trending) are expanding into adjacent bath and personal care accessories, and microfiber hair towels are a consistent TikTok content product.",
-        "signal": "Bathroom category surge in Home & Kitchen top 10 indicates bath lifestyle spending expansion toward personal care items",
-        "price_range": "$18–$38",
+        "reason": "Baby sensory starter sets are climbing Amazon rankings heading into Q4 baby shower and newborn gift-giving season, a window that accelerates sharply through December.",
+        "signal": "Amazon Toys top 20 placement in October for baby sensory sets signals holiday baby gift demand acceleration",
+        "price_range": "$14–$22",
         "margin_estimate": "high",
-        "image_keywords": "microfiber hair towel,hair wrap turban,fast drying hair towel",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg"
+        "image_keywords": "baby wrist rattle toy, infant sensory socks, newborn soft toy set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eJNnl+TQL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
-        "score": 65,
-        "product": "Reusable Silicone Food Storage Bags with Airtight Zipper Seal (Multi-Size Set)",
-        "category": "Home & Kitchen / Food Storage",
+        "score": 68,
+        "product": "Portable 80-Piece First Aid Kit Emergency Essentials for Camping Travel and Car",
+        "category": "First Aid & Safety Kits",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "With eco-conscious home kitchen products trending upward in Q4 meal prep season, reusable silicone bags are a lightweight, viral-friendly, and margin-positive alternative to disposable storage.",
-        "signal": "Home & Kitchen category dominance in current bestsellers combined with Q4 meal prep content surge on social platforms",
-        "price_range": "$20–$42",
-        "margin_estimate": "high",
-        "image_keywords": "silicone food storage bag,reusable zip bag,eco food bag",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eBHTnGFNL._AC_UL300_SR300,200_.jpg"
+        "reason": "Compact first aid kits are accelerating in fall as outdoor camping and hiking seasons wind down and consumers transition to stocking emergency supplies ahead of winter — a reliable Q4 gifting category.",
+        "signal": "Sports & Outdoors top 10 placement for first aid kits in October = seasonal demand inflection toward emergency preparedness gifting",
+        "price_range": "$18–$30",
+        "margin_estimate": "medium",
+        "image_keywords": "portable first aid kit red, emergency supply kit bag, compact medical travel kit",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71znuRJaRcL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "buy_soon": [
       {
         "rank": 1,
-        "score": 74,
-        "product": "Mini Portable Space Heater with Thermostat and Overheat Protection (Ceramic)",
-        "category": "Home & Kitchen / Heating",
+        "score": 73,
+        "product": "Christmas Countdown Advent Calendar with Sensory Squeeze Toys 24-Day Kids Gift",
+        "category": "Christmas Seasonal Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "October 2026 is the ideal sourcing window for ceramic space heaters as demand spikes in November; last-minute Q4 sourcing will cause inventory shortages for late movers.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Monitor Amazon Movers & Shakers in Home & Kitchen for heater rank acceleration in early-mid October",
-        "image_keywords": "ceramic space heater,portable heater,desk heater white",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Advent calendars peak in mid-to-late October through mid-November as consumers shop early for Christmas; stocking this category now positions dropshippers ahead of the single biggest demand spike of the year.",
+        "predicted_peak": "3–6 weeks (late October–mid November)",
+        "watch_signal": "Monitor Amazon Toys advent calendar subcategory rank and TikTok #adventcalendar unboxing video views",
+        "image_keywords": "advent calendar christmas countdown, holiday surprise box kids, 24-day toy calendar",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81I08gnesHL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 2,
-        "score": 71,
-        "product": "LED Candle Fairy String Lights with Remote Control and Timer (Indoor/Outdoor 100-Pack)",
-        "category": "Home & Kitchen / Seasonal Décor",
+        "score": 70,
+        "product": "Baby Balance Bike for 12-24 Month Toddlers with 4 Silent Wheels Indoor Outdoor",
+        "category": "Toddler Ride-On Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Holiday string light demand historically surges in late October through December; acting now allows inventory positioning before peak competition and ad cost inflation.",
-        "predicted_peak": "3–6 weeks",
-        "watch_signal": "Google Trends spike for 'fairy lights indoor' and 'Christmas string lights' beginning late October",
-        "image_keywords": "LED string lights,fairy lights warm white,holiday string lights",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Balance bikes for toddlers are a premier Q4 Christmas gift for parents of 1–2 year olds and consistently appear in gift guides; the October–December window is when 70%+ of annual sales occur.",
+        "predicted_peak": "4–8 weeks (November–December)",
+        "watch_signal": "Watch Amazon Movers & Shakers in Ride-On Toys subcategory and TikTok #toddlertoys gift guide videos",
+        "image_keywords": "toddler balance bike colorful, baby first bike indoor, mini ride-on toy",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tilO4erpL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 3,
         "score": 68,
-        "product": "Stainless Steel Insulated Tumbler with Handle and Straw Lid (40oz Stanley-Style)",
-        "category": "Home & Kitchen / Drinkware",
+        "product": "LeapFrog Learning Friends 100 Words Interactive Educational Book for Toddlers",
+        "category": "Educational Toys & Learning",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Owala's bestseller position confirms the insulated drinkware category is hot, and the 40oz tumbler gifting cycle peaks in November–December; sourcing now avoids the holiday crunch.",
-        "predicted_peak": "4–6 weeks",
-        "watch_signal": "TikTok hashtag volume for #tumblerlife and #holidaygifts combined with Amazon rank movement in Drinkware",
-        "image_keywords": "insulated tumbler 40oz,stainless steel cup with straw,Stanley style tumbler",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61zAtJ8DLdL._AC_UL300_SR300,200_.jpg"
+        "reason": "Educational toys from established brands dominate holiday gift lists for ages 1–3 and begin their steep demand climb in November; analog-format learning books are resurging as parents seek screen-free options.",
+        "predicted_peak": "4–8 weeks",
+        "watch_signal": "Track Google Shopping queries for 'educational toys toddlers christmas gift' and Amazon Best Sellers rank in Learning & Education subcategory",
+        "image_keywords": "interactive learning book toddler, educational toy baby, colorful kids learning toy",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WmUL99dTL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 4,
         "score": 66,
-        "product": "Lap Desk with Wrist Rest, Phone Holder, and LED Strip for Laptop Use in Bed",
-        "category": "Home & Kitchen / Home Office",
+        "product": "Play-Doh Modeling Compound 36-Pack Case Assorted Colors Non-Toxic Kids Clay Set",
+        "category": "Arts, Crafts & Modeling Compound",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Work-from-home and study-from-home content surges every November as students enter exam season; lap desks are a proven viral product type with strong gifting appeal.",
-        "predicted_peak": "3–5 weeks",
-        "watch_signal": "Monitor TikTok 'study setup' and 'work from home desk' content for virality signals",
-        "image_keywords": "lap desk with LED,laptop desk pillow,lap tray home office",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Bulk modeling clay sets are a top stocking-stuffer and classroom gift category that will accelerate sharply in November as parents and teachers purchase holiday gifts — current Amazon placement confirms product health.",
+        "predicted_peak": "4–6 weeks",
+        "watch_signal": "Monitor Amazon Best Seller rank in Arts & Crafts subcategory and TikTok #playdohideas content volume",
+        "image_keywords": "play doh colorful clay set, modeling compound bulk cans, kids craft clay set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gbnXqpvJL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 5,
         "score": 63,
-        "product": "Automatic Liquid Soap Dispenser with Infrared Sensor and Rechargeable Battery",
-        "category": "Home & Kitchen / Bathroom Accessories",
+        "product": "Insulated Polka Dot Sport Water Bottle 32oz Triple-Wall with Flip Straw and Swivel Handle",
+        "category": "Trendy Drinkware & Hydration",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "Bathroom upgrade spending (shower liners at #9) indicates consumers are actively refreshing bathrooms ahead of holiday guests, and touchless dispensers are a natural next purchase.",
-        "predicted_peak": "2–4 weeks",
-        "watch_signal": "Track Amazon Bestseller rank movement in Bathroom Accessories for touchless/automatic soap dispenser SKUs",
-        "image_keywords": "automatic soap dispenser,touchless dispenser,bathroom sensor soap pump",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/717F3ObzIeL._AC_UL300_SR300,200_.jpg"
+        "reason": "Fashionable insulated water bottles are a top gifting item for women ages 18–35 and will explode in search volume on TikTok and Google Shopping during Black Friday and Cyber Monday promotions.",
+        "predicted_peak": "3–5 weeks (Black Friday–Cyber Monday)",
+        "watch_signal": "Track TikTok #waterbottletok and #stanleycup alternative videos, and Google Shopping query 'insulated water bottle gift'",
+        "image_keywords": "polka dot insulated water bottle, trendy tumbler bottle, colorful sport water bottle",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qDBPIuTML._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 6,
         "score": 61,
-        "product": "Electric Heated Blanket with Auto Shut-Off and 10 Heat Settings (King/Queen)",
-        "category": "Home & Kitchen / Bedding / Seasonal",
+        "product": "Gel Sensory Squishy Slow-Flow Glitter Squeeze Stress Ball Set for Kids and Teens",
+        "category": "Sensory & Stress Relief Toys",
         "platforms": [
           "amazon"
         ],
         "confidence": "medium",
-        "reason": "The bedding category is currently strong, and October is the last viable window to source heated blankets before cold-weather demand peaks in November.",
-        "predicted_peak": "4–7 weeks",
-        "watch_signal": "Google Shopping query volume for 'electric heated blanket queen' rising in late October",
-        "image_keywords": "electric heated blanket,warming blanket cozy,heated throw blanket",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/713M+bcQESL._AC_UL300_SR300,200_.jpg"
+        "reason": "Slow-flow glitter squishy sensory toys are rising on both Amazon and short-form video platforms; the holiday gift-grab window for sensory kits aimed at kids 6–14 is 4–8 weeks out.",
+        "predicted_peak": "4–8 weeks",
+        "watch_signal": "Monitor TikTok #sensoryplay and #squishytoys hashtag view velocity and Amazon new releases in Stress Relief Toys",
+        "image_keywords": "glitter squishy stress ball, sensory gel squeeze toy, slow flow fidget ball",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YLrtR3izL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 7,
         "score": 58,
-        "product": "Self-Watering Indoor Plant Pots with Drainage System (Set of 3, Modern Design)",
-        "category": "Home & Kitchen / Garden & Plants",
+        "product": "Slime Glitter Gelli Gel Slow-Flow Sensory Activity Kit for Kids Party Favors",
+        "category": "Slime & Sensory Activity Kits",
         "platforms": [
           "amazon"
         ],
         "confidence": "low",
-        "reason": "Indoor plant gifting trends spike annually in November–December as consumers seek lifestyle gifts; self-watering pots appeal to millennials and Gen Z and are highly TikTok-shareable.",
+        "reason": "Slime and gel sensory kits historically spike on TikTok in November as holiday gift-haul content creators showcase unboxing; current Amazon signals suggest the category is warming ahead of that content wave.",
         "predicted_peak": "5–8 weeks",
-        "watch_signal": "TikTok plant content acceleration and Google Trends for 'plant gifts Christmas' rising in early November",
-        "image_keywords": "self-watering planter,modern plant pot,indoor plant pot set",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71S4-NjoTDL._AC_UL300_SR300,200_.jpg"
+        "watch_signal": "Watch TikTok #slimetime and #sensorytoys view counts and check if the category enters Amazon Movers & Shakers in November",
+        "image_keywords": "slime kit kids colorful, glitter gelli sensory toy, slime activity set",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YLrtR3izL._AC_UL300_SR300,200_.jpg"
       },
       {
         "rank": 8,
         "score": 55,
-        "product": "Portable Blender for Smoothies and Protein Shakes with USB-C Charging (6-Blade)",
-        "category": "Home & Kitchen / Kitchen Appliances",
+        "product": "Bicycle Standard Poker Playing Cards 2-Deck Set Red and Blue Air-Cushion Finish",
+        "category": "Card Games & Family Games",
         "platforms": [
           "amazon"
         ],
         "confidence": "low",
-        "reason": "New Year health resolution shopping begins in December; portable blenders are a perennial viral gifting item that benefits from both pre-holiday and post-holiday demand waves.",
-        "predicted_peak": "7–10 weeks",
-        "watch_signal": "Monitor TikTok 'gym gift ideas' and 'new year fitness' content virality beginning in mid-November",
-        "image_keywords": "portable blender USB,mini blender smoothie,rechargeable blender cup",
-        "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg"
+        "reason": "Playing cards experience a reliable November–December holiday season uptick driven by family game nights, stocking stuffers, and holiday travel; current Amazon Toys top 10 placement confirms evergreen demand base.",
+        "predicted_peak": "4–8 weeks (Thanksgiving–Christmas)",
+        "watch_signal": "Watch Amazon Gift Ideas lists and Google Trends query volume for 'card games family christmas gift'",
+        "image_keywords": "playing cards deck red blue, poker cards standard, bicycle card games",
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KbVj1Q6jL._AC_UL300_SR300,200_.jpg"
       }
     ],
     "categories_to_watch": [
       {
-        "category": "Home Power & Charging Accessories",
+        "category": "Halloween & Seasonal Party Decor",
         "momentum": "exploding",
-        "reason": "Four distinct power strip/surge protector SKUs ranking in Amazon Electronics top 20 simultaneously is a once-rare signal of category explosion; sub-niches (travel, desk, bedroom) are now diversifying rapidly"
+        "reason": "Spider web kits, balloons, and glow sticks are all in the Amazon Toys top 20 simultaneously during peak Halloween week — this category is at maximum velocity right now through October 31."
       },
       {
-        "category": "Bedroom & Bedding",
+        "category": "Sensory & Fidget Toys",
         "momentum": "exploding",
-        "reason": "Three bedding products (cooling sheets, microfiber sheets, waterproof mattress pad) in Amazon Home & Kitchen top 10 signals consumers are actively upgrading sleep environments heading into Q4"
+        "reason": "Five distinct sensory/squishy/fidget toy SKUs in the Amazon Toys top 10 confirm a multi-product category surge that will sustain through Q4 gifting, not just a single viral product spike."
       },
       {
-        "category": "Insulated Drinkware",
+        "category": "Christmas Advent Calendars (Toy-Themed)",
         "momentum": "rising",
-        "reason": "Owala FreeSip at #1 Home & Kitchen confirms the insulated bottle trend is far from over, with gifting season amplifying demand through December 2026"
+        "reason": "The Squishmas Advent Calendar entering Amazon Toys top 15 in early October is a reliable leading indicator that the broader advent calendar category will explode in the next 3–6 weeks."
       },
       {
-        "category": "Pest Control (Indoor, Chemical-Free)",
+        "category": "Insulated Drinkware & Water Bottles",
         "momentum": "rising",
-        "reason": "Two Zevo insect trap SKUs in the top 4 of Home & Kitchen suggest growing consumer preference for non-chemical indoor pest control, a trend that sustains through late fall indoor season"
+        "reason": "Owala holding two of the top three spots in Sports & Outdoors confirms that insulated bottle demand is structurally elevated — alternative brand versions have strong dropship potential heading into Black Friday gifting."
       },
       {
-        "category": "Home Organization & Storage",
+        "category": "Home Fitness Accessories",
+        "momentum": "rising",
+        "reason": "Resistance bands, yoga mats, dumbbells, and compression socks all appear in Amazon Sports top 10 simultaneously, confirming Q4 pre-resolution fitness gifting demand is beginning to accelerate."
+      },
+      {
+        "category": "Trading Card Games & Accessories",
+        "momentum": "rising",
+        "reason": "Pokemon card bundles and card sleeve protectors both appear in Amazon top lists, signaling sustained TCG collector demand that will intensify through holiday gift shopping."
+      },
+      {
+        "category": "Educational Baby & Toddler Toys",
         "momentum": "stable",
-        "reason": "Velvet hangers at #5 and picture frames at #8 confirm evergreen home organization demand with steady Q4 lift from pre-holiday home refresh behavior"
-      },
-      {
-        "category": "ANC & Wireless Audio",
-        "momentum": "rising",
-        "reason": "ANC headphones and wireless earbuds appearing multiple times in Electronics top 10 signals continued audio upgrade cycle driven by AirPods Pro 3 halo effect and holiday gifting"
-      },
-      {
-        "category": "Smart Home Accessories (Non-Subscription)",
-        "momentum": "rising",
-        "reason": "Amazon Echo Dot, Echo Spot, and Fire TV dominance creates accessory and alternative product halo opportunities for dropshippers who can offer comparable functionality without platform lock-in"
+        "reason": "Baby balance bikes, LeapFrog books, and wrist rattle sets all appear in the top 20, signaling steady rising demand that will sharply accelerate once the holiday baby shower and first Christmas gift buying window opens in November."
       }
     ],
     "avoid": [
       {
         "rank": 1,
-        "product_type": "Apple-Branded Products (AirPods Pro 3, AirPods 5, Apple iPad, AirTag 2nd Gen, Apple EarPods)",
-        "reason": "Heavily branded Apple products cannot be dropshipped; Apple controls authorized resellers tightly, MAP pricing eliminates margin, and counterfeit risk is extreme — these appear only as demand signal indicators for accessory opportunities"
+        "product_type": "Name-brand LEGO sets (official licensed products)",
+        "reason": "Official LEGO products cannot be dropshipped — they are brand-controlled, MAP-priced, and Amazon itself often sells them at cost; attempting to resell results in suppressed listings and zero margin."
       },
       {
         "rank": 2,
-        "product_type": "Amazon Echo, Fire TV Stick, and Fire HD Tablet (Amazon First-Party Devices)",
-        "reason": "Amazon's own branded hardware (Echo Dot, Echo Spot, Fire TV Stick 4K, Fire HD 10) cannot be sourced for dropshipping and are sold at prices that leave zero room for reseller margin — treat only as category signals"
+        "product_type": "Heavy neoprene dumbbells 15lb+ pairs",
+        "reason": "Heavier dumbbell sets incur prohibitive shipping costs that destroy dropship margins — a 20lb dumbbell pair can cost $18–$30 to ship domestically, wiping out all profit at typical retail price points."
       },
       {
         "rank": 3,
-        "product_type": "Blink Security Camera Subscription Plans and Amazon Smart Home Subscriptions",
-        "reason": "Software/subscription products (#1 Electronics) cannot be dropshipped as physical goods; they represent Amazon ecosystem lock-in with no legitimate resale pathway for third-party sellers"
+        "product_type": "Disney licensed action figures (e.g. official Buzz Lightyear)",
+        "reason": "Disney and Pixar licensed merchandise is heavily IP-protected and brand-controlled; unauthorized dropshippers face listing removal, account bans, and potential legal action — avoid all licensed character toys."
       },
       {
         "rank": 4,
-        "product_type": "Ultra-Low-Ticket Insect Bait Consumables (Single-Unit Ant Bait Stations Under $10)",
-        "reason": "TERRO ant bait single-packs at sub-$10 retail leave no viable margin after COGS, marketplace fees, and shipping costs — the category is fine but only bundle formats at $20+ retail are workable for dropshippers"
+        "product_type": "Ultra-low-ticket single-item balloon packs under $8",
+        "reason": "Individual balloon packs priced under $8 leave insufficient room for dropship margin after COGS, platform fees, and shipping — only viable as high-count bundle sets priced $12 and above."
       },
       {
         "rank": 5,
-        "product_type": "Roku Official Remote Controls (OEM Manufacturer Products)",
-        "reason": "Official Roku-manufactured remotes (#11) have brand protection issues and price-match pressure from the manufacturer themselves; only third-party universal-compatible remotes (like #19 style) offer genuine dropship margin"
+        "product_type": "Branded baby toys with specific safety certifications (BPA-free medical-grade claims)",
+        "reason": "Baby toy products making specific safety or medical-grade material claims (e.g. BPA-free, ASTM-certified) require documented compliance testing that most dropship suppliers cannot provide, creating liability and listing-removal risk."
       }
     ],
-    "market_insights": "October 2026 represents a high-stakes entry window for Q4 dropshippers. The data reveals a consumer market firmly in 'nest and upgrade' mode — bedroom essentials, power management, and home organization are all overperforming simultaneously, which historically precedes a gifting season surge. The clustering of power strips, bedding, and insulated drinkware at the very top of bestseller lists suggests these categories have moved beyond trend status into durable demand, making them lower-risk inventory plays even at late-Q4 entry points. Dropshippers should prioritize lightweight, non-branded, generic-equivalent products in the $25–$75 price band where COGS is manageable and perceived value is high.\n\nThe absence of rich TikTok and Google Trends data in this dataset is a risk to navigate carefully. The Amazon signals are strong, but dropshippers should independently verify TikTok content velocity in categories like ANC headphones, insulated drinkware, and cleaning tools before committing significant capital. Power accessories and bedroom essentials are safe bets based on Amazon data alone. For higher-risk plays like sleep masks and portable blenders, wait for TikTok virality confirmation before scaling ad spend. Margin compression risk is elevated in branded-adjacent electronics, so focus energy on home goods where generic sourcing is both legal and highly competitive.",
-    "data_quality_note": "This analysis was based exclusively on Amazon Bestsellers data (Electronics and Home & Kitchen top 20 each); no TikTok trending data or Google Trends queries were present in the raw input, so all platform attributions beyond Amazon are inferred from category knowledge and seasonal patterns rather than live platform signals — dropshippers should independently verify TikTok and Google Shopping momentum before committing to non-Amazon-confirmed recommendations."
+    "market_insights": "October 2, 2026 represents one of the most actionable windows of the entire calendar year for dropshippers. The data reveals a clear dual-peak moment: an immediate Halloween spike (spider webs, glow sticks, black balloons all in the Amazon top 20 simultaneously) running through October 31, immediately followed by the Q4 Christmas gifting ramp beginning now and peaking Black Friday through December 20. Savvy dropshippers should be loading Halloween consumables this week for fast sell-through, while simultaneously preparing holiday gift SKUs — particularly sensory toys, advent calendars, toddler gifts, and fitness accessories — that will dominate November and December search demand.\n\nThe sensory and fidget toy category deserves special attention: with five distinct product types (globbles, mochi squishies, gelli gels, wrist rattles, and stress balls) all in the Amazon Toys top 20 at once, this is not a single viral product moment but a structural category trend with multi-month staying power. Lightweight, low-COGs, high-margin, and beloved by both children and adults, sensory toy bundles are the single best category to build a Q4 dropship operation around. Pair these with Halloween and Christmas seasonal bundles and a hydration/fitness accessories line for a three-pillar Q4 portfolio that covers immediate, mid-term, and sustained demand.",
+    "data_quality_note": "No TikTok or Google Trends data was included in the raw data feed — all recommendations are derived exclusively from Amazon bestseller rankings, which provide strong purchase-intent signals but miss early-stage viral momentum; TikTok and Google Shopping data integration would significantly improve confidence scores for rising_fast and buy_soon categories."
   },
   "raw_sample": [
-    {
-      "name": "blink plus plan with monthly auto-renewal",
-      "rank": 1,
-      "rating": "4.4",
-      "price": "$11.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/31YHGbJsldL._AC_UL300_SR300,200_.png",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume",
-      "rank": 2,
-      "rating": "4.5",
-      "price": "$19.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/513OSdW4elL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirTag (2nd Generation): Tracker for Keychain, Wallet, and More; Locator with Sound; Simple One-Tap Setup with iPhone or iPad; Key Finder with up to 1.5X Precision Finding Range",
-      "rank": 3,
-      "rating": "4.6",
-      "price": "$24.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qd9Z9caRL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
-      "rank": 4,
-      "rating": "4.7",
-      "price": "$39.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hNp8d9WvL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick HD (newest model), free & live TV, Alexa Voice Remote, powered by the TV, effortless setup, find shows faster with Alexa+",
-      "rank": 5,
-      "rating": "4.1",
-      "price": "$15.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610j-wmxRcL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick 4K Select, start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
-      "rank": 6,
-      "rating": "4.1",
-      "price": "$17.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r3G3vAhBL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation | Live Translation, Heart Rate Sensing, Hearing Aid Feature, Bluetooth Headphones, Spatial Audio, USB-C Charging",
-      "rank": 7,
-      "rating": "4.4",
-      "price": "$234.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61solmQSSlL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Roku Streaming Stick HD with Voice Remote | Compact 4K Streaming Device for TV with Roku Voice Remote & Long-Range Wi-Fi - Free & Live Local News, Sports",
-      "rank": 8,
-      "rating": "4.6",
-      "price": "$29.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71CBWyQfKhL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple AirPods 5 Wireless Earbuds | Bluetooth Headphones, Active Noise Cancellation, Personalized Spatial Audio, Live Translation, USB-C Charging Case, H2 Chip",
-      "rank": 9,
-      "rating": "4.3",
-      "price": "$129.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/618C8GA55KL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire TV Stick 4K Plus with AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+",
-      "rank": 10,
-      "rating": "4.6",
-      "price": "$37.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WtNy0OxLL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Roku TV Remote Control (Official Manufacturer Product) | Simple Setup & Pre-Set App Shortcuts - Replacement Remote Compatible with RokuTV Models ONLY (Not Roku Players)",
-      "rank": 11,
-      "rating": "4.6",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wv66Eb6cL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Ports | 1680 Joules, 3-Sided Power Strip, Multi Plug Wall Outlet Adapter Spaced for Home Travel Office, White",
-      "rank": 12,
-      "rating": "4.7",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lGPGOkjUL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Blue",
-      "rank": 13,
-      "rating": "4.7",
-      "price": "$427.00",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aPY8odPSL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Black",
-      "rank": 14,
-      "rating": "4.5",
-      "price": "$72.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZvPIpKktL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
-      "rank": 15,
-      "rating": "4.5",
-      "price": "$54.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bA0fjrSXL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "YISHU 6Ft Surge Protector Power Strip with 8 Widely Outlets & 4 USB Ports | 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, for Home, Office, College Dorm Room Essentials",
-      "rank": 16,
-      "rating": "4.6",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OrfSnTVwL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Olcorife Flat Plug Power Strip with 10 FT Extension Cord, 8 Outlets 4 USB Ports(1 USB C), 3 Sided Outlet Extender for Home Office Travel Dorm Room Essentials, White",
-      "rank": 17,
-      "rating": "4.7",
-      "price": "$13.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/611GtBfvlGL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Black | Over-Ear, Bluetooth, 40H ANC Playtime, Hi-Res Audio, Big Bass, Transparency Mode, Customize via App, Travel, Home, Office",
-      "rank": 18,
-      "rating": "4.5",
-      "price": "$39.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XBzSvq-NL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "(2 Pack) Replacement Remote Control for Roku TV, for TCL Roku/Onn Roku TVs | for Hisense Roku/Sharp Roku/Element Roku/Westinghouse Roku/Philips Roku Smart TV (Not for Stick & Box) Ready Out of the Box",
-      "rank": 19,
-      "rating": "4.5",
-      "price": "$8.98",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "One Beat Surge Protector Power Strip, 5 Ft Flat Plug Extension Cord, 900J | 6 Outlets 4 USB Ports(2 USB C), Wall Mount Outlet Extender Small Power Strip for Travel Home Office College Dorm Room Station",
-      "rank": 20,
-      "rating": "4.7",
-      "price": "$12.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BYto2DtnL._AC_UL300_SR300,200_.jpg",
-      "category": "Electronics",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark",
-      "rank": 1,
-      "rating": "4.6",
-      "price": "$29.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set",
-      "rank": 2,
-      "rating": "4.5",
-      "price": "$24.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/813JS2zoiPL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes",
-      "rank": 3,
-      "rating": "4.8",
-      "price": "$14.97",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-MlCMPFSL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 3 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets*",
-      "rank": 4,
-      "rating": "4.2",
-      "price": "$25.96",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81oM9Fx8QaL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack",
-      "rank": 5,
-      "rating": "4.8",
-      "price": "$19.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cn1+lUraL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use",
-      "rank": 6,
-      "rating": "4.6",
-      "price": "$9.58",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GTDsmO9IL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid",
-      "rank": 7,
-      "rating": "4.5",
-      "price": "$14.68",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KCbJGpAFL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas",
-      "rank": 8,
-      "rating": "4.4",
-      "price": "$6.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Si2QlAb3L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72\" Length",
-      "rank": 9,
-      "rating": "4.5",
-      "price": "$8.95",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7136-eapqKL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6\"-18\" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel (Gray)",
-      "rank": 10,
-      "rating": "4.6",
-      "price": "$25.49",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81X+MBrUg+L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Yankee Candle Spiced Pumpkin Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable",
-      "rank": 11,
-      "rating": "4.3",
-      "price": "$16.11",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fOZVsj4XL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "HydroJug Polka Dot Traveler 40oz, Insulated Tumbler, French Vanilla | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, Polka Dot",
-      "rank": 12,
-      "rating": "4.6",
-      "price": "$44.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61zAtJ8DLdL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer",
-      "rank": 13,
-      "rating": "3.9",
-      "price": "$12.19",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81F5uQH3fyL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20\" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green",
-      "rank": 14,
-      "rating": "4.3",
-      "price": "$39.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YYCJW3PTL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials",
-      "rank": 15,
-      "rating": "4.5",
-      "price": "$9.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHwy9jklL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics 20x20x1 Air Filter 6-Pack, MERV 11 AC Furnace Filters, Dust, Pet, Allergen Control , Electrostatic (Actual Size: 19.75 x 19.75 x .75)",
-      "rank": 16,
-      "rating": "4.6",
-      "price": "$30.79",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81zJ8lQakWL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Twin Sheets Set, 3 Pieces 16\" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set for Kids, Women & Men, Comfy & Breathable Cooling Sheets, Fitted Sheet, Flat Sheet, 1 Pillowcase",
-      "rank": 17,
-      "rating": "4.6",
-      "price": "$12.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71h+1pmrIwL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "BISSELL Little Green Mini Portable Carpet Cleaner, 4075 | HydroRinse self-cleaning tool; 4-in. tough stain tool; upholstery & car detailing; Tea Green color",
-      "rank": 18,
-      "rating": "4.5",
-      "price": "$79.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Zg+lIkXeL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
-      "rank": 19,
-      "rating": "4.2",
-      "price": "$59.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gwIm-iSnL._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "Amazon Basics Basket Coffee Filters for 8-12 Cup Coffee Makers, White, 200 Count, Packaging May Vary",
-      "rank": 20,
-      "rating": "4.8",
-      "price": "$1.89",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/713RNs-2P3L._AC_UL300_SR300,200_.jpg",
-      "category": "Home & Kitchen",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
     {
       "name": "PartyWoo Black Balloons 140pcs Different Sizes of 18 12 10 5 Inch | Balloons for Baby Shower Birthday Graduation Casino Gaming Anniversary Retirement Baby Party Decorations Black-Y18",
       "rank": 1,
@@ -1006,7 +566,7 @@
       "rating": "4.5",
       "price": "$8.99",
       "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81XnSgb0bRL._AC_UL300_SR300,200_.jpg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uE0L7cFOL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
       "list_type": "bestseller",
       "platform": "amazon"
@@ -1034,30 +594,8 @@
       "platform": "amazon"
     },
     {
-      "name": "ZPISF 1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
-      "rank": 5,
-      "rating": "4.6",
-      "price": "$13.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MIMkpq4xL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
-      "name": "MAGNA-TILES microMAGS 24-Piece Spooky Travel Set, The Original Magnetic Building Brand",
-      "rank": 6,
-      "rating": "4.8",
-      "price": "$13.99",
-      "review_count": null,
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kbYE+H4pL._AC_UL300_SR300,200_.jpg",
-      "category": "Toys & Games",
-      "list_type": "bestseller",
-      "platform": "amazon"
-    },
-    {
       "name": "Horizon Group USA Slimygloop Gelli Gels, Blue Squishmallows | Slow-Flow Glitter Squishy Sensory Toys, Squeeze Stress Ball for Kids and Teens, Satisfying Sugar Squish Fidget",
-      "rank": 7,
+      "rank": 5,
       "rating": "4.3",
       "price": "$8.95",
       "review_count": null,
@@ -1067,8 +605,30 @@
       "platform": "amazon"
     },
     {
+      "name": "MAGNA-TILES microMAGS 24-Piece Spooky Travel Set, The Original Magnetic Building Brand",
+      "rank": 6,
+      "rating": "4.8",
+      "price": "$19.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kbYE+H4pL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "ZPISF 1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
+      "rank": 7,
+      "rating": "4.6",
+      "price": "$13.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MIMkpq4xL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
       "name": "Bicycle Playing Cards 2 Pack Standard Poker Size Red and Blue | Air-cushion finish, Over 130 years trusted, 52 cards plus 2 Jokers per deck, Great for poker and rummy",
-      "rank": 9,
+      "rank": 8,
       "rating": "4.8",
       "price": "$5.34",
       "review_count": null,
@@ -1079,9 +639,9 @@
     },
     {
       "name": "50+ Official Pokemon Cards Collection with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare",
-      "rank": 10,
+      "rank": 9,
       "rating": "4.2",
-      "price": "$7.99",
+      "price": "$8.08",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p-47sRv9L._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
@@ -1090,12 +650,342 @@
     },
     {
       "name": "Cupkin Animal Habitats Sticker Book | 12 Coloring & Activity, 500+ Stickers | Spiral-bound kids craft format with 12 activity scenes, 12 art pages, side-by-side viewing and easy-peel design for ages 2–8",
-      "rank": 11,
+      "rank": 10,
       "rating": "4.8",
       "price": "$16.98",
       "review_count": null,
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LWFXl2hHL._AC_UL300_SR300,200_.jpg",
       "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "LEGO Jack-O'-Lantern Pickup Truck 40822 | Building Toys for Boys & Girls, Ages 8+, Halloween Decor & Craft, 177 pieces, Gift for Kids",
+      "rank": 11,
+      "rating": "4.7",
+      "price": "$14.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BuBIYCk7L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "JOYIN 100 Pcs 8\" Glow sticks Bulk Party Pack, Neon Glow in the Dark Party Supplies, Light Up Necklaces and Bracelets with Connectors for Halloween, Football, Birthday Decorations",
+      "rank": 12,
+      "rating": "4.6",
+      "price": "$7.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lwlxx8MYL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Bright Starts Oball Easy Grasp Classic Ball BPA-Free Infant Toy in Red, Yellow, Green, Blue, Age Newborn and up, 4 Inches",
+      "rank": 13,
+      "rating": "4.9",
+      "price": "$4.74",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BFqKPjRBL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Disney Store Official Buzz Lightyear Interactive Talking Action Figure from Toy Story, Features 10+ English Phrases, Interacts with Other Figures and Toys",
+      "rank": 14,
+      "rating": "4.7",
+      "price": "$39.95",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/713M+bcQESL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Schylling NeeDoh Squishmas Advent Calendar (Pack of 1) | Christmas Countdown with 24 Mini Squeeze Toys",
+      "rank": 15,
+      "rating": "5.0",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81I08gnesHL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "LeapFrog Learning Friends 100 Words Book",
+      "rank": 16,
+      "rating": "4.8",
+      "price": "$19.90",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WmUL99dTL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "SEREED Baby Balance Bike for 1 Year Old Boy Girl, First Birthday Gift Toy | 12-24 Months Toddler Bike, First Learning Ride on Toys, 4 Silent Wheels Indoor Outdoor Baby Walker, Green",
+      "rank": 17,
+      "rating": "4.8",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tilO4erpL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Play-Doh Modeling Compound 36-Pack Case of Colors, Non-Toxic, 3 Oz Cans of Assort. Colors, Back to School Classroom Supplies, Preschool Toys, Ages 2+ (Amazon Exclusive)",
+      "rank": 18,
+      "rating": "4.8",
+      "price": "$18.49",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gbnXqpvJL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "PartySticks Glow Sticks Party Supplies 100pk - 8 Inch Glow in the Dark Light Up Sticks Party Favors, Glow Party Decorations, Neon Party Glow Necklaces and Glow Bracelets with Connectors",
+      "rank": 19,
+      "rating": "4.6",
+      "price": "$8.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JYNlch58L._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Infinno Wrist Rattles and Foot Finder Socks Set, Baby Toys for 0-12 Months | Soft crinkle textures, encourages reaching and kicking, garden bug characters, newborn shower gift, boys and girls",
+      "rank": 20,
+      "rating": "4.7",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eJNnl+TQL._AC_UL300_SR300,200_.jpg",
+      "category": "Toys & Games",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Stainless Steel Water Bottle 24 oz Black Cherry",
+      "rank": 1,
+      "rating": "4.6",
+      "price": "$29.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41ZPiDU6woL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Neoprene Dumbbell Hand Weights for Exercise and Muscle Toning",
+      "rank": 2,
+      "rating": "4.8",
+      "price": "$9.45",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61UEXxKIlrL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Owala FreeSip Sway Stainless Steel Water Bottle 40 oz Off Road",
+      "rank": 3,
+      "rating": "4.6",
+      "price": "$44.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41geEqXxInL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "400 Card Sleeves Hard Plastic, Arjiekwei 3\"X 4\" Trading Card Holder, 35PT | Baseball Cards Protectors for Sports Football Game Cards (200 Hard Sleeves + 200 Soft Sleeves)",
+      "rank": 4,
+      "rating": "4.6",
+      "price": "$19.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AP4HKabxL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Cool Coolers by Fit & Fresh 4 Pack XL Slim Ice Packs, Quick Freeze Space Saving Reusable Ice Packs for Lunch Boxes or Coolers",
+      "rank": 5,
+      "rating": "4.6",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/7194yVwYXFL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5",
+      "rank": 6,
+      "rating": "4.5",
+      "price": "$9.98",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71S4-NjoTDL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "HydroJug Polka Dot Sport 32 oz Insulated Water Bottle, French Vanilla | Triple wall insulated, circular flip straw, leak-resistant, swivel handle, removable rubber boot, BPA-free, Polka Dot",
+      "rank": 7,
+      "rating": "4.5",
+      "price": "$39.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qDBPIuTML._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Gaiam Thick Yoga Mat, Exercise & Fitness Mat with Easy-Cinch Carrying Strap | Non-Slip NBR Foam | Joint Cushioning | Yoga, Pilates, Fitness & Floor Workouts | 72\"L x 24\"W",
+      "rank": 8,
+      "rating": "4.6",
+      "price": "$25.12",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mao7QZ1iL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "BAND-AID Brand Travel Ready Portable First Aid Kit, 80 Piece | Emergency Essentials for Minor Wound Care, Bandages, Neosporin & Tylenol, Perfect for Home, Car, Camping, Outdoors & Travel",
+      "rank": 9,
+      "rating": "4.8",
+      "price": "$10.50",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71znuRJaRcL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Laite Hebe 4 Pairs-Compression Socks for Women&Men Circulation-Best Support for Nurses,Running,Athletic",
+      "rank": 10,
+      "rating": "4.4",
+      "price": "$9.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71HbzLmTH-L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "LHKNL Headlamp Flashlight, Lumen Bright Head Lamps LED Rechargeable Camping | Ultra-Light, with White Red Light, 2-Pack Waterproof Motion Sensor Headlight, 8 Modes for Outdoor Running Hiking Fishing",
+      "rank": 11,
+      "rating": "4.5",
+      "price": "$19.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DxWxvCwlL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Dragon Shield | Standard Size Card Matte Sleeves | 100 CT - Smooth & Tough Premium TCG Sleeves | Compatible with Pokemon, Flesh & Blood, One Piece & Magic the Gathering | Black",
+      "rank": 12,
+      "rating": "4.8",
+      "price": "$11.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xDrqyNzuL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Callaway Golf Supersoft 2025 Golf Balls",
+      "rank": 13,
+      "rating": "4.8",
+      "price": "$26.97",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qm+2koyBL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Sabre Pepper Spray with Quick Release Keychain for Self Defense – Maximum Police Strength OC Spray with UV Marking Dye, Twist Lock Safety, Finger Grip, 10‑Second Spray, 14‑ft Range, Made in USA",
+      "rank": 14,
+      "rating": "4.7",
+      "price": "$13.91",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BuafvoSoL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
+      "rank": 15,
+      "rating": "4.5",
+      "price": "$27.89",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81l7AwlRcDL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Intex 64417ED 22in Queen Dura-Beam Comfort Plush High-Rise Inflatable Air Mattress with Built in Pump for Travel and Camping, 600lb Weight Capacity",
+      "rank": 16,
+      "rating": "4.3",
+      "price": "$54.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Bn15BAdEL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Rubber Hex Dumbbell Hand Weight",
+      "rank": 17,
+      "rating": "4.7",
+      "price": "$22.00",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cDv-4cL4L._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Amazon Basics Cast Iron Kettlebell for Strength Training, Textured Wide Handle, Black",
+      "rank": 18,
+      "rating": "4.8",
+      "price": "$35.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BU2P5yYzL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "Resistance Bands for Working Out, Physical Therapy, Exercise, Pilates, Yoga | Latex-Free Stretch Bands for Women or Men, Elastic Exercise Bands Set for Stretching, fitness, Rehab, Workout, Gym and Home",
+      "rank": 19,
+      "rating": "4.6",
+      "price": "$11.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vh3p7XXUL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
+      "list_type": "bestseller",
+      "platform": "amazon"
+    },
+    {
+      "name": "LifeStraw Personal Water Filter for Hiking, Travel and Emergency, Blue, 1PK | Water Filter for Hiking, Camping, Travel, and Emergency Preparedness, Removes Bacteria and Parasites",
+      "rank": 20,
+      "rating": "4.8",
+      "price": "$14.99",
+      "review_count": null,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/610MT9qiRyL._AC_UL300_SR300,200_.jpg",
+      "category": "Sports & Outdoors",
       "list_type": "bestseller",
       "platform": "amazon"
     }
